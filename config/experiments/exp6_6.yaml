@@ -1,0 +1,10 @@
+# Exp 6-6 专家用户调研（5分制，8人×30条，论文表 6-7）
+inherit: [base.yaml]
+exp_id: exp6_6
+task: expert_survey
+setup: {n_experts: 8, items_per_expert: 60, per_system: 30, blind: true}
+expected:   # 朴素RAG / 本文系统 (均分±std)
+  accuracy:    {naive: "3.21±0.86", ours: "3.92±0.63", diff: 0.71}
+  readability: {naive: "3.74±0.70", ours: "4.05±0.55", diff: 0.31}
+  trust:       {naive: "2.98±0.94", ours: "3.86±0.68", diff: 0.88}
+note: "小样本主观评价，仅报均分与std，不下强统计结论"

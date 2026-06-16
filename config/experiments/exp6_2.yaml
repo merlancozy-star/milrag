@@ -1,0 +1,11 @@
+# Exp 6-2 模块级消融（论文表 6-4）
+inherit: [base.yaml, retrieval.yaml, dynamic.yaml, defense.yaml]
+exp_id: exp6_2
+task: module_ablation
+expected:   # F1↑ / ASR↓ / 延迟 / N_R
+  naive_rag:               {f1: 50.3, asr: 47.5, latency: 1.78, nr: 1.0}
+  plus_domain_embed:       {f1: 54.8, asr: 44.2, latency: 1.85, nr: 1.0}
+  plus_dynamic_no_defense: {f1: 61.5, asr: 41.6, latency: 3.92, nr: 2.8}
+  plus_defense_no_dynamic: {f1: 56.7, asr: 32.5, latency: 2.61, nr: 1.0}
+  full_system:             {f1: 61.5, asr: 28.3, latency: 3.98, nr: 2.8}  # 本文
+note: "微调+动态检索主要贡献F1；可信防御主要贡献ASR下降；防御误删导致F1此消彼长"

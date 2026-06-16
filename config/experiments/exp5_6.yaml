@@ -1,0 +1,10 @@
+# Exp 5-6 自评估指标（ρ=10%，论文表 5-4）
+inherit: [base.yaml, defense.yaml]
+exp_id: exp5_6
+task: self_assess_ablation
+poison_ratio: 0.10
+expected:
+  ec:          {asr: 36.8, f1_robust: 0.735}
+  ec_ea:       {asr: 35.0, f1_robust: 0.752}
+  ec_ea_sc:    {asr: 33.7, f1_robust: 0.769}
+  ec_ea_sc_unc: {asr: 32.5, f1_robust: 0.781}  # 本文

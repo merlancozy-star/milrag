@@ -1,0 +1,5 @@
+# Exp 6-5 真实场景案例展示（论文 6.5.6）
+inherit: [base.yaml, retrieval.yaml, dynamic.yaml, defense.yaml]
+exp_id: exp6_5
+task: e2e_case_study
+note: "脱密典型样例，覆盖装备/条令/态势/案例四类；完整展示触发轨迹->重构->过滤->一致性->可解释输出"

@@ -1,0 +1,8 @@
+# Exp 4-7 主干迁移（论文表 4-4）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_7
+task: backbone_transfer
+expected:
+  qwen2.5-7b:            {f1: 61.5, nr: 2.8}   # 主线
+  qwen2.5-14b:           {f1: 65.2, nr: 2.6}   # 8bit 量化，延迟更高
+  deepseek-r1-distill-7b: {f1: 64.0, nr: 2.7}

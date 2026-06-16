@@ -1,0 +1,62 @@
+# config/base.yaml — 全局基础配置（所有 experiments/*.yaml 继承此文件）
+# 真相来源：论文第 3/6 章实验环境。任何超参只能从 config 读，禁止硬编码。
+
+project: milrag
+seed: 42
+seeds: [42, 1337, 2024, 7, 31415]   # 论文口径：所有数值实验跑 5 个种子，报均值±标准差
+
+paths:
+  raw: data/raw
+  kb: data/kb
+  qa: data/qa
+  adversarial: data/adversarial
+  experiments: experiments        # 产出根目录：<exp_id>/<timestamp>/
+  ckpts: experiments/ckpts
+
+offline: true                       # HARD CONSTRAINT：运行时零外网。HF_HUB_OFFLINE=1
+log_level: INFO
+
+# ---- 设备（论文：第3/4章 A100 40GB 单卡；第6章 A100 80GB×2）----
+device:
+  type: cuda
+  # 第3/4章主线
+  single_gpu_mem_gb: 40
+  # 第6章集成部署
+  serve_gpu: "A100-80GB x2"
+
+# ---- 模型本地路径（离线，按实际部署填）----
+models:
+  # 主干 LLM（论文 4.6.1 主线 Qwen2.5-7B-Instruct）
+  llm_backbone: /models/Qwen2.5-7B-Instruct
+  llm_backbone_14b: /models/Qwen2.5-14B-Instruct          # 8bit 量化对照
+  llm_backbone_deepseek: /models/DeepSeek-R1-Distill-Qwen-7B
+  # 机器初标用（论文 3.3.2，本地推理避免上传敏感数据）
+  llm_annotator: /models/Qwen2.5-72B-Instruct
+  # 嵌入（论文 3.4.1 主线 BGE-large-zh-v1.5）
+  embedding: /models/bge-large-zh-v1.5
+  embedding_m3: /models/bge-m3
+  # NLI（第5章一致性判定，中文）
+  nli: /models/nli-zh
+  # NER（论文 3.2.2 BERT-CRF）
+  ner: /models/military-bert-crf
+  # Reranker（Cross-Encoder，论文 3.5 仅终轮启用）
+  reranker: /models/bge-reranker-large
+
+# ---- 软件栈版本（论文 6.4；与参考实现的版本差异见 CLAUDE.md §5）----
+stack:
+  python: "3.10"
+  torch: "2.1.x"
+  transformers: "4.40"
+  peft: "0.10"
+  vllm: "0.4"
+  faiss: "1.7.4"
+  elasticsearch: "8.13"
+  postgresql: "16"
+
+# ---- 评测口径（论文 2.3.3 / 各章实验）----
+eval:
+  report_mean_std: true
+  retrieval_metrics: [recall@1, recall@5, recall@10, recall@20, mrr, ndcg@10]
+  generation_metrics: [em, f1, faithfulness, answer_relevance]
+  robustness_metrics: [asr, pdr, rp, recall_clean, fpr, refusal_precision, refusal_recall, f1_robust]
+  efficiency_metrics: [avg_retrieval_count, avg_latency_s, token_cost]

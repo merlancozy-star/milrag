@@ -1,0 +1,7 @@
+# Exp 4-5 权重策略（论文表 4-4）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_5
+task: weight_ablation
+expected:
+  static_average:  {f1: 59.3, nr: 2.9}
+  task_adaptive:   {f1: 61.5, nr: 2.8}  # 本文

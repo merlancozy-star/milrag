@@ -1,0 +1,17 @@
+[project]
+name = "milrag"
+version = "0.1.0"
+description = "军事情报问答 鲁棒动态 RAG（论文实验代码：领域微调 + 动态检索 + 对抗防御）"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+  "torch==2.1.*", "transformers==4.40.*", "peft==0.10.*",
+  "sentence-transformers", "faiss-cpu==1.7.4", "elasticsearch==8.13.*",
+  "scikit-learn", "numpy", "networkx", "python-louvain",
+  "rouge-score", "nltk", "pyyaml", "pydantic", "fastapi", "streamlit",
+  "vllm==0.4.*",        # 仅吞吐/部署路径；白盒信号路径用 HF eager
+]
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]

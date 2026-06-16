@@ -1,0 +1,10 @@
+# Exp 5-3 聚类算法（ρ=10%，论文表 5-4）
+inherit: [base.yaml, defense.yaml]
+exp_id: exp5_3
+task: cluster_algo
+poison_ratio: 0.10
+expected:   # ASR / F1_Robust
+  kmeans:    {asr: 32.5, f1_robust: 0.781}   # 本文
+  hdbscan:   {asr: 34.8, f1_robust: 0.762}
+  spectral:  {asr: 33.6, f1_robust: 0.770}
+  dec:       {asr: 33.2, f1_robust: 0.773}

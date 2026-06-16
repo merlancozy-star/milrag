@@ -1,0 +1,9 @@
+# Exp 4-4 重构策略（论文表 4-4）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_4
+task: reformulate_ablation
+expected:
+  entity_only:   {f1: 57.8, nr: 2.6}
+  content_only:  {f1: 56.4, nr: 2.7}   # 实词聚焦短问题易漏限定词
+  context_only:  {f1: 57.0, nr: 2.9}
+  adaptive:      {f1: 61.5, nr: 2.8}   # 本文

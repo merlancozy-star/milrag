@@ -1,0 +1,6 @@
+# Exp 3-3 LoRA 秩 r 敏感性（论文图 3-5）
+inherit: [base.yaml, retrieval.yaml]
+exp_id: exp3_3
+task: lora_rank_sweep
+sweep: {rank: [4, 8, 16, 32, 64]}
+expected: {best_rank: 16, note: "r=16 性能/显存折中最优，再增收益递减"}

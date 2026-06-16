@@ -1,0 +1,9 @@
+# Exp 5-8 第4+5章协同（ρ=10%，论文表 5-4）
+inherit: [base.yaml, defense.yaml, dynamic.yaml]
+exp_id: exp5_8
+task: synergy
+poison_ratio: 0.10
+expected:
+  dynamic_only:   {asr: 41.6, f1_robust: 0.712}
+  defense_only:   {asr: 32.5, f1_robust: 0.781}
+  synergy_4_5:    {asr: 28.3, f1_robust: 0.814}  # 本文

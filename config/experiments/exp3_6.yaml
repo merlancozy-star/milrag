@@ -1,0 +1,7 @@
+# Exp 3-6 重排序（论文表 3-6）
+inherit: [base.yaml, retrieval.yaml]
+exp_id: exp3_6
+task: rerank
+expected:
+  dense_only:          {r10: 78.6, ndcg10: 65.8}
+  dense_cross_encoder: {r10: 81.3, ndcg10: 69.1, extra_latency_ms: 80}

@@ -1,0 +1,13 @@
+# Exp 6-1 端到端系统总体对比（论文表 6-3）
+inherit: [base.yaml, retrieval.yaml, dynamic.yaml, defense.yaml]
+exp_id: exp6_1
+task: e2e_overall
+metrics: [f1, faithfulness, asr, latency_s, avg_retrieval]
+expected:   # F1↑ / Faith↑ / ASR↓ / 延迟(s) / N_R
+  naive_rag:    {f1: 50.3, faith: 61.2, asr: 47.5, latency: 1.78, nr: 1.0}
+  advanced_rag: {f1: 52.7, faith: 64.0, asr: 43.1, latency: 2.04, nr: 1.0}
+  flare:        {f1: 54.8, faith: 68.3, asr: 41.2, latency: 3.34, nr: 2.3}
+  self_rag:     {f1: 56.9, faith: 70.6, asr: 39.6, latency: 2.87, nr: 1.8}
+  crag:         {f1: 57.6, faith: 71.2, asr: 37.2, latency: 2.65, nr: 1.7}
+  ircot:        {f1: 59.4, faith: 73.5, asr: 40.5, latency: 3.84, nr: 2.9}
+  ours:         {f1: 61.5, faith: 76.2, asr: 28.3, latency: 3.98, nr: 2.8}  # ASR 为 ρ=10% 协同结果

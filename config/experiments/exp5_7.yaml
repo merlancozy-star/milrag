@@ -1,0 +1,7 @@
+# Exp 5-7 拒答策略（ρ=10%，论文表 5-4）
+inherit: [base.yaml, defense.yaml]
+exp_id: exp5_7
+task: refusal
+poison_ratio: 0.10
+expected: {refusal_precision: 0.852, refusal_recall: 0.617}
+note: "近四成该拒答情况未识别；阈值敏感，难平衡"

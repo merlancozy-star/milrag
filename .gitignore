@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+# 数据与权重不入库
+data/raw/sensitive/
+data/raw/**/*.tsv
+data/kb/
+*.faiss
+*.bin
+*.safetensors
+# 实验大产出
+experiments/**/ckpts/
+experiments/**/*.log
+*.npy

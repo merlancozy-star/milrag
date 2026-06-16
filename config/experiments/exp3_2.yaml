@@ -1,0 +1,9 @@
+# Exp 3-2 LoRA vs 全参数微调（BGE-large-zh，论文表 3-5）
+inherit: [base.yaml, retrieval.yaml]
+exp_id: exp3_2
+task: finetune_compare
+expected:
+  none:      {trainable_params: 0,       r10: 71.4, mrr: 53.2}
+  lora_r16:  {trainable_params: 1.18e6,  r10: 78.6, mrr: 62.7, train_h: 1.6, mem_gb: 17.8}
+  full:      {trainable_params: 326e6,   r10: 79.3, mrr: 63.2, train_h: 6.8, mem_gb: 38.5}
+note: "LoRA 比全参低 0.7pt，但显存/时间优势大；数据量小是全参未拉开的原因"

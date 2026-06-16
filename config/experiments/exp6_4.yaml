@@ -1,0 +1,9 @@
+# Exp 6-4 三阶段渐进评估（论文表 6-6）
+inherit: [base.yaml, retrieval.yaml, dynamic.yaml, defense.yaml]
+exp_id: exp6_4
+task: progressive_eval
+expected:
+  stage1_small_synth: {samples: 100, f1: 61.8, asr: 28.5, refusal_precision: 0.850}
+  stage2_mid_large:   {samples: 500, f1: 61.5, asr: 28.3, refusal_precision: 0.852}
+  stage3_with_feedback: {samples: 300, f1: 63.2, asr: 27.4, refusal_precision: 0.868}
+note: "样本量不大，仅作阶段性验证，不支撑强结论"

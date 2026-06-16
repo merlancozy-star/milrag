@@ -1,0 +1,6 @@
+# Exp 4-8 案例分析：多轮触发轨迹（论文 4.6.6）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_8
+task: case_study
+query: "分析某型反舰导弹与目标海域典型岛屿的结合，可能形成的区域拒止能力"
+note: "记录三轮触发：sa↑触发->上下文融合->sh↑触发，验证多轮动态检索在复杂推理的优势"

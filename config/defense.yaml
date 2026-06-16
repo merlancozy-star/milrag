@@ -1,0 +1,76 @@
+# config/defense.yaml — 第 5 章：对抗环境 两阶段 可信增强与噪声过滤
+# 真相来源：论文 5.1 ~ 5.7。参考实现 TrustRAG，复用边界见 CLAUDE.md §4.2。
+
+# ============ 威胁模型（论文 5.1.2）============
+threat_model:
+  setting: white_box_retrieval_black_box_generation   # 攻击者可访问检索器/语料，不可改 LLM
+  scope: "知识库数据来源被污染（开源情报/评论/第三方报送），非内网入侵"
+  poison_ratio: [0.01, 0.05, 0.10, 0.20]              # ρ 四档；ASR 曲线扩展到 0.30
+  poison_strategies: [direct_contradiction, partial_substitution, prompt_injection]
+  # partial_substitution（只改个别数字/实体）最难防（论文 Exp 5-9）
+
+# ============ 阶段一：聚类前置过滤（论文 5.3）============
+cluster_filter:
+  # K-means（论文 5.3.2，对齐 TrustRAG k_mean_filtering）
+  kmeans: {n_clusters: 2, n_init: 10, max_iter: 500, random_state: 0}
+  normalize: standard_then_l2      # StandardScaler + L2 归一
+  outlier_threshold: 1.85          # θ_out（论文网格搜索结果）
+  intra_cluster_sim_threshold: 0.88# 同簇余弦阈值（TrustRAG 默认，军事验证集需重搜）
+  # n-gram 去重（对齐 TrustRAG group_n_gram_filtering）
+  ngram_rouge_threshold: 0.25      # rouge-L > 0.25 视为高重叠
+  similarity_dedup: 0.85           # similarity_filtering 余弦去重
+  # 领域特征增强（论文 5.3.3）
+  domain_features:
+    entity_match: true             # Ent(d) = 实体命中数 / 文档长度
+    keyword_match: true            # Kwd(d) = 与查询实词重叠
+    injection_detect: true         # Inj(d) = 注入指令检测 0~1（正则 + 轻分类器）
+  injection_patterns: ["忽略上文", "忽略上述", "ignore previous", "你现在是", "你现在扮演", "请输出"]
+  # 级联打分（论文公式 5-3），Σλ=1
+  score_trust_weights: {lambda1_outlier: 0.45, lambda2_entity: 0.22, lambda3_keyword: 0.13, lambda4_inject: 0.20}
+  keep_top_n: 8                    # 清洗后证据集 Z_filtered 规模
+  # 阈值确定目标（论文公式 5-4）：F1_Robust = 2·R_clean·(1-FPR)/(R_clean+(1-FPR))
+  threshold_search: grid
+
+# ============ 内部知识先验（论文 5.4.1）============
+prior:
+  generate_without_retrieval: true # y_prior 仅基于模型内部知识
+  structured_claims: true          # 列出关键事实声明 F_prior
+  confidence: logprob_plus_sampling_consistency   # SelfCheckGPT 思路
+
+# ============ 一致性判定 / 证据关系图（论文 5.4.2 / 5.4.3）============
+consistency:
+  # c(d_i,f_j) = α·sim_sem + β·nli_score ; nli_score = P(entail)-P(contradict)
+  alpha_sim: 0.4
+  beta_nli: 0.6                    # NLI 优先（可区分蕴含/矛盾）
+  graph: {edge_weight: nli_entailment, community: louvain}  # 正=互证 负=冲突
+  clusters: [trust, conflict, isolated]
+
+# ============ 四维自评估（论文 5.5.1）============
+self_assess:
+  metrics:
+    EC: {name: 证据覆盖度, method: nli_entailment_ratio}      # 主张被证据支持比例
+    EA: {name: 证据对齐度, method: embedding_cosine_to_strongest}
+    SC: {name: 自一致性, method: multi_sample_similarity, n_samples: 5}
+    Unc: {name: 不确定性, method: loglik_variance, n_samples: 5}
+
+# ============ 决策 / 拒答（论文 5.5.2 / 5.5.3）============
+decision:
+  # 双路并行：y_prior（内部） vs y_ext（外部过滤证据）
+  threshold_policy: {ec_min: 0.5, unc_max: 0.5}   # 占位，验证集调；EC>τ_EC 且 Unc<τ_Unc 用 y_ext
+  learned_policy: {type: mlp, in_dim: 12, labels: [use_ext, use_prior, re_retrieve, ask_user, refuse]}
+  principle: "宁可拒答不可错答"
+  refuse_with_reason: true
+
+# ============ 与第 4 章协同（论文 5.6）============
+synergy:
+  filter_incremental_evidence: true   # 每次动态检索新召回先过 cluster_filter 再注入
+  conflict_triggers_reformulate: true # 冲突簇 -> 靶向补检索
+  conflict_persist_then_refuse: true  # 多轮仍冲突 -> 主动拒答
+
+# ============ 验收基准（论文 Exp 5-1，ρ=10%）============
+expected:
+  ours:  {asr: 32.5, pdr: 26.1, rp: 84.6, recall: 91.0}
+  naive: {asr: 47.5, pdr: 38.2, rp: 71.0, recall: 94.6}
+  asr_curve: {p10: 32.5, p20: 38.0, p30: 45.0}        # 高投毒率显著变差
+  synergy_4_5: {asr: 28.3, f1_robust: 0.814}          # Exp 5-8 第4+5章协同
+  refusal: {precision: 0.852, recall: 0.617}          # Exp 5-7

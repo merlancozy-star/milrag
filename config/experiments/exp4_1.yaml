@@ -1,0 +1,16 @@
+# Exp 4-1 动态检索总体对比（军事复杂推理子集，Qwen2.5-7B，论文表 4-2）
+inherit: [base.yaml, dynamic.yaml, retrieval.yaml]
+exp_id: exp4_1
+task: dynamic_overall
+baselines: [naive_rag, advanced_rag_hyde, flare, self_rag, crag, ircot, dragin]
+metrics: [em, f1, faithfulness, avg_retrieval, latency_s]
+expected:   # EM / F1 / Faith / N_R / 延迟(s)
+  naive_rag:         {em: 32.4, f1: 50.3, faith: 61.2, nr: 1.0, latency: 1.78}
+  advanced_rag_hyde: {em: 34.6, f1: 52.7, faith: 64.0, nr: 1.0, latency: 2.04}
+  flare:             {em: 36.5, f1: 54.8, faith: 68.3, nr: 2.3, latency: 3.34}
+  self_rag:          {em: 38.1, f1: 56.9, faith: 70.6, nr: 1.8, latency: 2.87}
+  crag:              {em: 38.8, f1: 57.6, faith: 71.2, nr: 1.7, latency: 2.65}
+  ircot:             {em: 40.3, f1: 59.4, faith: 73.5, nr: 2.9, latency: 3.84}
+  dragin:            {em: 41.0, f1: 60.1, faith: 74.8, nr: 2.4, latency: 3.39}
+  ours:              {em: 42.7, f1: 61.5, faith: 76.2, nr: 2.8, latency: 3.92}
+note: "本文比最强基线 DRAGIN 高约 1.4pt F1，代价是检索次数与延迟最高"

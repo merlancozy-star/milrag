@@ -1,0 +1,6 @@
+# Exp 3-7 案例分析：微调前后 Top-3 召回对比（论文表 3-7）
+inherit: [base.yaml, retrieval.yaml]
+exp_id: exp3_7
+task: case_study
+query: "歼-20 隐身涂层在 X 频段的雷达反射截面"
+note: "改善主要出现在含明确实体/型号的查询；笼统查询微调前后差别不明显"

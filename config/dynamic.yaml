@@ -1,0 +1,83 @@
+# config/dynamic.yaml — 第 4 章：动态检索 与 自适应查询重构
+# 真相来源：论文 4.2 ~ 4.6。参考实现 ETC（熵趋势），复用边界见 CLAUDE.md §4.1。
+
+# ============ 主干与生成（论文 4.6.1）============
+generation:
+  backbone: llm_backbone           # 主线 Qwen2.5-7B-Instruct
+  temperature: 0.3
+  max_new_tokens: 1024             # Lmax
+  check_interval: 8                # Δt：每生成 8 token 检测一次触发
+  attn_implementation: eager       # ★白盒信号路径必须 eager（FA2 不返回 attention），见 CLAUDE.md §5
+
+# ============ 三类内部信号（论文 4.3.1）============
+signals:
+  token_prob:   {enable: true}     # s_p = -log p(y_t)
+  attention:    {enable: true, last_layers: 4}   # s_a：最后 L=4 层，对问题中军事实体位置依赖×(1-p)
+  entropy:      {enable: true, topk_truncate: 50}# s_h = -Σ p log p（top-k 截断防长尾噪声）
+  # ★ETC 熵趋势增强（一阶/二阶差分 + 动态平滑），作为 s_h 的趋势版接入
+  entropy_trend:
+    enable: true
+    first_order: true
+    second_order: true
+    smoothing: ema
+    smoothing_alpha: 0.3
+
+# ============ 综合判别（论文 4.3.2 / 4.3.4）============
+detector:
+  zscore_window: 16                # W：最近 W 步滑窗 z-score 标准化
+  threshold: 0.62                  # τ：验证集 PR 曲线 F1 最大点
+  # 任务自适应权重（论文表 4-1），Σw=1
+  task_weights:
+    equipment_param:  {w_p: 0.6, w_a: 0.2, w_h: 0.2}   # 装备参数查询
+    strategic_status: {w_p: 0.2, w_a: 0.5, w_h: 0.3}   # 战略态势分析
+    adversarial_check: {w_p: 0.2, w_a: 0.2, w_h: 0.6}   # 对抗环境验证
+  fallback_weights: {w_p: 0.3334, w_a: 0.3333, w_h: 0.3333}  # 三类均值
+
+# ============ 问题类型分类器（论文 4.3.3）============
+classifier:
+  type: mlp_on_short_embedding
+  target_acc: 0.928                # 论文：验证集 92.8%
+  flatten_fallback_gap: 0.15       # top1-top2 概率差 < 0.15 退回均值权重
+
+# ============ 查询重构（论文 4.4）============
+reformulate:
+  entity_enhance:                  # 4.4.1 实体增强 -> 装备参数类
+    beta: 0.6                      # α_i = β·att(e_i) + (1-β)·IDF(e_i)
+    topk_entities: [3, 5]
+  content_word_focus:              # 4.4.2 实词聚焦 -> 对抗环境类（过滤噪声）
+    keep_pos: [noun, verb, proper_noun, num]
+    keep_military_terms: true      # ★短问题勿删限定词导致语义漂移（CLAUDE.md §6）
+  context_fusion:                  # 4.4.3 上下文融合 -> 战略态势类
+    prefix_chars: 100              # 取触发点前 ~100 字
+    template: "{q}当前推理：{ctx}"
+  selector:                        # 4.4.4 策略选择器
+    by_question_type: true
+    fallback_when_low_sim: 0.55    # 首条结果相似度 < 0.55 时回退另一策略
+
+# ============ 证据融合（论文 4.5.2）============
+evidence_fusion:
+  dedup_sim: 0.85                  # 余弦 > 0.85 视为重复，留权威性高者
+  authority_order: [doctrine, official_bulletin, mainstream_media, general_commentary]
+  version_sort: time_desc
+
+# ============ 循环控制 / 终止 / 早停（论文 4.5.1 / 4.5.3 / 4.5.4）============
+loop:
+  kmax: 4                          # 复杂推理预算上限
+  kmax_simple: 1                   # 简单事实问题
+  early_stop_low_steps: 16         # Lstop：S(t)<τ 连续 16 步终止
+  candidate_prefilter_keep_n: 5    # 每次新召回先轻量重排留 Top-N 注入
+  cache_retrieval: true
+  async_detector: true
+
+# ============ 评测数据（论文 4.6.2）============
+eval_data:
+  main: military_reasoning_subset  # 复杂推理子集 ~350 条
+  main_size: 350
+  control: [hotpotqa_zh_200, musique_zh_200]   # 通用域多跳对照各 200
+
+# ============ 验收基准（论文 Exp 4-1，军事复杂推理子集，Qwen2.5-7B）============
+expected:
+  ours:    {em: 42.7, f1: 61.5, faithfulness: 76.2, avg_retrieval: 2.8, latency_s: 3.92}
+  naive:   {em: 32.4, f1: 50.3, faithfulness: 61.2, avg_retrieval: 1.0, latency_s: 1.78}
+  dragin:  {em: 41.0, f1: 60.1, faithfulness: 74.8, avg_retrieval: 2.4, latency_s: 3.39}  # 最强基线
+  backbone_transfer: {qwen7b_f1: 61.5, qwen14b_f1: 65.2, deepseek_r1_7b_f1: 64.0}          # Exp 4-7

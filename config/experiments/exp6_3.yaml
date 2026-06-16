@@ -1,0 +1,8 @@
+# Exp 6-3 不同主干 性能-延迟权衡（论文表 6-5）
+inherit: [base.yaml, retrieval.yaml, dynamic.yaml, defense.yaml]
+exp_id: exp6_3
+task: backbone_tradeoff
+expected:   # F1 / Faith / ASR / 延迟
+  qwen2.5-7b:             {f1: 61.5, faith: 76.2, asr: 28.3, latency: 3.98}  # 主线
+  qwen2.5-14b:            {f1: 65.2, faith: 79.0, asr: 27.1, latency: 5.64}  # 量化加载
+  deepseek-r1-distill-7b: {f1: 64.0, faith: 78.1, asr: 27.6, latency: 4.43}

@@ -1,0 +1,9 @@
+# Exp 3-5 分块策略（论文表 3-6）
+inherit: [base.yaml, retrieval.yaml]
+exp_id: exp3_5
+task: chunk_strategy
+expected:
+  fixed_256:        {r10: 72.5, ndcg10: 60.1}
+  fixed_512:        {r10: 77.4, ndcg10: 64.6}
+  fixed_1024:       {r10: 74.0, ndcg10: 61.8}
+  semantic_sliding: {r10: 78.6, ndcg10: 65.8}  # 本文（512/64）

@@ -1,0 +1,10 @@
+# Exp 4-3 触发阈值 τ（论文表 4-4）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_3
+task: threshold_sweep
+sweep: {threshold: [0.30, 0.50, 0.62, 0.90]}
+expected:
+  t030: {f1: 58.9, nr: 4.9}
+  t050: {f1: 60.7, nr: 3.3}
+  t062: {f1: 61.5, nr: 2.8}   # 本文
+  t090: {f1: 54.6, nr: 1.3}

@@ -1,0 +1,81 @@
+# config/retrieval.yaml — 第 3 章：数据 / 知识库 / 嵌入 LoRA 微调
+# 真相来源：论文 3.2 ~ 3.5。
+
+# ============ 知识库构建（论文 3.2）============
+knowledge_base:
+  # 数据来源规模（论文表 3-1，合计 314,759 段 / 86.4 万 token）
+  sources:
+    military_news:   {name: "CMNEE 等开源", paragraphs: 174328, token_wan: 42.8}
+    doctrine:        {name: "公开条令/解密FM", paragraphs: 53472, token_wan: 18.9}
+    encyclopedia:    {name: "军事百科/专业网站", paragraphs: 31854, token_wan: 11.7}
+    commentary:      {name: "权威防务媒体", paragraphs: 47690, token_wan: 9.4}
+    desensitized:    {name: "合作单位脱密", paragraphs: 7415, token_wan: 3.6}
+  total_paragraphs: 314759
+  total_token_wan: 86.4
+  # 四类分类组织（论文表 3-2）
+  categories:
+    equipment: {chunks: 78349, ratio: 0.249, avg_len_token: 412}   # 装备类
+    doctrine:  {chunks: 53472, ratio: 0.170, avg_len_token: 528}   # 条令类
+    situation: {chunks: 145826, ratio: 0.463, avg_len_token: 386}  # 态势类
+    case:      {chunks: 37112, ratio: 0.118, avg_len_token: 467}   # 案例类
+
+# ============ 预处理（论文 3.2.2）============
+preprocess:
+  clean: {html_strip: true, fullwidth_to_halfwidth: true, zh_traditional_to_simplified: true, normalize_punct: true}
+  ner:
+    backbone: bert-crf
+    target_f1: 0.912                # 论文：实体识别 F1 91.2%
+    normalize: edit_distance_synonym
+  chunk:
+    strategy: semantic_boundary_then_sliding   # 论文最终方案：语义边界优先 + 滑窗
+    window_token: 512
+    overlap_token: 64
+    keep_meta: [title, section_id]
+
+# ============ 索引（论文 3.2.2 / 3.5.1）============
+index:
+  faiss: {type: HNSW, M: 32, efConstruction: 200}
+  elasticsearch: {index_name: mil_kb, analyzer: ik_smart}
+  meta_store: postgresql           # 来源/采集时间/权威性等级/脱敏标识，靠 chunk_id 关联
+  hybrid: {method: rrf, k: 60}     # 论文公式 2-6，k=60
+
+# ============ QA 数据集（论文 3.3）============
+qa_dataset:
+  total: 1276
+  # 三类样本（论文表 3-3）
+  splits_by_type:
+    factual:   {count: 510, avg_hops: 1.0, ability: "事实精确召回"}
+    reasoning: {count: 446, avg_hops: 2.7, ability: "多跳推理与归纳"}
+    adversarial: {count: 320, avg_hops: 1.8, ability: "对抗鲁棒性"}
+  avg_hops_overall: 1.8
+  # 划分（论文 3.3.4，8:1:1）
+  split: {train: 1020, val: 128, test: 128}
+  # 构造与质量（论文 3.3.2 / 3.3.4）
+  annotation: {machine_init_model: llm_annotator, human_verify: "双盲+第三方仲裁"}
+  quality: {cohen_kappa: 0.82, evidence_consistency: 0.968, format_fixed: 47, recheck_revised: 39}
+  # 样本字段（论文 3.3.3）
+  fields: [id, type, question, answer, evidence_chunks, key_reasoning_points, adversarial_inject, source_meta]
+
+# ============ 嵌入 LoRA 微调（论文 3.4 / 3.5.1）============
+embedding_finetune:
+  baseline_candidates: [bge-base-zh, bge-large-zh-v1.5, bge-m3, e5-large-zh, m3e-large]
+  main_model: bge-large-zh-v1.5    # 论文主线
+  embed_dim: 1024
+  max_seq_len: 512
+  lora: {rank: 16, alpha: 32, dropout: 0.05, target: [q_proj, k_proj, v_proj]}  # 仅注意力 Q/K/V
+  optim: {name: adamw, lr: 1.0e-4, warmup_ratio: 0.05, scheduler: cosine}
+  batch_size: 128                  # 受显存限制，bs64 + 梯度累积等效到 128
+  epochs: 10
+  loss: {name: infonce, temperature: 0.05}        # 论文公式 2-5
+  negatives: {in_batch: true, bm25_hard: true, bm25_hard_topk: 50, mix_ratio: "1:1"}
+
+# ============ 检索/重排（论文 3.5.1）============
+retrieve:
+  dense_topk: 20
+  rerank: {enable_final_only: true, candidate_topk: 50, keep_topk: 10, extra_latency_ms: 80}
+  # 注意：动态检索中间轮不启用 reranker（CLAUDE.md §6）
+
+# ============ 验收基准（论文实验数值，复现时对齐）============
+# Exp 3-1 主线：BGE-large-zh  R@10 零样本 71.4 -> LoRA 78.6 ; +CrossEncoder 81.3
+expected:
+  bge_large_zh: {zeroshot_r10: 71.4, lora_r10: 78.6, lora_mrr: 62.7, lora_ndcg10: 65.8, rerank_r10: 81.3}

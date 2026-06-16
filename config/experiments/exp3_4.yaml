@@ -1,0 +1,8 @@
+# Exp 3-4 负样本构造（论文表 3-6）
+inherit: [base.yaml, retrieval.yaml]
+exp_id: exp3_4
+task: negative_sampling
+expected:
+  in_batch_only:  {r10: 73.1, ndcg10: 60.4}
+  bm25_hard_only: {r10: 76.8, ndcg10: 64.2}
+  mixed:          {r10: 78.6, ndcg10: 65.8}   # 本文；难负是主要贡献来源

@@ -1,0 +1,13 @@
+# Exp 5-2 防御模块消融（ρ=10%，论文表 5-3）
+inherit: [base.yaml, defense.yaml]
+exp_id: exp5_2
+task: defense_ablation
+poison_ratio: 0.10
+expected:   # ASR↓ / PDR↓
+  no_defense:                  {asr: 47.5, pdr: 38.2}
+  cluster_only:                {asr: 40.8, pdr: 32.6}
+  consistency_only:            {asr: 42.1, pdr: 33.9}
+  self_assess_only:            {asr: 41.3, pdr: 33.0}
+  cluster_consistency:         {asr: 35.7, pdr: 28.8}
+  consistency_self_assess:     {asr: 37.2, pdr: 30.1}
+  all_three:                   {asr: 32.5, pdr: 26.1}   # 本文；三模块全开比无防御推理 +15%

@@ -1,0 +1,11 @@
+# Exp 4-6 检索预算 Kmax（论文表 4-4）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_6
+task: budget_sweep
+sweep: {kmax: [1, 2, 3, 4, 5]}
+expected:
+  k1: {f1: 52.1, nr: 1.0}
+  k2: {f1: 57.8, nr: 1.9}
+  k3: {f1: 60.6, nr: 2.5}
+  k4: {f1: 61.5, nr: 2.8}   # 本文
+  k5: {f1: 61.6, nr: 3.1}   # 几乎无收益，延迟仍涨

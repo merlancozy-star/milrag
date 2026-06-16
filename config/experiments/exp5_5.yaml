@@ -1,0 +1,9 @@
+# Exp 5-5 一致性判定（ρ=10%，论文表 5-4）
+inherit: [base.yaml, defense.yaml]
+exp_id: exp5_5
+task: consistency_method
+poison_ratio: 0.10
+expected:
+  sim_only: {asr: 36.2, f1_robust: 0.741}
+  nli_only: {asr: 34.1, f1_robust: 0.764}
+  fusion:   {asr: 32.5, f1_robust: 0.781}  # 本文 α=0.4,β=0.6

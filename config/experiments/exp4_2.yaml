@@ -1,0 +1,12 @@
+# Exp 4-2 触发信号消融（三子任务 F1，论文表 4-3）
+inherit: [base.yaml, dynamic.yaml]
+exp_id: exp4_2
+task: signal_ablation
+expected:   # 装备参数 / 战略态势 / 对抗环境 / 总体F1
+  sp_only:     {equip: 58.4, status: 48.2, adv: 44.7, overall_f1: 50.4}
+  sa_only:     {equip: 50.6, status: 56.8, adv: 46.3, overall_f1: 51.2}
+  sh_only:     {equip: 48.5, status: 51.4, adv: 54.9, overall_f1: 51.6}
+  sp_sa:       {equip: 60.8, status: 58.3, adv: 50.1, overall_f1: 56.4}
+  sp_sh:       {equip: 60.4, status: 53.2, adv: 57.2, overall_f1: 56.9}
+  sa_sh:       {equip: 54.7, status: 59.0, adv: 58.4, overall_f1: 57.4}
+  sp_sa_sh:    {equip: 64.3, status: 61.2, adv: 59.1, overall_f1: 61.5}  # 本文
