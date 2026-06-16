@@ -1,4 +1,5 @@
 # Exp 5-1 对抗鲁棒总体对比（ρ=10%，论文表 5-2）+ 不同投毒率曲线
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml, defense.yaml, dynamic.yaml]
 exp_id: exp5_1
 task: robustness_overall
@@ -10,6 +11,7 @@ expected:   # ASR↓ / PDR↓ / RP↑ / Recall↑
   self_rag:            {asr: 39.6, pdr: 31.8, rp: 76.5, recall: 93.4}
   crag:                {asr: 37.2, pdr: 29.4, rp: 78.9, recall: 92.8}
   dragin_simple_filter: {asr: 38.4, pdr: 30.5, rp: 77.6, recall: 92.1}
-  ours:                {asr: 32.5, pdr: 26.1, rp: 84.6, recall: 91.0}
+  ours_qwen25:                {asr: 32.5, pdr: 26.1, rp: 84.6, recall: 91.0}
+  ours_qwen3: {asr: "TBD", pdr: "TBD", rp: "TBD", recall: "TBD"}
 asr_curve_expected: {p01: null, p05: null, p10: 32.5, p20: 38.0, p30: 45.0}
 note: "ASR 仍 32.5%（约 1/3 攻击得逞）；过滤误删导致 Recall 略降；高投毒率明显变差"

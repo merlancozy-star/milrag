@@ -1,10 +1,13 @@
 # Exp 3-1 不同嵌入模型 零样本 vs LoRA 微调（论文表 3-4）
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml, retrieval.yaml]
 exp_id: exp3_1
 task: embedding_compare
-models: [bm25, bge-base-zh, bge-large-zh-v1.5, bge-m3, e5-large-zh, m3e-large]
+models: [bm25, Qwen3-Embedding-0.6B, Qwen3-Embedding-4B, Qwen3-Embedding-8B, bge-base-zh, bge-large-zh-v1.5, bge-m3, e5-large-zh, m3e-large]  # Qwen3: Qwen3-Embedding 系列新主线
 metrics: [recall@10, mrr, ndcg@10]
 expected:   # R@10 零样本 -> LoRA ; (mrr 零->LoRA)
+  # Qwen3-Embedding 实测值（待跑通后填写）
+  qwen3_embed_4b: {r10_zero: "TBD", r10_lora: "TBD", mrr_lora: "TBD", ndcg10_lora: "TBD"}
   bm25:            {r10_zero: 58.4, mrr_zero: 41.6}
   bge-base-zh:     {r10_zero: 67.2, r10_lora: 74.6, mrr_lora: 58.3, ndcg10_lora: 62.1}
   bge-large-zh-v1.5: {r10_zero: 71.4, r10_lora: 78.6, mrr_lora: 62.7, ndcg10_lora: 65.8}

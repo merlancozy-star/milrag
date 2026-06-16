@@ -1,4 +1,5 @@
 # Exp 3-7 案例分析：微调前后 Top-3 召回对比（论文表 3-7）
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml, retrieval.yaml]
 exp_id: exp3_7
 task: case_study

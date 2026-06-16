@@ -1,4 +1,5 @@
 # Exp 3-5 分块策略（论文表 3-6）
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml, retrieval.yaml]
 exp_id: exp3_5
 task: chunk_strategy

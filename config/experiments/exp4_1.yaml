@@ -1,4 +1,4 @@
-# Exp 4-1 动态检索总体对比（军事复杂推理子集，Qwen2.5-7B，论文表 4-2）
+# Exp 4-1 动态检索总体对比（军事复杂推理子集，Qwen3-8B，论文表 4-2）
 inherit: [base.yaml, dynamic.yaml, retrieval.yaml]
 exp_id: exp4_1
 task: dynamic_overall
@@ -12,5 +12,6 @@ expected:   # EM / F1 / Faith / N_R / 延迟(s)
   crag:              {em: 38.8, f1: 57.6, faith: 71.2, nr: 1.7, latency: 2.65}
   ircot:             {em: 40.3, f1: 59.4, faith: 73.5, nr: 2.9, latency: 3.84}
   dragin:            {em: 41.0, f1: 60.1, faith: 74.8, nr: 2.4, latency: 3.39}
-  ours:              {em: 42.7, f1: 61.5, faith: 76.2, nr: 2.8, latency: 3.92}
+  ours_qwen25:              {em: 42.7, f1: 61.5, faith: 76.2, nr: 2.8, latency: 3.92}
+  ours_qwen3: {em: "TBD", f1: "TBD", faithfulness: "TBD", avg_retrieval: "TBD", latency_s: "TBD"}
 note: "本文比最强基线 DRAGIN 高约 1.4pt F1，代价是检索次数与延迟最高"

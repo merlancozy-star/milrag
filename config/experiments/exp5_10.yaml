@@ -1,4 +1,5 @@
 # Exp 5-10 案例分析（论文 5.7.7）
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml, defense.yaml]
 exp_id: exp5_10
 task: case_study

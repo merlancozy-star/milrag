@@ -1,4 +1,5 @@
 # Exp 4-8 案例分析：多轮触发轨迹（论文 4.6.6）
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml, dynamic.yaml]
 exp_id: exp4_8
 task: case_study

@@ -1,4 +1,5 @@
 # Exp 6-6 专家用户调研（5分制，8人×30条，论文表 6-7）
+# Qwen3 迁移: 旧版 Qwen2.5 数值保留为对照基线。Qwen3 实测后填入 TBD 项。
 inherit: [base.yaml]
 exp_id: exp6_6
 task: expert_survey
