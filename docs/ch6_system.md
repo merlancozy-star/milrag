@@ -1,5 +1,7 @@
 # 第6章 design doc — 系统集成与综合评估
 
+> **2026-06 Qwen3 迁移**：LLM 主线 Qwen3-8B，嵌入 Qwen3-Embedding-4B，重排 Qwen3-Reranker-8B。旧版 Qwen2.5 数值保留为对照基线。
+
 ## 三层架构（论文 6.2）
 数据层（知识库/嵌入/FAISS+ES/PG元信息）/ 控制层（vLLM/检测器/重构器/循环）/ 安全防御层（聚类/一致性/自评估/决策）。
 前端 Streamlit；防御模块 FastAPI+gRPC 微服务；完全离线内网。
@@ -13,7 +15,7 @@
 | 6.2/6.3.4/6.3.5 部署 | pipeline/serve.py |
 
 ## 部署环境（论文 6.4）
-A100 80GB×2；Ubuntu22.04；py3.10/torch2.1/vllm0.4/transformers4.40/faiss1.7.4/ES8.13/PG16。
+vGPU-48GB；Ubuntu22.04；py3.10/torch2.1/vllm0.4/transformers4.40/faiss1.7.4/ES8.13/PG16。
 P95 延迟：基础事实≤3s，复杂推理≤10s。
 
 ## 实验与验收（论文表 6-3~6-7）

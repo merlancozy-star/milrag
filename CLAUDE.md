@@ -9,6 +9,8 @@
 
 复现并扩展一篇硕士论文的实验：在**中文军事情报问答**场景下，做三件事——(1) 领域知识库 + 嵌入 LoRA 微调；(2) 多信号**动态检索**触发与查询重构；(3) 对抗环境下的**两阶段可信过滤与拒答**。最终集成为可本地离线运行的端到端原型，并跑通论文中全部编号实验（Exp 3-1 ~ Exp 6-6）。
 
+★ **2026-06 Qwen3 迁移**：主干 LLM 从 Qwen3-8B → **Qwen3-8B**；嵌入从 BGE-large → **Qwen3-Embedding-4B**；重排 → **Qwen3-Reranker-8B**。旧版 Qwen2.5 数值作为对照基线保留在 config 中。
+
 两个外部参考实现，复用边界见 §4：
 - **ETC**（`WisdomShell/ETC`, AAAI'26 Oral）— 熵趋势触发，对应论文第 4 章。
 - **TrustRAG**（`HuichiZhou/TrustRAG`, arXiv 2501.00879）— 聚类过滤 + 内外知识冲突消解，对应论文第 5 章。
@@ -19,7 +21,7 @@
 
 写任何代码前先确认不违反以下任意一条，违反则停下来问我：
 
-1. **白盒约束**：触发检测依赖模型生成时的 `logits` 与 `attention`。所有动态检索逻辑只能假设开源白盒模型（Qwen2.5-7B 主线）。**禁止**写任何依赖闭源 API 内部状态的触发路径。API 模型只能作为"无内部信号的退化基线"出现。
+1. **白盒约束**：触发检测依赖模型生成时的 `logits` 与 `attention`。所有动态检索逻辑只能假设开源白盒模型（Qwen3-8B 主线）。**禁止**写任何依赖闭源 API 内部状态的触发路径。API 模型只能作为"无内部信号的退化基线"出现。
 2. **离线约束**：运行时**零外网请求**。所有模型（LLM/嵌入/NLI/NER/Reranker）、索引、依赖必须可本地加载。任何 `from_pretrained` 默认走本地路径或 `HF_HUB_OFFLINE=1`。联网只允许出现在一次性的数据/权重下载脚本里，且单独放 `scripts/download/`。
 3. **数据合规**：仓库内**不得提交**任何真实涉密/未脱密语料。`data/raw/sensitive/` 永远在 `.gitignore` 里。示例与单测只用合成或公开样本（CMNEE 公开部分）。
 4. **复现性**：所有实验固定随机种子，**报告 5 个种子的均值±标准差**（论文口径）。任何带随机性的结果不允许只跑一次。配置即真相——超参只能来自 `config/`，禁止硬编码在逻辑里。
@@ -65,7 +67,7 @@ milrag/
 │   │   ├── ner.py            # BERT-CRF 军事实体 + 归一化
 │   │   ├── chunk.py          # 语义边界优先 + 滑窗(512/64)
 │   │   ├── index_build.py    # FAISS HNSW + ES 倒排
-│   │   └── build_qa.py       # 机器初标(Qwen2.5-72B本地) + 人工校验接口
+│   │   └── build_qa.py       # 机器初标(Qwen3-32B (int4 量化)本地) + 人工校验接口
 │   ├── retrieval/
 │   │   ├── embedding.py      # BGE-large-zh-v1.5 / BGE-M3 封装
 │   │   ├── lora_finetune.py  # InfoNCE + 难负样本
@@ -138,18 +140,18 @@ milrag/
 
 ```
 Python 3.10
-torch 2.1.x  |  transformers 4.40  |  peft 0.10
-vllm 0.4      |  faiss-cpu/gpu 1.7.4  |  elasticsearch 8.13
-sentence-transformers (BGE) | postgresql 16 (元信息)
+torch 2.4.x  |  transformers 4.51  |  peft 0.14
+vllm 0.7      |  faiss-cpu/gpu 1.8.0  |  elasticsearch 8.13
+sentence-transformers (Qwen3-Embedding / BGE) | postgresql 16 (元信息)
 streamlit (前端) | fastapi + grpc (防御微服务)
-硬件：A100 40GB（第3/4章主线，单卡）；A100 80GB×2（第6章集成评测）
+硬件：vGPU-48GB 单卡即可覆盖全部实验（Qwen3-14B 需 device_map="auto" offload）
 ```
 
 **已知坑，写代码时主动规避：**
 
-1. **注意力钩子的版本敏感性（最高频坑）**。`hooks.py` 取 attention 在 `transformers 4.40` 上需要 `output_attentions=True` 且不能与 FlashAttention-2 共存（FA2 不返回 attention 权重）。结论：**白盒信号采集路径用 eager attention 实现**（`attn_implementation="eager"`），生成吞吐路径才用 vLLM。这是两条独立路径，不要混。ETC 抄过来的钩子要按 4.40 改。
+1. **注意力钩子的版本敏感性（最高频坑）**。`hooks.py` 取 attention 在 `transformers 4.51` 上需要 `output_attentions=True` 且不能与 FlashAttention-2 共存（FA2 不返回 attention 权重）。结论：**白盒信号采集路径用 eager attention 实现**（`attn_implementation="eager"`），生成吞吐路径才用 vLLM。这是两条独立路径，不要混。Qwen3 的 eager attention 路径已验证兼容。
 
-2. **vLLM 不暴露逐步 logits/attention**。vLLM 适合最终基线吞吐/部署（第 6 章），**不适合**第 4 章逐 token 信号采集。第 4 章主实验用 HF `generate` + 自定义 `LogitsProcessor` + forward hook 拿信号；vLLM 只用于对照"无动态检索"的快速基线。`backbone.py` 要把这两种后端抽象成同一接口但内部分流。
+2. **vLLM 不暴露逐步 logits/attention**。vLLM 适合最终基线吞吐/部署（第 6 章），**不适合**第 4 章逐 token 信号采集。第 4 章主实验用 HF `generate` + 自定义 `LogitsProcessor` + forward hook 拿信号；vLLM 只用于对照"无动态检索"的快速基线。Qwen3-8B 在 vLLM 0.7 上原生支持。
 
 3. **熵/概率的数值稳定**。`s_p = -log p`、`s_h = -Σ p log p` 都要在 `log_softmax` 空间算，加 `eps`，对词表做 top-k 截断再算熵（全词表算熵慢且被长尾噪声污染）。
 
@@ -162,9 +164,9 @@ streamlit (前端) | fastapi + grpc (防御微服务)
 ## 6. 关键算法的实现规格（直接照此写，超参来自论文）
 
 ### 第 3 章
-- **LoRA 微调**：挂在 query/doc encoder 的注意力 Q/K/V 投影；`r=16, α=32, dropout=0.05`；`lr=1e-4`, warmup 0.05, cosine 退火, `AdamW`, bs 128（显存不够用梯度累积等效到 128），10 epoch。
+- **LoRA 微调**：挂在 query/doc encoder 的注意力 Q/K/V 投影；`r=16, α=32, dropout=0.05`；`lr=1e-4`, warmup 0.05, cosine 退火, `AdamW`, bs 128（显存不够用梯度累积等效到 128），10 epoch。★ Qwen3-Embedding-4B 主线（替代 BGE-large）；BGE 保留为对照基线。
 - **训练目标**：InfoNCE，`τ=0.05`。负样本 = 批内负 : BM25 难负（top-50 中非正样本）= 1:1 混合。
-- **检索**：dense top-k=20 → rerank top-50 打分留 top-10。**Cross-Encoder 只在终轮/最终展示启用**，动态检索中间轮不启用（省 ~80ms/次）。
+- **检索**：dense top-k=20 → rerank top-50 打分留 top-10。**Cross-Encoder 只在终轮/最终展示启用**，动态检索中间轮不启用。★重排用 Qwen3-Reranker-8B（替代 BGE-Reranker）。
 
 ### 第 4 章
 - **三信号**（`signals.py`）：

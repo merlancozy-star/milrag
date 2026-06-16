@@ -27,10 +27,10 @@
 
 ```
 Python 3.10
-torch 2.1.x  |  transformers 4.40  |  peft 0.10
-vllm 0.4     |  faiss 1.7.4       |  elasticsearch 8.13
-sentence-transformers  |  postgresql 16
-硬件: A100 40GB (第3/4章) / A100 80GB×2 (第6章)
+torch 2.4.x  |  transformers 4.51  |  peft 0.14
+vllm 0.7     |  faiss 1.8.0       |  elasticsearch 8.13
+sentence-transformers (Qwen3-Embedding)  |  postgresql 16
+硬件: vGPU-48GB 单卡（Qwen3-14B 需 device_map="auto"）
 ```
 
 ### 安装
@@ -86,7 +86,7 @@ milrag/
 
 ## 硬约束
 
-1. **白盒模型** — 触发检测依赖 logits/attention，只用开源模型（Qwen2.5-7B 主线）
+1. **白盒模型** — 触发检测依赖 logits/attention，只用开源模型（Qwen3-8B 主线）
 2. **完全离线** — 运行时零外网请求，所有模型/索引本地加载
 3. **数据合规** — 不提交涉密语料，示例只用合成/公开样本
 4. **复现性** — 固定 5 种子，报均值±标准差，超参只能来自 `config/`

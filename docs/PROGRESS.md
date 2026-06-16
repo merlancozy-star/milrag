@@ -1,5 +1,7 @@
 # PROGRESS — 进度与论文数值差距
 
+> **2026-06 Qwen3 迁移**：LLM 主线 Qwen3-8B，嵌入 Qwen3-Embedding-4B，重排 Qwen3-Reranker-8B。旧版 Qwen2.5 数值保留为对照基线。
+
 每完成一阶段更新：完成项 / 与论文数值差距 / 已知问题 / 下一步。
 
 ## 推进顺序（CLAUDE.md §10）
@@ -57,7 +59,7 @@
 1. 实验未在 GPU 环境运行，所有指标均为代码预期值（已内嵌到 run_eval.py 的 dispatch_eval 占位函数中）。
 2. sklearn (scikit-learn) 需要在实际运行环境安装 (AutoDL vGPU-48 上可用 pip install)。
 3. NLI 模型需要预先下载到本地路径（config/base.yaml: models.nli）。
-4. 所有模型路径在 config/base.yaml 中为占位路径（如 `/models/Qwen2.5-7B-Instruct`），需根据 AutoDL 实际挂载路径修改。
+4. 所有模型路径在 config/base.yaml 中为占位路径（如 `/models/Qwen3-8B-Instruct`），需根据 AutoDL 实际挂载路径修改。
 5. ES + PostgreSQL 服务需要在服务器上预先启动（索引构建脚本已包含自动建表逻辑）。
 
 ## 下一步（在 AutoDL vGPU-48 上）
