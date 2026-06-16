@@ -1,13 +1,16 @@
 # config/dynamic.yaml — 第 4 章：动态检索 与 自适应查询重构
 # 真相来源：论文 4.2 ~ 4.6。参考实现 ETC（熵趋势），复用边界见 CLAUDE.md §4.1。
+#
+# ★ Qwen3 迁移：主干 LLM 从 Qwen2.5-7B 升级为 Qwen3-8B；
+#   transformers 4.51 + eager attention。vLLM 0.7 支持 Qwen3。
 
 # ============ 主干与生成（论文 4.6.1）============
 generation:
-  backbone: llm_backbone           # 主线 Qwen2.5-7B-Instruct
+  backbone: Qwen3-8B-Instruct      # ★新主干（替代 Qwen2.5-7B-Instruct）
   temperature: 0.3
   max_new_tokens: 1024             # Lmax
   check_interval: 8                # Δt：每生成 8 token 检测一次触发
-  attn_implementation: eager       # ★白盒信号路径必须 eager（FA2 不返回 attention），见 CLAUDE.md §5
+  attn_implementation: eager       # ★白盒信号路径必须 eager（FA2 不返回 attention）
 
 # ============ 三类内部信号（论文 4.3.1）============
 signals:
@@ -25,7 +28,7 @@ signals:
 # ============ 综合判别（论文 4.3.2 / 4.3.4）============
 detector:
   zscore_window: 16                # W：最近 W 步滑窗 z-score 标准化
-  threshold: 0.62                  # τ：验证集 PR 曲线 F1 最大点
+  threshold: 0.62                  # τ：验证集 PR 曲线 F1 最大点（Qwen3 上可能偏移，需重扫 Exp 4-3）
   # 任务自适应权重（论文表 4-1），Σw=1
   task_weights:
     equipment_param:  {w_p: 0.6, w_a: 0.2, w_h: 0.2}   # 装备参数查询
@@ -36,7 +39,7 @@ detector:
 # ============ 问题类型分类器（论文 4.3.3）============
 classifier:
   type: mlp_on_short_embedding
-  target_acc: 0.928                # 论文：验证集 92.8%
+  target_acc: 0.928                # 论文：验证集 92.8%（Qwen3 上预期持平或更高）
   flatten_fallback_gap: 0.15       # top1-top2 概率差 < 0.15 退回均值权重
 
 # ============ 查询重构（论文 4.4）============
@@ -75,9 +78,13 @@ eval_data:
   main_size: 350
   control: [hotpotqa_zh_200, musique_zh_200]   # 通用域多跳对照各 200
 
-# ============ 验收基准（论文 Exp 4-1，军事复杂推理子集，Qwen2.5-7B）============
+# ============ 验收基准（Qwen3-8B，待跑通后填入）============
+# ★ Qwen3 迁移后预期：F1 应高于旧版 Qwen2.5-7B 的 61.5；
+#   Qwen3-14B 对照应更高。所有 TBD 项需实测后填写。
 expected:
-  ours:    {em: 42.7, f1: 61.5, faithfulness: 76.2, avg_retrieval: 2.8, latency_s: 3.92}
+  ours_qwen3_8b:  {em: "TBD", f1: "TBD", faithfulness: "TBD", avg_retrieval: "TBD", latency_s: "TBD"}
+  ours_qwen25_7b:  {em: 42.7, f1: 61.5, faithfulness: 76.2, avg_retrieval: 2.8, latency_s: 3.92}  # 旧版基线保留
   naive:   {em: 32.4, f1: 50.3, faithfulness: 61.2, avg_retrieval: 1.0, latency_s: 1.78}
   dragin:  {em: 41.0, f1: 60.1, faithfulness: 74.8, avg_retrieval: 2.4, latency_s: 3.39}  # 最强基线
-  backbone_transfer: {qwen7b_f1: 61.5, qwen14b_f1: 65.2, deepseek_r1_7b_f1: 64.0}          # Exp 4-7
+  backbone_transfer: {qwen3_8b_f1: "TBD", qwen3_14b_f1: "TBD", deepseek_r1_7b_f1: 64.0}   # Exp 4-7
+  note: "Qwen2.5 数值为原论文基线保留对照。Qwen3 实测后填入 TBD 项。"

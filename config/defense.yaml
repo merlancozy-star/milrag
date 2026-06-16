@@ -1,5 +1,7 @@
 # config/defense.yaml — 第 5 章：对抗环境 两阶段 可信增强与噪声过滤
 # 真相来源：论文 5.1 ~ 5.7。参考实现 TrustRAG，复用边界见 CLAUDE.md §4.2。
+#
+# ★ Qwen3 迁移：防御管线中的 LLM 调用（prior 生成 / 多重采样）使用 Qwen3-8B。
 
 # ============ 威胁模型（论文 5.1.2）============
 threat_model:
@@ -14,8 +16,8 @@ cluster_filter:
   # K-means（论文 5.3.2，对齐 TrustRAG k_mean_filtering）
   kmeans: {n_clusters: 2, n_init: 10, max_iter: 500, random_state: 0}
   normalize: standard_then_l2      # StandardScaler + L2 归一
-  outlier_threshold: 1.85          # θ_out（论文网格搜索结果）
-  intra_cluster_sim_threshold: 0.88# 同簇余弦阈值（TrustRAG 默认，军事验证集需重搜）
+  outlier_threshold: 1.85          # θ_out（论文网格搜索结果；Qwen3-Embedding 嵌入空间可能需重搜）
+  intra_cluster_sim_threshold: 0.88# 同簇余弦阈值（TrustRAG 默认，Qwen3 嵌入空间需重搜）
   # n-gram 去重（对齐 TrustRAG group_n_gram_filtering）
   ngram_rouge_threshold: 0.25      # rouge-L > 0.25 视为高重叠
   similarity_dedup: 0.85           # similarity_filtering 余弦去重
@@ -33,7 +35,7 @@ cluster_filter:
 
 # ============ 内部知识先验（论文 5.4.1）============
 prior:
-  generate_without_retrieval: true # y_prior 仅基于模型内部知识
+  generate_without_retrieval: true # y_prior 仅基于 Qwen3-8B 内部知识
   structured_claims: true          # 列出关键事实声明 F_prior
   confidence: logprob_plus_sampling_consistency   # SelfCheckGPT 思路
 
@@ -56,7 +58,7 @@ self_assess:
 # ============ 决策 / 拒答（论文 5.5.2 / 5.5.3）============
 decision:
   # 双路并行：y_prior（内部） vs y_ext（外部过滤证据）
-  threshold_policy: {ec_min: 0.5, unc_max: 0.5}   # 占位，验证集调；EC>τ_EC 且 Unc<τ_Unc 用 y_ext
+  threshold_policy: {ec_min: 0.5, unc_max: 0.5}   # Qwen3 上需验证阈值
   learned_policy: {type: mlp, in_dim: 12, labels: [use_ext, use_prior, re_retrieve, ask_user, refuse]}
   principle: "宁可拒答不可错答"
   refuse_with_reason: true
@@ -67,10 +69,14 @@ synergy:
   conflict_triggers_reformulate: true # 冲突簇 -> 靶向补检索
   conflict_persist_then_refuse: true  # 多轮仍冲突 -> 主动拒答
 
-# ============ 验收基准（论文 Exp 5-1，ρ=10%）============
+# ============ 验收基准（Qwen3-8B + Qwen3-Embedding，待跑通后填入）============
+# ★ Qwen3 迁移后预期：ASR 应低于旧版 Qwen2.5-7B 的 32.5（Qwen3 推理能力强 → 更难被欺骗）
 expected:
-  ours:  {asr: 32.5, pdr: 26.1, rp: 84.6, recall: 91.0}
-  naive: {asr: 47.5, pdr: 38.2, rp: 71.0, recall: 94.6}
-  asr_curve: {p10: 32.5, p20: 38.0, p30: 45.0}        # 高投毒率显著变差
-  synergy_4_5: {asr: 28.3, f1_robust: 0.814}          # Exp 5-8 第4+5章协同
-  refusal: {precision: 0.852, recall: 0.617}          # Exp 5-7
+  ours_qwen3:    {asr: "TBD", pdr: "TBD", rp: "TBD", recall: "TBD"}
+  ours_qwen25:   {asr: 32.5, pdr: 26.1, rp: 84.6, recall: 91.0}   # 旧版基线保留
+  naive:         {asr: 47.5, pdr: 38.2, rp: 71.0, recall: 94.6}
+  asr_curve_qwen3: {p10: "TBD", p20: "TBD", p30: "TBD"}
+  asr_curve_qwen25: {p10: 32.5, p20: 38.0, p30: 45.0}
+  synergy_4_5:   {asr: "TBD", f1_robust: "TBD"}                  # Exp 5-8
+  refusal:       {precision: "TBD", recall: "TBD"}               # Exp 5-7
+  note: "Qwen2.5 数值为原论文基线保留对照。Qwen3 实测后填入 TBD 项。"

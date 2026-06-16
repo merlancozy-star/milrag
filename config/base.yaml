@@ -1,5 +1,8 @@
 # config/base.yaml — 全局基础配置（所有 experiments/*.yaml 继承此文件）
 # 真相来源：论文第 3/6 章实验环境。任何超参只能从 config 读，禁止硬编码。
+#
+# ★ Qwen3 迁移 (2026-06)：主干从 Qwen2.5 系列全面升级为 Qwen3 系列。
+#   嵌入与重排同步切换为 Qwen3-Embedding / Qwen3-Reranker。
 
 project: milrag
 seed: 42
@@ -16,40 +19,44 @@ paths:
 offline: true                       # HARD CONSTRAINT：运行时零外网。HF_HUB_OFFLINE=1
 log_level: INFO
 
-# ---- 设备（论文：第3/4章 A100 40GB 单卡；第6章 A100 80GB×2）----
+# ---- 设备（vGPU-48GB 单卡即可覆盖全部实验）----
 device:
   type: cuda
-  # 第3/4章主线
-  single_gpu_mem_gb: 40
-  # 第6章集成部署
-  serve_gpu: "A100-80GB x2"
+  gpu_mem_gb: 48                   # vGPU-48GB：单卡跑通 29/31 实验（14B 需 offload）
+  # Qwen3-8B fp16 ~16GB | Qwen3-14B fp16 ~28GB (device_map="auto" 可跑)
+  # Qwen3-32B int4 ~18GB (机器标注，一次性任务)
+  serve_gpu: "vGPU-48GB"
 
 # ---- 模型本地路径（离线，按实际部署填）----
 models:
-  # 主干 LLM（论文 4.6.1 主线 Qwen2.5-7B-Instruct）
-  llm_backbone: /models/Qwen2.5-7B-Instruct
-  llm_backbone_14b: /models/Qwen2.5-14B-Instruct          # 8bit 量化对照
-  llm_backbone_deepseek: /models/DeepSeek-R1-Distill-Qwen-7B
-  # 机器初标用（论文 3.3.2，本地推理避免上传敏感数据）
-  llm_annotator: /models/Qwen2.5-72B-Instruct
-  # 嵌入（论文 3.4.1 主线 BGE-large-zh-v1.5）
-  embedding: /models/bge-large-zh-v1.5
-  embedding_m3: /models/bge-m3
-  # NLI（第5章一致性判定，中文）
+  # ★ 主干 LLM（Qwen3 系列，论文主线 Qwen3-8B）
+  llm_backbone: /models/Qwen3-8B-Instruct
+  llm_backbone_14b: /models/Qwen3-14B-Instruct            # 大模型对照（需 offload）
+  llm_backbone_32b: /models/Qwen3-32B-Instruct             # 机器标注（int4 量化后 ~18GB）
+  # 外部基线对照
+  llm_deepseek_r1: /models/DeepSeek-R1-Distill-Qwen-7B     # 保留作为对照基线
+  # ★ 嵌入（Qwen3-Embedding 系列）
+  embedding: /models/Qwen3-Embedding-4B                    # 论文主线（替代 BGE-large-zh）
+  embedding_8b: /models/Qwen3-Embedding-8B                 # 对照（替代 BGE-M3）
+  embedding_small: /models/Qwen3-Embedding-0.6B            # 轻量对照（替代 BGE-Base）
+  # 外部嵌入基线（保留用于 Exp 3-1 对照）
+  embedding_bge_large: /models/bge-large-zh-v1.5           # BGE 基线（论文原主线）
+  embedding_bge_m3: /models/bge-m3                         # BGE-M3 基线
+  # NLI（第5章一致性判定，中文，保留独立模型）
   nli: /models/nli-zh
-  # NER（论文 3.2.2 BERT-CRF）
+  # NER（论文 3.2.2 BERT-CRF，保留）
   ner: /models/military-bert-crf
-  # Reranker（Cross-Encoder，论文 3.5 仅终轮启用）
-  reranker: /models/bge-reranker-large
+  # ★ 重排序（Qwen3-Reranker）
+  reranker: /models/Qwen3-Reranker-8B                      # 替代 BGE-Reranker-large
 
-# ---- 软件栈版本（论文 6.4；与参考实现的版本差异见 CLAUDE.md §5）----
+# ---- 软件栈版本（Qwen3 兼容）----
 stack:
   python: "3.10"
-  torch: "2.1.x"
-  transformers: "4.40"
-  peft: "0.10"
-  vllm: "0.4"
-  faiss: "1.7.4"
+  torch: "2.4.x"                    # Qwen3 推荐 torch≥2.4
+  transformers: "4.51"              # Qwen3 需要较新 transformers
+  peft: "0.14"                      # LoRA 适配 Qwen3
+  vllm: "0.7"                       # Qwen3 支持
+  faiss: "1.8.0"
   elasticsearch: "8.13"
   postgresql: "16"
 

@@ -1,5 +1,8 @@
 # config/retrieval.yaml — 第 3 章：数据 / 知识库 / 嵌入 LoRA 微调
 # 真相来源：论文 3.2 ~ 3.5。
+#
+# ★ Qwen3 迁移：嵌入主线切换为 Qwen3-Embedding-4B（1024d）。
+#   BGE-large-zh / BGE-M3 / E5 / M3E 降格为对照基线（Exp 3-1）。
 
 # ============ 知识库构建（论文 3.2）============
 knowledge_base:
@@ -51,17 +54,19 @@ qa_dataset:
   # 划分（论文 3.3.4，8:1:1）
   split: {train: 1020, val: 128, test: 128}
   # 构造与质量（论文 3.3.2 / 3.3.4）
-  annotation: {machine_init_model: llm_annotator, human_verify: "双盲+第三方仲裁"}
+  # ★ Qwen3 迁移：机器初标用 Qwen3-32B（int4 量化）替代 Qwen2.5-72B
+  annotation: {machine_init_model: llm_backbone_32b, human_verify: "双盲+第三方仲裁"}
   quality: {cohen_kappa: 0.82, evidence_consistency: 0.968, format_fixed: 47, recheck_revised: 39}
   # 样本字段（论文 3.3.3）
   fields: [id, type, question, answer, evidence_chunks, key_reasoning_points, adversarial_inject, source_meta]
 
 # ============ 嵌入 LoRA 微调（论文 3.4 / 3.5.1）============
 embedding_finetune:
-  baseline_candidates: [bge-base-zh, bge-large-zh-v1.5, bge-m3, e5-large-zh, m3e-large]
-  main_model: bge-large-zh-v1.5    # 论文主线
-  embed_dim: 1024
-  max_seq_len: 512
+  # ★ Qwen3 迁移：主线用 Qwen3-Embedding-4B，对照含 BGE 基线
+  baseline_candidates: [Qwen3-Embedding-0.6B, Qwen3-Embedding-4B, Qwen3-Embedding-8B, bge-large-zh-v1.5, bge-m3, e5-large-zh]
+  main_model: Qwen3-Embedding-4B       # ★新主线（替代 BGE-large-zh-v1.5）
+  embed_dim: 1024                       # Qwen3-Embedding-4B 输出维度
+  max_seq_len: 8192                     # Qwen3-Embedding 支持更长上下文
   lora: {rank: 16, alpha: 32, dropout: 0.05, target: [q_proj, k_proj, v_proj]}  # 仅注意力 Q/K/V
   optim: {name: adamw, lr: 1.0e-4, warmup_ratio: 0.05, scheduler: cosine}
   batch_size: 128                  # 受显存限制，bs64 + 梯度累积等效到 128
@@ -72,10 +77,14 @@ embedding_finetune:
 # ============ 检索/重排（论文 3.5.1）============
 retrieve:
   dense_topk: 20
-  rerank: {enable_final_only: true, candidate_topk: 50, keep_topk: 10, extra_latency_ms: 80}
+  # ★ Qwen3 迁移：Cross-Encoder 换 Qwen3-Reranker-8B
+  rerank: {enable_final_only: true, candidate_topk: 50, keep_topk: 10, extra_latency_ms: 65}
   # 注意：动态检索中间轮不启用 reranker（CLAUDE.md §6）
 
-# ============ 验收基准（论文实验数值，复现时对齐）============
-# Exp 3-1 主线：BGE-large-zh  R@10 零样本 71.4 -> LoRA 78.6 ; +CrossEncoder 81.3
+# ============ 验收基准（Qwen3 实测，待跑通后填写）============
+# ★ Qwen3 迁移后预期：Qwen3-Embedding-4B 零样本 R@10 应高于 BGE-large 的 71.4；
+#   LoRA 微调后目标 ≥ 旧版 78.6；+ Qwen3-Reranker 目标 ≥ 81.3。
 expected:
-  bge_large_zh: {zeroshot_r10: 71.4, lora_r10: 78.6, lora_mrr: 62.7, lora_ndcg10: 65.8, rerank_r10: 81.3}
+  qwen3_embed_4b:  {zeroshot_r10: "TBD", lora_r10: "TBD", lora_mrr: "TBD", lora_ndcg10: "TBD", rerank_r10: "TBD"}
+  bge_large_zh:     {zeroshot_r10: 71.4, lora_r10: 78.6, lora_mrr: 62.7, lora_ndcg10: 65.8, rerank_r10: 81.3}
+  note: "BGE 数值为原论文基线保留；Qwen3-Embedding 实测后填入 TBD 项"
