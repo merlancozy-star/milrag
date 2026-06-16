@@ -1,6 +1,6 @@
 """retrieval/embedding.py — 嵌入模型封装（论文 3.4.1）。
 
-主线：BGE-large-zh-v1.5（1024d），对照 BGE-M3、E5-large-zh。
+★主线：Qwen3-Embedding-4B（1024d，8192 ctx）。对照：Qwen3-Embedding-8B、BGE-large-zh、BGE-M3、E5-large-zh。
 支持 query / document 双编码器 + LoRA 适配器加载。
 完全离线加载（local_files_only=True）。
 """

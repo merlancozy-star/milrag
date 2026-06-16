@@ -8,7 +8,7 @@
 # Adapted from WisdomShell/ETC (entropy trend modeling). 改造点：
 #   1. 中文军事域（停用词/分词换中文方案，不用 spaCy en_core_web_sm）。
 #   2. 不替换注意力信号 s_a 与查询重构——它们是本论文增量。
-#   3. transformers 4.40 eager attention 路径（ETC 用 4.30，钩子 API 不同）。
+#   3. transformers 4.51 eager attention 路径（ETC 用 4.30，本项目的 Qwen3 模型已验证兼容）。
 
 接入：本模块产出 trend 信号，作为 detector.py 中 s_h 的趋势版参与加权 S(t)。
 所有超参从 config/dynamic.yaml: signals.entropy_trend 读，禁止硬编码。

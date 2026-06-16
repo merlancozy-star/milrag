@@ -1,8 +1,8 @@
 """retrieval/reranker.py — Cross-Encoder 重排序（论文 3.5.1）。
 
-模型：BGE-Reranker-large（Cross-Encoder）。
-仅终轮/最终展示启用（+~2.7pt R@10，+80ms/次额外延迟）。
-动态检索中间轮不启用——节约 ~80ms/次（CLAUDE.md §6）。
+★模型：Qwen3-Reranker-8B（Cross-Encoder，替代 BGE-Reranker-large）。
+仅终轮/最终展示启用（+~2.7pt R@10，+65ms/次额外延迟）。
+动态检索中间轮不启用——节约 ~65ms/次（CLAUDE.md §6）。
 
 流程：top-50 候选 → Cross-Encoder 逐对打分 → 保留 top-10。
 """

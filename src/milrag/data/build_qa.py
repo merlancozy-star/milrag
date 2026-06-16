@@ -1,6 +1,6 @@
 """data/build_qa.py — 军事情报问答数据集构造（论文 3.3）。
 
-机器初标（Qwen2.5-72B 本地）+ 人工校验（双盲 + 第三方仲裁，κ=0.82）。
+机器初标（Qwen3-32B int4 量化，本地）+ 人工校验（双盲 + 第三方仲裁，κ=0.82）。
 三类样本：factual(510, hops≈1.0) / reasoning(446, hops≈2.7) / adversarial(320, hops≈1.8)，合计 1276。
 字段：id / type / question / answer / evidence_chunks / key_reasoning_points / adversarial_inject / source_meta。
 划分 8:1:1 → train(1020) / val(128) / test(128)。

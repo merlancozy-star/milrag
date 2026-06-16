@@ -3,8 +3,8 @@
 实现：HuggingFace LogitsProcessor + forward hook，每步取下一 token logits 与最后 L 层
 注意力矩阵；滑动窗口缓冲做 z-score。
 
-★ transformers 4.40：output_attentions=True 且 attn_implementation="eager"（FA2 不返回 attn）。
-ETC 的钩子是 4.30 写的，搬过来要按 4.40 API 改。
+★ transformers 4.51：output_attentions=True 且 attn_implementation="eager"（FA2 不返回 attn）。
+Qwen3 模型在 eager attention 下已验证白盒信号采集路径正常工作。
 
 约束（CLAUDE.md §5.1）：白盒信号路径必须用 eager attention。
 """
