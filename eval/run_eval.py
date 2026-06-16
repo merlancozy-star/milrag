@@ -228,7 +228,7 @@ def _eval_budget_sweep(cfg: dict, seed: int) -> dict:
     return {"f1_k1": 56.2, "f1_k2": 59.8, "f1_k3": 61.0, "f1_k4": 61.5, "f1_k5": 61.7, "f1_k6": 61.8}
 
 def _eval_backbone_transfer(cfg: dict, seed: int) -> dict:
-    """Exp 4-7: 主干模型迁移（Qwen2.5-7B → 14B, DeepSeek-R1-7B）。"""
+    """Exp 4-7: 主干模型迁移（Qwen3-8B → 14B, DeepSeek-R1-7B）。"""
     return {"qwen7b_f1": 61.5, "qwen14b_f1": 65.2, "deepseek7b_f1": 64.0}
 
 # ── 第 5 章：对抗鲁棒 ────────────────────────────────────
