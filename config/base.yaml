@@ -27,27 +27,29 @@ device:
   # Qwen3-32B int4 ~18GB (机器标注，一次性任务)
   serve_gpu: "vGPU-48GB"
 
-# ---- 模型本地路径（离线，按实际部署填）----
+# ---- 模型本地路径（按 AutoDL 实际路径配置）----
+# AutoDL: /root/autodl-tmp/models/
+# 本地:   已改用 API 模式，以下路径仅 AutoDL 使用
 models:
   # ★ 主干 LLM（Qwen3 系列，论文主线 Qwen3-8B）
-  llm_backbone: /models/Qwen3-8B-Instruct
-  llm_backbone_14b: /models/Qwen3-14B-Instruct            # 大模型对照（需 offload）
-  llm_backbone_32b: /models/Qwen3-32B-Instruct             # 机器标注（int4 量化后 ~18GB）
+  llm_backbone: /root/autodl-tmp/models/Qwen3-8B-Instruct
+  llm_backbone_14b: /root/autodl-tmp/models/Qwen3-14B-Instruct   # 大模型对照（需 offload）
+  llm_backbone_32b: /root/autodl-tmp/models/Qwen3-32B-Instruct    # 机器标注（int4 量化后 ~18GB）
   # 外部基线对照
-  llm_deepseek_r1: /models/DeepSeek-R1-Distill-Qwen-7B     # 保留作为对照基线
+  llm_deepseek_r1: /root/autodl-tmp/models/DeepSeek-R1-Distill-Qwen-7B
   # ★ 嵌入（Qwen3-Embedding 系列）
-  embedding: /models/Qwen3-Embedding-4B                    # 论文主线（替代 BGE-large-zh）
-  embedding_8b: /models/Qwen3-Embedding-8B                 # 对照（替代 BGE-M3）
-  embedding_small: /models/Qwen3-Embedding-0.6B            # 轻量对照（替代 BGE-Base）
+  embedding: /root/autodl-tmp/models/Qwen3-Embedding-4B           # 论文主线
+  embedding_8b: /root/autodl-tmp/models/Qwen3-Embedding-8B        # 对照
+  embedding_small: /root/autodl-tmp/models/Qwen3-Embedding-0.6B   # 轻量对照
   # 外部嵌入基线（保留用于 Exp 3-1 对照）
-  embedding_bge_large: /models/bge-large-zh-v1.5           # BGE 基线（论文原主线）
-  embedding_bge_m3: /models/bge-m3                         # BGE-M3 基线
-  # NLI（第5章一致性判定，中文，保留独立模型）
-  nli: /models/nli-zh
-  # NER（论文 3.2.2 BERT-CRF，保留）
-  ner: /models/military-bert-crf
+  embedding_bge_large: /root/autodl-tmp/models/bge-large-zh-v1.5
+  embedding_bge_m3: /root/autodl-tmp/models/bge-m3
+  # NLI（第5章一致性判定）
+  nli: /root/autodl-tmp/models/nli-zh
+  # NER（论文 3.2.2 BERT-CRF）
+  ner: /root/autodl-tmp/models/military-bert-crf
   # ★ 重排序（Qwen3-Reranker）
-  reranker: /models/Qwen3-Reranker-8B                      # 替代 BGE-Reranker-large
+  reranker: /root/autodl-tmp/models/Qwen3-Reranker-8B
 
 # ---- 软件栈版本（Qwen3 兼容）----
 stack:
