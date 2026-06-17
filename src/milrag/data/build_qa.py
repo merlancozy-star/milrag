@@ -85,11 +85,39 @@ def generate_candidates(
         prompt = prompt_template.format(context=context)
         try:
             raw = annotator.generate(prompt, max_new_tokens=512)
-            # 提取 JSON
+            # 提取 JSON（支持嵌套 + markdown 包裹）
             import re
-            json_match = re.search(r"\{[^{}]*\}", raw, re.DOTALL)
-            if json_match:
-                qa = json.loads(json_match.group(0))
+            qa = None
+
+            # 策略1: 从 ```json ... ``` 提取
+            m = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", raw, re.DOTALL)
+            if not m:
+                # 策略2: 找最外层 { } 对（按括号深度匹配）
+                start = raw.find("{")
+                if start >= 0:
+                    depth = 0
+                    end = start
+                    for j in range(start, len(raw)):
+                        if raw[j] == "{": depth += 1
+                        elif raw[j] == "}":
+                            depth -= 1
+                            if depth == 0:
+                                end = j + 1
+                                break
+                    if depth == 0:
+                        m = re.match(r"(\{.*\})", raw[start:end], re.DOTALL)
+
+            if m:
+                try:
+                    qa = json.loads(m.group(1))
+                except json.JSONDecodeError:
+                    pass  # 解析失败，静默跳过
+
+            if qa is None and i < 3:
+                # 前3条失败时打印调试信息
+                print(f"    [DEBUG] raw response ({len(raw)} chars): {raw[:300]}")
+
+            if qa is not None:
                 qa["source_chunk_id"] = c["chunk_id"]
                 qa["sample_type"] = sample_type
                 qa["hops"] = len(qa.get("reasoning_steps", qa.get("key_facts", [1])))
