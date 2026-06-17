@@ -1,0 +1,104 @@
+The Anthropic logo appears on a smartphone screen in this photo illustration, as the AI firm files lawsuits against the United States Department of Defense after the Pentagon moves to blacklist the company following disagreements over safeguards limiting the use of its AI systems for surveillance and autonomous weapons. (Photo by Jonathan Raa/NurPhoto via Getty Images)						
+
+WASHINGTON The administration s latest crackdown on Anthropic further complicates the AI titan s already ambivalent relationship with the Pentago
+n, 
+which had been simultaneously banning most Anthropic products while carving out an exemption for its latest model, Mythos,
+ analysts told Breaking Defense.
+
+On Friday, the Commerce Department classified Ant
+hropic s Mythos/Fable 5 as cyber weapons subject to export controls which makes it illegal for Anthropic to provide them to any foreign national, even its own employees. The reasoning: 
+Amazon
+
+reportedly
+ told the government it had found a way around safeguards Anthropic put in place to prevent misuse of
+
+the 
+bug-hunting capabilities
+ that made Mythos so 
+attractive to hackers
+
+, 
+
+including the NSA
+.
+
+Anthropic, in turn, 
+shut down public access to all users
+, including US citizens, late on Friday, arguing it had no way to exclude only foreigners. The company says its safeguards still largely hold and the breach can be easily repaired. As of Monday, a delegation of senior Anthropic executives has 
+reportedly
+ flown to DC to try to resolve the dispute.
+
+Defense Secretary Pete Hegseth seized on the Commerce ruling as new ammunition for his highly public criticism of Anthropic as irresponsible and unreliable.
+
+ Three months ago, @DeptofWar kicked @AnthropicAI out of our building forever, he posted 
+on X.com Saturday
+, using the informal name for the Department. Every passing day proves why that was the right move. 
+
+But, as an X.com community note quickly pointed out, this official statement is not accurate or truthful. 
+
+First of all, when Hegseth and President Donald 
+Trump issued a ban on federal agencies using Anthropic
+ back at the end of February, it didn t take immediate effect. Instead, Trump 
+allowed
+ a Six Month phase out period, tacitly acknowledging 
+how dependent some defense agencies had become
+ on Anthropic s earlier AI, Claude, for rapid-fire coding and even, reportedly, planning against 
+Venezuela
+ and 
+Iran
+.
+
+Meanwhile, Anthropic had begun testing Mythos, a new model that is widely reported to have superhuman ability to find bugs and security vulnerabilities in code making it immensely useful for both cyber defense and cyber attack. The secretive National Security Agency 
+reportedly
+ started using Mythos in offensive operations at the same time as the administration was trying to phase out Anthropic overall.
+
+Just last week, a sweeping 
+National Security Presidential Memorandum on AI issues
+ formalized this ambivalent stance. Without naming Anthropic, 
+NSPM-11
+ orders agencies to terminate contracts with AI companies deemed uncooperative. But the same paragraph of the memo also establishes a (strictly limited) waiver process to continue such contracts if necessary to responsibly steward United States national security. 
+
+That s a delicate wire to walk amidst a political windstorm.
+
+Expert Warnings
+
+The preview version of Mythos in use by NSA is not believed to be affected by the shutdown of the public version,
+
+according to both expert interviews and 
+published reports
+
+. Nevertheless, the latest blow-up between Anthropic and the administration could well mean blow-back for the Pentagon, including in 
+two ongoing lawsuits
+ filed by Anthropic.
+
+The Commerce Department declaration does not change the legal fundamentals of either case, explained
+ Jessica Tillipman
+, associate dean at the George Washington University Law School, because they challenge the specific supply chain risk designations against the company, not export restrictions. But Commerce s actions still provide legal ammunition in the lawsuits, she told Breaking Defense potentially to either side.
+
+ Both of those [lawsuits] are under different authorities than the export control directive, Tillipman said. But I do think both sides may use this to support their cases the government using this to suggest Anthropic is risky, while Anthropic may claim it is being singled out. 
+
+In the court of public opinion, meanwhile, imposing export controls on Anthropic s new AI models, on top of the previous ban and 
+the administration s ferocious rhetoric
+, could easily be seen as politically motivated persecution, warned 
+Jack Shanahan
+, the former head of the military s groundbreaking Project Maven and its Joint AI Center. That would chill relations between the administration and the wider tech sector it has been wooing, especially for military use, the retired three-star general told Breaking Defense.
+
+ Even if I take, at face value, the claim that Amazon found a way to jailbreak the latest Anthropic models and hence this is a legitimate national security concern, it still smacks of an ongoing vendetta against Anthropic and Dario personally, Shanahan said, referring to Anthropic CEO Dario Amodei. Even the companies who are in the administration s good graces for the time being will see the ramifications of this latest order: the ability to do major damage to their business models at the drop of the hat. 
+
+The shutdown of Mythos/Fable 5 was truly sudden: I was using it at five o clock and then, at eight o clock, it was offline, said 
+Charlie Bullock
+, of the Institute for Law AI.
+
+Anthropic 
+reports
+ it got the Commerce Department s official notice at 5:21. While Commerce didn t require Anthropic cut off access to US users as foreign ones, the company had no way to tell which was which for its public product, Bullock told Breaking Defense, and the administration must have known the company s only option would be a total shutdown.
+
+The irony is that Anthropic and the Pentagon had been inching towards a reconciliation, or at least a workable d tente, Bullock and Shanahan agreed.
+
+ Mythos was such a useful tool that the rest of the government was kind of quietly walking back what the Department of War had done, Bullock said. There were statements by President Trump about, you know, they re very smart people, we can work with them. 
+
+Similarly, everything Dario has said and written over the past two weeks has, in my opinion, been carefully crafted to send the message that Anthropic wants to continue working with the government, Shanahan said. It s almost as if he s been bending over backwards to send a conciliatory message. Since the damage already seems to be done, however, his message appears to be falling on deaf ears. 
+
+The greater problem, the ex-general worried, is that the conflict with Anthropic distracts from wider issues that need more enduring solutions.
+
+ It will be a few months, at most, before there are open-source versions of the kinds of capabilities these latest Anthropic models are offering, Shanahan said. We are not prepared for this. It s going to happen. When it does, all the White House memos, directives, executive orders, and export control directives could be obsolete by the time they hit the street.

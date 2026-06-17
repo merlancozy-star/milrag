@@ -1,14 +1,46 @@
+# Python
 __pycache__/
 *.pyc
 .venv/
-# 数据与权重不入库
-data/raw/sensitive/
-data/raw/**/*.tsv
-data/kb/
-*.faiss
+*.egg-info/
+
+# 模型权重 (不入库)
 *.bin
 *.safetensors
-# 实验大产出
-experiments/**/ckpts/
-experiments/**/*.log
+*.pt
+*.pth
+*.faiss
 *.npy
+*.h5
+*.ckpt
+*.onnx
+
+# 大型数据文件 (样本保留在 data/raw/ 中，完整数据集需用 scripts/download/ 重新生成)
+data/raw/*.bz2           # Wikipedia dump 文件
+data/raw/corpus_manifest.json
+
+# 知识库索引 (不入库 — 用 run_index.py 重新构建)
+data/kb/
+
+# QA 数据集 (不入库 — 用 build_qa.py 重新生成)
+data/qa/
+
+# 对抗数据集 (不入库 — 用 build_adversarial.py 重新生成)
+data/adversarial/
+
+# 涉密数据 (永不入 git)
+data/raw/sensitive/
+
+# 实验产出
+experiments/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

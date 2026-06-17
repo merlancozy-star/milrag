@@ -1,0 +1,23 @@
+70 mm laser guided proxy rocket at Thales Belgium facility in Herstal (Agnes Helou)						
+
+HERSTAL, Belgium Thales has officially launched its latest version of the 70 mm laser guided rocket, LGR275 Proxy, which is equipped with new LiDAR proximity sensor specifically designed to target enemy drones. 
+
+The new design was unveiled to the public during the first day of the Eurosatory exhibition in Paris, but Thales officials told Breaking Defense during a May media 
+tour
+ that the new sensor was developed in response to ongoing conflicts in Europe and the Middle East.
+
+The new rocket is guided through a laser designator similar to the older version, and is produced in Thales Belgium facilities. Its new LiDAR (light detection and ranging) sensor uses laser pulses to measure the distance to the target and gets activated when in proximity of the threat.
+
+ The use of laser designation has some limitation when it s raining, for instance, and so we are seeing some key mature evolution of the technology, which allows also us to really accelerate this kind of implementation of new solutions, Alain Quevrin, country director of Thales Belgium and Luxembourg, told Breaking Defense in an interview. (Like other media outlets, Breaking Defense accepted travel and accommodation from Thales for the trip.) 
+
+He said that Thales is ready to deliver to the market a dedicated solution for this counter UAS, with some proximity fuses which is a quick answer to an urgent need, adding, It is something we developed quite quickly, because two years ago it was not on the table. After analyzing the weaknesses of the usage, it [development] was accelerated. 
+
+The laser guided rocket Proxy will be part of a Thales layered air defense system, dubbed SkyDefender.
+
+Thales Belgium is attempting to increase production capacity of its guided rockets after the conflict in the Middle East, and company officials expect to produce 20,000 units annually by 2028, a rough average of 100 guided rockets per day.
+
+ We are accelerating and changing the numbers. If we were talking together a few months back, before what s happening in the Middle East, in fact, the numbers were not in the same. We more than doubled the number, considering the situation at the moment in the Middle East, Thomas Colinet, managing director at Thales Belgium, told Breaking Defense.
+
+He added that Thales is getting prepared to support the
+ Middle East
+ in quantities, in mass production with cost-effective solution, that s key for us to be really in a structure of make to stock, he said pointing that now Thales Belgium is in a process of making to stock to be ready when all the requests will come.

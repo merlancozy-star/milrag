@@ -1,0 +1,137 @@
+The Pentagon&#039;s AI Edge Is Being Distilled Away
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+Cogs of War
+
+ The Pentagon&#8217;s AI Edge Is Being Distilled Away 
+
+Sebastian Elbaum
+
+June 5, 2026
+
+Cogs of War
+
+Cogs of War
+
+ The Pentagon&#8217;s AI Edge Is Being Distilled Away 
+
+ #Artificial Intelligence 
+
+ #U.S.-Chinese Competition 
+
+Sebastian Elbaum
+
+June 5, 2026
+
+Adversaries do not need to breach the Pentagon s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an 
+AI-first
+ warfighting machine. In this new context, military predominance is a derivative of AI model supremacy. From 
+Project Maven
+ s intelligence fusion to the high-velocity sensor-to-shooter loops of 
+Anduril s Lattice
+, the Defense Department s most advanced systems are tethered to the frontier models forged by tech heavyweights like Anthropic, Google, and OpenAI. As long as these firms hold the high ground in the global race among frontier AI models, the Pentagon will enjoy a strategic advantage. Granted, access to frontier models is only a necessary condition: Securing an operational edge requires that they be successfully integrated, tested, and deployed across the joint force, yet their foundational importance cannot be overstated. The department s own leadership has admitted as much, framing mission success in terms of 
+the ability to out-compute
+, a race to innovate faster than the adversary can learn.
+Foreseeing such challenges, starting in 2022, the U.S. government began to ban the 
+export of high-end chips
+ and has recently intensified these efforts with Congress advancing the 
+Multilateral Alignment of Technology Controls on Hardware Act
+ to restrict adversaries capacities for chip fabrication. These measures aim to starve rivals of the tools required for AI to scale. In spite of these controls, U.S. leadership in frontier models has weakened. The 
+2026 Stanford 
+AI Index
+ report
+ highlights a narrowing gap showing between top U.S. and Chinese models on multiple benchmarks. For example, in the Arena leaderboard, the gap has narrowed to just 2.7 percent, down from 17 percent in 2023.
+
+A major driver of this narrowing gap is a technique called distillation. Distillation allows Chinese firms to reduce the expensive, data-heavy pattern discovery phase of AI model building, replacing it with a streamlined, cheaper, and faster imitation phase. By significantly reducing the need for massive datasets and prohibitive compute needed for model training, distillation renders traditional export controls insufficient to maintain a strategic lead.
+
+Because distillation directly undermines America s frontier model advantage on which the military relies, preserving a strategic lead requires the Department of Defense to look beyond the nation s hardware-centric moat. The Defense Department should adopt a strategy that actively safeguards the U.S. frontier model head start while accelerating its own model refinement and safe adaptation. This paper recommends a two-pronged strategy. First, the Pentagon should partner with frontier companies to station liaisons within these firms to gain foresight into the capabilities of upcoming models. When these liaisons identify breakthrough capabilities, the department should activate a staggered release with the model builder to secure a critical window of exclusive access prior to public rollout. Second, the Pentagon should establish a high-velocity refinement pipeline that turns these secured models into specialized operational assets. This requires a loop where frontier models are fed fresh theater data, protected by automated safety floors, and seamlessly integrated into systemic workflows. By combining this rapid deployment cycle with a temporal head start, the United States can counteract Chinese distillation advantages and maintain its warfighting edge.
+
+Sign Up for Our Newsletter
+
+The Distillation Loophole 
+
+Through a distillation technique, a less capable model, typically called the student , is trained to replicate the behavior and reasoning of a more powerful model, called the teacher . In 2023, Stanford researchers demonstrated that 
+frontier model behavior could be reproduced for pennies on a dollar
+, distilling Meta s Llama into a student model that achieved similar instruction-following capabilities for $600 compared with Llama s $82,000 training cost. By using a teacher model as both a high-speed, high-quality data labeler and a window into the underlying sophisticated thought processes of a model, an adversary can significantly cut the learning curve, converging to an optimized model with fewer resources. This allows a student model to inherit the teacher s logic and achieve near-frontier performance at a fraction of the cost. Crucially, this process can occur even when the teacher model is proprietary and closed. An adversary only needs access to the model s outputs to mimic its intelligence. Today, training a frontier model from scratch 
+demands trillions of labeled data points and hundreds of millions of dollars in compute
+, making distillation a compelling shortcut for adversaries lacking the compute capital required to compete head-on.
+
+Even the most draconian hardware export controls cannot restrict the flow of frontier model outputs that are used for distillation. The primary doorway to frontier models is their application programming interface. This interface provides the connector for external software to interact with a model. Yet, every time a frontier model is accessed via an application programming interface, its response effectively leaks its costly intelligence to anyone with a subscription. Industry leaders and policymakers are increasingly concerned. 
+Industry heavyweights have repeatedly warned
+ that Chinese firms have systematically harvested frontier models logic via distillation. In the most 
+detailed report on distillation to date,
+ Anthropic recently accused Chinese labs such as DeepSeek and Moonshot AI of generating millions of calls from thousands of fraudulent accounts to the application programming interfaces of their Claude model series to systematically extract its capabilities. This extraction enabled these young firms, founded only in 2023, to rapidly deploy frontier-class models at an accelerated cadence and with a nearly 90 percent operational discount. Furthermore, Michael Kratsios, director of the White House Office of Science and Technology Policy, 
+issued a memo, Adversarial Distillation of American AI Model, warning
+ that application programming interfaces currently serve as an unprotected pipeline for American intellectual property, allowing adversaries to build near-frontier models significant less investment in research and development.
+
+Quantifying precisely how much China s rapid catch-up is driven by distillation alone would be a complex exercise. Other contributing factors, such as , are helping China close the gap with the United States. Nevertheless, such factors are insufficient to bypass China s hardware disadvantage on their own. The United States controls roughly three-quarters of global high-end AI compute capacity, compared to China s 15 percent. Lacking access to top-tier hardware pipelines at home, Chinese labs simply cannot afford the multi-billion-dollar, brute-force trial and error required to discover frontier capabilities from scratch. Renting overseas compute provides a real outlet, but it cannot match the massive scale and low latency of domestic infrastructure. It is therefore highly likely that distillation accounts for a significant portion of China s rapid catch-up as it addresses the country s primary bottleneck compute.
+
+Buying Time: Foresight and a Staggered Release 
+
+How can the Department of Defense retain a decisive AI advantage when the commercial frontier models underpinning its advanced systems are increasingly susceptible to distillation?
+
+The department has already 
+secured agreements with leading model builders
+ to deploy frontier models directly onto classified, air-gapped networks, shielding them, and more specifically, their application programming interfaces from external distillation efforts behind robust firewalls. However, because the military builds its specialized systems on top of commercially available frontier models, an adversary s ability to rapidly distill that model means the technological asymmetry the Pentagon relies on evaporates before the military can even finish its downstream integration cycle.
+
+To mitigate this vulnerability, the Pentagon should flip its traditional adoption loop by embedding Chief Digital and Artificial Intelligence Office liaisons directly inside frontier tech labs. Current industry representatives help the military adopt existing, commercially available models. By contrast, forward-deployed defense liaisons operate on the supply side to secure early foresight, tracking capabilities months before public rollout. More importantly, when these liaisons spot an impending operational leap in model capabilities, it should trigger a negotiation for an exclusive window of early access for the U.S. military prior to public rollout. This window would provide a head start to integrate these capabilities into critical systems before the public release triggers the inevitable distillation by adversaries.
+
+Gaining access to such models early hinges on establishing the right governance structure and financial incentives. The 
+recent executive order on secure frontier model deployment
+ establishes a precedent by creating a framework to identify covered frontier models and secure early federal access to them for up to 30 days before public release. Translating this voluntary, security-focused precedent into a broader tool for sustained military overmatch requires bridging policy and execution. Under such a framework, the National Security Council would serve as the policy authority, issuing a special strategic overmatch designation to provide the legal cover for delaying a model s release. Simultaneously, the Chief Digital and Artificial Intelligence Office would act as the operational lead, leveraging its authorities to acquire and integrate frontier models into mission-critical workflows months before a public launch. Unlike preexisting corporate self-governance frameworks, which are typically triggered by risk thresholds, this staggered release model operates on a different premise: it is triggered by a national security determination to serve a broader strategy.
+
+Forging a collaborative agreement among fiercely competitive frontier labs is more complex. AI companies are beholden to investors and locked in a race where proprietary insights and a few months of delay risk forfeiting market position, triggering an exodus of talent, and losing ground to domestic or allied rivals operating without such constraints. Yet the private sector has already demonstrated a willingness to come to the table. Even though technology leaders like Anthropic have a complex relationship with the Department of Defense, initiatives like 
+Project Glasswing
+ show that companies can prioritize broader systemic safety by coordinating on staggered deployment timelines.
+
+To sustain this collaboration, Washington should deploy financial tools, such as an overmatch premium funded through defense investment channels, to compensate partner labs for forfeited commercial revenue. The concept is not new, but it builds on historical precedents from other vital dual-use fields, where the U.S. government has successfully partnered with the private sector to balance American competitiveness and national security. By utilizing this compensatory model, the military can harvest a model s capabilities first, without destabilizing the commercial ecosystem.
+
+Critics may argue that the temporal advantage from early foresight and a window of exclusive access has limited value, given that an adversary can launch hundreds of thousands of queries against a U.S. frontier model within days of public release to distill it. Yet, this head start still confers an important operational edge. Because frontier models follow rapid four-to-six-month release cycles, compounding the liaison foresight with the window of early access ensures the United States is already launching a next-generation model by the time an adversary finishes cloning and deploying the previous iteration.
+
+Time to Safely Accelerate AI Adoption
+
+However, a time-bounded moat like the one proposed only offers a reprieve. To convert this head start into an advantage, the Department of Defense should out-refine the competition before the underlying model is inevitably distilled. Doing so requires the Pentagon to manage three imperatives.
+
+First, the department should recognize that in an era of AI model parity, the primary differentiator is the specificity and freshness of the data used to tune frontier models. Since dominance in data volume is no longer guaranteed, the strategic priority is to out-refine the competition. By feeding frontier models high-quality, theater-specific data, the department can transform a commoditized baseline into a specialized asset, one that understands the unique nuances of a contested operational environment before those models capabilities become globally accessible through distillation.
+
+Second, because the stakes in the military are so high, reliability should be engineered into the data-to-model pipeline itself. The reality is that the department is moving faster than its oversight mechanisms can sustain. Current testing and evaluation protocols cannot match the breakneck cadence of modern AI updates, creating an acute risk of unexpected behavioral drift. To counter this, the department should establish automated safety floors to guarantee that frequent system updates never cause catastrophic regressions or break previously mastered capabilities. Ensuring the stability of system behavior under input perturbations and updates not only prevents accidents in the field but builds trust across the force, giving commanders the confidence to lean into the technology during high-stakes moments.
+
+Third, the Pentagon should treat integration as a systemic challenge rather than a simple data-to-model transfer. True operationalization requires orchestrating complex workflows where models function as interconnected components of a broader warfighting machine, rather than isolated, siloed tools. Ultimately, the department should view refinement and integration as a continuous, closed-loop pipeline that evolves at a velocity and operational scale that adversaries simply cannot match by just distilling the commercial models.
+
+Temporal Reprieve Meets High-Velocity Adoption
+
+American artificial intelligence is inadvertently fueling its rivals, leaking through the cracks of its own interfaces. So long as unrestricted U.S. frontier model rollouts continue, adversaries can use distillation to turn them into private tutors for their own, closing the performance gap at a fraction of the cost and time. This dynamic erodes the military s reliance on U.S. model superiority as a key element of its strategic lead.
+
+The solution lies in the strategic manufacturing of time. This requires early technical foresight to buy advance notice, an exclusive window to secure a deployment head start, and high-velocity integration to maximize operational utility. The temporal advantage begins with hosting department liaisons within frontier companies to provide early technical foresight into model capabilities. When those capabilities constitute a significant leap, the Pentagon can partner with these companies to establish a staggered release framework, underwritten by an overmatch premium , to secure an exclusive usage window before public rollout. This allows the U.S. to proactively prepare for and access AI innovations before adversaries can begin siphoning them through distillation. However, this temporal head start only buys a window of opportunity; the nation s ultimate defense relies on converting that time into an operational lead. The Pentagon can achieve this through a high-velocity refinement pipeline that safely turns these secured models into specialized operational assets. Ultimately, in an era dominated by distillation, the Pentagon s out-compute strategy will be about out-refining and safely integrating the models before adversaries can exploit them.
+
+Write for Cogs of War
+
+Sebastian Elbaum is the Quarles professor in Computer Science at the University of Virginia, where he co-leads the Lab for Engineering Safe Software. He is the recipient of a National Science Foundation Career Award, an IBM Innovation Award, a Google Faculty Research Award, and an Amazon Scholar recognition. He is also an adjunct senior fellow for Emerging Computing Technologies at the Council on Foreign Relations, an Association for Computing Machinery fellow, and an Institute of Electrical and Electronics Engineers fellow.
+
+**Please note, as a matter of house style, 
+War on the Rocks
+ will not use a different name for the U.S. Department of Defense until and unless the name is changed by statute by the U.S. Congress.
+
+Image: Midjourney
+
+Get the Brief
+
+Subscribe to our free Cogs of War newsletter for sharp analysis and grounded insights from technologists, builders, and policymakers.
+
+SIGN UP

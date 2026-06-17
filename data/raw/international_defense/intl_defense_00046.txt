@@ -1,0 +1,265 @@
+Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure 
+
+Samu Paukkunen
+
+and
+
+James Black
+
+June 1, 2026
+
+Commentary
+
+ Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure 
+
+ #Maritime Security 
+
+ #NATO 
+
+ #Russia 
+
+Samu Paukkunen
+
+and
+
+James Black
+
+June 1, 2026
+
+What would happen if you woke up one morning and the internet was gone not from a software glitch, but because someone had simply cut the wire?
+Threats to critical undersea infrastructure are rapidly escalating. In 2023, the 
+Balticonnector pipeline
+ and several Baltic data cables were damaged. A year later, 
+four Red Sea cables
+ were cut, disrupting a quarter of data traffic between Asia and Europe, with further incidents 
+across the Baltic
+. In total, between January 2024 and July 2025, roughly 
+44 incidents of cable damage
+ were recorded. Not all were deliberate, but Russia s activity has grown brazen. In 2025, Moscow 
+sent fighter aircraft
+ to deter Estonian authorities from approaching a shadow fleet vessel near a Poland Sweden cable. Recently, 
+the Yantar
+, a deep-sea intelligence ship, and 
+three Russian submarines
+ conducted operations over Western cables.
+
+For its part, Iran has lately dangled the prospect of 
+charging tolls on undersea cables
+ in the Strait of Hormuz amid a wider blockade. And China has recently tested a 
+new experimental device
+ for cutting cables at depths of thousands of meters. With almost all intercontinental data travelling through such cables, the threat is serious and growing.
+
+A wide range of actors are engaged in resisting attacks against critical undersea infrastructure, from governments and militaries to the private sector providers of the infrastructure itself. But too often, efforts are fragmented and piecemeal, preventing the development of a genuinely resilient network. Issues with coordination, situational awareness, and cost asymmetry between attack and defense all frustrate efforts to mount an effective defense and deterrent response.
+
+NATO has a critical role to play in overcoming these challenges. The urgent question is how the alliance can best adapt to the increasing tempo of hostile Russian, Chinese, and other e.g., non-state activities threatening this vast and vital web of critical undersea infrastructure. Recent initiatives, such as a 
+NATO Centre for Security of Critical Undersea Infrastructure
+ or the 
+uncrewed Task Force X
+ are welcome. But the alliance should go further to translate this ambition into enhanced deterrence and resilience.
+
+Crucially, NATO should respond to threats in more cost-effective ways that do not excessively drain the resources of affected nations a key goal of Russian hybrid activities. This means looking again at how the alliance delivers 
+Baltic Sentry
+ activities to free up high-value maritime assets; investing in new technologies, sensors, and data fusion; further deepening coordination with industry; and supporting more robust investigation, attribution, and law enforcement responses across the alliance.
+
+BECOME A MEMBER
+
+The Strategic Importance of Undersea Infrastructure
+
+NATO s conventional deterrence has always hinged on 
+sea lines of communication.
+ Historically, the focus was on the 
+Greenland-Iceland-U.K. gap
+ and the North Atlantic, securing the flow of American troops and materiel to Europe in the event of Russian or Soviet attack. Today, maritime security is about more than moving ships and submarines. The sea is now also home to an increasingly 
+complex and vulnerable
+ assemblage of data cables, oil and gas pipelines, and electricity interconnectors linking the world beneath the waves.
+
+More than 
+97 percent of the world s telecommunications
+ pass through undersea cables, along with $10 trillion in financial transactions daily. And while investment in renewables may reduce reliance on oil and gas, it also 
+drives demand
+ for new undersea infrastructure particularly electricity interconnectors linking offshore wind farms to the mainland and emerging systems for hydrogen transport and carbon capture.
+
+Disruption to these networks can be incredibly costly. Fixing subsea cables can take weeks, while oil and gas pipelines may take as long as nine months, risking 
+economic costs in the billions
+.
+
+With this 
+dependency comes vulnerability
+. The vast scale and remoteness of undersea infrastructure make comprehensive protection impossible. New technologies, such as 
+uncrewed underwater systems
+, are lowering barriers to espionage and sabotage, while unguarded landing points onshore present attractive targets. Russia s 
+shadow fleet
+ and 
+Chinese-affiliated civilian vessels
+ make detection and surveillance harder and offer plausible deniability. Undersea infrastructure thus offers a massive attack surface, with severe difficulties in attributing the aggressor.
+
+Russia has a long tradition of targeting critical infrastructure and threatening escalation to deter a response. This threat would likely only become more acute and overt in a full-blown crisis or war. In a conflict with NATO, 
+Russian doctrine
+ envisages the destruction of undersea infrastructure and 
+targeting of related infrastructure ashore
+ as part of a wider multi-domain Strategic Operation for the Destruction of Critically Important Targets , aimed at eroding 
+will to fight in the West
+.
+
+The main tools for this campaign have been the 
+Main Directorate of Deep-Sea Research
+, one of the most secretive parts of the Russian Navy, and Russian military intelligence, which controls regional naval 
+Spetsnaz
+ units and intelligence-gathering vessels. These organizations possess capabilities for 
+both shallow- and deep-water operations
+, threatening underwater infrastructure from the Gulf of Finland to the edges of the continental shelf in the Barents Sea. As 
+Vice Adm. Didier Maleterre
+ of NATO Allied Maritime Command has warned, We know the Russians have developed a lot of hybrid warfare under the sea to disrupt the European economy, through cables, internet cables, pipelines. All of our economy under the sea is under threat. 
+
+A Disjointed Response
+
+Coordinating a response is difficult. Critical undersea infrastructure is largely built by the private sector, including 
+big energy or tech firms
+, with investors prioritizing efficiency and profit over costly redundancies. 
+Specialized commercial vessels
+ for inspecting and repairing damage are limited in number and intended for peacetime operations, not a major state-sanctioned attack especially one in which these vessels might themselves come under threat.
+
+In the public sector, some governments 
+split responsibilities for undersea infrastructure
+ among multiple departments, adding further friction. Different civilian agencies often oversee policy and regulation for telecommunications as opposed to energy-related infrastructure, with the navy or coast guard implicitly tasked with protecting both but often without sufficient resources or 
+special capabilities
+ now that threats have intensified.
+
+The transnational nature of such infrastructure adds further complexity. Individual countries are responsible for their territorial waters, and the telecommunication and energy industry for the infrastructure they operate. And within these limits, it is the respective national legislation that is being enforced. But law enforcement or a constabulary function might not deter aggressors, especially as the infrastructure extends beyond national waters, where most of the incidents then occur.
+
+The result is a 
+situation of high dependency
+ by NATO nations on undersea infrastructure, an extensive attack surface, multiple threat vectors including cyber and physical as well as proliferating technical means and falling costs for attacks, and persistent 
+ambiguity and deniability
+ that complicate attribution. The overall system has some resilience built in reflected in the fact that it can cope with dozens of accidents or natural hazards affecting cables a year but it is not designed to deal with aggressors deliberately targeting this infrastructure at scale, especially in times of war and when the costs of offense and defense are so asymmetric.
+
+Preparing for more disruption to these networks should therefore be reflected in both defense planning and capability development with the ultimate goal of developing more cost-effective ways of achieving the necessary protection and resilience long-term.
+
+A New Role for NATO
+
+Until now, NATO has sought to 
+deny the deniability
+, trying to diminish Russia s ability to operate without detection or attribution. This necessitates a 
+growing array of sensors
+, from the seabed to outer space, and enhancing coordination at several levels.
+
+Much has already been done in a belated effort to catch up. Several European countries are investing in special capabilities, as the Multi-Role Ocean Surveillance Ship rushed into Royal Navy service in the United Kingdom but has been beset by 
+crewing and availability challenges
+. At the minilateral level, sub-groupings of NATO allies, such as the 
+U.K.-led Joint Expeditionary Force
+, have begun undertaking 
+periodic joint maritime patrols
+ to deter Russian activity. In October 2024, Norway and Germany proposed the 
+creation of regional hubs
+ for securing infrastructure in different maritime areas in the alliance s responsibility, with Norway offering to lead in the High North and Germany in the Baltic Sea.
+
+At the EU level, the European Parliament launched a 
+study of vulnerabilities in critical undersea infrastructure
+ in 2022, while the Commission established a new Submarine Cable Infrastructure Informal Expert Group in 2024, as part of a 
+new recommendation
+ on how member states coordinate policies and funding in this domain. In February 2025, the Commission launched a new 
+EU Cable Security Action Plan
+. This 
+1 billion euro ($1.13 billion) initiative
+ called for improved threat monitoring, investment in smart cables with greater resilience and redundancy, more sanctions on Russia s shadow fleet, and the establishment in the longer term of an 
+EU Cable Vessels Reserve
+ to shorten times to repair damaged cables.
+
+Yet action at the NATO level remains necessary, as such national or regional solutions have yet to prove sufficient. The core issue is deterrence. EU investment in resilient infrastructure and legislative measures, such as 
+Finland detaining vessels
+ suspected of damaging cables, while necessary, lacks the effective coordination to shift strategic behavior. Without NATO-level alignment, aggressors can continue to target weak points where response capabilities are limited, or dependence is greatest.
+
+NATO, by contrast, has the decision-making and command structures needed and carries the weight of the alliance with it. 
+Maritime Command
+ detects and follows suspicious activity at sea, such as ships switching off automatic identification systems to prevent them from being traced or loitering in a particular area. Its new Critical Undersea Infrastructure Network aims to enhance situational awareness and more quickly identify suspicious behavior. At NATO headquarters in Brussels, 
+a cell has been established
+ to help coordinate the work of other NATO entities and engage with national authorities and industry.
+
+Efforts at the alliance level have only intensified in the last year. In January 2025, a summit of Baltic Sea allies in Helsinki launched 
+Baltic Sentry
+ to deploy a mix of crewed and uncrewed maritime and air assets to enhance awareness in the Baltic Sea and better detect and deter sabotage. Given the private sector s vital role in building, operating, and maintaining undersea infrastructure, NATO has also brought together the 32 allies militaries, security agencies, and industries to discuss evolving threats and possible mitigations. This includes a 
+Critical Undersea Infrastructure Network
+, meeting since May 2024, and cooperation with 
+industry operators
+. Improving public-private collaboration is 
+critical
+, since it is often private operators who first detect something unusual occurring, and who then alert national authorities to investigate and attempt any 
+law enforcement or military response
+.
+
+Next Steps to Enhance the Effectiveness of Protection
+
+NATO sees that by increasing the coordination between these actors, it can help to improve situational awareness and thus minimize the room available for hostile action against undersea infrastructure. Increased domain awareness also brings ancillary benefits against other threats, such as the evasion of sanctions and safety issues posed by 
+Russia s shadow fleet.
+
+Crucially, though, any military response to such sub-threshold threats should be calibrated against competing demands on allied forces. It is 
+neither feasible nor desirable
+ to tie up a sizeable portion of Standing NATO Maritime Groups or nationally tasked assets when crewed platforms are already in high demand for other purposes, including deterring Russian escalations of force. In 2024, the Royal Navy 
+surfaced an Astute-class nuclear attack submarine
+ amidst a show of force to chase off the Yantar loitering in the Irish Sea. While this was a powerful demonstration of the seriousness with which allies increasingly take threats to undersea infrastructure, routinely using expensive assets like nuclear attack submarines, frigates, and destroyers for such tasks is not a sustainable long-term proposition. Overstretching allied militaries trying to secure all critical undersea infrastructure would hand Russia a victory, enabling the Kremlin to distract a portion of NATO naval capacity at very low cost to itself.
+
+One option to maintain presence without overstretching resources would be to reimagine and downscale Baltic Sentry. As a composition of Standing NATO Maritime Group 1 and Standing NATO Mine Countermeasure Group 1, the alliance would be able to provide credible deterrence by dispatching this smaller, but more permanent, patrol in the region. As already 
+suggested
+, the Standing Mine Countermeasure Group could be more cost-effective and still carry the needed intelligence, surveillance, and reconnaissance capabilities and deterrence weight.
+
+Equally important are new technologies offering better, lower-cost surveillance and monitoring tools, enhancing situational awareness while reducing demand on high-value military assets. NATO s 
+Task Force X
+ is a prime example: An 
+experiment in June 2025
+ streamed live feeds from uncrewed intelligence, surveillance, and reconnaissance assets onto screens at The Hague Summit to demonstrate the ability to 
+build a common operating picture and better detect, characterize, and deter threats to critical undersea infrastructure
+.
+
+This is both an example of how new technologies can be deployed alongside conventional crewed platforms especially in areas, such as the Baltic Sea, where sea states are relatively benign and of the Alliance s commitment to accelerating procurement and fielding of novel capabilities, in line with lessons from Ukraine and a new 
+Rapid Adoption Action Plan 
+endorsed at the Summit.
+
+Of course, improving domain awareness alone is not enough. While 
+much can be done
+ by NATO, national authorities ultimately remain responsible for safeguarding critical infrastructure and acting on intelligence about incidents of disruption. Sub-threshold operations should be identified, investigated, and attributed more quickly, yet rule-of-law standards set a high evidentiary bar, and attribution and 
+law enforcement responses
+ remain a political decision for individual states, leaving options limited when attribution is unclear. NATO cannot replace national responsibility, but it can complement it by coordinating countermeasures, providing intelligence, surveillance, and reconnaissance support, and strengthening the credibility of smaller allies. No regional or multilateral framework can substitute for NATO s essential role in collective deterrence.
+
+Ultimately, the challenge is 
+shifting the cost calculus
+ for any adversary through deterrence by denial and punishment. Hybrid attacks have remained relatively low-cost and potentially high-reward, creating escalation leverage and forcing investment in costly redundancies. 
+Aggressors such as Russia
+ currently perceive that they have a relatively high chance of getting away with their actions undetected or without significant reprisal. NATO s role and coordination is needed to change this perception.
+
+Geopolitical tensions are likely here to stay. The Euro-Atlantic community faces a world destabilized by Russia s war of aggression in Ukraine, escalating conflict in the Middle East, and possible flashpoints with China, including over Taiwan. Tensions are already translating into hostile acts against the critical undersea infrastructure underpinning modern societies and the global economy. A newly invigorated role for NATO is welcome, if not a silver bullet. National governments and industry should now work together with NATO and invest in cost-effective means of improving resilience if this new coordinating function is to translate into more secure subsea infrastructure.
+
+BECOME A MEMBER
+
+Samu Paukkunen is Deputy Director of the Finnish Institute of International Affairs, having formerly served as Head of Climate and Energy Security at NATO.
+
+James Black is Deputy Director of Defence and Security at RAND Europe, the European arm of RAND, a non-profit research institute supporting allied governments.
+
+This article represents the personal views of the authors. 
+
+Image: Jacquelin Frost via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

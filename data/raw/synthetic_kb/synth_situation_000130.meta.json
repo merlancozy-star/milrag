@@ -1,0 +1,13 @@
+{
+  "source_url": "",
+  "collected_at": "2026-06-16T15:10:52.552417+00:00",
+  "source_category": "military_news",
+  "content_category": "situation",
+  "authority": "general_commentary",
+  "language": "zh",
+  "desensitized": true,
+  "title": "合成situation段落_000130",
+  "document_id": "synth_situation_000130",
+  "synthetic": true,
+  "template": "situation"
+}

@@ -1,0 +1,175 @@
+Inside Ukraine’s Battlefield Innovation Loop
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+Cogs of War
+
+ Inside Ukraine’s Battlefield Innovation Loop 
+
+Catarina Buchatskiy
+
+and
+
+Viktoriia Honcharuk
+
+May 22, 2026
+
+Cogs of War
+
+Cogs of War
+
+ Inside Ukraine’s Battlefield Innovation Loop 
+
+ #Defense Industry 
+
+ #Defense Innovation 
+
+ #Ukraine 
+
+Catarina Buchatskiy
+
+and
+
+Viktoriia Honcharuk
+
+May 22, 2026
+
+This exclusive 
+Cogs of War
+ interview is with Catarina Buchatskiy, the co-founder and director of analytics at the 
+
+Snake Island Institute
+
+, a Kyiv-based defense analytics center, and Viktoriia Honcharuk, the institute s director of defense technologies. We asked them to share their views on how Ukraine s military and defense firms turn battlefield feedback into rapid innovation, what Western investors and defense tech companies can learn from Ukraine, and what a future Ukraine-West defense industrial partnership might look like.
+
+Sign Up for Our Newsletter
+
+American and allied defense companies often speak about testing their products in Ukraine, but few have consistently done so. Why are these companies so hesitant and why should venture-backed defense companies test more in Ukraine? 
+
+In Ukraine, the end user s requirements drive innovation, and any technology that reaches the battlefield is evaluated immediately under harsh conditions. In the Western world, on the other hand, the private market often dictates the direction of innovation. This means that a lot of Western technology can be far from emergent battlefield needs. It also means that certain technologies can t keep up with the pace of change.
+
+Because of this, many technologies coming from abroad are not suited for use in Ukraine. It s possible that some companies understand this and are hesitant to test in Ukraine because 
+failure on the battlefield is very visible
+, especially while those companies continue selling in Western markets. Tested in Ukraine can mean a million different things, and there s a risk that it has become a vague marketing label that encompasses a wide range of behaviors.
+
+On one end are systems deployed with frontline units across multiple rotations, iterated through operator feedback, and refined until they survive a Russian electronic warfare envelope. On the other end are companies that flew their drone once in a field outside Lviv and took a photo with a Ukrainian officer. The two are not the same.
+
+Since failure is often a step on the way to a truly effective product, however, those companies focused on true effectiveness should really be testing in Ukraine.
+
+This might be the first war in which a soldier can text a manufacturer over WhatsApp about problems with the latter s product. Have industry partners responded quickly enough to frontline feedback in Ukraine? If not, why?
+
+We agree that the dynamic is new. A platoon commander operating an unmanned ground vehicle outside Kupyansk can send a 15-second video to a manufacturer via Signal, describe the failure, and (in ideal conditions) receive a patch or hardware modification within days. Some companies run frontline service teams that travel to units to debug on site. Others have off-site engineers answer messages directly.
+
+But the way industry partners interact with this feedback loop depends on their priorities. The most effective companies accept battlefield feedback and incorporate it into their products as quickly as possible. The ones more focused on selling into Western markets tend to respond more slowly. They are less likely to have full-time employees on the ground, and even less likely to have research and development or engineering response teams that travel to the frontline, engage the end-users, and then integrate that product feedback. Since Ukraine isn t their main market, they invest less time and fewer resources into serving the Ukrainian end-user.
+
+The gap is quite noticeable in manufacturing and testing. Companies that respond fast typically run manufacturing close to Ukraine or even in-country, push software updates over the air, and have engineers in direct contact with frontline units. The slow ones manufacture in batches locked for months, test on their own ranges with their own pilots under different conditions, and launch firmware updates based on their own quality assurance cycles. Unfortunately, for manufacturers who sell primarily to Western governments, there is less incentive to work with Ukrainian units and improve their products.
+
+Ukraine has fostered frontline innovation cells to rapidly scale and develop weapons. What do these cells do well? How has their role shifted over the course of the war?
+
+Research and development labs on the frontline
+ are the backbone of Ukrainian battlefield innovation. They allow for rapid prototyping and testing of technologies that are in high demand, and the innovations they develop are often passed on to local companies to scale manufacturing and then transition into more traditional procurement channels.
+
+Over time, the role of these labs has evolved from immediate problem-solving to shaping what gets developed and scaled. There are several examples of now widely used products that have scaled across the Ukrainian military, which started out as simply a prototype that frontline units made themselves to solve an immediate problem.
+
+One such example is the Dopkhin s Pavuk a drone for long-range operations, capable of operating over 50 kilometers designed to reach behind enemy lines. This 
+drone originated in the research and development laboratory
+ of the 3rd Assault Brigade and was eventually mass produced in collaboration with Omnitech.
+
+Ukraine has proven innovative, but the enemy can innovate too. What process is there to identify and assess new Russian technologies, and develop countermeasures against them?
+
+Ukrainian intelligence is constantly identifying new technologies used by Russia on the battlefield. The frontline research and development labs respond to these threats the fastest. They analyze what is being used and quickly work on countermeasures, whether technical or tactical.
+
+The process can be relatively decentralized because each stretch of the frontline faces its own technology challenges and nuances. Some of the frontline is hilly, for example, and therefore faces unique challenges in signals and communications. Some parts of the frontline saw fiber-optic drones emerge before others did. Those units facing the threat had to quickly identify, assess, and react. They couldn t wait until they received a top-down intelligence briefing telling them what to do about it.
+
+Your team has brought Ukrainian military delegations to the United States and to other partner countries. Despite these repeated engagements, are there any recurring misperceptions of the Ukrainian defense industry? Can a more sustained security cooperation model realistically emerge?
+
+We get versions of the same questions each time, no matter how senior the room. They often reflect the assumption that Ukrainian defense industry just means drones usually they mean first-person-view drones. That collapses three years of vertical integration into a single product line. Ukraine now 
+builds
+ unmanned service vehicles, interceptors, ground robots, naval systems, deep-strike platforms, electronic warfare, software stacks, and increasingly the components that feed all of them.
+
+There are also assumptions that Ukraine is fighting a cheap war only because we are resource constrained. It is of course true that we face constraints: capital, labor, strategic materials, and so forth. But economic rationality isn t the only reason behind the way Ukraine fights. Even the wealthiest country in the world cannot afford to spend millions of dollars every time an adversary lobs a 
+twenty thousand-dollar Shahed
+ at it. The math doesn t work, especially not long-term, given the sheer scale of the threats. Wars of scale favor the attacker, and so Ukraine is fighting an economically rational war, which is also the only way to fight a full-scale, long-term war against a near-peer adversary.
+
+On whether sustained cooperation can realistically emerge yes, but not through the channels usually proposed. The defense industrial base cooperation models we keep seeing are still built around American prime contractors as the integrators, and Ukrainian firms as subcontractors. The real opportunity is the inverse: Ukrainian iteration cycles wrapped inside Western certification and capital. In practice, that means Ukrainian firms keep ownership of the fast, frontline-driven design loop building, testing, and revising at combat speed while Western partners supply the capital to scale manufacturing and the certification pathways that let those systems into NATO and American arsenals. A handful of Build with Ukraine arrangements are gesturing in that direction. Most of the rest are still asking Ukraine to be a customer rather than a partner.
+
+There is movement, though. Washington and Kyiv are currently reviewing a draft framework that would 
+let Ukraine export military technology to the United States
+ and manufacture drones through joint ventures with American companies. Ukraine has already deployed interceptor drones and pilots to help American allies in the Middle East defend against Iranian Shaheds. The cost asymmetry that deployment exposed (Wild Hornets Sting interceptors at roughly $2,500 a unit, against anti-aircraft missiles costing orders of magnitude more) is exactly the math we argue matters. Ukraine s projected defense production capacity for 2026 is around $55 billion, but Ukraine itself can fund only about $15 billion of that. The capacity to close that gap already exists among Ukraine s partners. The question is whether the political channels catch up.
+
+This model does carry risks, and we should be honest about them. The 
+supply chain question
+ is real. Ukrainian manufacturers still source many components chips, motors, rare-earth magnets from Chinese suppliers, which makes them difficult to integrate into sensitive U.S. programs without re-engineering bills of material. 
+Intellectual property frameworks remain semi-unresolved
+ as well. When a Ukrainian company co-develops a product with a Western prime and ships it to a Ukrainian unit and that unit subsequently modifies the firmware or hardware based on combat experience ownership of the next iteration is ambiguous in a way most existing contracts don t anticipate. And onshoring is a strategic priority for the U.S. An inverse model should coexist with that effort, especially in segments drones, interceptors where U.S. industry is trying to scale its own capacity.
+
+These aren t reasons to default to the prime-as-integrator structure. They re reasons to build the Ukraine-led model carefully: cleared component sourcing, explicit intellectual property frameworks that account for the company, the Western partner, and the frontline unit that keeps iterating on the system. It also requires an understanding that Ukrainian primacy on iteration and U.S. primacy on certification and scale are complementary.
+
+Where is battlefield innovation headed in the next year? And what technological developments do you consider most relevant to a Pacific contingency? 
+
+For a Pacific contingency, the maritime kill chain is the most direct transfer. What Magura and Sea Baby 
+did to the Black Sea Fleet
+ maps onto a scenario where the adversary s surface fleet is the center of gravity and U.S. magazine depth is the binding constraint. In a Taiwan scenario, the math is extremely unforgiving. 
+U.S. anti-ship and standoff inventories
+ are measured in the thousands and replenishment in years. A sustained engagement against the People s Liberation Army Navy would burn stocks faster than industry can replace them.
+
+We saw this when Ukraine burned through 155mm shells in 2023 and 2024 and the NATO industrial base 
+couldn t keep up
+. Shell rationing became a strategic constraint on Ukrainian operations, with Western production lines still scaling years later.
+
+The Black Sea answer was not a more capable platform, but a class of platforms cheap enough to deploy at scale. Magura and Sea Baby unit costs sit in the 
+hundreds of thousands of dollars
+ rather than tens of millions. Anyone planning around Taiwan should be reading Black Sea operations as a baseline.
+
+The places where the analogy breaks matter just as much. Pacific distances punish the small first-person-view drone model. China s industrial base looks more like Ukraine s iteration tempo than Russia s plodding mass. Against Russia, Ukraine can innovate first and count on staying a step ahead, because Russia adapts and reproduces slowly. Against China, the United States cannot assume that head start, because China can match the speed of innovation and outproduce it. The advantage of moving first is far more fragile in the Pacific than it has been in Ukraine.
+
+Ukraine s wartime innovation system is immense. But there will be a day after the war, 
+
+and the demand signal will fall. What steps should be taken to formalize Ukraine s defense industry and turn it into a more sustained source of economic growth?
+
+Ukrainian domestic demand will compress when the active phase ends, but it won t disappear. Ukraine will need a permanent deterrent against a Russia that has been slowed rather than defeated. The harder question is whether Ukraine s defense industry survives the transition with its iteration culture intact. Technologically, the worst hit will likely be high-volume consumable sectors with low barriers to entry like first-person-view drones. More differentiated verticals like electronic warfare, sensors, counter-drone, and communications are more likely to survive consolidation because they solve enduring capability gaps for both Ukraine and NATO markets.
+
+To transition to a more sustainable long-term defense posture, a few things should happen.
+
+First, Ukraine needs a transparent licensing regime that lets allied buyers starting with frontline NATO members purchase directly to help sustain demand and keep Ukrainian companies operating. Right now, many of Ukraine s export and licensing deals are political shows factory visits, fanfare, handshakes, signed frameworks, followed by a press cycle about the bilateral relationship. That s useful diplomatically, but it shoots us in the foot two ways. Business moves faster than bureaucracy and diplomacy, so if every deal has to be wrapped in political theater, the whole process slows down. In addition, plenty of allies want to engage with Ukrainian industry directly and discreetly to buy, test, or co-develop without making it a media event. The current model serves the deals that are also good photo ops. A transparent licensing regime would serve the rest.
+
+Second, capital structure. Venture will not carry this industry through a downturn. Defense cycles are long and exits too narrow. 
+Sovereign capital,
+
+E.U. instruments
+, and 
+foreign direct investment
+ bridges have to step in, with terms that don t strip-mine intellectual property back to Western primes. We are worried about the potential of a bad outcome: A Ukrainian company gets acquired, relocated, and the iteration speed evaporates within a year. Protecting the ecosystem means protecting the engineers and the innovation feedback loops.
+
+Third, the soft infrastructure: testing ranges, certification, and classified data-sharing. Ukraine needs to formalize and structure its military innovation system to ensure that the military continues to feel comfortable sharing ideas, testing solutions, and knowing that their initiatives will be supported.
+
+Write for Cogs of War
+
+Catarina Buchatskiy is the director of analytics and co-founder of the Snake Island Institute, a Ukraine-based defense analytics center
+.
+
+Viktoriia Honcharuk is the director of defense technologies at the Snake Island Institute and a veteran of the 3rd Assault Brigade of the Armed Forces of Ukraine.
+
+Image: 
+ArmyInform
+
+Get the Brief
+
+Subscribe to our free Cogs of War newsletter for sharp analysis and grounded insights from technologists, builders, and policymakers.
+
+SIGN UP

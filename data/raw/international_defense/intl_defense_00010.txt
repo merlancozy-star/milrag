@@ -1,0 +1,15 @@
+The Black Recon system comes with three tiny drones for ISR purposes. (Teledyne FLIR)						
+
+WASHINGTON 
+Teledyne 
+FLIR Defense has rolled out a new microdrone dubbed the Black Recon, designed to launch from manned ground vehicles.
+
+The Black Recon system comes with three drones, each of which launches autonomously, performs reconnaissance, surveillance, and acquisition (RSTA) missions, then returns to the launcher for capture, docking, and recharging, per a company announcement.
+
+The drone, which weighs less than 450 grams (0.99 lbs.), has flight time of up to an hour and can hit a top speed of around 55 miles per hour, according to the company. The price of the system, and of the individual drones if replacements are needed, were not disclosed.
+
+First flights of Black Recon happened in Norway last winter, and it s been tested aboard a Ford Raptor vehicle, a company spokesperson told Breaking Defense. The spokesperson added the firm has signed contracts with two unnamed European customers; while the system has yet to be demonstrated for the US Army, the company expects to conduct trials with them later this year.
+
+Deliveries should be available starting in 2027, the company said, with a pledge to add future modules to the system for both lethality payloads and CBRN detection sensors. 
+
+By bringing autonomous launch, recovery, and recharging directly to the vehicle, we give operators persistent situational awareness, faster access to actionable intelligence, and greater protection in high-tempo missions, said JihFen Lei, president of Teledyne Defense and Aerospace Group and senior vice president of Teledyne Technologies, in the statement.

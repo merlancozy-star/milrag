@@ -1,0 +1,555 @@
+{{noteTA
+|1=zh:朝鮮戰爭; zh-cn:朝鲜战争; zh-tw:韓戰; zh-hk:韓戰; zh-sg:韩战;
+|2=zh-hans:三大战役; zh-hant:三大會戰;
+|3=zh-hans:辽沈战役; zh-hant:遼西會戰;
+|4=zh-hans:淮海战役; zh-hant:徐蚌會戰;
+|5=zh-hans:平津战役; zh-hant:平津會戰;
+}}
+{{Infobox Military Conflict
+| partof = [[战间期]]，[[新民主主义革命]]和[[冷战]]
+| conflict = 國共內戰
+| image = [[File:ChineseCivilWarCollage.PNG|250px]]
+| caption = 从上方顺时针起：[[四平战役]]中的[[中国人民解放军]]、[[八路軍]]的[[回族]]士兵、20世纪40年代的[[毛泽东]]、[[蒋中正]]正在视察士兵、[[粟裕]]正在[[孟良崮战役]]前夕视察前线
+| date = [[第一次國共内战]]：1927—1937年<br>[[第二次國共内战]]：1945—1950年{{NoteTag|中國大陸教科書認為1949年4月攻佔南京標誌著戰爭的勝利，而西方學者一般認為1950年8月[[萬山群島戰役]]後戰爭才逐漸平息。在[[西北剿匪|青海]]與[[中緬邊境作戰|中緬邊境]]的戰役分別於1958年和1961年結束，海上衝突則至1979年止，1991年中華民國政府單方面宣告停止動員戡亂。}}<br><ref>{{cite book |last = Westad |first = Odd |title = Decisive Encounters: The Chinese Civil War, 1946–1950 |year = 2003 |publisher = Stanford University Press |ISBN = 978-0-8047-4484-3 |page = 305 |url = https://books.google.de/books?id=JBCOecRg5nEC&pg=PA305&#v=onepage&q&f=false |access-date = 2020-02-08 |archive-date = 2020-02-20 |archive-url = https://web.archive.org/web/20200220230754/https://books.google.de/books?id=JBCOecRg5nEC&pg=PA305&#v=onepage&q&f=false |dead-url = no }}</ref><ref>{{cite book |url=https://books.google.com.tw/books?id=GS9qDwAAQBAJ&pg=PA20 |title=圖解兩岸關係 |author1=蔡東杰 |author2=洪銘德 |author3=李玫憲 |publisher=五南圖書出版 |date=2017-02-01 |chapter=第二次國共內戰（1945-1949） |access-date=2019-09-30 |archive-date=2022-06-06 |archive-url=https://web.archive.org/web/20220606072305/https://books.google.com.tw/books?id=GS9qDwAAQBAJ&pg=PA20 }}</ref>{{rp|20}}<ref>{{cite book |url=https://books.google.com.tw/books?id=px5wCgAAQBAJ&pg=PA240 |title=圖解中國史 |author=林志宏 |publisher=五南圖書出版 |date=2015-06-01 |quote=一九四九年前，國民黨與共產黨之間為爭奪中國統治權，至少爆發兩次的內戰……第二次則是於一九四五年起至一九四九年結束。 |access-date=2019-09-30 |archive-date=2021-12-12 |archive-url=https://web.archive.org/web/20211212015329/https://books.google.com.tw/books?id=px5wCgAAQBAJ&pg=PA240 }}</ref>{{rp|240}}<ref>{{cite paper |url=http://140.119.115.26/bitstream/140.119/59747/1/018201.pdf |title=蘇聯的援外政策分析：以西班牙內戰（1935-1938）與國共內戰（1945-1949）為例 |author=謝適言 |publisher=國立政治大學 |date=2011-06 |quote=1945年8月至1949年9月間，第二階段國共內戰，中國共產黨稱之為解放戰爭 |journal= |access-date=2019-09-30 |archive-date=2020-05-10 |archive-url=https://web.archive.org/web/20200510151005/http://140.119.115.26/bitstream/140.119/59747/1/018201.pdf }}</ref>{{rp|1-2}}
+----
+[[台湾海峡两岸关系史#军事对峙|后续冲突]]：1950年－1979年{{Notetag|1950年後至1979年，海峽兩岸仍有零星武裝衝突。}}<br>[[de jure|法理上]]：{{start date|1945}}{{snd}}至今（{{Age|1945|7|21}}年）{{NoteTag|从第二次国共内战开始计算；尽管武装对抗于1979年基本结束，但有观点認為双方从未签署和平协定，法理上戰爭尚未結束。<ref>{{cite journal |author1=郭震远 |title=中国内战及其延续中的两岸政治关系 ——关于两岸政治协商起点的探讨 |journal=《统一论坛》 |date=2010-05 |issue=2010年05期 |url=http://rdbk1.ynlib.cn:6251/Qw/Paper/417035#anchorList |accessdate=2023-03-20 |archive-date=2023-03-20 |archive-url=https://web.archive.org/web/20230320085430/http://rdbk1.ynlib.cn:6251/Qw/Paper/417035#anchorList |dead-url=no }}</ref><ref>{{cite journal |author1=郭震远 |title=尚未结束的中国内战的双方——两岸政治关系定位的溯本求源 |journal=《中国评论》 |date=2014-04 |issue=2014年04期 |url=http://www.aisixiang.com/data/74091.html |accessdate=2023-03-20 |archive-date=2023-03-20 |archive-url=https://web.archive.org/web/20230320085427/http://www.aisixiang.com/data/74091.html |dead-url=no }}</ref>}}
+| place = [[中国大陆]]、[[台灣海峽]]、[[中國|中]][[緬甸|緬]]邊境
+| casus = [[四·一二事件]]及[[南昌起事]]
+| territory = [[中國共產黨]]取得併控制[[中國大陸]]及絕大多數中国领土，[[中華民國政府]]則退至[[台澎金馬]]併取得該地區的實際控制權
+| result = [[中國共產黨]]取得大部分战役的勝利，控制[[中國大陸]]及絕大多數中国领土，[[中華人民共和國]]成立；[[中國國民黨]]及其领导的[[中華民國政府遷台|中华民国政府迁往台湾]]；时至今日，两岸雙方仍對全中國領土持有法理主張。而現今[[兩個中國]]的政治現況因國際政治的變化逐渐发展为[[台湾问题]]、[[中國問題]]等議題。
+| combatant1 = <center> [[File:Naval Jack of the Republic of China.svg|100px]]<br> '''[[中國國民黨]]''' </center><hr>
+[[第一次国共内战]]期间<br><small>（1927年-1937年）</small><br />
+[[File:Naval Jack of the Republic of China.svg|22px|border|link=]] [[中國國民黨]]<br />
+{{flagdeco|ROC}} [[中华民国國民政府]]<br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[國民革命軍]]
+----
+[[第二次国共内战]]期间<br><small>（1946年-1949年）</small><br />
+1948年以前：<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=]] [[中國國民黨]]<br />{{flagdeco|ROC}} [[中华民国國民政府]]<br />[[File:Flag of the Republic of China Army.svg|22px|link=]] [[國民革命軍]]<br>
+1948年以後：<br />[[File:Naval Jack of the Republic of China.svg|22px|border|link=]] [[中國國民黨]]<br />{{Flagdeco|ROC}} [[中華民國政府]]<br>[[File:ROC Ministry of National Defense Flag.svg|22px|link=]] [[中華民國國軍]]
+----
+1996年至[[两岸分治]]现状<br>{{Flagdeco|ROC}} [[中華民國政府]]<br>[[File:ROC Ministry of National Defense Flag.svg|22px|border|link=]] [[中華民國國軍]]
+| combatant2 = <center> [[File:Flag of the Chinese Communist Party (Pre-1996).svg|100px]]<br> '''[[中国共产党]]''' </center><hr>
+[[第一次国共内战]]期间<br><small>（1927年-1937年）</small><br />
+[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=]] [[中国共产党]]<br />
+[[File:National Flag of Chinese Soviet Republic.svg|22px|border|link=]] [[中华苏维埃共和国]]<small>（1931年-1937年）</small><br>[[File:中國工農紅軍軍旗.svg|border|22px|link=]] [[中国工农红军]]
+----
+[[第二次国共内战]]期间<br><small>（1946年-1949年）</small><br />
+1947年以前：<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=]] [[中国共产党]]<br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[八路軍]]<br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[新四軍]]<br>1947年以後：<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=]] [[中国共产党]]<br>[[File:People's Liberation Army Flag of the People's Republic of China.svg|22px|border|link=]] [[中国人民解放军]]
+----
+1949年至[[两岸分治]]现状<br />{{nowrap|{{flagdeco|PRC}} [[中華人民共和國政府]]}}<br>[[File:People's Liberation Army Flag of the People's Republic of China.svg|22px|border|link=]] [[中国人民解放军]]
+| commander1 = [[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[蔣中正]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[陳誠]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[何應欽]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[李宗仁]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[阎锡山]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[白崇禧]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[顾祝同]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[胡宗南]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[胡璉]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[劉峙]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[李彌]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[孫立人]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[黃維]]{{POW}}<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[張靈甫]]{{KIA}}/[[自殺|×]] <br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[马鸿逵]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[吉星文]]<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[杜聿明]]{{POW}}<br>[[File:Naval Jack of the Republic of China.svg|22px|border|link=中國國民黨]] [[薛岳]]
+| commander2 = [[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[毛泽东]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[朱德]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[刘少奇]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[周恩来]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[任弼时]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[彭德怀]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[邓小平]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[林彪]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[粟裕]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[项英]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[博古]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=]] [[张闻天]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[王稼祥]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[徐向前]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[陈毅]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[贺龙]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[叶剑英]]<br>[[File:Flag of the Chinese Communist Party (Pre-1996).svg|22px|border|link=中国共产党]] [[劉伯承]]
+| units1 = [[第一次国共内战|第一次]]：<br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[國民革命軍]]<hr>[[第二次国共内战|第二次]]：<br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[國民革命軍]]<small> (1948前)</small><br>{{ROCMND}} <small> (1948後)</small>
+| units2 = [[第一次国共内战|第一次]]：<br>[[File:中國工農紅軍軍旗.svg|border|22px|link=]] [[中國工農紅軍]]<hr>[[第二次国共内战|第二次]]：<br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[八路軍]]<small> (1947前)</small><br>[[File:Flag of the Republic of China Army.svg|22px|link=]] [[新四軍]]<small> (1947前)</small><br>[[File:People's Liberation Army Flag of the People's Republic of China.svg|22px|border|link=]] [[中国人民解放军]]<small> (1947後)</small>
+| strength1 = 
+| strength2 = 
+| strength3 = 
+| casualties3 = 中共方面称：1065萬人死亡<ref>{{Cite web |url=http://cpc.people.com.cn/GB/68742/77130/77131/7267512.html |title=解放战争时期我军歼敌总数究竟是多少 |accessdate=2012-10-02 |archive-date=2014-05-24 |archive-url=https://web.archive.org/web/20140524080130/http://cpc.people.com.cn/GB/68742/77130/77131/7267512.html |dead-url=no }}</ref>，其中3年國共內戰國軍傷亡625萬余人<ref>{{Cite web|title=解放戰爭--資料中心--中國共產黨新聞網|url=http://cpc.people.com.cn/BIG5/64162/64167/4512540.html|access-date=2023-01-13|website=cpc.people.com.cn|archive-date=2023-01-13|archive-url=https://web.archive.org/web/20230113155006/http://cpc.people.com.cn/BIG5/64162/64167/4512540.html|dead-url=no}}</ref><!--<br><ref>{{Cite web|title=Wars and casualties of the 20th and 21st Century|url=https://www.scaruffi.com/politics/massacre.html|access-date=2023-01-13|website=www.scaruffi.com}}</ref>-->
+| notes = 
+}}
+
+{{二戰導火索}}
+'''國共內戰'''（另稱'''中國內戰'''，{{langx|en|Chinese Civil War}}）是20世紀上半叶[[中華民國大陸時期|中國]]爆发的[[内战]]，也是20世紀中國規模最大、影響最深遠的內戰，可分为'''[[第一次國共內戰]]'''和'''[[第二次國共內戰]]'''两個階段，是[[中國現代史]]的重大轉折點。内战一方为1947年[[行宪]]之前由[[中國國民黨]]领导的[[國民政府]]與[[行憲]]后的[[中華民國政府]]，另一方为[[中国共产党]]及其領導軍隊與政權。中国共产党一方在內戰中取得决定性胜利，获得[[中國大陸]]地區的[[統治權]]，并于1949年建立[[中华人民共和国]]；而[[中國國民黨]]则于内战中失利，率中華民國政府[[中華民國政府遷台|遷至台灣]]，造成今日[[台灣海峽]]兩岸[[台海現狀|政治分立與軍事對峙]]的局面，雙方至[[告台灣同胞書|1979年1月1日]]實現軍事[[停火]]，結束武裝衝突<ref name="結束炮擊金門">{{Cite web |url=http://www.president.gov.tw/Default.aspx?tabid=131&itemid=14109 |title=總統出席「823戰役50週年」紀念大會 |accessdate=2016-05-07 |archive-date=2017-12-23 |archive-url=https://web.archive.org/web/20171223042627/http://www.president.gov.tw/Default.aspx?tabid=131&itemid=14109 |dead-url=no }}</ref>。
+
+1925年，主张[[聯俄容共]]的國民黨領袖[[孙中山]]去世后，[[国民党右派]]与中共以及支持国共合作的[[国民党左派]]之间的矛盾迅速扩大，導致[[第一次国共合作|國共兩黨的合作關係]]出現裂痕。在國民黨建立[[國民政府]]并發動针对[[北洋政府]]的[[國民革命軍北伐]]期間，两党矛盾激化。1927年4月12日，[[国民革命军]]总司令[[蒋中正]]在[[上海市 (中華民國)|上海]]单方面宣布[[中国国民党清党|清党]]并建立[[南京国民政府]]，导致[[宁汉分裂]]；同年7月，[[汪精卫]]领导的[[武汉国民政府]]跟随南京国民政府，宣布[[分共]]，是为[[宁汉合流]]，國共兩黨正式決裂。1927年8月1日，中国共产党发动[[南昌起义]]，開始武裝夺权，並先後建立[[中国工农红军]]及數處[[中国共产党革命根据地|革命根据地]]，與定都南京的中华民国国民政府分庭抗禮。1928年12月，[[东北易帜]]，北洋政府瓦解，國民政府完成北伐、形式上[[統一中國|統一南北]]後，自1930年起先後[[中央苏区反围剿战争|五次圍攻]]共產黨在南方之根據地。1934年，在[[中央苏区第五次反围剿战争|第五次圍剿戰爭]]中，国軍攻佔當時[[中共中央]]所在的[[中央苏区]]，[[中国工农红军]]主力被迫展開[[长征]]，於1935年抵达[[陕北]]。1936年12月发生[[西安事变]]後，國共雙方同意[[第二次国共合作|停止內戰]]，共同抗日，[[中国工农红军]]編入[[國民革命軍]]，中国共產黨統治的[[陝甘寧邊區]]則在名義上由國民政府直轄。1937年[[中国抗日战争]]全面爆發後，國民政府将大量[[民國軍閥|地方军阀]]武装推上抗战前线，而[[胡宗南]]等所率之[[中央军]]精锐则包围[[陕甘宁边区]]；中国共产党的抗战則以[[游击战]]为主，建立大量[[抗日根据地]]。国共双方皆指责对方抗战不力，並于抗日战争期间发生多次[[國共摩擦|军事冲突]]<ref>{{Cite web |url=http://museum.mnd.gov.tw/Publish.aspx?cnid=1442&p=12106&Level=2 |title=國軍歷史文物館，烽火國難 |accessdate=2012-09-02 |archive-date=2012-03-07 |archive-url=https://web.archive.org/web/20120307185701/http://museum.mnd.gov.tw/Publish.aspx?cnid=1442&p=12106&Level=2 |dead-url=yes }}</ref><ref>何應欽：「日軍侵華八年抗戰史」，民國72年，國防部史政編譯局出版</ref>。
+
+1945年[[抗日戰爭]]結束後，国共两党关系出现短期缓和，双方召开[[重庆谈判]]并签订[[双十协定]]，随后共同召开[[政治协商会议]]以商讨[[中华民国宪法|行宪]]与[[和平建国纲领|建国]]事宜，然国共之间的矛盾因[[裁軍]]、行憲與[[聯合政府]]等議題再度凸顯。1946年，国共双方因东北受降区问题而发生军事冲突，战事遂蔓延至关内，而后国民政府召开[[制宪国民大会]]，中国共产党拒绝承认，内战全面爆发。中國共產黨領導的武裝力量逐漸改稱[[中国人民解放军]]；經過[[辽沈战役]]、[[淮海战役]]、[[平津战役]]等[[三大會戰]]後，解放軍在[[中國東北|東北]]與[[華北]]取得軍事上絕對優勢。另一方面，國民黨在1947年結束[[訓政時期|訓政]]、將[[黨國體制|以黨治國]]的國民政府改組為[[行憲]]之中華民國政府、將[[國民革命軍]]改組為[[中華民國國軍]]，頒布[[動員戡亂|動員戡亂令]]，並以推行[[金圓券]]等[[中國通貨膨脹 (1938年-1950年)|金融改革措施]]提振當時尚處戰後疲弱的[[中國經濟]]，尝试以改革換取[[知识分子]]與[[中產階級]]的支持，但改革失敗反使國民黨民心盡失。1949年4月，國共雙方在[[北平市|北平]]進行[[北平和談|停火談判]]但终告失敗，[[中國人民解放軍]]隨即發起[[渡江战役]]，佔領首都[[南京市 (中華民國)|南京]]、第一大城[[上海市 (中華民國)|上海]]，並漸次奪取絕大部分的[[中國疆域]]<ref>林桶法. [http://www.drnh.gov.tw/ImagesPost/46ea605e-f08b-4f39-94fd-e3ed4cdce786/74e97e13-a772-4dd0-81cc-98dac3989371_ALLFILES.pdf 從溪口到臺北：第三次下野期間蔣介石的抉擇] {{Wayback|url=http://www.drnh.gov.tw/ImagesPost/46ea605e-f08b-4f39-94fd-e3ed4cdce786/74e97e13-a772-4dd0-81cc-98dac3989371_ALLFILES.pdf |date=20150923220701 }}. [[國史館]] [2014年2月23日] {{zh-tw}}.</ref><ref>關安邦. [http://www.mnd.gov.tw/Upload/200910/%E5%8F%A4%E5%AF%A7%E9%A0%AD%E5%A4%A7p4-9.pdf 古寧頭大捷之前因與影響] {{Wayback|url=http://www.mnd.gov.tw/Upload/200910/%E5%8F%A4%E5%AF%A7%E9%A0%AD%E5%A4%A7p4-9.pdf |date=20180828071312 }}. [[中華民國國防部]]. 2009年10月 [2014年2月23日] {{zh-tw}}.</ref>。同年10月1日，[[中华人民共和国]]在更名後的[[北京]]成立{{NoteTag|关于中华人民共和国成立日期，另一说法是於9月21日[[中國人民政治協商會議第一屆全體會議]]開幕日。参见[[开国盛典]]。}}，而隨著國軍在戰爭中節節敗退，中華民國中央政府輾轉於1949年12月撤退至[[臺灣省]][[臺北市 (省轄市)|臺北市]]<ref>[http://www.npf.org.tw/post/2/6524 從大歷史的視野看中共建政與兩岸分立六十年] {{Wayback|url=http://www.npf.org.tw/post/2/6524 |date=20091217025422 }} 國家政策研究基金會</ref>。自1955年[[大陳島撤退]]後，中華民國政府有效統治範圍限縮在[[臺灣地區|臺澎金馬與部分南海諸島]]，維持至今<ref>《[[s:臺灣地區與大陸地區人民關係條例 (民國100年)|臺灣地區與大陸地區人民關係條例]]》，民國100年12月21日</ref>。雙方最後的地面戰役為1961年中緬邊境的[[中緬邊境作戰|江拉之戰]]，而游擊戰則一直持續到1975年。<ref>{{cite web |title=異域孤軍大事記 |url=http://www.amay.com.tw/about/ourheritage/ |website=阿美米干官網 |accessdate=2020-10-11 |archive-date=2021-01-17 |archive-url=https://web.archive.org/web/20210117150809/http://www.amay.com.tw/about/ourheritage/ |dead-url=no }}</ref>1979年雙方海上衝突停止<ref name="結束炮擊金門" />，並於1987年開放非官方機制的交流。
+
+== 背景 ==
+
+[[清朝]]覆灭和[[辛亥革命]]后，[[孙中山]]就任新成立的中华民国临时总统，不久后[[袁世凯]]继任。袁世凯短暂地试图称帝，[[護國戰爭|但以失败告终]]。1916年他去世后，中国陷入[[权力斗争]]。<ref>{{Cite book |title=So, Alvin Y.; Lin, Nan; Poston, Dudley, eds. (2001). The Chinese Triangle of Mainland China, Taiwan, and Hong Kong: Comparative Institutional Analyses. Contributions in Sociology. Vol. 133. Westport, CT: Greenwood. |isbn=978-0-313-30869-7}}</ref>
+
+孙中山领导的[[国民党]]在[[广州]]建立新政府，与统治中国大片地区的军阀割据，这些军阀阻碍了中央政府的建立。孙中山寻求西方国家援助的努力遭到拒绝后，他转而寻求苏联的帮助。1923年，孙中山与[[苏联]]代表[[阿道夫·越飛]]在[[上海]]签署了《[[孫文越飛宣言]]》，承诺苏联将协助中国统一。该宣言是[[共产国际]]、国民党和中国共产党之间的合作宣言。共产国际特工[[米哈伊爾·鮑羅廷]]于1923年抵达中国，协助中国共产党和国民党按照[[苏联共产党]]的模式进行重组和巩固。中共最初是一个学习小组，与国民党共同组成了[[第一次國共合作]]。<ref>{{Cite web |title=Milestones in the History of U.S. Foreign Relations - Office of the Historian |url=https://history.state.gov/milestones/1945-1952/chinese-rev |website=history.state.gov |access-date=2026-05-14}}</ref><ref>{{Cite book |title=March, G. Patrick. Eastern Destiny: Russia in Asia and the North Pacific. (1996). Greenwood. |isbn=0-275-95566-4 |page=P.205}}</ref>
+
+1923年，孙中山派遣他的副手[[蒋介石]]前往莫斯科进行数月的军事和政治学习。之后，蒋介石成为[[黄埔军校]]的校长，该军校负责培养下一代军事领导人。苏联为该军校提供了教材、组织架构和装备，包括军需品。他们还教授了许多群众动员技巧。凭借这些援助，孙中山建立了一支忠诚的“党的军队”，他希望用这支军队在军事上击败军阀。中共党员也参与了这所学院的活动，其中许多人成为了教员，包括被任命为政治教员的[[周恩来]]。<ref>{{Cite book |title=H. H. Chang, Chiang Kai Shek: Asia's Man of Destiny (Doubleday, 1944; reprint 2007 |isbn=1-4067-5818-3 |page=P.206}}</ref><ref>{{Cite book |title=Ho, Alfred Kuo-liang. (2004). China's Reforms and Reformers. Greenwood. |isbn=0-275-96080-3 |page=P.7}}</ref>
+
+共产党党员可以以个人身份加入国民党。当时的中共规模仍然很小，1922年只有300名党员，到1925年也只有1500名。而截至1923年，国民党党员人数已达5万人。<ref>{{Cite book |title=Fairbank, John King. (1994). China: A New History. Harvard University Press. |isbn=0-674-11673-9}}</ref>
+
+然而，孙中山于1925年去世后，国民党分裂为左翼和右翼两大阵营。国民党担心苏联正试图利用中共从内部瓦解国民党。随后，中共开始开展反对[[國民革命軍北伐]]的运动，并在一次党代会上通过了反对北伐的决议。
+
+之后，在1927年3月，国民党召开第二次党代会，苏联在会上协助通过了反对北伐和限制蒋介石权力的决议。不久，国民党内部就会出现明显的分裂。
+
+===上海大屠杀与北伐（1927年）===
+
+1927年初，国民党与共产党之间的对抗导致[[第一次国共合作]]分裂。中共及国民党左翼决定将国民党政府所在地从广州迁至共产党势力强大的[[武汉]]。然而，蒋介石及其军队击败军阀[[孙传芳]]后，向东进军[[江西]]。左翼拒绝了蒋介石清除国民党内部共产党势力的要求，蒋介石谴责他们听命于苏联，背叛了孙中山的[[三民主义]]。[[毛泽东]]认为，随着蒋介石权力的增长，他对国民党内共产党的容忍度逐渐降低。<ref>{{Cite book |title=Zedong, Mao. Thompson, Roger R. (1990). Report from Xunwu. Stanford University Press. |isbn=0-8047-2182-3}}</ref>
+
+4月7日，蒋介石与其他几位国民党领导人举行会议，会上他们提出，共产党的活动对社会和经济造成了破坏，必须予以清除，国民革命才能继续进行。4月12日，[[白崇禧]]将军下令在上海对国民党内部的共产党进行清洗，数百人被捕并被处决。中共称之为“[[四一二事件]]”、“上海大屠杀”和“[[白色恐怖]]”的开端。这次事件加剧了蒋介石与国民党左翼领袖[[汪精卫]]之间的裂痕。国民党左翼还将中共成员逐出[[武汉国民政府]]，随后武汉政府被蒋介石推翻。国民党恢复了对军阀的镇压，并于1928年6月攻占北京。不久，[[华东地区]]基本都处于南京中央政府的控制之下，南京中央政府迅速获得国际社会承认，成为中国唯一合法政府。国民党政府遵循孙中山的思想，宣布了革命三阶段的方案：军事统一、政治教化和宪政民主。<ref>{{Cite book |title=Brune, Lester H. Dean Burns, Richard Dean Burns. (2003). Chronological History of U.S. Foreign Relations. Routledge. |isbn=0-415-93914-3}}</ref><ref>{{Cite book |title=Zhao, Suisheng. (2004). A Nation-state by Construction: Dynamics of Modern Chinese Nationalism. Stanford University Press. |isbn=0-8047-5001-7}}</ref><ref>{{Cite book |title=Guo, Xuezhi. (2002). The Ideal Chinese Political Leader: A Historical and Cultural Perspective. Greenwood. |isbn=0-275-97259-3}}</ref><ref>{{Cite book |title=Theodore De Bary, William. Bloom, Irene. Chan, Wing-tsit. Adler, Joseph. Lufrano Richard. Lufrano, John. (1999). Sources of Chinese Tradition. Columbia University Press. |isbn=0-231-10938-5 |page=p.328}}</ref>
+
+== 第一次國共内戰（1927年-1937年） ==
+{{Main|第一次國共內戰|中央苏区反围剿战争}}
+[[File:ZhongShanJian.jpg|225px|thumb|[[中山艦]]]]
+
+1927年8月1日，中国共产党发动[[南昌起义]]，反对[[武汉]]国民政府。这场冲突促成了[[红军]]的成立。8月4日，红军主力撤离南昌，南下进攻广东。国民政府军迅速重新占领南昌，而留在南昌的中共残余势力则转入地下。8月7日，中共召开会议，确认其目标是武力夺取政权，但第二天，汪精卫领导的武汉国民政府迅速镇压了中共。8月14日，蒋介石宣布暂时退休，此前分裂的国民党武汉派和南京派再次结盟，共同目标是镇压中共。蒋介石卸任后，汪精卫接任国民党领导人。<ref>{{Cite book |title=China at War: An Encyclopedia |url=https://books.google.com/books?id=jhPyvsdymU8C&pg=PA295 |last=Li |first=Xiaobing |publisher=Bloomsbury Academic |date=2012-01-10 |isbn=978-1-59884-415-3 |language=en}}</ref><ref>{{Cite book |title=Lee, Lai to. Trade Unions in China: 1949 To the Present. (1986). National University of Singapore Press. |isbn=9971-69-093-4}}</ref>
+
+此后，中共曾试图攻占[[长沙]]、[[汕头]]和[[广州]]。由前国民革命军士兵和武装农民组成的红军控制了[[中国南方与北方|中国南方]]多个地区。国民党军队继续对中国共产党实施镇压。9月，汪精卫被迫离开武汉。9月还爆发了由毛泽东领导的[[秋收起义]]，但以失败告终。10月，鲍罗金经蒙古返回苏联。11月，蒋介石前往上海，邀请汪精卫前往苏联。12月11日，中共发动[[廣州暴動 (1927年)|广州起义]]，并在第二天建立了苏维埃政权，12月13日，在[[张发奎]]将军指挥的反击下，广州失守。12月16日，汪精卫逃往法国。当时中国有三个首都：国际公认的首都[[北京]]、中共及[[国民党左派]]的首都武汉，以及[[国民党右派]]的首都[[南京]]，南京在接下来的十年里一直是国民党的首都。<ref>{{Cite book |title=Blasko, Dennis J. (2006). The Chinese Army Today: Tradition and Transformation for the 21st Century. Routledge |isbn=0-415-77003-3}}</ref><ref>{{Cite book |title=Esherick, Joseph. (2000). Remaking the Chinese City: Modernity and National Identity, 1900–1950. University of Hawaii Press. |isbn=0-8248-2518-7}}</ref><ref>{{Cite book |title=Clark, Anne, Klein, Donald. eds. (1971). Biographic Dictionary of Chinese Communism (Harvard University Press), p. 134.}}</ref>
+
+这标志着长达十年的武装斗争开始，这场斗争在中国大陆被称为“十年内战”。十年内战以[[西安事变]]告终，蒋介石被迫组建[[第二次国共合作]]，以对抗[[日本帝国主义]]的侵略。1930年，国民党内部爆发了[[中原大战]]，由[[冯玉祥]]、[[阎锡山]]和汪精卫发动。随后，国民党发动了[[中央苏区反围剿战争|五次围剿战争]]，旨在清除残余的中共势力。第一次和第二次包围战失败，第三次包围战则因九一八事变而中止。[[中央蘇區第四次反圍剿戰爭]]（1932-1933年）初期取得了一些成功，但蒋介石的军队在试图深入毛泽东领导的苏维埃中华民国腹地时遭遇重创。在这些战役中，国民党纵队迅速突袭[[中国共产党革命根据地]]，但很快就被广袤的乡村包围，无法巩固阵地。<ref>{{Cite book |title=Lynch, Michael. Clausen, Søren. (2003). Mao. Routledge |isbn=0-415-21577-3}}</ref>
+
+在1934年末，蒋介石发动了{{Tsl|en|Fifth encirclement campaign against the Eyuwan Soviet|第五次围剿}}，其策略是用防御工事包围江西[[中央革命根据地]]。防御工事战略的部分设计和实施是由新聘的[[纳粹德国]]顾问完成的。与以往一次性深入敌后不同，这一次国民党军队耐心地修建了一系列防御工事，每个工事之间相隔约8公里，以此包围共产党控制区，切断其补给和粮食来源。<ref>{{Cite book |title=Manwaring, Max G. Joes, Anthony James. (2000). Beyond Declaring Victory and Coming Home: The Challenges of Peace and Stability operations. Greenwood. |isbn=0-275-96768-9}}</ref><ref>{{Cite book |title=Karl, Rebecca E. (2010). Mao Zedong and China in the twentieth-century world: a concise history. Durham, NC: Duke University Press. |isbn=978-0-8223-4780-4}}</ref>
+
+===长征===
+
+{{main|长征}}
+
+1934年10月，中共利用包围圈中碉堡的缺口（这些碉堡并非由国民党正规军把守，而是由蒋介石的军阀盟友把守），突破了包围圈。军阀军队因担心损失兵力而不愿与共产党军队对抗，因此并未积极追击中共。此外，国民党主力部队当时正忙于歼灭[[张国焘]]的军队，其规模远大于毛泽东的军队。共产党军队的大规模撤退持续了一年，据毛泽东估计，撤退路程达12500公里（25000里；7800[[英里]]），史称“[[长征]]”。<ref>{{Cite book |title=Zhang, Chunhou. Vaughan, C. Edwin. (2002). Mao Zedong as Poet and Revolutionary Leader: Social and Historical Perspectives. Lexington books. |isbn=0-7391-0406-3}}</ref>
+
+此次撤退是由毛泽东领导的中国共产党发起的，目的是躲避国民党军队的追击或攻击。 这场撤退行动由一系列行军组成，期间南方众多共产党军队向北、向西撤退。在从江西撤退的过程中，由经验不足的军事委员会领导的第一方面军几乎被蒋介石的军队全歼，因为蒋介石的据点就在江西。在毛泽东和周恩来的指挥下，共产党军队“采取迂回撤退的策略，向西、向北撤退，据报道，这一撤退历时370天，行程超过9000公里。”撤退路线穿越了中国西部一些地形最为险峻的地区，先向西行进，然后向北前往陕西。“1935年11月，毛泽东在陕北定居后不久，正式接替周恩来担任红军的领导职务。经过一次重大的人事调整，毛泽东成为军事委员会主席，周恩来和邓小平担任副主席。”这标志着毛泽东确立了其作为中共最高领导人的地位。
+
+长征最终在中共抵达[[陕西]]内陆时结束。张国焘的军队（[[红四方面军]]）取道西北，与中共军队不同，但遭到蒋介石及其[[穆斯林]]盟友[[马家军]]的重创。沿途，中共军队没收了地方军阀和地主的财产和武器，并招募农民和贫民，巩固了其在群众中的号召力。从苏维埃中华民国出发的9万至10万人中，只有约7000至8000人抵达陕西。张国焘的残余部队最终在陕西与毛泽东会合，但由于其军队已被歼灭，即使作为中共的创始成员之一，张国涛也再无力挑战毛泽东的权威。从本质上讲，长征使毛泽东成为中国共产党无可争议的领袖。<ref>{{Cite book |title=Bianco, Lucien. Bell, Muriel. (1971). Origins of the Chinese Revolution, 1915–1949. Stanford University Press. |isbn=0-8047-0827-4}}</ref>
+
+国民党利用[[康区]]武装（这些武装人员曾是土匪）与红军作战，并削弱那些为了保存实力而拒绝与共产党军队作战的地方军阀。国民党在四川招募了300名“康区土匪”加入其慰安会部队，作为中央政府渗透和瓦解刘文辉等汉族地方军阀行动的一部分。政府试图对边境地区实行全面控制，以打击军阀势力。[[刘文辉]]为了保存兵力而拒绝与共产党作战。慰安会部队也曾与红军作战，但最终因其宗教领袖被共产党俘虏而战败。<ref>{{Cite book |title=Modern China's Ethnic Frontiers: A Journey to the West |url=https://books.google.com/books?id=rsLQdBUgyMUC&q=force+of+about+300+soldiers+was+organized+and+augmented+by+recruiting+local+Khampa+bandits+into+the+army&pg=PA52 |last=Lin |first=Hsiao-ting |publisher=Taylor & Francis |date=2010-08-04 |isbn=978-0-203-84497-7 |language=en}}</ref>
+
+[[File:Nationalist_China_1929_-_1937.PNG|thumb|1929年中国局势：北伐之后，国民党直接控制了中国东部和中部地区，而中国本土以及满洲则由效忠国民政府的军阀控制]]
+
+[[File:China_Soviet_Zones.png|thumb|地图显示了围剿期间及之后共产党控制的苏区]]
+
+[[File:The_Long_March_1934_-_1935.PNG|thumb|长征期间共产党军队行进的路线]]
+
+[[File:Long-march.jpg|thumb|一位共产党领导人向长征幸存者发表讲话]]
+
+[[File:Chiang1926.jpg|thumb|[[蒋介石]][[大元帅]]，[[国民革命军]]总司令，在[[北伐战争]]之后成为[[中華民國大陸時期|中华民国]]的领导人]]
+
+[[File:National_Revolutionary_Army_troops.png|thumb|国民革命军士兵行军]]
+
+[[File:National_Revolutionary_Army_artillery.png|thumb|国民革命军炮兵向共产党军队开火]]
+
+===日本的扩张主义和统一战线谈判===
+
+1931年，[[日本入侵满洲]]。尽管日本的扩张主义对内战双方都构成了明显的威胁，但起初并未导致停战。相反，蒋介石认为“日本人是皮肤病，共产党是心病。”他命令满洲的将领不要抵抗日军，而是集中精力继续在南方进行内战。他称这一政策为“[[攘外必先安内]]”。中共反对蒋介石的不抵抗政策，认为他是日本的傀儡。他们将与国民政府的斗争视为抗日的重要组成部分，并呼吁“抗日抗蒋”。<ref>{{Cite book |title=Yang, Kuisong (2020a). "Sino-Soviet Diplomacy Under the Threat of War". In Shen, Zhihua (ed.). A Short History of Sino-Soviet Relations, 1917–1991. China connections. Translated by Xia, Yafeng; Li, Hongshan; Liu, Xiaohong. Singapore: Palgrave Macmillan and Social Sciences Academic Press. |isbn=978-981-13-8641-1}}</ref><ref>{{Cite book |title=The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan |url=https://www.cambridge.org/core/books/great-exodus-from-china/3426ADEBAB604DE400E4382CB61CD234 |last=Yang |first=Dominic Meng-Hsuan |publisher=Cambridge University Press |location=Cambridge |date=2020 |isbn=978-1-108-47812-0}}</ref><ref>{{Cite book |title=Gao, Hua (2018). How the Red Sun Rose: The Origins and Development of the Yan'an Rectification Movement. The Chinese University of Hong Kong Press. |isbn=9789629968229}}</ref><ref>{{Cite book |title=Mitter, Rana (2000). The Manchurian Myth: Nationalism, Resistance, and Collaboration in Modern China. University of California Press.}}</ref><ref>{{Cite book |title=van de Ven, Hans (2003). War and Nationalism. New York: Routledge.}}</ref><ref>{{Cite web |title=Sage Journals: Discover world-class research |url=https://journals.sagepub.com/action/cookieAbsent |website=Sage Journals |language=en |access-date=2026-05-20 |doi=10.1177/009770040202800203}}</ref><ref>{{Cite journal |last=Sheng |first=Michael M. |title=Mao, Stalin, and the Formation of the Anti-Japanese United Front: 1935–37 |url=https://www.cambridge.org/core/journals/china-quarterly/article/abs/mao-stalin-and-the-formation-of-the-antijapanese-united-front-193537/27BF257885392D2FD98A101B31A2F42C |journal=The China Quarterly |language=en |date=1992-03 |volume=129 |doi=10.1017/S0305741000041266 |issn=1468-2648 |access-date=2026-05-20}}</ref>
+
+对于中共而言，在进行内战的同时抵抗日本变得越来越不切实际。早在1932年末，满洲的共产党游击队就开始与国民党游击队合作，共同对抗日本侵略者。与此同时，苏联也开始向中共施压，要求其通过谈判结束内战。[[苏联]]关注欧洲局势，尤其是[[阿道夫·希特勒的崛起|德国崛起]]，希望共产党与温和派结成[[统一战线]]，共同抵抗法西斯侵略。这一政策于1935年夏季在[[共产国际第七次代表大会]]上正式通过。以[[王明]]为首的中共代表团在大会上发表了《[[八一宣言]]》，阐述了如何在中国建立[[民族團結政府|统一战线]]。他们建议建立一个由所有希望抵抗日本帝国主义的中国政党组成的国防政府。重要的是，由于他们仍然认为蒋介石是日本的“走狗”，因此他们没有向[[国民政府]]提出这一提议。<ref>{{Cite book |title=Yang, Kuisong (2020a). "Sino-Soviet Diplomacy Under the Threat of War". In Shen, Zhihua (ed.). A Short History of Sino-Soviet Relations, 1917–1991. China connections. Translated by Xia, Yafeng; Li, Hongshan; Liu, Xiaohong. Singapore: Palgrave Macmillan and Social Sciences Academic Press. |isbn=978-981-13-8641-1}}</ref><ref>{{Cite book |title=Gao, Hua (2018). How the Red Sun Rose: The Origins and Development of the Yan'an Rectification Movement. The Chinese University of Hong Kong Press. |isbn=9789629968229}}</ref><ref>{{Cite book |title=Mao: The Real Story |url=https://books.google.com/books?id=ydGbAQAAQBAJ |last=Pantsov |first=Alexander V. |last2=Levine |first2=Steven I. |publisher=Simon and Schuster |date=2013-10-29 |isbn=978-1-4516-5448-6 |language=en}}</ref><ref>{{Cite book |title=Gao, Hua (2018). How the Red Sun Rose: The Origins and Development of the Yan'an Rectification Movement. The Chinese University of Hong Kong Press. |isbn=9789629968229}}</ref><ref>{{Cite book |title=Victorious in Defeat: The Life and Times of Chiang Kai-shek, China, 1887-1975 |url=https://books.google.com/books?id=GU6qEAAAQBAJ |last=Pantsov |first=Alexander V. |publisher=Yale University Press |date=2023-03-21 |isbn=978-0-300-27169-0 |language=en}}</ref><ref>{{Cite book |title=Yang, Kuisong (2020a). "Sino-Soviet Diplomacy Under the Threat of War". In Shen, Zhihua (ed.). A Short History of Sino-Soviet Relations, 1917–1991. China connections. Translated by Xia, Yafeng; Li, Hongshan; Liu, Xiaohong. Singapore: Palgrave Macmillan and Social Sciences Academic Press. |isbn=978-981-13-8641-1}}</ref><ref>{{Cite journal |last=Sheng |first=Michael M. |title=Mao, Stalin, and the Formation of the Anti-Japanese United Front: 1935–37 |url=https://www.cambridge.org/core/journals/china-quarterly/article/abs/mao-stalin-and-the-formation-of-the-antijapanese-united-front-193537/27BF257885392D2FD98A101B31A2F42C |journal=The China Quarterly |language=en |date=1992-03 |volume=129 |doi=10.1017/S0305741000041266 |issn=1468-2648 |access-date=2026-05-20}}</ref>
+
+中共在共产国际代表大会召开期间正值长征，与莫斯科的无线电通讯中断。其领导人于1935年11月得知了大会的决定。次月，在[[瓦窑堡街道]]召开会议，讨论这项新的共产国际政策的影响。他们发表的《瓦窑堡宣言》标志着他们对其在内战初期所持强硬立场的重大让步。宣言呼吁建立“最广泛的全国统一战线”来抵抗日本，并宣布中共愿意为了跨阶级合作而暂停阶级斗争。然而，他们并不打算让[[中国工农红军]]投降于国民党。相反，他们抵抗日本的计划的核心是将红军扩充到100万人，并扩大[[中华苏维埃共和国]]的领土面积。<ref>{{Cite book |title=Yang, Benjamin (1990). From Revolution to Politics: Chinese Communists on the Long March. Boulder, Colorado: Westview Press. |isbn=978-0-8133-7672-1}}</ref>
+
+1935年末，随着日本在[[华北地区]]加强扩张政策，中日关系急剧恶化。蒋介石担心日本即将全面入侵中国，因此希望获得苏联的物质和外交支持。他还面临着日益增长的公众压力，要求他积极抵抗日本；例如，1935年12月9日，[[一二·九运动|北平爆发了大规模学生抗议活动]]。1月，蒋介石派遣使节前往莫斯科，就军事互助条约进行谈判。然而，作为缔结条约的前提条件，蒋介石希望苏联命令中共服从国民政府。苏联大使告诉蒋介石，虽然苏联希望中共同意在国民政府的领导下实行统一指挥，但蒋介石必须直接与中共进行谈判。这令蒋介石感到不安，他担心如果苏联不愿命令中共停止战争，一旦停火协议破裂，苏联可能会支持中共采取进一步的革命行动。谈判进展停滞不前，在蒋介石考虑与苏联签订条约的消息泄露给媒体后，他叫停了谈判。<ref>{{Cite book |title=Coble, Parks M. (1991). Facing Japan: Chinese Politics and Japanese Imperialism, 1931–1937. Harvard East Asian monographs. Cambridge, Mass.: Harvard University Press. |isbn=978-0-674-77530-5}}</ref><ref>{{Cite web |title=Sage Journals: Discover world-class research |url=https://journals.sagepub.com/action/cookieAbsent |website=Sage Journals |language=en |access-date=2026-05-20 |doi=10.1177/009770040202800203}}</ref><ref>{{Cite book |title=Yang, Kuisong (2020a). "Sino-Soviet Diplomacy Under the Threat of War". In Shen, Zhihua (ed.). A Short History of Sino-Soviet Relations, 1917–1991. China connections. Translated by Xia, Yafeng; Li, Hongshan; Liu, Xiaohong. Singapore: Palgrave Macmillan and Social Sciences Academic Press. |isbn=978-981-13-8641-1}}</ref><ref>{{Cite book |title=Garver, John W. (1988). Chinese-Soviet Relations, 1937–1945: The Diplomacy of Chinese Nationalism. New York: Oxford University Press. |isbn=0195363744}}</ref><ref>{{Cite book |title=Ienaga, Saburo (1978). Pacific War, 1931–1945: A Critical Perspective on Japan's Role in World War II. New York: Pantheon Books.}}</ref>
+
+[[File:China before the Xi'an Incident.svg|right|thumb|320px|1936年12月，[[西安事变]]前夕，中国东部地图：
+{{legend|#FF4D4D|由[[中国共产党]]控制}}
+{{legend|#7A9FFF|由中央[[国民政府]]控制}}
+{{legend|#B0C6FF|与国民政府结盟的半自治地区}}
+{{legend|#B0C660|由东北军、西北军或其盟军控制}}
+{{legend|#C2986D|由[[日本帝国]]控制}}]]
+
+与此同时，中共与包围西北地区的国民党军队展开了单独谈判。他们成功与[[东北军]]司令[[张学良]]和西北军司令[[杨虎城]]签署了秘密停战协议。这两位将领对蒋介石将内战置于抗日之上感到不满。另一位军阀严锡山也与共产党签署了秘密协议，尽管他与共产党的联系不如张学良和杨虎城紧密。西北联盟的成员们虽然都渴望抗日，但在如何最好地实现这一目标的细节上存在分歧。共产党支持一项计划，即利用苏联的支持，占领[[陕西]]、[[甘肃]]、[[宁夏]]、[[青海]]和[[新疆]]，并将西北地区变成张学良东北军基地，以此来抗日并对抗蒋介石。张学良、杨虎城和严仍然致力于说服蒋介石领导抗日战争。在继续谈判的过程中，他们对联盟保密，甚至上演假军事演习以消除南京政府的疑虑。<ref>{{Cite book |title=van de Ven, Hans (2003). War and Nationalism. New York: Routledge.}}</ref><ref>{{Cite book |title=Coble, Parks M. (1991). Facing Japan: Chinese Politics and Japanese Imperialism, 1931–1937. Harvard East Asian monographs. Cambridge, Mass.: Harvard University Press. |isbn=978-0-674-77530-5}}</ref><ref>{{Cite book |title=The Making of China’s War with Japan: Zhou Enlai and Zhang Xueliang |url=https://books.google.com/books?id=VcswDQAAQBAJ&pg=PA74 |last=Itoh |first=Mayumi |publisher=Springer |date=2016-10-03 |isbn=978-981-10-0494-0 |language=en}}</ref><ref>{{Cite book |title=Warlord: Yen Hsi-shan in Shansi Province, 1911-1949 |url=http://archive.org/details/warlord0000unse |last=Gillin |first=Donald G. |publisher=Princeton, N.J., Princeton University Press |date=1967 |others=Internet Archive}}</ref><ref>{{Cite book |title=Yang, Kuisong (2020a). "Sino-Soviet Diplomacy Under the Threat of War". In Shen, Zhihua (ed.). A Short History of Sino-Soviet Relations, 1917–1991. China connections. Translated by Xia, Yafeng; Li, Hongshan; Liu, Xiaohong. Singapore: Palgrave Macmillan and Social Sciences Academic Press. |isbn=978-981-13-8641-1}}</ref><ref>{{Cite book |title=Zhou Enlai: A Political Life |url=https://books.google.com/books?id=NztlWQeXf2IC |last=Barnouin |first=Barbara |last2=Yu |first2=Changgen |publisher=Chinese University Press |date=2006 |isbn=978-962-996-280-7 |language=en}}</ref>
+
+蒋介石与中共的谈判于1936年末正式开始。蒋介石继续尝试以军事手段解决内战，但仍然认为与中共谈判解决内战是最后的手段。10月中下旬宁夏战役的结果令他备受鼓舞。在那次战役中，红军第二军和第四军北上，试图接收苏联在蒙古空投的补给，却发现自己被困在了黄河对岸。他们被国民党军队的回族骑兵击溃。蒋介石开始筹备第六次包围战，并指示张和杨参战。11月初，[[陈立夫]]向[[潘汉年]]提出了一系列极其苛刻的条件。潘汉年拒绝了，称这些条件是“投降的条件”。11月下旬，蒋介石命令东北军和国民党中央军队（胡宗南的右路军）向共产党首都[[宝安]]发起进攻。在随后的山城堡之战中，东北军保留了大部分兵力，没有参与进攻。这使得红军得以伏击并几乎全歼了[[胡宗南]]的第78团。这扭转了外交局势：陈立夫缓和了条件，但中共于12月10日将潘汉年从南京召回。<ref>{{Cite journal |last=Sheng |first=Michael M. |title=Mao, Stalin, and the Formation of the Anti-Japanese United Front: 1935–37 |url=https://www.cambridge.org/core/journals/china-quarterly/article/abs/mao-stalin-and-the-formation-of-the-antijapanese-united-front-193537/27BF257885392D2FD98A101B31A2F42C |journal=The China Quarterly |language=en |date=1992-03 |volume=129 |doi=10.1017/S0305741000041266 |issn=1468-2648 |access-date=2026-05-25}}</ref><ref>{{Cite book |title=Zhou Enlai: A Life |url=https://books.google.com/books?id=_bznEAAAQBAJ |last=Jian |first=Chen |publisher=Harvard University Press - T |date=2024-05-07 |isbn=978-0-674-29657-2 |language=en}}</ref><ref>{{Cite book |title=Saving Lives in Wartime China: How Medical Reformers Built Modern Healthcare Systems Amid War and Epidemics, 1928-1945 |url=https://books.google.com/books?id=LfR0AQAAQBAJ |last=Watt |first=John R. |publisher=BRILL |date=2013-10-10 |isbn=978-90-04-25646-0 |language=en}}</ref><ref>{{Cite book |title=The Making of China’s War with Japan: Zhou Enlai and Zhang Xueliang |url=https://books.google.com/books?id=VcswDQAAQBAJ&pg=PA74 |last=Itoh |first=Mayumi |publisher=Springer |date=2016-10-03 |isbn=978-981-10-0494-0 |language=en}}</ref><ref>{{Cite book |title=Zhou Enlai: The Enigma Behind Chairman Mao |url=https://books.google.com/books?id=KxPGDwAAQBAJ |last=Dillon |first=Michael |publisher=Bloomsbury Publishing |date=2020-01-23 |isbn=978-1-78672-666-7 |language=en}}</ref><ref>{{Cite book |title=A History of China in the 20th Century |url=https://books.google.com/books?id=gRLREAAAQBAJ |last=Peng |first=Lü |publisher=Springer Nature |date=2023-08-14 |isbn=978-981-99-0734-2 |language=en}}</ref>
+
+1936年末，张学良意识到自己多次劝说蒋介石与共产党建立统一战线的努力已无济于事。在他看来，尽管日本入侵的威胁日益加大，但蒋介石仍要继续内战。于是，他听从杨虎城的建议，决定采取极端措施。1936年12月12日，心怀不满的张学良与杨虎城密谋绑架蒋介石，迫使其与中共停战。这一事件史称[[西安事变]]。双方停止内战，[[第二次国共合作]]开始，集中力量抗击日本侵略。<ref>{{Cite book |title=Victorious in Defeat: The Life and Times of Chiang Kai-shek, China, 1887-1975 |url=https://books.google.com/books?id=GU6qEAAAQBAJ |last=Pantsov |first=Alexander V. |publisher=Yale University Press |date=2023-03-21 |isbn=978-0-300-27169-0 |language=en}}</ref><ref>{{Cite book |title=Mao: The Real Story |url=https://books.google.com/books?id=ydGbAQAAQBAJ |last=Pantsov |first=Alexander V. |last2=Levine |first2=Steven I. |publisher=Simon and Schuster |date=2013-10-29 |isbn=978-1-4516-5448-6 |language=en}}</ref><ref>{{Cite book |title=Ye, Zhaoyan Ye; Berry, Michael (2003). Nanjing 1937: A Love Story. Columbia University Press. |isbn=0-231-12754-5}}</ref>
+
+== 中国抗日戰爭（1937年-1945年） ==
+
+{{main|中国抗日战争|國共摩擦|黄桥战役|皖南事变}}
+
+1937年，日本全面入侵中国，装备精良的军队击溃了中国北方和沿海地区的国民党守军。1941年12月日本[[偷袭珍珠港]]后，中日战争成为[[第二次世界大战]][[太平洋战争]]的一部分。
+
+[[File:Photo_03_in_Nanjing_Massacre_(Itou_Kaneo's_Album).png|thumb|1937年12月13日，国民政府撤出南京后，[[南京大屠杀]]期间的[[日本帝国海军]]]]
+
+第二次国共合作名存实亡。与国民党不同，中共摒弃了[[正规战争]]，转而对日军进行[[游击战]]。二战期间，国共之间的实际合作与协调程度极低。在[[第二次国共合作]]期间，双方仍在“[[国统区]]”（即未被日本占领或被[[伪满洲国]]等日本傀儡政权统治的地区）争夺控制权。[[汪精卫政权]]的建立进一步加剧了中国内部的分裂。汪精卫政权是日本扶植的傀儡政权，由[[汪精卫]]（曾是国民党的重要领导人）领导，名义上统治着被日本占领的中国地区。<ref>{{Cite book |title=Buss, Claude Albert. (1972). Stanford Alumni Association. The People's Republic of China and Richard Nixon. United States.}}</ref>
+
+1940年末至1941年初，局势达到白热化，共产党和国民党之间的冲突愈演愈烈。1940年12月，蒋介石要求[[新四军]]撤出[[安徽]]和[[江苏]]两省，理由是新四军在这两省挑衅和骚扰国民党军队。在巨大的压力下，新四军指挥官服从了命令。次年，[[皖南事变|他们在撤退途中遭到国民党军队伏击]]，导致数千人丧生。这也终结了此前为抗击日本而建立的[[第二次国共合作]]。<ref>{{Cite book |title=Schoppa, R. Keith. (2000). The Columbia Guide to Modern Chinese History. Columbia University Press. |isbn=0-231-11276-9}}</ref>
+
+随着中共与国民党之间的冲突加剧，美国和苏联等国试图阻止一场灾难性的内战爆发。新四军事件后，美国总统[[富兰克林·罗斯福]]派遣特使[[劳克林·居里]]与蒋介石和国民党领导人会谈，表达了他们对两党敌对关系的关切。柯里指出，内战的唯一受益者将是日本人。与中共关系更为密切的苏联于1941年向毛泽东发出了一份紧急电报，警告说内战也会使日本军队的处境更加有利。由于国际社会的努力，出现了暂时的、表面上的和平。1943年，蒋介石发表了宣传文章《中国的命运》，质疑中共战后的能力，而中共对此予以强烈反对。蒋介石的领导地位遭到抨击，他称其政权为法西斯政权，试图以此塑造负面的公众形象。<ref>{{Cite book |title=Chen, Jian. (2001). Mao's China and the Cold War. The University of North Carolina Press. |isbn=0-807-84932-4}}</ref>
+
+[[File:Situation_at_the_End_of_World_War_Two.PNG|thumb|战争末期，日本占领中国东部（红色区域）和共产党控制区（条纹区域）]]
+
+1944年，随着日军发动“[[一号作战]]”，中国战场局势急剧恶化，国民政府损失惨重。与此同时，国民政府与美国在军事指挥和战时协调问题上的关系也日益紧张。
+
+当时，美国已成为中国对外军事援助的主要来源，它敦促中国军队进行大规模重组，并通过驻中缅印战区美军司令[[约瑟夫·史迪威]]将军寻求更大的作战权力。与此同时，国民政府内部也正就军事主权和控制权问题展开辩论。此外，美国官员还通过“南方使团”与中国共产党展开试探性接触，这反映出美国对华政策的重新评估。这些事态发展与国民政府控制区日益恶化的战场局势和不断增加的经济压力同时发生。<ref>{{Cite web |title=Vinegar Joe and the Generalissimo |url=https://www.hoover.org/research/vinegar-joe-and-generalissimo |website=Hoover Institution |language=en |access-date=2026-05-26}}</ref><ref>{{Cite journal |last=Yang |first=Changfa |title=The conflicts between Chang Kai-shek and Joseph Stilwell during World War Two |url=https://mds.marshall.edu/etd/1956 |journal=Theses, Dissertations and Capstones |date=1996-01-01 |access-date=2026-05-26}}</ref><ref>{{Cite web |title=蒋中正 - 维基语录，自由的名人名言录 |url=https://zh.wikiquote.org/wiki/%E8%92%8B%E4%B8%AD%E6%AD%A3 |website=zh.wikiquote.org |language=zh |access-date=2026-05-26}}</ref>
+
+{{quote|抗战进程如今已承受着来自美国的巨大压力，这甚至超出了我最悲观的预期。美国帝国主义竟然会采取如此残酷无情的手段，其程度之深，更是超乎所有人的预料。
+
+
+ ——蒋介石，1944年7月16日}}
+
+总的来说，[[第二次中日战争]]的局势发展对中国共产党有利，因为其游击战术赢得了日占区民众的支持。在日占区，共产党建立了军事和政治基地，并以此为据点开展游击战。共产党在这些地区建立了民众支持，将土地归还给贫苦农民，降低农民的租金，并武装民众。到1945年春季，中国共有19个共产党统治区，居住着9500万人。1945年秋季，共产党军队拥有127万人，并得到268万民兵的支持。由于国民党是合法的中国政府，它不得不抵御日本的主要攻势，这对蒋介石及其军队来说代价惨重。1944年，日本发动了对国民党的最后一次大规模进攻——“[[一号作战]]”，导致国军被严重削弱。中共通过游击战术遭受的损失也较少。<ref>{{Cite book |title=Li, Xiaobing (2018). The Cold War in East Asia. Abingdon, Oxon: |isbn=978-1-138-65179-1}}</ref><ref>{{Cite book |title=Lary, Diana. (2007). China's Republic. Cambridge University Press. |isbn=0-521-84256-5}}</ref>
+
+==战后初期冲突（1945年-1946年）==
+
+[[File:Manchuria_Operation_map-en.svg|thumb|1945年8月，[[苏联红军]][[八月風暴行動|入侵满洲]]]]
+
+[[File:%E9%87%8D%E6%85%B6%E6%9C%83%E8%AB%87_%E8%94%A3%E4%BB%8B%E7%9F%B3%E8%88%87%E6%AF%9B%E6%BE%A4%E6%9D%B1.jpg|thumb|蒋介石和毛泽东于1945年在重庆会晤]]
+
+战争末期，延安的共产党电台和重庆的国民党电台分别发出相互矛盾的指令，要求日军向他们投降。这导致共产党和国民党争相控制原先被日本占领的中国地区。<ref>{{Cite book |title=Alekna, John (2024). Seeking News, Making China: Information, Technology, and the Emergence of Mass Society. Stanford, California: Stanford University Press. |isbn=978-1-5036-3667-5}}</ref>
+
+根据盟军规定的日本[[无条件投降]]条款，日军应向国民党军队投降，不得向也驻扎在部分占领区的中国共产党军队投降。然而，在没有国民党军队的[[满洲 (地名)|满洲]]，日军向苏联投降。蒋介石提醒日军坚守阵地迎接国民党军队，但共产党军队很快开始接受日军的投降，并与抵抗者交战。美国陆军将领[[阿尔伯特·魏德迈]]对事态发展感到担忧，希望派遣七个美军师前往中国，但[[喬治·馬歇爾]]将军回应说，中国不应优先于日本和朝鲜。<ref>{{Cite book |title=Zarrow, Peter Gue. (2005). China in War and Revolution, 1895–1949. Routledge. |isbn=0-415-36447-7 |page=p.338}}</ref><ref>{{Cite book |title=In the Ruins of Empire: The Japanese Surrender and the Battle for Postwar Asia |url=https://books.google.com/books?id=ibEQxK_ypsQC&pg=PA38 |last=Spector |first=Ronald H. |publisher=Random House |date=2007 |isbn=978-0-375-50915-5 |language=en}}</ref>
+
+战后首次和平谈判于1945年8月28日至10月10日在[[重庆]]举行，蒋介石和毛泽东均出席了此次谈判。蒋介石在会谈中占据优势，因为他此前不久刚与苏联签署了[[中蘇友好同盟條約]]，而共产党仍在一些地方迫使日军投降。毛泽东由美国大使[[帕特里克·杰伊·赫尔利]]陪同，赫尔利虽然忠于蒋介石，但鉴于两位中国领导人之间的历史恩怨，他也希望确保毛泽东的安全。谈判最终以签署《[[双十协定]]》而告终。双方都强调和平重建的重要性，但会议并未取得任何具体成果。双方的战斗在和平谈判进行期间仍在继续，直到1946年1月达成协议。然而，中共与蒋介石军队之间的大规模战役和全面对抗暂时得以避免。1945年11月26日，赫尔利辞职，他认为蒋介石违背了他与共产党达成的协议。1945年12月，赫尔利的职位由马歇尔接任。在二战的最后一个月，苏联军队对驻扎在满洲和中蒙边境的日本关东军发动了大规模的满洲战略进攻。这次进攻仅用了三周时间就摧毁了关东军，到战争结束时，苏联占领了整个满洲，驻扎在该地区的70万[[关东军]]投降。同年晚些时候，蒋介石意识到，在苏联按计划撤军后，他缺乏足够的资源来阻止中共接管满洲。因此，他与苏联达成协议，推迟苏联的撤军，直到他将足够多的精锐部队和现代化物资调往该地区。然而，苏联拒绝国民党军队穿越其控制的领土，并利用这段额外的时间系统地拆除了满洲庞大的工业基地（价值高达20亿美元），并将其运回苏联。随后，国民党军队由美国空运至华北地区的重要城市，而农村地区已被中共控制。1945年11月15日，国民党发起了一场阻止中共巩固其强大基础的运动。然而，与此同时，国民党的复辟也带来了普遍的贪污腐败，一位美国[[战略情报局]]官员评论说，唯一的赢家是共产党。<ref>{{Cite book |title=In the Ruins of Empire: The Japanese Surrender and the Battle for Postwar Asia |url=https://books.google.com/books?id=ibEQxK_ypsQC&pg=PA38 |last=Spector |first=Ronald H. |publisher=Random House |date=2007 |isbn=978-0-375-50915-5 |language=en}}</ref><ref>{{Cite book |title=Xu, Guangqiu. (2001). War Wings: The United States and Chinese Military Aviation, 1929–1949. Greenwood |isbn=0-313-32004-7 |page=p.201}}</ref><ref>{{Cite book |title=Bright, Richard Carl. (2007). Pain and Purpose in the Pacific: True Reports of War. Trafford Publishing |isbn=1-4251-2544-1}}</ref><ref>{{Cite book |title=Lilley, James. China hands: nine decades of adventure, espionage, and diplomacy in Asia. PublicAffairs, New York, 2004}}</ref><ref>{{Cite book |title=Jessup, John E. (1989). A Chronology of Conflict and Resolution, 1945–1985. New York: Greenwood. |isbn=0-313-24308-5}}</ref><ref>{{Cite book |title=In the Ruins of Empire: The Japanese Surrender and the Battle for Postwar Asia |url=https://books.google.com/books?id=ibEQxK_ypsQC&pg=PA38 |last=Spector |first=Ronald H. |publisher=Random House |date=2007 |isbn=978-0-375-50915-5 |language=en}}</ref>
+
+1945年-1946年，[[约瑟夫·斯大林]]命令[[罗季翁·马利诺夫斯基]]元帅将缴获的大部分日军武器交给中共。<ref>{{Cite web |title=苏联给了林彪东北野战军多少现代武器(2)_文化读书频道_新浪网 |url=http://book.sina.com.cn/excerpt/sz/rw/2011-11-24/0951293044_2.shtml |website=book.sina.com.cn |archive-url=https://web.archive.org/web/20130926184147/http://book.sina.com.cn/excerpt/sz/rw/2011-11-24/0951293044_2.shtml |archive-date=2013-09-26 |access-date=2026-05-27}}</ref>
+
+国军于1945年11月26日推进至[[锦州]]，几乎没有遇到抵抗。随后，共产党在[[山东半岛]]发动攻势，并取得了显著成功，除美军控制区外，整个半岛均被共产党占领。1946年6月，停战协定破裂，国共双方于1946年6月26日爆发全面战争。中国随后陷入长达三年多的内战。<ref>{{Cite book |title=Projecting a Nation |url=https://www.degruyterbrill.com/document/doi/10.1515/9789882202580/html |last=Hu |first=Jubin |publisher=Hong Kong University Press |date=2003-12-31 |isbn=978-988-220-258-0 |doi=10.1515/9789882202580}}</ref>
+
+[[File:Chinese_Communist_troops_marched_north(1945)_03.jpg|thumb|1945年，中国共产党军队北上占领东北农村地区]]
+
+[[File:Shangtang.jpg|thumb|[[上党战役]]，1945年9月10日至10月12日]]
+
+== 全国性内战（1946年-1949年） ==
+{{main|第二次國共内戰}}
+[[File:Peasants carting supply for communists.jpg|thumb|220px|用小推車支援共產黨[[後勤]]的農民]]
+[[File:Hu Yanan 1946.jpg|thumb|1947年3月10日，中共首都留守处人员从南京返回延安3天后，国军[[胡宗南]]兵团从[[洛川]]沿成榆公路向[[延安]]进攻]]
+[[File:Map of The ROC government’s retreat route zh-hant.svg|thumb|中華民國政府撤退至台灣路線]]
+1945年8月起開始的[[第二次國共内战]]，[[中國國民黨]]稱為“'''[[動員戡亂]]'''”或“'''抗共衛國戡亂戰爭'''”，[[中国共产党]]則称为“'''解放戰爭'''”，也称“'''第三次国内革命战争'''”。
+
+=== 抗战后局勢（1945年－1946年） ===
+抗日战争结束后，因为国军与共产党部队冲突加剧<ref>[http://www.gsczxx.gssedu.cn/read/pdf/mzdxj/090.htm 抗日战争胜利后的时局和我们的方针] {{Wayback|url=http://www.gsczxx.gssedu.cn/read/pdf/mzdxj/090.htm |date=20210703050415 }}汪朝光，中华民国史，北京：中华书局，2000</ref>，1945年8月，[[毛泽东]]、[[周恩来]]、[[王若飞]]等飞赴重庆与国民政府谈判。谈判内容主要是投降日军接收，共产党部队与国军的合并，共产党战后的参政议政等问题。双方于10月10日签署“政府与中共代表会谈纪要”（即“[[双十协定]]”），决定在年底召开[[政治协商会议]]。國共雙方在[[重慶市 (中華民國)|重慶]]展開[[重慶談判|談判]]並召開[[政治协商会议]]，然而談判很快破裂，内戰全面爆發。
+
+1946年1月，国共两党與[[民盟]]、[[中國青年黨]]、[[中國民主社會黨]]等代表召开政治协商会议，通过和平建国纲领等五个决议案，一致同意在和平建国纲领下，共同实现民主宪政<ref>政治协商会议纪实，重庆出版社，1989</ref><ref>[[李炳南]]，政治协商会议与国共谈判，永业出版社</ref>。但实际上双方冲突未有结束。2月底，虽受[[反苏运动]]等因素影响，国共双方仍达成[[整军方案]]，统一将国共军队整编为中国国防军。协定划定全国驻军服务区，各军队集结在此统一整编；整编以12个月为一期，分期缩编部队，直到完成全国60个师的目标。3月底，国共达成迄今最后一个正式协议——[[东北停战协定]]，但对东北内战无实际约束。
+
+[[美国国务卿]]指出，苏联在华北驻军的主要任务是实施对日军的缴械和遣返。在中国军队能独立担负责任后，苏联驻军将立即撤回<ref>{{cite web |url=http://avalon.law.yale.edu/20th_century/decade19.asp |title=INTERIM MEETING OF FOREIGN MINISTERS OF THE UNITED STATES, THE UNITED KINGDOM, AND THE UNION OF SOVIET SOCIALIST REPUBLICS, MOSCOW |date=1945-12-27 |accessdate=2010-03-03 |archive-date=2009-04-30 |archive-url=https://web.archive.org/web/20090430221645/http://avalon.law.yale.edu/20th_century/decade19.asp |dead-url=no }}</ref>。
+
+由于[[蘇日戰爭|对日作战]]，[[苏联]]控制了中国[[满洲 (地名)|满洲]]（[[中国东北]]）及[[蒙疆]]（[[内蒙古]]）的部分地区。中共中央主席毛泽东欲接管東北，以便继续与中国国民党斗争<ref name="沈志华">{{cite web |author1=沈志华 |title=斯大林与中国内战的起源（1945-1946） |url=https://www.aisixiang.com/data/24676.html |website=爱思想 |access-date=2022-10-22 |archive-date=2022-10-22 |archive-url=https://web.archive.org/web/20221022040313/https://www.aisixiang.com/data/24676.html |dead-url=no }}</ref>。而[[斯大林]]则为了避免和美国支持的国民政府冲突进一步加剧，拒绝了毛泽东的要求，决定推行“联合政府”政策，並一度向國民政府提出協議，支持國民政府接管東北，以換取蘇聯在東北的經濟利益，並要求美國勢力不得進入東北<ref name="沈志华"/>。由于国民政府拒绝苏联方面的要求，苏军于1946年在撤离東北回国之前，为中共抢占東北的真空地带提供了很多便利条件<ref name="沈志华"/><ref>沈志华，《一个大国的崛起与崩溃》第六部分：斯大林与中国内战的起源 ISBN 978-7-5097-0926-9</ref>。例如，苏联红军将部分缴获自[[日本关东军]]的武器移交给[[林彪]]的[[东北野战军]]。<ref>{{Cite web|title=杨奎松《读史求实》：苏联给了林彪东北野战军多少现代武器|url=http://book.sina.com.cn/excerpt/sz/rw/2011-11-24/0951293044_2.shtml|archive-url=https://web.archive.org/web/20130926184147/http://book.sina.com.cn/excerpt/sz/rw/2011-11-24/0951293044_2.shtml|archive-date=2013-09-26|accessdate=2013-07-03|dead-url=no}}</ref>
+
+=== 國軍全面進攻（1946年－1947年9月） ===
+戰爭初期[[國民革命軍|國軍]]一度取得優勢，佔領中國共產黨所控制的[[张家口市|張家口]]和[[延安市|延安]]等戰略要地。
+
+1946年3月至1947年3月，国共双方边打边谈，在东北、中原、华北等处展开争夺。1946年[[一月停战令]]之后，军事冲突暂息数月；同年3月，蘇聯自東北撤軍，中国共产党隨即迅速占領重要據點並阻止國軍北上，導致4月時東北發生大規模軍事衝突。6月26日，山东和中原地区再度爆发冲突，中国共产党将此视为全面内战起始点。同年11月15日，在共產黨與民盟的抵制下，國民黨與[[中國青年黨|青年黨]]、[[中国民主社会党|民社黨]]等召開[[制憲國民大會]]，並於該年12月25日通過《[[中華民國憲法]]》。與此同時，國民黨调集三路兵力，集结在陕甘宁边区和延安周围。国民党为迎接制宪国大，下达了第四次停战令，但对军队无实际约束力。11月19日，周恩来所率的中共代表团结束了与国民党进行了一年多的和平谈判，返回延安。
+
+1947年1月初，国民党应美國特使[[乔治·卡特莱特·马歇尔]]要求，先后三次呼吁中共举行圆桌会谈，解决两党争端。中共认为国民党没有诚意，中共南京代表陆定一回应，“废除伪宪法（指中華民國憲法）和恢复1946年1月31日军事位置，是恢复和谈的最低限度”<ref>《中共中央宣传部部长陆定一的声明》，1947年1月，《陆定一文集》，北京:人民出版社,1992年，ISBN 978-7-01-001104-2</ref>。国共谈判破裂。1月29日，美国政府决定终止对军事调处执行总部的关系，放弃国共调处工作，退出三人会议，迅速撤退了美方派驻军调部的人员。次日，中華民國政府宣布解散三人小组及北平军调部。2月3日，美国驻延安联络团人员撤离。6日，北平军调处执行部美军人员撤退。2月底，国民党下令在[[南京]]、[[上海]]、[[重庆]]之中共留守处代表於3月5日前撤离首都卫戍司令部、淞沪警備司令部、重庆警备司令部，分别致电函京沪渝中共代表，所有中共人员限期全部撤退<ref>{{cite news|location=重庆|publisher=[[重庆大公报|大公报]]|date=1947-03-01|title=南京卫戍司令部致电梅园新村中共联络处限期撤退令|quote=梅园新村十七号中共南京联络处及代表团公鉴：自贵党拒绝和谈，关闭和平之门，贵党军队在各地公开叛乱，处处攻击国军，而贵党人员又在各处散播谎言，鼓动变乱，本部为维持地方治安，应请贵处将留居本京人员于本年三月五日前全部撤退，并将现在驻京人员姓名、性别、年龄、籍贯、职务，即速造册函送本部，以便护送 离境，特此电达，即希查照，首都卫戍司令部俭秘印}}</ref>，并关停重庆《[[新华日报]]》社。3月7日，[[董必武]]率中共代表团返回延安。
+
+1947年3月15日，国民党第六届中央执行委员会第三次全体会议在南京开幕<ref name="民">{{cite book |editors=[[李新 (歷史學家)|李新]]總主編，[[中國社會科學院]]近代史研究所[[中華民國史]]研究室編，韓信夫、姜克夫主編 |authors=韓信夫、劉明逵、郭永才、王明湘、齊福霖、范明禮、張允侯、張友坤、章伯鋒、胡柏立、耿來金、劉壽林、鍾碧容、鍾卓安、陳崧、王好立、朱信泉、任澤全、蔡靜儀、丁啟予、陳永福、嚴如平、柏宏文、吳以群、羅文起、查建瑜、婁獻閣、白吉庵、李靜之、張小曼、石芳勤、徐玉珍、江紹貞、熊尚厚、吳以群、劉一凡、郭光、郭大鈞、王文端、李起民、李隆基、常丕軍、劉敬坤、陳道真、李振民、張振德、梁星亮、陳仁庚、董國芳、張守憲、王榮斌、陳敏、章笑明、汪朝光、卞修躍、賈維、陳民、朱宗震編著 |title=《中華民國史大事記》 |location=[[北京]] |publisher=[[中华书局有限公司|中華書局]] |year=2011 }}</ref>{{rp|8312}}。[[蒋介石]]主持，出席中央委員146人，候補中央委員46人，列席各地黨部及[[三民主義青年團]]書記長68人；蔣致开幕词，称“中共全面叛乱......政治解决的途径已经绝望......政府为捍卫国家统一，保障人民安全，当然不能坐视变乱而不加制止......我敢断定，决没有任何力量能阻止我们建国工作的完成。”<ref name="民"/>{{rp|8312}}同时声称“实行民主，结束训政，改组政府”<ref name="民"/>{{rp|8312}}。3月17日，[[中華民國參謀總長|参谋总长]][[陳誠]]向三中全会报告军事，历述一年来建军、复员、整军工作之情形及对中共之军事情況，称：“剿匪绝对自信，绝对有把握”，“剿匪应以军事为中心”，“如果真正作战，只需三个月即可击破共军主力……政府用兵之目的在于平定叛乱，非至共军全部解除武装不止。”<ref name="民"/>{{rp|8314}}3月24日，中国国民党第六届中央执行委员会第三次全体会议闭幕，並发表宣言，宣称中国国民党之任务为：完成宪政准备，确立建国规模；消除统一障碍，巩固国家基础<ref name="民"/>{{rp|8320}}。至此，国共两党第二次合作彻底破裂。
+
+1947年3月至9月，中共軍隊處於守勢，寧可喪失关內所有根據地，也要死守東北；国军則向中共控制区进攻。由于采取[[運動戰]]打击国军，国军屡受打击，还要分兵把守占领城市，机动兵力日益不足。然而到1947年初，在[[土地改革]]等政策下，中國共產黨逐漸開始以局部反攻以對抗國軍的[[重點進攻]]。至1947年中，中國共產黨取得戰爭主動權，戰局逆轉。
+
+1947年，中共軍隊拋棄國軍番號，陸續改稱為[[中国人民解放军]]，簡稱「解放军」，国民党方面则称为“共军”。
+
+=== 战局逆转（1947年9月－1950年8月） ===
+{{See also|三大战役|中華民國政府遷台}}
+1947年9月至1948年9月，解放军开始展开主动攻势，在[[中国东北地区|东北]]将國軍压缩至几个孤立城市，在[[中原地區]]則擁有優勢地位，對首都南京所在的華中地區形成壓迫，國共雙方的武力優勢逐漸反轉。
+
+1948年8月上旬，蔣介石召開南京軍事會議<ref>{{cite book |editor=王成斌等主編 |title=《民國高級將領列傳》(1) |location=北京 |publisher=解放軍出版社 |year=1998 |isbn=7506502615 |pages=497-498 |quote=蔣在會上打氣説：「我個人蒙受如此的奇耻大辱，我仍然要百折不回繼續奮鬥，毫不灰心，毫不氣餒，我不忍放棄這『剿匪』責任。所以，我不能不領導一般同志，艱苦奮鬥，來完成戡亂建國的使命」。但是在人民解放軍接連發起的遼瀋戰役、淮海戰役、平津戰役的打擊下，使他在天空飛來飛去調兵遣將成為徒勞，東北、華東、華北三個主力集團一百七十萬兵力殲滅得一乾二凈。 }}</ref>，決定實行重點防禦戰略方針，並準備撤出東北，確保華中，企圖收縮戰線，集中兵力，依托戰略要點之堅固陣地堅守防禦，同時組成強大兵團機動作戰，以攻為守；為此，裁並綏靖區，減少機關，擴大機動兵團，並在大後方加緊二線兵團編組訓練<ref name="傳1">{{cite book |editors=[[王成斌]]等[[主編]] |title=《民國高級將領列傳》(1) |location=北京 |publisher=[[解放軍出版社]] |year=1998 |isbn=7506502615 }}</ref>{{rp|497}}。秋季，解放军在东北、华东、华北三个方向发动战略决战，即[[辽沈战役]]、[[淮海战役]]、[[平津战役]]等三大战役，并取得全部三场战役的胜利。解放軍在[[三大战役]]（[[辽沈战役]]、[[淮海战役]]、[[平津战役]]）中擊敗國軍主力，隨後發動[[渡江戰役]]，最終控制整個[[中国大陆]]。在三大战役中，国军总兵力损失150万人以上，精锐兵团几乎全军覆没，除[[中国西北地区|西北]]外，長江以北的地區幾由解放軍所控制。與此同時，共產黨開始在北方動員十數萬名幹部南下，以此作為接管南方政權的主要力量。盡管戰局對共產黨有利，但是農村的南下幹部動員卻一度十分被動，甚至發生了幹部逃亡的現象，反而是城市的失業知識青年更積極地響應共產黨的南下動員<ref>{{Cite journal|title=中華人民共和国建国前夜における幹部の南下動員に関する考察 : 華北地域の農村・都市部の比較から|author=周 俊|url=|journal=中国研究月報|issue=|doi=|others=|year=2019|volume=|page=|pmid=}}</ref>。
+
+[[苏多柏拉托夫]]在其1994年出版的个人回忆录《{{le|特殊使命|Special Tasks}}》一书中说，苏联在1948年[[中国人民解放军]]发动[[辽沈战役]]、[[淮海战役]]、[[平津战役]]、[[渡江战役]]这些战略进攻行动期间特意引发“[[第一次柏林危机]]”，是斯大林和毛泽东共同协商而做出的一个重大战略计划，他们想以此转移美国对中国国共内战的战略注意力，将美国的援助重心牵制在欧洲，减少美国对反共的蒋介石领导下的国军的援助力度<ref>{{Cite web |url=http://news.sina.com.cn/o/2005-08-17/00256707190s.shtml |title=新浪网：1948年柏林危机是否影响中国 |accessdate=2013-07-03 |archive-date=2016-05-13 |archive-url=https://web.archive.org/web/20160513000628/http://news.sina.com.cn/o/2005-08-17/00256707190s.shtml |dead-url=no }}</ref>。
+
+另一方面，國民政府在1947年[[1947年中華民國國民大會代表選舉|國民大會代表選舉]]與1948年[[1948年中華民國立法委員選舉|立法委員選舉]]後[[行憲]]，由[[國民大會]]選出蔣中正、[[李宗仁]]為首任[[中華民國總統|總統]]、[[中華民國副總統|副總統]]，將[[國民政府]]改組為一府五院的[[中華民國政府]]，並在該年9月實施[[金圓券]]等經濟改革措施，以企圖挽救民心。但金圓券在同年底即告失敗，造成國民政府統治區內[[中國通貨膨脹 (1938年-1950年)|急速地通貨膨脹]]，使經濟情勢更加混亂。
+
+1949年1月21日，面對軍事與經濟上的失利，蔣中正下野，副总统李宗仁出任代总统。李宗仁接任后有意停戰。3月30日，毛泽东为中共中央军委起草致刘伯承、邓小平等人电：「白崇禧的代表（[[刘仲容]]）今日到北平，我们决定联合李、白反对蒋党，李、白对此计划已有初步认识，尚待我们深入工作。……决定要白让出花园（在漢口北，引者）以北地区，我军到信阳、武胜关附近时，如守敌南撤，则不要攻击或追击，让其退至花园及其以南，孝感、黄陂、黄安、阳逻、黄冈等地暂时不去占，待东北主力到达后，再通白崇禧连同汉口、汉阳等地一齐有秩序地让给我们。」<ref>{{cite book |editors=中共中央文献研究室 |title=《毛泽东年谱（1893—1949）》下卷 |edition=修订本 |publisher=中央文献出版社 |year=2013 |page=472 }}</ref>4月4日，毛泽东为中共中央军委起草致第四野战军第十二兵团萧劲光、陈伯钧等电报：“我们已和白崇禧代表刘仲容商定，黄冈、阳逻、仓子埠、黄陂、花园、孝感、汉川、蔡甸、黄陵矶之线及其以南地区我军暂不进占，使武汉不感震动，大商巨绅不致逃跑，将来我军进占该城及武汉地区时用和平接收办法，免遭破坏。……其余宜昌至武穴线上长江北岸要地，凡我军已占者照旧，凡我军未占者一律暂不进占，以利和平接收。……李宗仁代表黄啟汉昨（江）日由北平返南京，除传达上项意旨外，並传达我方允许安庆方面桂军向南京或向武汉撤退。请刘（伯承）李（达）张（际春）即作准其撤退之部署，並令前线派人与守军试行联络。……总之，我方对桂系即应根据联桂反蒋方针开始着手採取具体步骤，由敌对关係改变为交朋友关係，对张轸亦是如此。”<ref>{{cite book |title=《毛泽东军事文集》第五卷 |publisher=军事科学出版社、中央文献出版社 |year=1993 |page=528 }}</ref>4月5日，[[北平和谈|國共雙方和談代表於懷仁堂舉行全體會議]]<ref name="民"/>{{rp|8864}}。4月20日，中國國民黨中央常務委員會發表聲明，拒絕接受《[[s:国内和平协定|国内和平协定]]》<ref name="民"/>{{rp|8880}}。4月21日，毛澤東、朱德發佈《向全國進軍的命令》<ref name="江">{{cite book |author=羅平漢 |series=20世紀中國 |title=《江山大勢——1949年國共和平談判》 |location=香港 |publisher=香港中和出版 |year=2024 }}</ref>{{rp|322}}。解放军隨即發動[[渡江战役]]，攻下南京、上海等中部大城，並在接下來的幾個月內拿下華中與華南大部分地區，國軍則不斷向東南沿海與[[中国西南地区|西南]]撤退。9月26日，[[新疆和平解放|新疆省國軍駐軍倒戈]]。
+
+1949年10月1日，[[中華人民共和國中央人民政府成立典禮]]在[[北京市|北京]]进行，中國國民黨與[[中華民國政府]]則[[中華民國政府遷台|遷往臺灣]]。10月1日，[[中华人民共和国]]在[[北平市|北平]]（後復名[[北京市|北京]]）成立；中華民國政府則相繼撤退至廣州、重慶、成都等城市，最终於該年12月7日撤退至[[臺灣]]。
+
+[[西藏地方]]當時處於半獨立狀態，並未受中華民國政府指揮。1950年4月[[西昌战役]]，解放軍攻下[[西康省]]的[[西昌县 (清朝)|西昌县]]，10月發動[[昌都戰役]]，此後[[西藏和平解放|解放軍進入西藏]]。1950年8月，解放軍[[萬山群島戰役|奪取萬山群島]]。
+
+=== 海峽對峙（1950年－1979年） ===
+{{See also|朝鲜战争|两岸问题|中美关系|台海現狀}}
+{{multiple image
+| align     = right
+| total_width = 300
+| image1    = Jiang Jieshi2.jpg
+| width1 = 300 | height1 = 400
+| caption1  = [[蔣中正]]
+
+| image2    = 開國大典毛澤東.jpg
+| width2 = 300 | height2 = 400
+| caption2  = [[毛澤東]]
+}}
+[[File:Three_Principles_of_the_People_Unites_China.jpg|thumb|right|225px|[[金門縣]][[大膽島]]上的「[[三民主義統一中國]]」标语，1986年8月[[金防部]]司令[[趙萬富]][[上將]]令[[烈嶼師]]長龔力[[少將]]興建，翌年二人同因[[三七事件]]去職]]
+{{wikisource|告台湾同胞书}}
+1949年3月15日，[[新華社]]發表題為《中國人民一定要解放台灣》的社論，首次提出「[[解放台灣]]」的口號。1950年元旦，《[[人民日報]]》的社論把「解放台灣」的任務放在當年的「四大任務之首」。<ref>{{Cite web |url=https://www.chinatimes.com/realtimenews/20200417002211-260407?chdtv |title=解放軍「武統」台灣會贏嗎？港媒這樣預測 |access-date=2022-05-01 |archive-date=2022-05-01 |archive-url=https://web.archive.org/web/20220501065843/https://www.chinatimes.com/realtimenews/20200417002211-260407?chdtv }}</ref>隨後1950年後幾個月，解放軍一方面逐一攻下沿海島嶼，一方面在福建集中兵力，為渡海攻臺做準備。美國則坐視內戰結束，台海戰事一觸即發。6月[[朝鮮戰爭]]爆發，[[美国总统]][[杜魯門]]宣佈「[[台灣海峽中立化]]」，派遣[[第七艦隊]]進入臺灣海峽，解放軍渡海攻臺難度倍增。中华人民共和国决定「[[抗美援朝]]」之後，原本預備攻臺的部隊調往朝鮮半島作戰，因此在東南沿海作戰暫緩。朝鮮戰爭期間，中华民国政府在聯軍統帥[[麥克阿瑟]]支持下積極備戰，试图全面反攻大陸，多次嘗試突擊東南沿海島嶼，連連爆發如[[南日島戰役]]、[[东山岛战役 (1953年)|東山島戰役]]等戰鬥，但歷年戰事皆以撤退和失败告終。此后青海、甘肃、中缅边境地区仍有零星战斗{{noteTag|1950年11月，[[新疆反共復國軍]]亦於青海、甘肅一帶戰敗，此後僅發生零星戰鬥。國軍在緬甸境內、靠近滇省處部有一支部隊，即[[泰緬孤軍]]，1961年在中緬邊境爆發最後的陸上戰役[[中緬邊境作戰|江拉之戰]]，1975年6月中止游擊戰。}}。1953年朝鮮戰爭正式停火。
+
+1954年12月，美國与中华民国政府簽訂《[[中美共同防禦條約]]》，美國總統[[艾森豪]]宣佈「[[台灣海峽中立化]]」解除，保證對台湾軍事援助不再斷絕。1955年1月，解放軍[[一江山岛战役|攻占一江山島]]。失去一江山岛的屏障，[[中華民國國軍]]在戰略考量下，決定不再分散兵力駐守浙江沿海島嶼，轉而加強[[金門]]與[[馬祖]]之防備，遂于2月在美軍協助下主動[[大陳島撤退|撤離大陳島]]全數軍民。解放軍取得大陳島後，中華民國政府的[[臺灣地區|有效統治範圍]]退縮至[[台澎金馬]]並延續至今。
+
+1958年8月23日，解放軍對駐守[[金门]]之國軍發動榴彈砲襲擊，是為[[八二三炮戰]]。在四十四天內，中共解放軍向金門射擊砲彈幾近五十萬發。金門防衛司令部副司令官[[吉星文]]、[[趙家驤]]、[[章傑]]等中彈阵亡。9月2日，[[中華民國海軍]]沱江號在金門料羅灣附近外海遭到解放軍魚雷艇包圍與猛烈的攻擊，幾乎沉沒。9月11日，駐守金門之國軍炮擊[[厦门站|廈門火車站]]。9月22日，美國八吋大口徑巨炮由中華民國海軍運抵金門。海軍與空軍皆有交手。双方皆称胜利。其後十年，除1965年間偶發的[[東引海戰]]、[[東山海戰]]和[[烏坵海戰]]之外，兩岸海空軍不斷有零星交手，雙方各有戰損，但大體而言，双方控制领域并无太大变化。
+
+另一方面，由于中華民國代表中國作为二戰戰勝國接受了日本赔偿舰艇（如[[丹阳号]]），以及接受[[美援|美国援助]]，此时的中華民國的海空军实力强于中華人民共和國，针对大陆民船的[[关闭政策]]得以长期执行。雙方同时長期在中國大陸沿海爆發衝突，互有勝負。中華民國政府方面允许[[中華民國海軍|海军]]、[[中華民國空軍|空军]]搜捕、击毁大陆籍船只，直到1992年才廢除對大陸方面的閉關政策。
+
+=== 停火狀態（1979年至今）===
+{{further|六二七事件|小金門高炮誤擊廈門事件}}
+
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    =
+ | header_align = 
+ | header_background =
+ | footer    =
+ | footer_align = center
+ | footer_background =
+ | width     =
+
+ | image1    = 一國兩制統一中國 01.jpg
+ | width1    = 200
+ | alt1      =
+ | caption1  = [[廈門]][[思明區]]的「[[一國兩制統一中國]]」宣傳標語。
+
+ | image2    = 三民主義統一中國.jpg
+ | width2    = 200
+ | alt2      =
+ | caption2  = [[金門]][[大膽島]]的「[[三民主義統一中國]]」心戰牆。
+}}
+1979年，[[全国人民代表大会常务委员会]]发表《[[告臺湾同胞书]]》，[[中华人民共和国国防部]]部长[[徐向前]]发表声明，停止从1958年开始对[[金門|大金门]]、[[小金门]]、[[大膽島|大膽]]、[[二膽島|二膽]]等岛屿炮击，國共內戰軍事衝突告一段落。
+
+1984年，駐紮在金門的中華民國國軍因追擊海上逃兵[[莊輝亮事件|莊輝亮]]，金東師先使用輕兵器後改以105毫米榴彈炮射擊，擊中中華人民共和國實際控制的[[六二七事件|草嶼]]，0.19平方公里的孤島上落彈150餘發，造成[[中国人民解放军]]兩名戰士身負重傷，但[[中国大陆]]对此事表示沉默，既未還击，也未抗議。1987年3月7日，[[烈嶼]]師發生「[[東崗慘案]]」，6月破案法辦後，[[蔣經國]]總統於7月宣佈[[臺灣地區]][[解嚴]]。
+
+1991年4月22日，中華民國國民大會通過廢止[[動員戡亂時期臨時條款]]，同年4月30日[[李登輝]]總統以總統令公佈。5月1日起動員戡亂時期正式結束，中華民國政府不再視中共為叛亂團體，承認中共政權統治中國大陸的事實<ref>[http://www.drnh.gov.tw/Content_Display.aspx?MenuKey=1 認識中華民國] {{Wayback|url=http://www.drnh.gov.tw/Content_Display.aspx?MenuKey=1 |date=20141008011513 }}，[[國史館]]</ref>，並宣布結束兩岸敵對狀態<ref>[https://www.president.gov.tw/NEWS/22451 總統參加國際獅子會中華民國總會會員代表大會] {{Wayback|url=https://www.president.gov.tw/NEWS/22451 |date=20180510050624 }}，中華民國總統府</ref><ref>[https://art.archives.gov.tw/Theme.aspx?MenuID=624 終止動員戡亂時期] {{Wayback|url=https://art.archives.gov.tw/Theme.aspx?MenuID=624 |date=20190501235942 }}，國家發展委員會檔案管理局</ref>。
+
+1994年11月14日上午，小金門国军駐軍進行火炮試射，因射程計算出錯，誤擊廈門市郊黃厝村塔頭社，造成4名大陆[[民工]]受伤，其中重傷兩人<ref>{{Cite web |url=http://big5.huaxia.com/lasd/lagxdsj/2003/06/474981.html |title=華夏經緯網-兩岸關係大事記 |accessdate=2015-11-13 |archive-date=2015-11-17 |archive-url=https://web.archive.org/web/20151117023107/http://big5.huaxia.com/lasd/lagxdsj/2003/06/474981.html |dead-url=no }}</ref>。国务院台湾事务办公室发言人对此事件表示严重关注，认为这是一起破坏海峡两岸和平气氛的恶性事件，並强烈谴责台湾当局的罪恶行径，坚决要求台湾当局迅速查明情况，公布事实真相，并严惩肇事者，但後無下文<ref>{{Cite web |url=http://m.xilu.com/view_302804_all.html |title=桂宏誠：1991年國共內戰已結束 |access-date=2015-11-13 |archive-url=https://web.archive.org/web/20180921153514/http://m.xilu.com/view_302804_all.html |archive-date=2018-09-21 |dead-url=yes }}</ref>。
+
+1996年[[1996年中華民國總統選舉|中華民國第一次總統直接民選]]，中华人民共和国方面以東南海域為目標，實施[[台灣海峽飛彈危機|彈道飛彈試射]]，中華民國國軍均進入高度備戰狀態。<ref>Behnke, Alison. [2007] (2007). Taiwan in Pictures. Twenty-First Century Books. ISBN 978-0-8225-7148-3.</ref>然而隨著兩岸情勢變化及雙方領導人的更替，軍事緊張局面亦[[台灣海峽飛彈危機|時有發生]]。這次危機由[[美國第七艦隊]]以「經過」之名進入台灣海峽而緩和，但解放军軍機「不出海」之默契從此被打破，解放军軍機活動範圍延伸至[[台灣海峽中線]]，壓縮了中华民国空军預警時間。
+
+2007年[[中国共产党第十七次全国代表大会|中共十七大]]時，中共中央總書記[[胡锦涛]]再度提出「兩岸簽署和平協議」主張，当时執政的[[民主進步黨]]不予理睬。但在[[2008年中華民國總統選舉|二次政黨輪替]]後，國民黨籍的總統[[馬英九]]称「不排除」與中國大陸簽署[[兩岸和平協議|和平協議]]，不過並沒有時間表<ref>[中評社香港6月9日  馬英九：不排除與大陸簽署和平協議]與國家政策研究基金會國安(析) 097-008號[http://www.npf.org.tw/post/3/4420 兩岸和平協議之戰略意義] {{Wayback|url=http://www.npf.org.tw/post/3/4420 |date=20110625092631 }}</ref>。2011年10月又再度提出<ref>{{Cite web |url=http://www.libertytimes.com.tw/2011/new/oct/18/today-t1.htm |title=馬拋和平協議 綠批統一時間表 |accessdate=2012-04-14 |archive-date=2012-01-20 |archive-url=https://web.archive.org/web/20120120133600/http://www.libertytimes.com.tw/2011/new/oct/18/today-t1.htm |dead-url=no }}</ref>，之後又表示會先經過[[公民投票]]同意再簽署<ref>{{Cite web |url=http://www.libertytimes.com.tw/2011/new/oct/21/today-fo1.htm |title=馬：和平協議須公投 沒過不會簽 |accessdate=2012-04-14 |archive-date=2012-11-10 |archive-url=https://web.archive.org/web/20121110101209/http://www.libertytimes.com.tw/2011/new/oct/21/today-fo1.htm |dead-url=no }}</ref>。但此說仍引發台灣以民進黨為首的[[泛綠|泛綠陣營]]的批評，認為是片面為統一而鋪路的投降式協議，涉及改變[[台海現狀|現狀]]，但台灣人民並未賦予他這項權力，且缺乏第三者的監督與保證，美國等盟邦亦質疑中共並不可靠，最後無疾而終。<ref>[http://www.bbc.co.uk/zhongwen/trad/chinese_news/2011/10/111018_taiwan_china_mayingjeou.shtml 馬英九「和平協議」說法在台引爭議] {{Wayback|url=http://www.bbc.co.uk/zhongwen/trad/chinese_news/2011/10/111018_taiwan_china_mayingjeou.shtml |date=20111020180916 }}, [[BBC]]中文網, 2011年10月18日</ref><ref>[http://www.bbc.co.uk/zhongwen/trad/chinese_news/2011/10/111021_tw_dpp_poll_james.shtml 民進黨民調：台多數民眾不相信和平協議], BBC中文網, 2011年10月26日</ref><ref>[http://www.libertytimes.com.tw/2011/new/oct/18/today-fo1.htm][[黃昆輝]]<span>批馬：和平協議恐成投降協議</span> {{Wayback|url=http://www.libertytimes.com.tw/2011/new/oct/18/today-fo1.htm|date=20120120142658}}, [[自由時報]], 2011-10-18</ref><ref>[http://iservice.libertytimes.com.tw/liveNews/news.php?no=556277&type=%E6%94%BF%E6%B2%BB 引柯林頓觀點批馬　陳唐山：簽和平協議等於投降] {{Webarchive|url=https://archive.today/20130418211907/http://iservice.libertytimes.com.tw/liveNews/news.php?no=556277&type=%E6%94%BF%E6%B2%BB |date=2013-04-18 }}, 自由時報, 2011-10-18</ref><ref>[http://www.libertytimes.com.tw/2011/new/oct/19/today-south13.htm 簽和平協議 陳唐山批馬︰沒代表性] {{Wayback|url=http://www.libertytimes.com.tw/2011/new/oct/19/today-south13.htm |date=20131005061705 }}, 自由時報, 2011-10-18</ref>2014年春爆發[[太陽花學運]]，兩岸後續談判受阻。2015年在[[新加坡]]舉辦[[兩岸領導人會面]]，但雙方未發表共同聲明或簽署協議，和平協議仍僅止於討論層面<ref>{{cite web|title=專訪邱進益談兩岸和平協議問題|url=https://www.sef.org.tw/article-1-129-11251|dead-url=no|access-date=2022-04-04|archive-date=2022-05-12|archive-url=https://web.archive.org/web/20220512110024/https://www.sef.org.tw/article-1-129-11251}}</ref><ref>{{cite web|title=兩岸和平協議的虛與實（上）：和平協議是什麼？|url=https://opinion.udn.com/opinion/story/11664/3650817|dead-url=no|access-date=2022-04-04|archive-date=2022-05-12|archive-url=https://web.archive.org/web/20220512110023/https://opinion.udn.com/opinion/story/11664/3650817}}</ref><ref>{{cite web|title=總統針對「兩岸和平協議」議題提出「十大保證」|url=https://www.president.gov.tw/NEWS/15976|dead-url=no|access-date=2022-04-04|archive-date=2022-05-12|archive-url=https://web.archive.org/web/20220512110029/https://www.president.gov.tw/NEWS/15976}}</ref><ref>{{Cite web |url=https://www.mjib.gov.tw/FileUploads/eBooks/1a16632fb9914e0c988858fc40aca6e5/Section_file/9554ecb19928419b81b457ae332a5841.pdf |title=存档副本 |access-date=2022-04-04 |archive-date=2022-04-14 |archive-url=https://web.archive.org/web/20220414132832/https://www.mjib.gov.tw/FileUploads/eBooks/1a16632fb9914e0c988858fc40aca6e5/Section_file/9554ecb19928419b81b457ae332a5841.pdf }}</ref>。
+
+2022年8月美国众议院议长[[2022年南西·裴洛西訪問台灣|南希·佩洛西访问台湾]]造成两岸关系再度恶化，解放軍首度出現於[[台灣海岸|台灣本島東岸]][[环台军演|附近操訓]]<ref>{{Cite web |last=聯合新聞網 |date=20220806T164713Z |title=互別苗頭 國防部首發我艦東部監控共軍艦艇圖 |url=https://udn.com/news/story/10930/6517728 |website=聯合新聞網 |language=zh-TW |access-date=2022-08-06 |archive-date=2022-08-06 |archive-url=https://web.archive.org/web/20220806193007/https://udn.com/news/story/10930/6517728 |dead-url=no }}</ref><ref>{{Cite web |last=聯合新聞網 |date=20220806T172700Z |title=中共軍演時間軸day3／共軍東部戰區宣布：6日繼續在台灣3區域實戰演習（不斷更新） |url=https://udn.com/news/story/10930/6511294 |website=聯合新聞網 |language=zh-TW |access-date=2022-08-06 |archive-date=2022-08-06 |archive-url=https://web.archive.org/web/20220806091100/https://udn.com/news/story/10930/6511294 |dead-url=no }}</ref>，軍艦、軍機均跨越[[臺灣海峽中線|海峽中線]]<ref>{{Cite web |last=TVBS |title=默契不再？共機頻越「海峽中線」 無法律約束│TVBS新聞網 |url=https://news.tvbs.com.tw/politics/1869927 |website=TVBS |language=zh-tw |access-date=2022-08-08 |archive-date=2022-08-08 |archive-url=https://web.archive.org/web/20220808045237/https://news.tvbs.com.tw/politics/1869927 |dead-url=no }}</ref><ref>{{Cite web |last=中時新聞網 |title=共軍機艦連日穿越 海峽中線默契瓦解 - 政治要聞 |url=https://www.chinatimes.com/newspapers/20220806000400-260118?chdtv |website=中時新聞網 |language=zh-TW |access-date=2022-08-08 |archive-date=2022-08-07 |archive-url=https://web.archive.org/web/20220807184239/https://www.chinatimes.com/newspapers/20220806000400-260118?chdtv |dead-url=no }}</ref>。
+
+==国民政府重组与持续内战（1949年–1965年）==
+
+退守台湾并不意味着国民政府彻底失败。1949年12月10日成都失守后，中华民国政府对其军事和政治机构进行了系统性的重建。在1951年5月美国军事援助顾问团（MAAG）正式抵达之前，蒋介石招募了一支名为“白团”的秘密日本军事顾问小组，该小组由包括[[冈村宁次]]将军在内的前日本帝国陆军军官组成，旨在帮助重组中华民国的训练和动员体系。1950年至1952年的国民党重建运动清洗了不称职的指挥官，并重组了党的组织结构。1949年至1953年间，一项全面的土地改革计划将土地重新分配给佃农，以解决普遍认为是由于失去大陆而导致的结构性问题。到20世纪50年代末，随着《中美共同防御条约》（1954年）正式确立了美国对中华民国的广泛军事援助，中华民国军队的规模已发展至约60万人。美国驻台大使卡尔·兰金在1957年称其为美国在亚洲的第二大盟军。<ref>{{Cite book |title=Lin, Hsiao-ting (2022). Taiwan, the United States, and the hidden history of the Cold War in Asia: divided allies. Politics in Asia. London; New York: Routledge, Taylor & Francis Group. |isbn=978-1-032-12466-7}}</ref><ref>{{Cite web |title=Project MUSE -- Verification required! |url=https://muse.jhu.edu/verify?url=%2Farticle%2F731532&r=8447945 |website=muse.jhu.edu |access-date=2026-05-13 |doi=10.1353/cri.2017.0054}}</ref><ref>{{Cite book |title=Taylor, Jay (2009). The generalissimo: Chiang Kai-shek and the struggle for modern China. Cambridge, Mass: Belknap Press of Harvard University Press. |isbn=978-0-674-03338-2}}</ref><ref>{{Cite book |title=Mattick, Paul (1986). Social knowledge: an essay on the nature and limits of social science. Armonk, N.Y: M.E. Sharpe. |isbn=978-0-87332-333-8}}</ref><ref>{{Cite book |title=China assignment |url=http://archive.org/details/chinaassignment0000rank |last=Rankin |first=Karl Lott |publisher=Seattle, University of Washington Press |date=1964 |others=Internet Archive}}</ref>
+
+对于大约200万随中华民国政府撤退到台湾的大陆人，包括军人、公务员、教师、学生和平民有着返回家乡与大陆家人团聚的强烈愿望，在之后的几十年里一直是他们强大的动力。许多人毫无预警地离开了家乡，并不知道这意味着永别；有些人是被父母送走的，父母希望跟随国民党军队能让子女有机会活下去。信件无法寄送，消息也无法传到海峡对岸。许多人真心相信解放大陆、使其摆脱共产党统治的使命，这种信念支撑着民众对蒋介石收复中国的既定目标的支持。<ref>{{Cite book |title=The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan |url=https://www.cambridge.org/core/books/great-exodus-from-china/3426ADEBAB604DE400E4382CB61CD234 |last=Yang |first=Dominic Meng-Hsuan |publisher=Cambridge University Press |location=Cambridge |date=2020 |isbn=978-1-108-47812-0}}</ref>
+
+1951年至1954年间，由美国中央情报局训练的中华民国非正规军从中华民国控制的离岸岛屿对中华人民共和国领土发动沿海袭击。1961年4月1日，蒋介石正式启动“[[國光計畫]]”，这是一项以对厦门进行两栖登陆为核心的秘密多阶段入侵计划，其辅助行动包括特种部队渗透和针对福建、广东的空袭。1966年开始的[[文化大革命]]促使中华民国重新评估大陆的脆弱性，蒋介石再次寻求美国支持其进攻行动，但遭到拒绝。1972年7月20日，国光作战办公室被撤销，正式的大陆反攻计划就此终止，与此同时，蒋介石因健康状况恶化而逐渐退出政治。<ref>{{Cite book |title=Taiwan, the United States, and the Hidden History of the Cold War in Asia: Divided Allies |url=https://www.taylorfrancis.com/books/9781003229544 |last=Lin |first=Hsiao-ting |publisher=Routledge |location=London |date=2022-03-10 |isbn=978-1-003-22954-4 |edition=1 |language=en |doi=10.4324/9781003229544}}</ref><ref>{{Cite book |title=The Generalissimo: Chiang Kai-shek and the Struggle for Modern China |url=https://www.jstor.org/stable/j.ctvjghvb9 |last=Taylor |first=Jay |publisher=Harvard University Press |date=2009 |isbn=978-0-674-03338-2}}</ref><ref>{{Cite journal |last=Cheng |first=Isabelle |title=Saving the Nation by Sacrificing Your Life: Authoritarianism and Chiang Kai-shek’s War for the Retaking of China |url=https://journals.sub.uni-hamburg.de/giga/jcca/article/view/1173 |journal=Journal of Current Chinese Affairs |date=2019-06-27 |volume=47 |issue=2 |issn=1868-4874 |access-date=2026-05-13}}</ref><ref>{{Cite web |title="When did the ROC abandon "Retaking the Mainland"? The transformation of military strategy in Taiwan" |url=https://www.tandfonline.com/action/cookieAbsent |website=www.tandfonline.com |access-date=2026-05-13 |doi=10.1080/24761028.2021.1904599}}</ref>
+
+战斗也持续在中国西南边境地区。约3000名国民党士兵在李密将军的指挥下，拒绝投降并撤退到缅甸。20世纪50年代初期，在中央情报局的秘密支持下，泰缅孤军在云南省开展游击战。1953年，缅甸政府向联合国求助后，美国向中华民国施压，要求其撤军；到1954年底，约有6,000名士兵撤离到台湾。然而，仍有数千人留了下来，中华民国继续秘密进行补给行动数十年，在中国周边保持前沿军事存在，直到20世纪80年代，残余部队最终被空运到台湾。<ref>{{Cite web |title="The Politics of Heroin: CIA Complicity in the Global Drug Trade" |url=https://www.tandfonline.com/action/cookieAbsent |website=www.tandfonline.com |access-date=2026-05-13 |doi=10.1080/03612759.1992.9950676}}</ref><ref>{{Citation|title=Perilous Missions: Civil Air Transport and CIA Covert Operations in East Asia, 1946-1955|url=https://referenceworks.brill.com/display/entries/SHAF/SIM140160137.xml|accessdate=2026-05-13|doi=10.1163/2468-1733_shafr_SIM140160137|language=en}}</ref><ref>{{Cite book |title=Taylor, Robert H. Foreign and Domestic Consequences of the KMT Intervention in Burma. Data Paper No. 93, Southeast Asia Program, Cornell University, 1973.}}</ref><ref>{{Cite web |title=金三角國軍血淚史 1950-1981 |url=https://www.harvard-yenching.org/research/tragic-history-kmt-troops-golden-triangle-1950-1981/ |website=Harvard-Yenching Institute |language=en |access-date=2026-05-13}}</ref>
+
+==后果==
+
+{{main|海峽兩岸關係|中華民國政府遷台}}
+
+{{see also|臺灣問題|两个中国|多米諾骨牌理論}}
+
+[[File:Gu%C3%A8rra_Civila_Chinesa_(1946-1950).png|thumb|国共内战地图（1946-1949年和1950年）]]
+
+大多数观察家都认为国民政府最终会因人民解放军即将入侵台湾而垮台，美国最初也不愿全力支持蒋介石进行最后的抵抗。美国总统[[哈里·S·杜鲁门]]于1950年1月5日宣布，美国不会介入任何涉及台湾海峡的争端，也不会在中华人民共和国发动攻击时进行干预。杜鲁门试图利用[[中苏交恶]]的可能性，效仿铁托主义，在其《美国对台政策》中宣布，美国将遵守《[[开罗宣言]]》将台湾认定为中国领土的规定，不会援助国民党。然而，共产党领导层并未意识到这一政策转变，反而对美国日益敌视。1950年6月[[朝鲜战争]]突然爆发后，局势迅速发生变化。这导致美国政策发生变化，杜鲁门总统下令[[第七艦隊 (美國海軍)|美国海军第七舰队]]封锁[[台湾海峡]]，作为遏制共产党扩张政策的一部分。<ref>{{Cite web |title=Harry S Truman, “Statement on Formosa,” January 5, 1950 {{!}} USC China |url=https://china.usc.edu/node/20299 |website=china.usc.edu |access-date=2026-05-09}}</ref><ref>{{Cite book |title=Xia, Yafeng (2006). Negotiating with the Enemy: U.S.–China Talks during the Cold War, 1949–1972. Indiana University Press. p. 38. |isbn=978-0-253-11237-8}}</ref><ref>{{Cite book |title=Bush, Richard C. (2005). Untying the Knot: Making Peace in the Taiwan Strait. Brookings Institution Press.}}</ref>
+
+[[File:Wuwangzaiju.JPG|thumb|“勿忘故土”——[[毋忘在莒勒石|金门金湖的一块岩石]]，上面刻有蒋介石的书法，象征着收复故土]]
+
+1949年6月，中华民国宣布关闭中国大陆所有港口，其海军试图拦截所有外国船只。关闭区域从[[福建]][[岷江]]以北至[[辽宁]][[辽河]]。由于中国大陆铁路网络不发达，南北贸易严重依赖海上航线。中华民国海军的活动也给中国大陆渔业造成了严重的困难。<ref>{{Cite book |title=Tsang, Steve Yui-Sang Tsang. The Cold War's Odd Couple: The Unintended Partnership Between the Republic of China and the UK, 1950–1958. (2006). I. B. Tauris. |isbn=1-85043-842-0 |page=pp. 155, 115–120, 139–145}}</ref>
+
+在[[中華民國政府遷台]]期间，未能撤退到台湾的国民党军队被留下来与共产党进行[[游击战]]。国民党残余势力在“[[镇压反革命运动]]”和“[[全国大剿匪|全国大剿匪运动]]”中被消灭。根据1954年的官方统计，在“镇压反革命运动”期间，至少有260万人被捕，约129万人被监禁，71.2万人被处决。被处决者大多是国民党前官员、商人、西方公司前雇员以及忠诚度受到怀疑的知识分子。<ref>{{Cite book |title=China's Security State: Philosophy, Evolution, and Politics |url=https://books.google.com/books?id=-7_lfNx76GcC&pg=PA62 |last=Guo |first=Xuezhi |publisher=Cambridge University Press |date=2012-08-29 |isbn=978-1-107-02323-9 |language=en}}</ref><ref>{{Cite book |title=Steven W. Mosher. China Misperceived: American Illusions and Chinese Reality. Basic Books, 1992. |isbn=0-465-09813-4}}</ref>
+
+[[File:%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E5%A4%AA%E5%8E%9F%E4%BA%94%E7%99%BE%E5%AE%8C%E4%BA%BA%E7%B4%80%E5%BF%B5%E5%BB%BA%E7%AF%89%E7%BE%A4-%E4%BA%AB%E5%A0%82.jpg|thumb|1951年，台湾建成了一座纪念太原战役“五百烈士”的纪念堂<ref>{{Cite web |title=文化部文化資產局--國家文化資產網 |url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20090326000001 |website=nchdb.boch.gov.tw |access-date=2026-05-09}}</ref>]]
+
+1951年，[[西藏和平解放]]后，中国共产党赢得了中国大陆的控制权，并在1951年末控制了除[[金门]]和[[马祖岛]]以外的整个大陆。但[[泰緬孤軍|大约3000名国民党中央军撤退到缅甸]]，并在[[西南剿匪]]和[[中緬邊境作戰]]期间，继续向中国南方发动游击战。[[李密]]从中华民国政府领取援助，并被授予[[云南省]]省长的名义头衔。最初，美国支持这些残余势力，[[美国中央情报局]]向他们提供军事援助。1953年，缅甸政府向[[联合国]]求助后，美国开始向中华民国施压，要求撤回国民党军队。到1954年底，近6000名士兵撤离缅甸，李将军宣布解散军队。然而，仍有数千人留守，中华民国继续向他们提供后勤补给和指挥，有时秘密增派援军，以控制靠近中国大陆的基地。
+
+二战结束后，{{Tsl|en|Civil conflicts in Vietnam (1945–1949)|越南爆发内战}}。1949年，随着内战的胜利和中华人民共和国的成立，中国共产党支持[[越南獨立同盟會]]对抗法国。1950年1月，中华人民共和国承认[[越南民主共和国]]（北越），并根据1950年4月1日的协议开始向其提供军事装备。到当年年底，越盟已控制了越南北部偏远地区和中越边境沿线地区。这种领土控制使得物资和武器能够流入越南，并有利于训练营和基地的建立。中国的军事援助在1954年[[奠边府战役]]中发挥了关键作用，帮助越盟取得了胜利。中华人民共和国和其它[[东方阵营]]国家对越南民主共和国的承认，也促使美国和[[西方集团]]承认越南国，以此作为制衡共产党的力量。1949年12月，随着中国共产党军队接近全面胜利，越南民族主义革命家[[武鴻卿]]从中国出发，率领一支由越南人、山区少数民族和国民党士兵组成的部队前往[[谅山]]，试图攻击越盟和法国军队。在被双方击败后，他越过边境进入越南国。数千名国民党士兵被送往富国岛进行临时拘留和遣返，但到了20世纪50年代末，他们中的许多人仍在岛上种植[[胡椒]]，同时指挥着岛上的民兵。<ref>{{Cite book |title=War and Nationalism in China, 1925-1945 |url=https://books.google.com/books?id=tx5H_DC5V-MC |last=Ven |first=Hans J. Van de |publisher=Psychology Press |date=2003 |isbn=978-0-415-14571-8 |language=en}}</ref><ref>{{Cite book |title=The Encyclopedia of the Vietnam War: A Political, Social, and Military History [4 volumes] |url=https://books.google.com/books?id=PuTNEAAAQBAJ |last=Publishing |first=Bloomsbury |publisher=Bloomsbury Publishing USA |date=2011-05-20 |isbn=978-1-85109-961-0 |language=en}}</ref><ref>{{Cite book |title=Saving Lives in Wartime China: How Medical Reformers Built Modern Healthcare Systems Amid War and Epidemics, 1928-1945 |url=https://books.google.com/books?id=LfR0AQAAQBAJ |last=Watt |first=John R. |publisher=BRILL |date=2013-10-10 |isbn=978-90-04-25646-0 |language=en}}</ref><ref>{{Cite journal |last=Reilly |first=Brett |title=The Sovereign States of Vietnam, 1945–1955 |url=https://online.ucpress.edu/jvs/article/11/3-4/103/60515/The-Sovereign-States-of-Vietnam-19451955 |journal=Journal of Vietnamese Studies |language=en |date=2016-11-01 |volume=11 |issue=3-4 |doi=10.1525/jvs.2016.11.3-4.103 |issn=1559-372X |access-date=2026-05-09}}</ref>
+
+在中华民国向联合国控诉苏联违反《[[中苏友好同盟条约]]》支持中国共产党后，联合国大会于1952年2月1日通过了[[聯合國大會第505號決議|第505号决议]]，谴责苏联的行为。
+
+最终，在1945年至1949年的战争阶段，共产党军队的战斗伤亡人数为130万人：26万人阵亡，19万人失踪，85万人受伤（不包括非正规军）。战后，中华人民共和国统计了国民党军队在同一阶段的伤亡人数：正规军545.27万人，非正规军225.88万人。
+
+中华人民共和国成立后，中国政府将以美国为首的西方国家列为其国家安全的最大威胁。基于诸多因素，包括始于19世纪中叶的西方列强对中国[[百年國恥]]的观念、美国在国共内战期间对国民党的支持以及革命派与反动派之间的意识形态斗争，中华人民共和国领导层认为中国将成为美国反共运动的关键战场。作为应对措施，并为了提升中国在全球共产主义运动中的地位，中华人民共和国领导层采取了积极推动中国周边地区共产主义革命的外交政策。<ref>{{Cite book |title=Chen, Jian (1994). China's Road to the Korean War: The Making of the Sino-American Confrontation. New York: Columbia University Press. p. 26. |isbn=978-0231100250}}</ref><ref>{{Cite book |title=Chen, Jian (1994). China's Road to the Korean War: The Making of the Sino-American Confrontation. New York: Columbia University Press. p. 26. |isbn=978-0231100250}}</ref>
+
+{{quote|欧洲共产主义将在1990年左右崩溃；然而，中国共产党政权的崩溃则会稍晚一些。——蒋介石，1972年台北会见韩国前总理[[丁一權]]}}
+
+[[File:Yangtze_Crossing_Monument_-_detail_-_P1070673.JPG|thumb|南京渡江战役纪念碑]]
+
+===台湾海峡紧张局势===
+
+尽管美国视[[福建]]周围的岛屿为军事负担，但中华民国认为这些岛屿对于未来击败中华人民共和国、收复中国大陆的战役至关重要。1954年9月3日，[[九三砲戰|第一次台湾海峡危机]]爆发，中华人民解放军炮击[[金门]]。1955年1月19日，[[一江山岛战役|中华人民共和国占领一江山群岛]]，导致中华民国于次月放弃[[大陈岛]]。1955年1月24日，[[美国国会]]通过《[[1955年台灣決議案]]》，授权总统保卫中华民国的离岛。第一次台湾海峡危机于1955年3月1日结束，解放军停止炮击。危机在[[万隆会议]]期间结束。<ref>{{Cite book |title=Tsang, Steve Yui-Sang Tsang. The Cold War's Odd Couple: The Unintended Partnership Between the Republic of China and the UK, 1950–1958. (2006). I. B. Tauris. |isbn=1-85043-842-0}}</ref><ref>{{Cite web |title=PLA Yijiangshan Joint Amphibious Operation: Past is Prologue - Jamestown |url=https://jamestown.org/pla-yijiangshan-joint-amphibious-operation-past-is-prologue/ |website=jamestown.org |access-date=2026-05-11}}</ref>
+
+[[金门炮战|第二次台海危机]]始于1958年8月23日，中华人民共和国和中华民国军队之间爆发了空海冲突，导致中华人民共和国对金门和中华民国对[[厦门]]进行了猛烈的炮击，并于同年11月2日结束。解放军巡逻艇封锁了台湾岛，阻止中华民国的补给船进出。尽管美国拒绝了蒋介石轰炸中国大陆炮兵阵地的提议，但迅速向中华民国提供了战斗机和防空导弹。由于一艘沉没的中华民国海军舰艇堵塞了港口，美国还提供了[[两栖攻击舰]]进行补给登陆。9月7日，美国护送了一支中华民国补给船队，中华人民共和国没有开火。
+
+[[File:%E4%B8%80%E5%AE%9A%E8%A6%81%E8%A7%A3%E6%94%BE%E5%8F%B0%E6%B9%BE%E6%96%87%E9%9D%A9%E6%B5%B7%E6%8A%A5.jpg|thumb|1968年，北京工业大学《东方是红色的》编辑部制作了一张宣传海报，上面印有文化大革命的口号“一定要解放台湾”]]
+
+[[台灣海峽飛彈危機]]发生在1995年7月21日至1996年3月23日。中华人民共和国对台湾地区领导人[[李登辉]]访美以及美国承认李登辉为台湾代表的回应是举行军事演习。这些演习也旨在阻止台湾选民在1996年大选中支持李登辉；李登辉最终赢得了选举。危机期间，美国部署了两艘航空母舰；这两艘航母没有遭到攻击，局势随后缓和。<ref>{{Cite news |title=What 3 past Taiwan Strait crises can teach us about U.S.-China tensions today |url=https://www.npr.org/2022/08/02/1115234980/what-3-past-taiwan-strait-crises-can-teach-us-about-u-s-china-tensions-today |last=Kuhn |first=Anthony |work=NPR |date=2022-08-02 |language=en |access-date=2026-05-11}}</ref>
+
+第四次危机始于2022年。[[美国众议院]]议长[[南希·佩洛西]]于[[南西·裴洛西訪問台灣|2022年8月访问台湾]]，<ref>{{Cite web |title=Tracking the Fourth Taiwan Strait Crisis |url=https://chinapower.csis.org/tracking-the-fourth-taiwan-strait-crisis/ |website=ChinaPower Project |date=2022-08-05 |language=en-US |last=Hart |first=Brian |access-date=2026-05-11}}</ref>引发了[[2022年環台軍事演練|中华人民共和国在台湾海峡举行的军事演习]]。<ref>{{Cite news |title=China warns U.S. against House Speaker Pelosi visiting Taiwan |url=https://www.reuters.com/world/china/china-warns-strong-measures-if-us-speaker-pelosi-visits-taiwan-2022-04-07/ |work=Reuters |language=en-US |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220803051619/https://www.reuters.com/world/china/china-warns-strong-measures-if-us-speaker-pelosi-visits-taiwan-2022-04-07/ |archive-date=2022-08-03}}</ref>她原计划于2022年4月访问台湾，但由于[[2019冠状病毒病疫情|新冠疫情]]被推迟。<ref>{{Cite news |title=U.S. House Speaker Pelosi is latest U.S. official to test positive for COVID |url=https://www.reuters.com/world/us/us-house-speaker-pelosi-tests-positive-covid-spokesman-2022-04-07/ |work=Reuters |language=en-US |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220803051619/https://www.reuters.com/world/us/us-house-speaker-pelosi-tests-positive-covid-spokesman-2022-04-07/ |archive-date=2022-08-03}}</ref>她将此次访问重新安排在8月，作为其更广泛的亚洲之行的一部分。 据报道，白宫最初对佩洛西访问台湾的合适性存在分歧，但后来确认了她访问台湾的权利。<ref>{{Cite web |title="White House: U.S. will not be intimidated by China; Pelosi has right to visit Taiwan" |url=http://reuters/ |website=reuters |archive-url=https://web.archive.org/web/20130715103113/http://reuters/ |archive-date=2013-07-15 |access-date=2026-05-11}}</ref><ref>{{Cite web |title=Nancy Pelosi’s plan to visit Taiwan prompts outrage from China {{!}} Financial Times {{!}} Ghostarchive |url=https://ghostarchive.org/archive/euchO |website=ghostarchive.org |access-date=2026-05-11}}</ref><ref>{{Cite news |title=Китай-Тайвань: на тлі можливого візиту Пелосі зростає напруження - BBC News Україна |url=https://www.bbc.com/ukrainian/features-62389913 |work=BBC News Україна |language=uk-UA |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220802164200/https://www.bbc.com/ukrainian/features-62389913 |archive-date=2022-08-02}}</ref><ref>{{Cite news |title=Ненсі Пелосі летить на Тайвань: що потрібно знати про кризу між США і Китаєм |url=https://www.unian.ua/world/nensi-pelosi-letit-na-tayvan-shcho-potribno-znati-pro-krizu-mizh-ssha-i-kitayem-novini-svitu-11925576.html |language=uk |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220801182653/https://www.unian.ua/world/nensi-pelosi-letit-na-tayvan-shcho-potribno-znati-pro-krizu-mizh-ssha-i-kitayem-novini-svitu-11925576.html |archive-date=2022-08-01}}</ref>因此，解放军宣布将在台湾周边六个区域进行史无前例的实弹演习，这些区域位于最繁忙的国际水道和航空航线上。<ref>{{Cite news |title=China to resume military drills off Taiwan after shelving US talks |url=https://www.theguardian.com/world/2022/aug/08/entirely-provoked-china-defends-calling-off-us-military-talks-after-nancy-pelosis-taiwan-visit |work=the Guardian |date=2022-08-08 |language=en |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220808100657/https://www.theguardian.com/world/2022/aug/08/entirely-provoked-china-defends-calling-off-us-military-talks-after-nancy-pelosis-taiwan-visit |archive-date=2022-08-08}}</ref>演习后来延长至七天。针对这一宣布，中华民国官员抱怨说，中华人民共和国的实弹演习侵犯了台湾的领土，并直接挑战了台湾的空域和海上航行自由。这只是中国在随后几年围绕台湾进行的多次大规模军事演习中的第一次。<ref>{{Cite news |title=China to begin series of unprecedented live-fire drills off Taiwan coast |url=https://www.theguardian.com/world/2022/aug/03/china-to-begin-series-unprecedented-live-fire-drills-off-coast-of-taiwan |work=the Guardian |date=2022-08-03 |language=en |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220804035722/https://www.theguardian.com/world/2022/aug/03/china-to-begin-series-unprecedented-live-fire-drills-off-coast-of-taiwan |archive-date=2022-08-04}}</ref><ref>{{Cite news |title=China begins 'illegitimate, irresponsible' live-fire military drills - Taiwan |url=https://www.reuters.com/world/asia-pacific/suspected-drones-over-taiwan-cyber-attacks-after-pelosi-visit-2022-08-04/ |work=Reuters |language=en-US |access-date=2026-05-11 |archive-url=https://web.archive.org/web/20220804044456/https://www.reuters.com/world/asia-pacific/suspected-drones-over-taiwan-cyber-attacks-after-pelosi-visit-2022-08-04/ |archive-date=2022-08-04}}</ref>
+
+===政治后果===
+
+{{main|中國與聯合國|聯合國大會第2758號決議}}
+
+[[File:U2China.jpg|thumb|[[中国人民革命军事博物馆]]展出的洛克希德[[U-2侦察机]]残骸（飞行员[[張立義]]）]]
+
+1971年10月25日，[[联合国大会]]接纳中华人民共和国为联合国会员国，并驱逐了中华民国。中华民国曾是[[联合国]]创始成员国之一，也是安理会五个常任理事国之一。中华民国的代表拒绝承认其作为中国代表的资格，并退出了大会。随后，包括美国在内的大多数其他成员国也承认了中华人民共和国。<ref>{{Cite web |title=Oct. 25, 1971 {{!}} People's Republic of China In, Taiwan Out, at U.N. |url=https://archive.nytimes.com/learning.blogs.nytimes.com/2011/10/25/oct-25-1971-peoples-republic-of-china-in-taiwan-out-at-un/ |website=The Learning Network |date=2011-10-25 |language=en |last=Network |first=The Learning |access-date=2026-05-12}}</ref>
+
+到1984年，中华人民共和国和中华民国开始通过外交关系缓和敌对状态，此后两岸贸易和投资持续增长。1991年，中华民国正式宣布结束战争状态。尽管敌对状态已经结束，但双方从未签署任何协议或条约正式结束战争。毛泽东认为，在继续推进[[新民主主义革命]]的过程中，有三种方法可以“在短期内阻止帝国主义干涉”。第一种方法是迅速完成军事接管，并展现出抵御“外国势力在其边境挑战新政权的企图”的决心和实力。第二种方法是“与苏联正式建立全面军事同盟”，使苏联能够直接保卫中国免受其敌人的侵害；鉴于冷战的开始，这一点显得尤为重要。最后，政权必须“铲除国内反对派：秘密社团、宗教团体、独立工会或部落民族组织的领导人”。毛泽东认为，通过摧毁国内反动势力的根基，就能为中国共产党革命的传播创造一个更安全的环境。<ref>{{Cite web |title="Taiwan flashpoint" |url=http://news.bbc.co.uk/2/shared/spl/hi/asia_pac/04/taiwan_flashpoint/html/chinas_stance.stm |website=news.bbc.co.uk |archive-url=https://web.archive.org/web/20171218121434/http://news.bbc.co.uk/2/shared/spl/hi/asia_pac/04/taiwan_flashpoint/html/chinas_stance.stm |archive-date=2017-12-18 |access-date=2026-05-12}}</ref>
+
+1987年，中华民国政府解除了对退伍军人前往大陆探亲的禁令，使得两岸家庭自1949年以来首次得以团聚。对于许多随中华民国政府撤退到大陆的退伍军人来说，这次团聚来得太晚了；许多人在等待中去世。
+
+在新任中华民国总统[[李登辉]]的领导下，1991年5月废除了《[[動員戡亂時期臨時條款]]》，从而终结了国民党收复大陆的企图。1999年7月，李登辉宣布建立“特殊外交关系”。中国大陆再次感到愤怒，但[[921大地震]]迫使军事演习停止。这是这场内战的最后一个紧张时刻。<ref>{{Cite web |title=历次台海危机内幕及其背后大国之间的博弈(图)_资讯_凤凰网 |url=https://news.ifeng.com/history/2/shidian/200803/0313_2666_439865_9.shtml |website=news.ifeng.com |access-date=2026-05-12}}</ref>
+
+2000年，[[民进党]]候选人[[陈水扁]]当选总统，这是国民党以外的政党首次在台湾赢得总统职位。 新任总统并不认同国民党和中共的中国民族主义意识形态。这导致双方关系一度紧张，尽管贸易和其他联系，例如[[2005年中國國民黨和平之旅]]，仍在持续加强。
+
+2008年，亲大陆的国民党总统[[马英九]]当选，台北和北京的关系显著回暖，两国半官方外交机构之间也开展了高层交流，例如[[兩岸兩會高層會談]]。尽管[[台湾海峡]]仍是潜在的冲突地点，但双方于2009年开通了定期直航。
+
+==分析==
+
+共产党战胜国民党被认为是二十世纪最令人瞩目的起义胜利之一。历史学家和政治学家列举了诸多因素，包括中国共产党成功动员群众支持以及国民党政府的种种缺陷。<ref>{{Cite book |title=People's Wars in China, Malaya, and Vietnam |url=https://www.fulcrum.org/concern/monographs/x920fz70g |last=Opper |first=Marc |publisher=University of Michigan Press |location=Ann Arbor, MI |date=2020 |isbn=978-0-472-13184-6 |language=en |doi=10.3998/mpub.11413902}}</ref>
+
+===蒋介石的回顾性分析===
+
+蒋介石在其日记、公开演讲和已出版的著作中留下了大量对战败的回顾性分析，这些分析借鉴了多种有时相互矛盾的解释。在20世纪50年代初于台湾革命研究学院发表的演讲中（劳埃德·伊斯特曼对其进行了系统分析），蒋介石对自己的政党进行了严厉的道德谴责：“无论在中国还是在国外，从来没有一个革命政党像我们今天这样衰败堕落；也没有一个政党像我们今天这样缺乏精神、缺乏纪律，更缺乏是非标准。”在他1949年1月辞去总统职务后的日记中，他写道：“执政二十年，我们没有为社会改革和人民福祉做任何事”，而且“我们从未建立起一个新的、稳固的组织。”<ref>{{Cite journal |last=Eastman |first=Lloyd E. |title=Who Lost China? Chiang Kai-shek Testifies |url=https://www.cambridge.org/core/journals/china-quarterly/article/abs/who-lost-china-chiang-kaishek-testifies/3333BAB96DBDD653BB62BD2BF9213991 |journal=The China Quarterly |language=en |date=1981-12 |volume=88 |doi=10.1017/S0305741000029416 |issn=1468-2648 |access-date=2026-05-07}}</ref><ref>{{Cite book |title=Myers, Ramon H. and Hsiao-ting Lin. "Starting Anew on Taiwan." Hoover Institution, Stanford University, 2007. (Chiang diary, January 1949)}}</ref>
+
+然而，在回忆录《苏联在中国》（1957年）中，蒋介石将主要原因归咎于苏联的欺骗行为。他记录了1945年2月的雅尔塔协定，该协定在未与中国政府协商的情况下给予苏联满洲特权；日本战败后，苏联系统性地拆除满洲工业基础设施，据美国大使埃德温·保利估计，其价值约为20亿美元；以及苏联违反1945年《中苏条约》，将缴获的日本武器秘密转移给中国共产党，而斯大林曾根据该条约正式承诺只承认国民政府。[[柯博文 (历史学家)|柯博文]]等学者认为，这一记述在识别苏联干预方面是准确的，但在转移人们对蒋介石自身领导失败的注意力方面却有失偏颇，特别是他对经济管理的疏离、对包括龚海燕和宋子文在内的亲信腐败的容忍，以及他在满洲的战略失误。安德鲁·J·内森指出，蒋介石的日记遵循新儒家道德修养日志的传统，作者在其中既是忏悔者又是严厉的审判者，这使得他的自我批评与其说是虚伪，不如说是自欺欺人。<ref>{{Cite book |title=Chiang Kai-shek. Soviet Russia in China: A Summing Up at Seventy. Farrar, Straus and Cudahy, 1957.}}</ref><ref>{{Cite journal |last=Tanner |first=Harold |title=The Collapse of Nationalist China: How Chiang Kai-shek Lost China's Civil War Parks M. Coble. Cambridge: Cambridge University Press, 2023. 290 pp. £30.00. US$39.99 (hbk). ISBN 9781009297615 |url=https://www.cambridge.org/core/journals/china-quarterly/article/abs/collapse-of-nationalist-china-how-chiang-kaishek-lost-chinas-civil-war-parks-m-coble-cambridge-cambridge-university-press-2023-290-pp-3000-us3999-hbk-isbn-9781009297615/47DA5E054CDCD906BD4BDFFD0ADBE8A0 |journal=The China Quarterly |language=en |date=2023-12 |volume=256 |doi=10.1017/S030574102300142X |issn=0305-7410 |access-date=2026-05-07}}</ref>
+
+===国民党政府治理不善===
+
+{{main|中國通貨膨脹 (1938年—1950年)}}
+
+几乎所有关于国民党政府失败的研究都指出，恶性[[通货膨胀]]是导致政府垮台的主要因素。国民党军队和政府文职人员受恶性通货膨胀的影响最大，这反过来又导致了普遍的腐败和盗窃。几乎没有资金流向应征入伍的士兵，他们通常营养不良，装备简陋。逃兵现象普遍存在。<ref>{{Cite book |title=Coble, Parks M. (2023). The Collapse of Nationalist China: How Chiang Kai-shek Lost China's Civil War. Cambridge University Press. |isbn=978-1-009-29761-5}}</ref>
+
+历史学家[[芮納·米德]]写道，随着国民党政府日益被视为“腐败、报复心强，并且对在其统治下的中国应该是什么样子没有整体愿景”，人们对国民党政府的信任度逐渐下降。蒋介石在1948年6月的日记中写道：“开封陷落后，我们的处境更加恶化，也更加严峻。我这才明白，我国历史上屡次崩溃的主要原因，并非外敌拥有绝对优势，而是内部的瓦解和腐败。”<ref>{{Cite book |title=Mitter, Rana (2020). China's good war: how World War II is shaping a new nationalism. Cambridge, MA: Belknap. p. 54. |isbn=978-0-674-98426-4 |page=}}</ref>
+
+历史学家[[文安立|奥德·阿恩·韦斯塔德]]认为，共产党之所以赢得内战，是因为他们在军事上犯的错误比蒋介石少，而且蒋介石在寻求建立强有力的中央集权政府的过程中，得罪了太多利益集团。此外，他的党在抗日战争中实力削弱。与此同时，共产党则将目标转向不同的群体，例如农民，并争取他们的支持。1945年后，中华民国经济因恶性通货膨胀以及政府[[价格管制]]和金融改革的失败而崩溃；1948年末，[[金圆券]]大幅贬值，导致中华民国政府失去了城市[[中产阶级]]的支持。<ref>{{Cite book |title=Odd Arne Westad, Restless Empire: China and the World Since 1750 (2012) p. 291.}}</ref><ref>{{Cite web |title=金圓券相關史料 |url=http://www.mof.gov.tw/museum/ct.asp?xItem=3682&ctNode=34 |website=www.mof.gov.tw |date=2009-04-22 |last=財政部 |archive-url=https://web.archive.org/web/20150102062530/http://www.mof.gov.tw/museum/ct.asp?xItem=3682&ctNode=34 |archive-date=2015-01-02 |access-date=2026-05-07}}</ref>
+
+[[美国国务卿]][[迪安·艾奇逊]]将国民党描述为“腐败、反动且无能”。他认为，国民党不仅在政治上表现不佳，而且“其军事指挥能力之差，前所未见”，而共产党“并非造成这种局面的始作俑者”，而是巧妙地利用了这一局面带来的机会。<ref>{{Cite book |title=Kissinger, Henry (2011). On China. Penguin. pp. 117–118. |isbn=9781594202711}}</ref>
+
+===共产党的群众动员和凝聚力===
+
+共产党通过社会经济改革发展了其对村民的支持和动员能力。共产党继续推行土地改革，赢得了农村民众的支持。这是共产党取得成功的决定性因素。数百万通过这场运动获得土地的农民加入了人民解放军或协助其后勤工作。据历史学家布莱恩·德马雷所述，土地重新分配是一个关键因素，因为它将北方和东北部农民的利益与共产党的成功联系起来。最终，共产党获得了近代史上任何起义中最广泛的民众支持。<ref>{{Cite book |title=Pan, Yihong (2025). Not Just a Man's War: Chinese Women's Memories of the War of Resistance Against Japan, 1931-45. University of British Columbia Press. |isbn=9780774870368}}</ref><ref>{{Cite journal |last=Sorace |first=Christian |title=The Transformation of Chinese Socialism. By Chun Lin. Durham: Duke University Press, 2006. 384 pp. $24.95 (Paper). |url=https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/abs/transformation-of-chinese-socialism-by-chun-lin-durham-duke-university-press-2006-384-pp-2495-paper/8E98864EE73FB96528B1BA0B6C62A4E2 |journal=Journal of East Asian Studies |language=en |date=2010-08 |volume=10 |issue=2 |doi=10.1017/S1598240800003520 |issn=1598-2408 |access-date=2026-05-08}}</ref><ref>{{Cite book |title=DeMare, Brian James (2019). Land Wars: the Story of China's Agrarian Revolution. Stanford University Press. |isbn=978-1-5036-0952-5}}</ref>
+
+共产党的一个重要优势是其最高领导层内部的“非凡凝聚力”。这种凝聚力不仅使其在困难时期免遭叛逃，而且促进了“高层战术沟通和辩论”。毛泽东的[[魅力型权威|个人魅力型领导风格]]造就了国民党所缺乏的“目标一致”和“指挥统一”。除此之外，中共还精于操纵地方政治以谋取自身利益；这也得益于其宣传技巧，而[[中华人民共和国政治宣传|中共的宣传]]也成功地分散化，将对手描绘成“所有中国人民的敌人”，将自身塑造成“国家和人民的捍卫者”（鉴于抗日战争的背景）。<ref>{{Cite book |title=Decisive Encounters: The Chinese Civil War, 1946-1950 |url=https://books.google.com/books?id=JBCOecRg5nEC&pg=PA10 |last=Westad |first=Odd Arne |publisher=Stanford University Press |date=2003 |isbn=978-0-8047-4484-3 |language=en}}</ref>
+
+===情报渗透和大规模叛逃===
+
+国民党失败的一个重要因素是，共产党情报人员系统性地渗透到国民党最高指挥层级的作战计划中。郭汝瑰曾任国民党国防部作战部部长，在1947年至1949年的关键战役中，几乎所有重大作战计划都向中共传递，包括淮海战役和长江防线的作战细节。除了被动地传递情报外，郭汝瑰还起草旨在削弱国民党军队的作战命令，并发布误导性报告，掩盖中共军队的调动。在淮海战役期间，据报道，国民党野战指挥官杜玉明和邱庆泉识破了郭汝瑰作战部署的恶意，但未能阻止这些部署通过官方渠道被采纳。[[熊向辉]]于1937年被[[周恩来]]招募，当时年仅十七岁。他担任蒋介石最信任的将领之一[[胡宗南]]将军的秘密副官长达十余年，同时暗中向中共汇报情况。熊东健最重要的贡献发生在1947年3月，当时他在胡宗南率领20万大军进攻延安前两周向中共领导层发出预警，使得毛泽东、周恩来和党的领导层得以安全撤离。毛泽东后来评价熊东健的贡献相当于几个师的兵力。<ref>{{Cite book |title=Decisive Encounters |url=https://www.degruyterbrill.com:443/document/doi/10.1515/9781503620094/html |last=Westad |first=Odd Arne |publisher=Stanford University Press |date=2003-03-19 |isbn=978-1-5036-2009-4 |language=en |doi=10.1515/9781503620094}}</ref>
+
+1948年至1949年的辽申、淮海和平津三场决定性战役的特点是大量士兵叛逃，反映出国民党军队士气的全面崩溃。在这三场战役中，国民党军队因被俘、投降或叛逃而损失约154万人。1949年1月，在傅作义将军的斡旋下，北平和平投降，约20万军队在未发生战斗的情况下落入中共控制。中共通过土地改革计划有条不紊地培养叛逃者，这些计划使投降的士兵在新秩序中获得经济利益，与国民党军队相比，对战俘给予相对人道的待遇，并对被俘部队开展有针对性的政治工作。历史学家戴安娜·拉里认为，到1948年底，国民党军队的大部分士气实际上已经崩溃，士兵们都在计算继续抵抗已经取得压倒性作战优势的敌军的合理成本。<ref>{{Cite journal |last=An |first=Shaofan |title=Land Wars: The Story of China's Agrarian Revolution By Brian DeMare. Stanford, CA: Stanford University Press, 2019. 260 pp. 24.00 (paper). |url=https://www.cambridge.org/core/journals/journal-of-chinese-history/article/abs/land-wars-the-story-of-chinas-agrarian-revolution-by-brian-demare-stanford-ca-stanford-university-press-2019-260-pp-8000-cloth-2400-paper/A24640D11E97F6C2D1CA28C50524647E |journal=Journal of Chinese History 中國歷史學刊 |language=en |date=2020-01 |volume=4 |issue=1 |doi=10.1017/jch.2019.34 |issn=2059-1632 |access-date=2026-05-08}}</ref><ref>{{Cite book |title=China's Civil War: A Social History, 1945–1949 |url=https://www.cambridge.org/core/books/chinas-civil-war/726DADC162CC0366402C1D7AA3A81D2C |last=Lary |first=Diana |publisher=Cambridge University Press |location=Cambridge |date=2015 |isbn=978-1-107-05467-7 |series=New Approaches to Asian History |doi=10.1017/cbo9781107294417}}</ref>
+
+===辽沈战役：决定性战场===
+
+历史学家日益认识到，东北是中国工业化程度最高的地区，曾受日本殖民的影响，是决定内战最终走向的关键战场。哈罗德·坦纳的《蒋介石如何失去中国：辽沈战役，1948》（2015）对这场决定性战役进行了最为详尽的重构，记录了蒋介石与其野战指挥官魏力煌之间悬而未决的指挥冲突如何导致国民党军队的防御瘫痪。蒋介石试图沿锦州至葫芦岛走廊撤军，以保留一条战略撤退路线；而魏力煌则坚持守住沈阳。这一僵局使得林彪得以完成对中国人民解放军东北野战军的改造，使其从一支游击队转变为一支能够通过步兵、炮兵和装甲部队协同作战攻占设防城市的正规合成部队。这场战役导致国民党军队伤亡超过47万人，而解放军的伤亡约为6.9万人，并且解放军在战争中首次在所有战区都取得了兵力优势。<ref>{{Cite web |title=The Battle for Manchuria and the Fate of China |url=https://iupress.org/9780253007230/the-battle-for-manchuria-and-the-fate-of-china/ |website=Indiana University Press |language=en-US |access-date=2026-05-08 |doi=10.2979/5866.0}}</ref>
+
+苏联在促成这一结果的过程中发挥了多方面的作用。日本战败后，苏联占领军系统性地拆除了满洲的工业基础设施。据美国驻苏大使埃德温·保利估计，拆除的设备总价值约为20亿美元。与此同时，苏联还将缴获的日军武器移交给中共军队，并推迟撤军，以便中共在国民党军队占领该地区之前建立农村基地。奥德·阿恩·韦斯塔德的多档案研究表明，尽管苏联在外交上正式承认了国民党政府，但斯大林的对华政策仍然持续向中国共产党提供物质支持，这反映了苏联对东北亚缓冲国的地缘政治考量。 韦斯塔德同时挑战了对战争结果的决定论解释：他引用俄国、国民党、共产党和美国的第一手资料，论证国民党在1945年拥有真正的军事和政治优势，但这些优势因领导层的具体决策而被挥霍一空，而且直到1948年末的淮海战役，战争的最终结果仍然充满变数。<ref>{{Cite book |title=Pauley, Edwin. Report on Japanese Assets in Manchuria to the President of the United States. July 1946.}}</ref>
+
+===美国政策与撤回援助===
+
+[[抗日战争]]结束后，美国政府只向国民党提供经济和军事援助。随着美国在1947年和1948年增加对国民党的援助，共产党将美国的介入纳入其政治论述，并将这场冲突描述为共产党与“美国帝国主义及其傀儡”之间的冲突，而不是中国两派之间的冲突。毛泽东声称，美国在1945年至1949年间向国民党提供了59亿美元，“以帮助蒋介石”。蒋介石屠杀了数百万中国人。
+
+美国对国民党的强力支持因[[马歇尔使华|马歇尔使团]]的失败而有所减弱，随后彻底停止，主要原因是国民党内部的腐败（例如臭名昭​​著的由[[孔祥熙]]和[[宋子文]]家族控制的长江开发公司）以及国民党在东北的军事挫败。<ref>{{Cite web |title="Some Recent American Interpretations of Sino-American Relations of the Late 1940s: An Assessment" |url=https://www.ea.sinica.edu.tw/eu_file/12010586724.pdf |website=www.ea.sinica.edu.tw |archive-url=https://web.archive.org/web/20191205024030/https://www.ea.sinica.edu.tw/eu_file/12010586724.pdf |archive-date=2019-12-05 |access-date=2026-05-08}}</ref><ref>{{Cite web |title=T. V. Soong – A Register of His Papers in the Hoover Institution Archives |url=http://media.hoover.org/sites/default/files/documents/soong_register.pdf |website=media.hoover.org |archive-url=https://web.archive.org/web/20150227195642/http://media.hoover.org/sites/default/files/documents/soong_register.pdf |archive-date=2015-02-27 |access-date=2026-05-08}}</ref><ref>{{Cite web |title=轉載：　杜月笙的1931 　（6） - 五湖煙景的日誌 -  倍可親 |url=http://big5.backchina.com/blog/323944/article-142137.html |website=big5.backchina.com |archive-url=https://web.archive.org/web/20150227190213/http://big5.backchina.com/blog/323944/article-142137.html |archive-date=2015-02-27 |access-date=2026-05-08}}</ref>杰伊·泰勒、罗伯特·考利和安妮·W·卡罗尔等历史学家认为，国民党的失败很大程度上是由国民党无法控制的外部因素造成的，最显著的是杜鲁门政府拒绝通过撤回援助来支持蒋介石、美国的武器禁运、国民党和共产党之间缓和政策的失败，以及苏联在中国内战中对中共的一贯支持。<ref>{{Cite book |title=The Generalissimo: Chiang Kai-shek and the Struggle for Modern China, With a New Postscript |url=https://books.google.com/books?id=DUg2KGMQWHQC&q=describe%20peace |last=Taylor |first=Jay |publisher=Harvard University Press |date=2009-04-15 |isbn=978-0-674-05471-4 |language=en}}</ref><ref>{{Cite web |title=The World Ahead 2026 from The Economist |url=https://www.economist.com/topics/the-world-ahead-2026 |website=The Economist |language=en |access-date=2026-05-08}}</ref><ref>{{Cite web |title=Uchronia: China Without Tears: If Chiang Kai-Shek Hadn't Gambled in 1946 |url=https://www.uchronia.net/label/waldchinaw.html |website=www.uchronia.net |access-date=2026-05-08}}</ref><ref>{{Cite web |title=Who Lost China? {{!}} EWTN |url=https://www.ewtn.com/catholicism/library/who-lost-china-10801 |website=EWTN Global Catholic Television Network |language=en |access-date=2026-05-08}}</ref>训练有素的共产党军队得到了苏联的支持，这有助于抵消美国对国民党的援助。陈云说：“他们尽了全力帮助我们，我们得到了苏联和朝鲜的支持。”<ref>{{Cite web |title=ГЛАВА 35 ГРАЖДАНСКАЯ ВОЙНА В КИТАЕ / Россия и Китай. Конфликты и сотрудничество |url=http://www.xliby.ru/istorija/rossija_i_kitai_konflikty_i_sotrudnichestvo/p35.php |website=www.xliby.ru |access-date=2026-05-08}}</ref><ref>{{Cite web |title=苏联出兵之后中共对东北的争夺 (4)--中国共产党新闻--中国共产党新闻-人民网 |url=https://cpc.people.com.cn/GB/68742/69118/69659/4731844.html |website=cpc.people.com.cn |archive-url=https://web.archive.org/web/20210506195325/https://cpc.people.com.cn/GB/68742/69118/69659/4731844.html |archive-date=2021-05-06 |access-date=2026-05-08}}</ref><ref>{{Cite web |title=Universities Service Centre for China Studies Collection – The Chinese University of Hong Kong Library |url=https://www.lib.cuhk.edu.hk/en/collections/spc/usc-collections/ |language=en-US |access-date=2026-05-08}}</ref><ref>{{Cite web |title=从《朝鲜支援中国东北解放战争纪实》一书中读到的三个生命价值 |url=https://wyxy.thnu.edu.cn/koreanps/Article/ShowArticle.asp?ArticleID=176 |website=wyxy.thnu.edu.cn |archive-url=https://web.archive.org/web/20210514072156/https://wyxy.thnu.edu.cn/koreanps/Article/ShowArticle.asp?ArticleID=176 |archive-date=2021-05-14 |access-date=2026-05-08}}</ref>
+
+==暴行==
+
+战争期间，国民党和共产党都犯下了大规模暴行，双方蓄意杀害了数百万非战斗人员。<ref>{{Cite book |title=Rummel, Rudolph (1994), Death by Government.}}</ref>
+
+===国民党的暴行===
+
+1927年[[四一二事件]]后的几年里，国民党在反共运动中，以“白色恐怖”为名，杀害了30万至100万人，其中大部分是农民。在白色恐怖期间，国民党特别针对未[[缠足]]的短发女性，认定这些“非传统”女性是激进分子。国民党军队割掉她们的乳房，剃光她们的头发，并展示她们残缺的尸体，以此恐吓民众。<ref>{{Cite book |title=Zhou Enlai |url=https://books.google.com/books?id=NztlWQeXf2IC}}</ref>
+
+在国民党的反叛乱运动中，酷刑、强奸和集体惩罚是常见的做法。国民党为了更方便地监视共产党的活动，将整个社区连根拔起并迁走。<ref>{{Cite book |title=Mitter, Rana (2020). China's good war: how World War II is shaping a new nationalism. Cambridge, MA: Belknap. p. 179. |isbn=978-0-674-98426-4}}</ref>
+
+1946年至1949年，国民党通过中美合作组织逮捕、折磨并杀害政治异见人士。<ref>{{Cite book |title=Karl, Rebecca E. (2010). Mao Zedong and China in the twentieth-century world: a concise history. Durham, NC: Duke University Press. p. 33. |isbn=978-0-8223-4780-4}}</ref>
+
+===共产党的暴行===
+
+{{main|长春围困战|土地改革运动}}
+
+在1930年12月的[[富田事变]]中，福田营的领导人发动兵变反对毛泽东后，共产党处决了2000至3000名福田营成员。<ref>{{Cite book |title=Feigon, Lee (2002). Mao: A Reinterpretation. Chicago: Ivan R. Dee. pp. 51–53. |isbn=978-1566634588}}</ref>
+
+1931年至1934年间，在江西福建的[[中央革命根据地]]，共产党对平民进行了广泛的暴力镇压，以确保其政策的执行，并阻止民众叛逃至不断推进的国民党阵营，其手段包括大规模处决、没收土地和强迫劳动。据当时江西的一位高级共产党官员[[李维汉]]所述，为了应对大量平民逃往国民党控制区，地方当局“通常会派出武装队伍追捕试图逃跑的人，并就地处决，在江西苏维埃境内制造了大量[[万人坑]]，这些万人坑后来被国民党及其盟友挖掘出来。”另一位高级共产党官员[[张闻天]]报告说，“消灭地主阶级的政策已经演变成一场屠杀。”<ref>{{Cite web |title=Project MUSE -- Verification required! |url=https://muse.jhu.edu/verify?url=%2Farticle%2F684680&r=4651592 |website=muse.jhu.edu |access-date=2026-05-06 |doi=10.1353/tcc.2018.0003}}</ref><ref>{{Cite book |title=People's Wars in China, Malaya, and Vietnam |url=https://www.fulcrum.org/concern/monographs/x920fz70g |last=Opper |first=Marc |publisher=University of Michigan Press |location=Ann Arbor, MI |date=2020 |isbn=978-0-472-13184-6 |language=en |doi=10.3998/mpub.11413902}}</ref>
+
+在[[长春围城]]期间，[[中国人民解放军]]对国民党控制的长春市实施了军事封锁，并阻止平民在封锁期间离开该市。此次封锁导致数万至15万平民饿死。解放军继续在中国东北地区使用围城战术。<ref>{{Cite book |title=Koga, Yukiko (2016). Inheritance of Loss: China, Japan, and the Political Economy of Redemption After Empire. Chicago: University of Chicago Press. |isbn=022641213X}}</ref><ref>{{Cite web |title=Red Army Starved 150,000 Chinese Civilians, Books Says {{!}} The Seattle Times |url=https://archive.seattletimes.com/archive/19901122/1105487/red-army-starved-150000-chinese-civilians-books-says |website=archive.seattletimes.com |access-date=2026-05-06}}</ref><ref>{{Cite book |title=Lary, Diana (2015). China's Civil War. Cambridge: Cambridge University Press. |isbn=1107054672}}</ref>
+
+1946年内战爆发后，毛泽东开始推动恢复激进政策，动员全国人民反对地主阶级，但同时保护了中农的权利，并明确指出富农并非地主。1946年7月7日颁布的《七七指示》引发了长达18个月的激烈斗争，该指示要求没收所有富农和地主的各种财产，并重新分配给贫农。中共工作队迅速挨家挨户地走访，将人口划分为地主、富农、中农、贫农和无地农民。然而，由于劳动队没有让村民参与其中，富农和中农很快重新掌权。1947年10月颁布的《土地法纲要》加大了压力。那些被定罪为地主的人遭到活埋、肢解、绞杀和枪决。为了应对上述土地改革运动，国民党协助成立了“还乡团”，该团由地主、被强征入伍的农民和共产党战俘组成，他们试图从农民和中共游击队员手中收回被重新分配的土地和财产。还乡团一直对中共和所谓的合作者进行游击战，直到1949年内战结束。<ref>{{Cite book |title=DeMare, Brian James (2019). Land Wars: The Story of China's Agrarian Revolution. Palo Alto, CA: Stanford University Press. |isbn=978-1503609525}}</ref><ref>{{Cite book |title=Tanner, Harold Miles (2015). Where Chiang Kai-Shek lost China: the Liao-Shen campaign, 1948. Twentieth-century battles. Bloomington: Indiana University Press. |isbn=978-0-253-01692-8}}</ref><ref>{{Cite book |title=The Rise to Power of the Chinese Communist Party |url=https://books.google.com/books?id=w48YDQAAQBAJ&q=%22Outline+Land+Law%22+-wikipedia}}</ref><ref>{{Cite web |title=The Great Leveler {{!}} Princeton University Press |url=https://press.princeton.edu/books/ebook/9780691184319/the-great-leveler |website=press.princeton.edu |date=2018-09-18 |language=en |access-date=2026-05-06}}</ref><ref>{{Cite web |title=第二次國共戰爭時期的還鄉團 |url=http://www.cuhk.edu.hk/ics/21c/media/articles/c071-200104044.pdf |website=www.cuhk.edu.hk |archive-url=https://web.archive.org/web/20191205024025/http://www.cuhk.edu.hk/ics/21c/media/articles/c071-200104044.pdf |archive-date=2019-12-05 |access-date=2026-05-06}}</ref>
+
+== 评价 ==
+{{See also|中華民國歷史|中华人民共和国历史}}
+
+===中國國民黨 ===
+國民黨方面認為：自從1911年推翻清朝開始至1949年，中國政局從未穩定，經受著由[[軍閥割據]]、[[北洋軍閥|北洋]]復辟勢力、國共鬥爭、[[中国抗日战争|日本侵華]]而造成連年戰爭災害，可以說中華民國自1912年至1949年間治理時期，一直處於戰亂與動亂。面對清朝时期签订的[[不平等條約]]，國力衰弱的中國，難有和平穩定的治理時期來證明其統治能力。引發社會弊端叢生，人民生活艱苦，國家積弱，政府無暇顧及百姓民生<ref>{{cite journal |journal = 博览群书 |year = 2009 |issue = 8 |url = http://www.qikan.com.cn/Article/blqs/blqs200908/blqs20090808.html |title = 国共内战的道义合法性 |issn = 1000-4173 |author = 黄力之 |access-date = 2009-12-27 |archive-date = 2015-03-19 |archive-url = https://web.archive.org/web/20150319172107/http://www.qikan.com.cn/Article/blqs/blqs200908/blqs20090808.html |dead-url = no }}</ref>。不过在此期間，中華民國大致統一中國版圖，並且領導中國在對日抗戰中取得勝利，成為聯合國的創始國及常任理事國。為當時中國的復興，有相當貢獻。
+
+=== 中國共產黨 ===
+中共方面認為：在民國時期，占中国人口绝大多数的工人阶级，农民阶级和城市小资产阶级，通过革命的方式，重新夺回权利和土地，成为了人民寻求生存权的最直接，最简单的途径。地主阶级和买办阶级，特别是大地主阶级和大买办阶级，其生存和发展，是附属于帝国主义的。他们代表中国最落后的和最反动的生产关系，阻碍中国生产力的发展，其政治代表是蒋介石的国民党右派。而一切勾结帝国主义的军阀、官僚、买办阶级、大地主阶级以及附属于他们的一部分反動知識份子界，被国共内战时期的中国共产党视为敌人。<ref>{{cite web |url=http://cpc.people.com.cn/GB/69112/70190/70197/70350/4950573.html |title=中国社会各阶级的分析 |author=毛泽东 |publisher=人民网 |accessdate=2009-11-21 |archive-date=2009-10-01 |archive-url=https://web.archive.org/web/20091001223116/http://cpc.people.com.cn/GB/69112/70190/70197/70350/4950573.html |dead-url=no }}</ref>
+
+=== 臺灣民間 ===
+此外，戰爭造成的結果為中華民國僅能有效控制台澎金馬地區，與其法定的[[中華民國疆域|領土]]大相径庭，造成台灣社會對臺海兩岸現狀的定義、以及在國家或民族認同上逐漸分歧或對立，而出現「一臺一中（[[一邊一國]]）」、「[[一國兩府]]」、「[[一國兩區]]」、「[[一中各表]]」、「[[兩個中國]]」、「一個中華民國」、「憲法一中」等各種論點，莫衷一是，至今仍是敏感話題。隨著時間的流逝，臺灣民调显示台湾民众對中國的認同有逐漸降低或消失的趨勢<ref>[http://esc.nccu.edu.tw/app/news.php?class=203 重要政治態度分布圖] {{Wayback|url=http://esc.nccu.edu.tw/app/news.php?class=203 |date=20170315075855 }}，國立政治大學選舉研究中心</ref><ref>{{Cite web |url=http://www.taiwanthinktank.org/page/chinese_attachment_1/2233/20111008.pdf |title=2011/10/08 台灣智庫「國情調查」 |accessdate=2012-05-14 |archive-date=2012-04-26 |archive-url=https://web.archive.org/web/20120426005936/http://www.taiwanthinktank.org/page/chinese_attachment_1/2233/20111008.pdf |dead-url=no }}</ref><ref>{{Cite web |url=http://www1.tvbs.com.tw/FILE_DB/PCH/201203/0fwcy3m9v1.pdf |title=一國兩區與統獨、國族認同民調 |access-date=2012-05-14 |archive-url=https://web.archive.org/web/20121107000210/http://www1.tvbs.com.tw/FILE_DB/PCH/201203/0fwcy3m9v1.pdf |archive-date=2012-11-07 |dead-url=yes }}</ref>，而更加強調與中國大陸無關的[[臺灣主體意識]]<ref>{{Cite web |url=http://www.libertytimes.com.tw/2012/new/may/13/today-fo1.htm |title=新世代國家認同 民調：越來越偏向台灣意識 |accessdate=2012-05-14 |archive-date=2012-05-13 |archive-url=https://web.archive.org/web/20120513164605/http://libertytimes.com.tw/2012/new/may/13/today-fo1.htm |dead-url=no }}</ref>。
+
+== 相关作品 ==
+; 电影
+* 《[[大决战]]》
+* 《[[古寧頭大戰]]》
+* 《[[異域]]》
+* 《[[823砲戰]]》
+* 《[[集结号]]》
+* 《[[建国大业]]》
+* 《10+10之穿過黑暗的火花》
+
+; [[記錄片]]
+* 台灣記錄片《尋找一九四九》
+
+; [[电视剧]]
+* 《[[一把青 (電視劇)|一把青]]》
+* 《[[解放 (电视剧)|解放]]》
+* 《[[解放海南島 (電視劇)|解放海南岛]]》
+* 《[[中国1945之重庆风云]]》
+
+; [[报告文学]]
+* [[张正隆]]《[[雪白血紅]]》、《[[枪杆子1949]]》
+
+; 其他书籍
+* [[龙应台]]《[[大江大海一九四九]]》
+* [[李敖]]《大江大海骗了你》
+
+== 参见 ==
+{{col-begin}}
+{{col-3}}
+; 相關黨派
+* [[中國國民黨]]
+** [[国民党反动派]]
+** [[国民党右派]]
+** [[国民党左派]]
+* [[中国共产党]]
+* [[國共關係]]
+** [[國共合作]]
+** [[国共谈判]]
+* [[民主党派]]
+* [[蒋匪]]、[[共匪]]
+{{col-3}}
+
+; 相關政權
+* [[中華民國]]
+* [[中华共和国]]
+* [[中华苏维埃共和国]]
+* [[中华人民共和国]]
+* [[一个中国]]、[[两个中国]]
+* [[中國統一]]
+* [[台海現狀]]、[[台灣問題]]
+{{col-3}}
+{{Portal box|中华民国|中国共产党|中华人民共和国|共产主义|军事|冷战|历史}}
+
+; 相關事件
+* [[制憲國民大會]]
+* [[動員戡亂]]
+* [[長春圍困戰]]
+* [[金圓券|金圓券風暴]]
+* [[中華民國政府遷台]]
+* [[搶救大陸學人]]
+* [[泰北孤軍]]
+* [[金门炮战]]
+* [[公民投票法]]
+{{col-end}}
+
+== 注释 ==
+{{NoteFoot}}
+
+== 参考文献 ==
+=== 引用 ===
+{{Reflist|30em}}
+
+=== 来源 ===
+{{col-begin}}
+{{col-2}}
+; [[毛泽东]]著作
+* 《中国的红色政权为什么能够存在》
+* 《[[愚公移山]]》
+* 《中国社会各阶级的分析》
+* 《中国革命战争的战略问题》
+{{col-2}}
+
+; [[蔣中正]]著作
+* 《[[中國之命運]]》
+* 《[[蘇俄在中國]]》
+* 《[http://www.ccfd.org.tw/ccef001/index.php?option=com_content&view=category&id=117&Itemid=256 剿匪成敗與國家的存亡]{{Wayback|url=http://www.ccfd.org.tw/ccef001/index.php?option=com_content&view=category&id=117&Itemid=256 |date=20150714021346 }}》
+* 《[http://www.ccfd.org.tw/ccef001/index.php?option=com_content&view=category&id=120&Itemid=256 反共抗俄基本論]{{Wayback|url=http://www.ccfd.org.tw/ccef001/index.php?option=com_content&view=category&id=120&Itemid=256 |date=20150714021717 }}》
+{{col-end}}
+
+; 其他文章
+* 《国民党统治期中国到底饿死多少人》
+
+== 外部链接 ==
+{{Commons category|Chinese Civil War|国共内戰}}
+* Arthur Waldron 著，岳健勇 譯：[http://www.aisixiang.com/data/30712.html 〈中國沒有眼淚——假如蔣介石沒有進行1946年那場決定命運的賭博〉]{{Wayback|url=http://www.aisixiang.com/data/30712.html |date=20140910023325 }}（2009）
+
+{{-}}
+{{第一次国共内战}}
+{{国共摩擦}}
+{{第二次国共内战}}
+{{中華民國軍事}}
+{{中華民國主題}}
+{{台湾海峡两岸主题}}
+{{Cold War}}
+{{中国历代统一战争}}
+
+[[Category:國共內戰| ]]
+[[Category:中华民国内战]]
+[[Category:共产主义性质的内战]]
+[[Category:20世纪中国战争]]
+[[Category:国共关系]]

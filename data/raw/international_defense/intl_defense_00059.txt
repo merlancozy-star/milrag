@@ -1,0 +1,142 @@
+Leading in the Dark: How Submarine Commanders Think Under Uncertainty
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ Leading in the Dark: How Submarine Commanders Think Under Uncertainty 
+
+Paulo Frade
+
+May 27, 2026
+
+Commentary
+
+ Leading in the Dark: How Submarine Commanders Think Under Uncertainty 
+
+ #Command and Control 
+
+ #Seapower 
+
+ #Submarines 
+
+Paulo Frade
+
+May 27, 2026
+
+We had been tracking the contact for six hours.
+The acoustic signature was ambiguous. The geometry was incomplete. The tactical picture had shifted twice in the preceding hour.
+
+I ordered battle stations anyway. Not because I was certain, I was not. I ordered it because the decision window was closing. Waiting for certainty was no longer a strategy, it was a risk. That moment the space between incomplete knowledge and irreversible action is where submarine command lives. It is where I spent 14 years.
+
+Modern militaries have spent decades trying to eliminate that space. 
+Networked sensors, satellite surveillance, and instantaneous communications
+ promised commanders a battlefield that could be seen, understood, and orchestrated in real time. Electronic warfare and great-power competition are now dismantling that promise. Commanders are once again operating with incomplete information and adversaries who manipulate everything they think they know. In other words, they are beginning to operate how submarine commanders have always operated. What follows examines various aspects of that thinking in sequence: the structural nature of undersea uncertainty and why it cannot be engineered away; the collective discipline of building a tactical picture under pressure; the value and limits of managing patience; the moment when analysis gives way to a decision point; and the habits of mind required to thrive in uncertainty.
+
+The unique lessons of undersea command can be applied to other contested and information-degraded environments in modern warfare, including land, air, and maritime operations. In each of these domains
+, information is becoming increasingly fragmented
+, and the consequences of waiting are indistinguishable from the consequences of acting.
+
+BECOME A MEMBER
+
+The Structural Nature of Undersea Uncertainty
+
+Uncertainty underwater is not caused by poor intelligence or inadequate equipment. Instead, it is structural. It is written into the physics of the environment. 
+Sound travels through water in ways that are difficult to predict.
+
+Temperature layers bend acoustic signals
+. Background noise masks contacts. Passive sonar rarely provides precise identification or location. It produces patterns, general directions, and probabilities. From those fragments, a submarine crew constructs a picture of what is likely happening beyond the pressure hull.
+
+The adversary faces the same problem. Both sides are attempting to detect the other without revealing themselves. Both sides are interpreting incomplete data. The result is less a contest of visibility than a contest of analytical discipline. The side that builds a more accurate picture from the same ambiguous inputs tends to prevail. In this environment, the central challenge of command is not gathering more information, it s deciding when the available information is sufficient to act.
+
+Building a Tactical Picture
+
+Submarine decision-making is a collective process, though with a solo final act. This is essential to understand. Inside the control room, sonar operators track acoustic signals. The navigation team refines the submarine s own position and movement. The operations officer integrates this information into an evolving tactical picture. The picture is never static. Contacts change course. Acoustic conditions shift. New data arrives that forces earlier interpretations to be revised.
+
+The commander s role is not to personally analyze every piece of data. It is to maintain coherent understanding of the overall situation and exercise two forms of judgment that no current system can make on the commander s behalf. The first is determining which bits of information are reliable and which remain uncertain. The second is deciding when the evolving picture has reached a level of confidence that justifies action.
+
+During one patrol, we tracked a contact for several hours without achieving a confident classification. The sonar team could hear machinery and propulsion patterns, but the signature did not match any known profile with certainty. For long stretches, the contact appeared to behave like a merchant vessel. Then subtle changes in speed and maneuver suggested something else entirely.
+
+Every new data point challenged the assessment that had preceded it. What I learned in those hours was a discipline: to hold uncertainty openly and resist the temptation to resolve ambiguity prematurely. This is one of the most demanding cognitive skills the submarine environment teaches.
+
+Patience and Its Limits
+
+Submarine command taught me that speed is frequently the enemy of effectiveness. In many operational environments, acting quickly creates an advantage. Underwater, acting too quickly can destroy the very condition that makes the submarine effective. Revealing the submarine s position through maneuver, 
+active sonar
+, or communication may provide short-term clarity at the expense of long-term stealth. Once compromised, stealth is extremely difficult to regain.
+
+The correct decision is sometimes to delay. But waiting is not passive. It requires continuous reassessment of the tactical picture, constant readiness to act when conditions change, and the discipline to resist the pressure to do something anything that signals activity.
+
+On one occasion, gaining additional information would have been straightforward. Activating a sensor might have resolved the ambiguity within minutes, but doing so would have risked revealing our presence. The temptation to resolve uncertainty quickly should always be weighed against the cost of self-exposure.
+
+Patience, however, has a boundary. Decision windows open and close. A commander who waits too long for a picture that will never fully resolve has made a decision as consequential as any other usually, a worse one. The discipline is not patience for its own sake. It is knowing the difference between productive waiting and paralysis.
+
+The Moment of Decision
+
+There is a particular moment in submarine command when analysis gives way to commitment. It is rarely dramatic. The control room has spent hours building the tactical picture. Sonar operators are still tracking. The operations officer is still integrating. The commander moves quickly across the displays to ensure the current data consistently reinforces the mental model built during the preceding hours.
+
+After nearly nine hours of tracking, the moment arrived. The contact had been classified and reclassified three times. The geometry had finally resolved to a degree the team judged sufficient. After a brief exchange with the executive officer and a final glance at the sonar display, I directed: weapons free. The weapons officer acknowledged. The order was transmitted. There was no way to take it back. The next cycle of analysis began in the silence of the consequences still unfolding beyond the pressure hull.
+
+Before that moment, I developed a personal habit. A final read of the control room: the posture of the sonar supervisor, the pace at the navigation table, and the tone of the last contact report. In a submarine, the command team does not just provide data, it provides a signal. An experienced commander learns to read both.
+
+Five Disciplines That Make It Possible
+
+Over years of submarine command, I developed specific habits of thought that allowed me to operate effectively under conditions of structural uncertainty.
+
+First, protect stealth until a clear objective justifies the risk. Every action maneuver, emission, communication should be weighed against its cost in detectability. Acting without a clear operational purpose may sacrifice the condition that makes the mission possible.
+
+Second, separate what is known from what is assumed. In ambiguous situations, commanders should repeatedly ask: What do the sensors actually show, and what has the team inferred from those readings? If assumptions solidify into perceived facts, the entire command team begins operating inside a flawed picture. Maintaining this distinction loudly, consistently, even when uncomfortable is one of the most important things a submarine commander does.
+
+Third, trust your professional intuition without surrendering to it. Experience develops the ability to recognize patterns not yet fully articulated in available data. When something in the tactical situation feels wrong, that reaction often reflects subtle inconsistencies detected through years of operational exposure. Treat that signal as data worth examining, worth pausing for, but not worth acting on blindly.
+
+Fourth, think about the consequences of being wrong before committing. Every decision at sea carries uncertainty. Rather than seeking perfect certainty, the more practical question is: If my assessment is incorrect, what happens next, and can I manage it? A sound decision is not one that guarantees the right outcome. It is one for which the consequences of error are survivable.
+
+Finally and in some ways, the most difficult delay action when the consequences of being wrong can spin out of control. If the command team cannot identify and prepare for the most probable outcomes of a proposed action, the wiser course is to wait. This is not timidity; it s the recognition that an irreversible mistake made under pressure is worse than a missed opportunity.
+
+Lessons That Travel
+
+These habits were forged in a unique operational setting, but the conditions that produced them are no longer confined to the undersea environment
+. Electronic warfare, cyber operations, and contested sensor environments
+ are introducing levels of uncertainty into land, air, and maritime operations that would be familiar to any submarine commander.
+
+One dimension of command deserves particular emphasis. Submarines have always 
+operated under conditions where communication with higher authority is intermittent at best and, under emissions control, absent by design
+. Shore-based commands transmit. Submarines receive. The reply, if it comes at all, may be hours away. This is not a technical limitation to be overcome. It is the doctrinal baseline from which submarine mission command evolved. Commanders deploy with orders that should be interpreted, not merely executed. They make consequential decisions without the ability to seek clarification. They exercise authority through a pre-shared understanding of intent, bypassing the need for a data link. That model execute the mission within understood parameters, report when silence permits, adapt when circumstances require is precisely what ground and surface forces should internalize as their own communication environments become less reliable. The submarine force did not choose this discipline, it was imposed by physics and refined by decades of operational necessity. The rest of the joint force is being introduced to it by adversaries who have studied the same physics and drawn the same conclusions.
+
+Ground units should manage their electromagnetic signatures. Surface naval forces face environments where communications may be degraded without warning. Air operations occur in contested electronic environments where nothing about the information picture can be assumed. In each scenario, the central challenge is the same: 
+making sound decisions despite the limitations of available information rather than waiting for clarity that the environment will not provide
+.
+
+The disciplines described here were not designed as transferable leadership principles. Instead, they emerged from operational necessity in the most information-deprived combat environment in existence: undersea.
+
+Conclusion
+
+Uncertainty is not an exception in submarine warfare, it is the norm. The habits of mind described here emerged from that reality as professional necessities, forged by the consequences of getting them wrong deep beneath the surface of the Atlantic. As 
+modern military operations increasingly unfold in contested and information-degraded environments
+, the question is no longer whether other domains will encounter submarine-like conditions they already are. In such conditions, the central challenge of command is not achieving perfect situational awareness, it is making sound decisions despite uncertainty.
+
+BECOME A MEMBER
+
+Paulo Frade commanded the Portuguese submarine NRP Arp o from 2016 to 2018 and subsequently served as a naval operations specialist at the General Staff of the Portuguese Armed Forces, providing decision support at the strategic level. He completed the German Submarine Commanders Course in Eckernf rde and holds post-graduate qualifications in military and strategic leadership from the Instituto Universit rio Militar. He is currently Product Manager for submarine weapon systems at ATLAS ELEKTRONIK GmbH in Bremen, Germany.
+
+Image: Hunter Kuester via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

@@ -28,10 +28,17 @@ _SECTION_RE = re.compile(
 _PARAGRAPH_SPLIT_RE = re.compile(r"\n{2,}")
 
 
-def _estimate_tokens(text: str) -> int:
-    """粗略估算 token 数：中文按 1.5 字符/token，英文按 1.3 字符/token。"""
+def _estimate_tokens(text: str, language: str = "zh") -> int:
+    """粗略估算 token 数（双语支持）。
+
+    中文: ~1.5 字符/token（汉字+标点）
+    英文: ~1.3 字符/token（空格分词+字母+标点）
+    混合文本按中文字符占比自动加权。
+    """
     cn_chars = len(re.findall(r"[一-鿿]", text))
     other = len(text) - cn_chars
+    # 英文纯文本按空格分词，token 边界通常在词级；
+    # 中文无空格，token 边界在子词级。两者 chars/token 比不同。
     return int(cn_chars / 1.5 + other / 1.3)
 
 
@@ -132,4 +139,43 @@ def chunk_document(
 
             flush_buf()  # 尾段
 
+    return chunks
+
+
+def chunk_document_with_meta(
+    text: str,
+    meta: dict | None = None,
+    window: int = 512,
+    overlap: int = 64,
+    doc_id: str = "",
+) -> list[Chunk]:
+    """带 meta 信息的分块（双语 KB 入口）。
+
+    从 .meta.json 的 language 字段判断语言，将语言标记写入 chunk meta，
+    供后续 NER（英文跳过中文 NER）和嵌入（多语言模型）使用。
+
+    Args:
+        text: 输入文档文本。
+        meta: .meta.json 内容（含 language 等字段）。
+        window: 滑窗大小。
+        overlap: 重叠量。
+        doc_id: 文档 ID。
+
+    Returns:
+        Chunk 列表，每个 chunk 的 meta 中包含 language 标记。
+    """
+    lang = meta.get("language", "zh") if meta else "zh"
+    title = meta.get("title", "") if meta else ""
+    chunks = chunk_document(
+        text, window=window, overlap=overlap,
+        doc_id=doc_id, title=title,
+    )
+    # 注入语言标记
+    for c in chunks:
+        c.meta["language"] = lang
+        if meta:
+            c.meta["authority"] = meta.get("authority", "general_commentary")
+            c.meta["source_category"] = meta.get("source_category", "")
+            c.meta["content_category"] = meta.get("content_category", "")
+            c.meta["desensitized"] = meta.get("desensitized", False)
     return chunks

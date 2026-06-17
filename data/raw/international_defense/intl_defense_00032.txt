@@ -1,0 +1,124 @@
+What Beirut’s Port Scanners Miss About Militant Supply Chains
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ What Beirut’s Port Scanners Miss About Militant Supply Chains 
+
+Karim Chebaklo
+
+June 8, 2026
+
+Commentary
+
+ What Beirut’s Port Scanners Miss About Militant Supply Chains 
+
+ #Artificial Intelligence 
+
+ #Lebanon 
+
+ #Terrorism 
+
+Karim Chebaklo
+
+June 8, 2026
+
+At the Port of Beirut, the new scanners did exactly what they were built to do. They saw the lithium batteries. They saw the drone propellers. They saw the fiber optic cable. They matched the scans against the paperwork, found no obvious deception, and cleared the cargo.
+That was the problem.
+
+The threat was not hidden in any single container. It was spread across many of them, arriving over weeks, through different vessels, different companies, and different bills of lading. The AI could identify what each shipment contained, but couldn t figure out what those shipments, taken together, might be building toward.
+
+As a board member of the Beirut Port Authority, I saw that gap as a warning no one was reading.
+
+BECOME A MEMBER
+
+The Port of Beirut recently underwent a significant security upgrade. Financed and installed by CMA CGM, new radiation-based X-ray scanning systems replaced equipment that dated back to 2008. The old setup could handle roughly 40 containers a day under manual inspection. The new systems process between 60 and 100 containers per hour.
+
+The AI component is what makes these systems genuinely powerful. As a container passes through, computer vision algorithms analyze the X-ray image in real time, flagging density anomalies, unexpected shapes, and hidden compartments. The system simultaneously cross-references the scan against the shipping manifest. If a container is declared as plastic toys but the scan shows the atomic density of heavy machinery or dense organic matter, it triggers an alert automatically. Every scan is archived digitally for six months and shared in real time across synchronized control rooms, including customs and relevant state security agencies. On paper, this is exactly what port security should look like.
+
+When a container comes in carrying lithium batteries and the paperwork says lithium batteries for walkie-talkies or toys or cell phones, the system checks it, confirms it matches, and clears it. That system is doing what it is supposed to do.
+
+But that is only half the picture.
+
+Two or three days later, a different container arrives with small drone propellers. These are not illegal items. The scanner identifies them accurately. The bill of lading matches, and it clears. Nobody connects the two shipments. They came on different vessels, through different consignees, with nothing on paper linking them together.
+
+Then I started hearing the news. Reports coming out from 
+Al Hurra in Washington
+, 
+NBC News
+, and 
+MTV Lebanon
+ that non-state militias in Lebanon were importing components from outside and assembling suicide drones inside the country.
+
+So, I went back to our operations room. I pulled the physical documents. I did the calculation manually on how much fiber optic cable went through this port, month by month. The numbers confirmed what the news was reporting. According to 
+Al Hurra s investigation
+ into Lebanese customs data, imports under the optical fiber and cable category jumped from 83,000 tons in 2023 to 146,000 tons in 2024: a 76 percent surge.
+
+Given Lebanon s economic collapse and the active conflict environment, a surge of that scale in this category is difficult to explain through normal civilian infrastructure demand alone. The AI scanners had identified every single one of those shipments correctly. Every bill of lading was in order. But nobody, not the system, not the analysts reviewing the data, understood why fiber optic imports would suddenly surge like that during a period of active conflict. The AI flagged what was in the containers. It did not ask why.
+
+When we went back and tried to understand who was importing this material, we found many different companies listed as consignees. That alone tells you nothing, but the point is not to find the answer at the port level. It is to ask the right question and route it to the people who can. If you cross-reference importing companies against databases held by security agencies, financial intelligence units, and customs authorities, no single agency sitting alone in their office will ever see the full picture. The port is a data source, but right now, no one is connecting that data across different agencies.
+
+Why was the system not catching this?
+
+Nobody told the AI system to look for this. Nobody trained it to cross-reference a 
+propeller shipment
+ against a battery shipment from three weeks earlier, or to flag an unusual surge in fiber-optic imports and route that to security agencies for pattern analysis. The AI was doing exactly what it was asked to do, and humans had given it an incomplete assignment.
+
+Looking backward now, with everything we know, we can link the dots. Looking forward is where the gap becomes visible, and right now that gap is widening faster than we can close it.
+
+Iran has also 
+shifted increasingly to maritime channels
+ after overland routes through Syria were disrupted, meaning the threat is shifting to the sea at the exact moment our port-level tools are showing their limits.
+
+My main point is this: Militia groups and terrorist organizations are always a step ahead. They adapt faster than procurement cycles, faster than budget approvals, faster than the time it takes to train a new system. At some point, I realized what we actually need is AI that is a step ahead of everyone. Not just identifying what is in a container, but anticipating what a collection of containers arriving over weeks, through different carriers, under different company names might be building toward. What we are doing is crime prevention. Terrorism prevention. And we have one of the 
+highest-traffic ports in the Eastern Mediterranean
+.
+
+So let me be specific about what I would actually do if I had the authority and the budget tomorrow.
+
+First, I would create a digital operations room that links our scanners not just to Lebanese agencies but across ports, at least across the Mediterranean, and to international counter-terrorism agencies. The point is that every time a new smuggling method is identified anywhere in the world, every connected scanner gets updated on what to look for. Right now, each port is essentially working alone. That should change.
+
+Second, I would create a dedicated preemptive counter-terrorism unit whose only job is to proactively research not react to what non-state militias across the world are actually using and procuring. Going deep into open and closed channels to understand what components are being sought, what supply chains are being used, and feeding that intelligence directly into the AI so it knows what patterns to look for before the shipments arrive.
+
+Third, the people building these systems need to get off their lab floor and onto ours, or we send our operations people to sit with the engineers. Either way, the gap between the people who design these tools and the people who actually run ports needs to close physically, not just theoretically. You cannot teach AI what to look for in a port like Beirut from a lab in another country.
+
+Some readers will raise an obvious objection here. They will say this is not really an AI problem. It is a political will problem. The Port of Beirut operates inside a Lebanese state where Hizballah has historically had influence over customs and security institutions. What difference does better pattern detection make if the people receiving the alerts are working against you? I want to address this directly because I see it from the inside.
+
+The recently appointed government under President Nawaf Salam has taken drastic measures. Hizballah is now formally classified as a non-state militia. There are active steps being taken toward disarmament. Yes, Hizballah still has members of Parliament. Yes, they are probably still infiltrated in parts of the government. I am not naive about that. But what I can tell you is what I actually see on the ground at the port level.
+
+I see Hizballah supporters among port employees. I do not see any of them in active operational roles doing anything. On the customs side, which is not under our direct control, there may be active operatives. But with the AI scanners in place, there is very little they can actually do. The scanners are operated by customs but monitored by us at the port authority, and we have access at all times. To circumvent the system now would require a coordinated web of agents across multiple control rooms simultaneously. That is a very different operation from the kind of passive influence Hizballah exercised before.
+
+What we can see is that Hizballah has adapted. They have moved toward other smuggling channels precisely because Beirut Port has become harder to exploit. Tunnels. Illegal crossings from Syria. Small unauthorized ports along the southern coast. That shift is itself evidence that better technology at the port level is working. But it also means the answer cannot stop at Beirut.
+
+The technology to close it exists in other parts of the sanctions enforcement world. 
+AI is already flagging behavioral anomalies at sea
+, catching vessel deception, and improving financial screening. But at the physical port level, we are still behind.
+
+My hope is that engineers building these tools start talking to people on the ground and understanding the real gaps. Even with sophisticated AI tools, a system like the one the Port of Beirut operates now is not enough. There needs to be people in that operations room, pulling those documents, and doing those calculations. But the fix is not just bringing more people into the room. It is also about giving the AI a more complete assignment from the start, teaching it not just to identify what is in a container, but to ask what those containers together might mean. We can close this gap, but not without each other.
+
+BECOME A MEMBER
+
+Karim Chebaklo is a board member of the Beirut Port Authority and a maritime security and geopolitical consultant focused on the Eastern Mediterranean. He holds a Master s degree from Ecole Superieure des Affaires in Beirut and has dual Canadian and Lebanese citizenship.
+
+Image: HJP11 via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

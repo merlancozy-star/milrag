@@ -1,0 +1,272 @@
+The Toll Booth at the Throat of World Trade
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ The Toll Booth at the Throat of World Trade 
+
+Sujit Raman
+
+June 2, 2026
+
+Commentary
+
+ The Toll Booth at the Throat of World Trade 
+
+ #Economic Statecraft 
+
+ #Iran War 2026 
+
+ #Sanctions 
+
+Sujit Raman
+
+June 2, 2026
+
+In late February 2026, Iran closed the Strait of Hormuz to foreign shipping. What began as a chaotic wartime closure has, in the past few days, hardened into something more consequential: an official sovereign toll regime, codified in Iranian law, and priced in cryptocurrency.
+On 
+May 18
+, Iran operationally launched the Persian Gulf Strait Authority, a formal state bureaucracy with its own internet domain (pgsa.ir), 
+account on X
+, and contact email. Since then, Tehran has delineated a 
+management supervision area
+ across the strait and announced a 
+transit-permit scheme
+ that converts Hormuz from an international waterway into a vetted toll plaza.
+
+Under 
+the plan
+, which formalizes 
+procedures
+ that had 
+developed
+ over the 
+previous several weeks
+, operators must apply to the Persian Gulf Strait Authority via email and submit a 
+Vessel Information Declaration
+ covering ownership, insurance, crew, cargo, and routing. They then will receive a transit permit after paying a fee of 
+up to $2 million
+ per voyage, though it appears some 
+fee-less
+
+safe-passages
+ can be negotiated bilaterally.
+
+More recently, Tehran has layered on a bitcoin-priced maritime insurance program called 
+Hormuz Safe
+ that, according to the nation s semi-official Fars news agency, could generate 
+$10 billion annually
+.
+
+The U.S. government has responded swiftly, 
+sanctioning the Persian Gulf Strait Authority
+ on May 27 and reiterating 
+warnings
+
+against
+ providing any toll payments to the Iranian regime.
+
+It s important to focus on the payment instruments that Iran accepts for passage, as well as on the associated infrastructure, because they matter just as much as the establishment of the tolls themselves and will determine the ultimate effectiveness of any response.
+
+The tolls are crypto-denominated, to be paid either in bitcoin transferred to wallets linked to the regime s Islamic Revolutionary Guard Corps or, 
+according to reports
+, in dollar-pegged stablecoins. Payments have also been made 
+through traditional bank wires
+, though even here there is a twist: The fees were settled in Chinese yuan routed 
+through Kunlun Bank via the Cross-border Interbank Payment System
+, China s Society for Worldwide Interbank Financial Telecommunications alternative. And while bitcoin and stablecoins are both cryptocurrencies that is, digital currencies not issued by a central bank they do have differing features, and those distinctions are doing real work in Iran s broader strategy.
+
+Indeed, while most readers are likely familiar with bitcoin, the Hormuz story should also draw attention to stablecoins, the less glamorous and more rapidly-growing part of the digital assets ecosystem and the one with the deeper long-term geopolitical stakes.
+
+Blockchain-based digital dollars have become load-bearing infrastructure in the contest over global economic power, quietly redrawing the architecture of international payments, empowering sanctioned regimes, and 
+threatening authoritarian capital controls
+ from within. The irony is that stablecoins were designed to be boring: Their very name denotes stable, reliable convertibility. And yet this modest-sounding instrument has, in a remarkably short time, become one of the most consequential financial technologies on the planet.
+
+As a former federal prosecutor and senior U.S. Department of Justice official, I have worked at the nexus of emerging tech, illicit finance, and national security for over a decade. Today, I serve as an executive at a blockchain intelligence firm that has a commercial interest in this topic and supports both public and private sector entities in confronting financial crime. When I call for increased resources for blockchain analytics, I am not advocating for any specific platform or vendor, but rather for broader support of a rapidly developing field of intelligence that already has deep geopolitical impact.
+
+BECOME A MEMBER
+
+Why Stablecoins Spread
+
+Stablecoins solve a problem bitcoin cannot: they are stable enough to use as money. With a current total capitalization of roughly $260 billion, Tether and Circle 
+dominate the market
+. And while a small cohort of non-dollar stablecoins pegged to the euro, the offshore Chinese yuan, the Russian ruble, and even gold have also emerged with Hong Kong dollar-pegged instruments 
+on the way
+ U.S. dollar-denominated coins still represented 
+roughly 97 percent
+ of the entire market as of 2025.
+
+The contrast with legacy transfers is stark. A wire from Lagos to Istanbul may transit five correspondent banks, take several business days, and cost 2 to 5 percent of the wire s value. A stablecoin transfer, by contrast, moves value directly between two blockchain wallets at the speed of the internet programmable, instant, and effectively free.
+
+Certainly, there are 
+skeptics
+, but growth has nonetheless been extraordinary. Global stablecoin supply grew from 
+under $5 billion
+ in early 2020 to 
+nearly $320 billion
+ by April 2026. The flow figures are even more striking. Stripped of bot and exchange activity, stablecoin payment volume in the first quarter of this year 
+approached $4.5 trillion
+ an annualized run rate near Visa s $17 trillion. McKinsey estimates stablecoins already account for 
+roughly 3 percent of the $200 trillion in annual global cross-border payments
+.
+
+The 
+GENIUS Act
+, signed in July 2025, established the first comprehensive U.S. federal framework for stablecoin issuers, requiring full one-to-one reserves, monthly disclosures, and licensing. By bringing stablecoins inside a formal regulatory perimeter, the legislation is expected to accelerate institutional adoption and broaden mainstream use even more.
+
+All Around the World
+
+The most consequential growth is in the developing world, driven by necessity. In 
+Nigeria
+, where capital controls restrict dollar access, stablecoins are the 
+de facto
+ mechanism for remittances and protection against naira depreciation. In Latin America, 
+71 percent of payment firms now use stablecoins for cross-border transactions
+. In Argentina, Venezuela, and Brazil, Tether functions as a shadow dollar economy, with 
+its exchange rates serving as the practical pricing benchmark
+ in much of Venezuela s informal economy. Goldman Sachs estimates that individuals in emerging markets hold 
+roughly two-thirds
+ of the world s entire stablecoin supply. Hundreds of millions of people are choosing dollar-pegged instruments because the dollar is trusted and useful.
+
+For Washington, the spontaneous global spread is a strategic gift. People in countries with unstable currencies are not embracing Tether because they support American hegemony: They want the dollar. The result is a market-driven expansion of dollarization into economies that might otherwise be candidates for de-dollarization. Secretary of the Treasury Scott Bessent has framed stablecoins as a tool to 
+reinforce dollar supremacy
+. The GENIUS Act s reserve requirements also create durable new demand for short-term U.S. Treasury debt, an important offset as foreign central banks slowly diversify away from Treasuries.
+
+Stablecoins as a Tool of Sanctions Evasion
+
+The same properties that empower a farmer in Buenos Aires also empower 
+Russian arms smugglers
+ and government bureaucracies in Tehran. This is the dark mirror of the stablecoin story.
+
+In 2024, Venezuela s state oil company began 
+requiring crypto payments
+ for spot crude deals. One expert estimated in January 2026 that 
+nearly 80 percent
+ of the nation s oil revenue flowed through stablecoins. Russia, following its 2022 invasion of Ukraine, legalized crypto for international settlements and has since built a sanctions-evasion architecture around ruble-pegged tokens like A7A5, which alone has moved 
+over $70 billion in transactions
+ since its 2025 launch.
+
+Iran s case may be the most immediately relevant. Behind the Persian Gulf Strait Authority s new face is a 
+tested operational machine
+. Iran applies a five tier nationality ranking, with vessels linked to the United States or Israel denied transit entirely. After payment, vessels 
+receive a VHF-broadcast passcode
+ and an Islamic Revolutionary Guard Corps Navy escort through a northern corridor around Larak Island. A dedicated digital currency exchange window 
+on Qeshm Island
+ converts receipts into rials or routes them abroad. Public 
+estimates
+ suggest the toll system could generate up to $20 million per day from oil tankers alone: As noted, the bitcoin-priced insurance program could add an additional $10 billion annually.
+
+That Iran appears to accept both bitcoin and dollar-pegged stablecoins is itself instructive. The two instruments serve different operational functions, and Tehran s apparent willingness to receive either suggests a sophisticated understanding of their respective trade-offs. Bitcoin exists on a peer-to-peer network and therefore offers 
+genuine censorship resistance
+, as no central party can freeze a wallet at the protocol level. This makes Bitcoin the instrument that Iranian officials have publicly emphasized, with 
+The Financial Times
+ quoting one spokesman as claiming that bitcoin payments 
+can t be traced or confiscated.
+ But Bitcoin is also slower, more volatile, and less liquid than stablecoins, which is why 
+Western shipping industry reporting
+ identifies Tether as the cryptocurrency the Islamic Revolutionary Guard Corps likely actually receives in practice for the bulk of toll transactions.
+
+The divergence between Iranian rhetoric and Western reporting may reflect less a contradiction and more a strategic division of labor. Bitcoin could serve as the public-facing symbol of defiance and as the conduit of choice for the most sanctions-exposed transfers, where the absence of a central party that can freeze a wallet at the protocol level matters most. Stablecoins, by contrast, could handle the volume they are 
+faster than bitcoin
+, dollar-denominated, and embedded in deeper global liquidity. The decision to accept stablecoins 
+despite their theoretical seizure risk
+ likely reflects a calculation that the funds can be moved and the trail 
+fragmented
+ faster than Western governments and their allies can identify and freeze the relevant wallets.
+
+This would be consistent with a broader pattern. The Islamic Revolutionary Guard Corps had already routed 
+approximately $1 billion
+ through offshore stablecoin infrastructure before the Hormuz system launched, exploiting the same low costs and deep liquidity that attract lawful users. The Persian Gulf Strait Authority simply repurposes this pre-existing rail as a real-time revenue collection mechanism. And with 
+Automatic Identification System
+ and 
+commercial shipping data
+ confirming that in the aftermath of the Persian Gulf Strait Authority s launch the waterway 
+remains operational
+ but increasingly shaped by Iranian-controlled routing, the result appears to be 
+a bifurcating strait
+, with dark and gray fleets and BRICS-aligned vessels absorbing the premiums of the new toll regime, and Western-aligned tonnage either frozen out, escorted, or exposed to interdiction. 
+
+The toll regime, in other words, is functioning exactly as Iran designed it: rewarding aligned states, punishing adversaries, and quietly normalizing a new operating logic in which access to the world s most important maritime chokepoint depends on geopolitical posture rather than on the 
+law of the sea
+.
+
+Despite these trends and stablecoins role in them a comparison with traditional finance is instructive. An estimated 
+$4.4 trillion in illicit financial activity
+ flowed through the global financial system in 2025 roughly 3.8 percent of 
+global GDP
+, and an increase of $1.3 trillion in just two years. By contrast, illicit entities received 
+approximately $141 billion in stablecoin payments in 2025
+, the vast majority linked to sanctions evasion and money laundering. This was a meaningful increase from the roughly $50 billion observed the previous year, driven largely by the A7A5 ruble-pegged stablecoin, which alone accounted for more than half of the 2025 total. Yet even at this elevated level, illicit flows represented 
+less than 0.5 percent of total stablecoin volume
+ a fraction of the share observed in traditional finance, in an ecosystem that is, by design, more transparent than the legacy system.
+
+What the United States Should Do
+
+The Hormuz toll regime is, in many ways, a test case for U.S. stablecoin policy: a real-life example of how digital-asset channels can be turned to coercive ends, but also a window into how the same infrastructure could serve American interests if the policy response is calibrated correctly. Stablecoins are neither a sanctions-evasion crisis to be suppressed nor a frictionless growth story to be celebrated uncritically.
+
+First, treat dollar stablecoins as a strategic asset. The most consequential development in international finance in recent years has been the spontaneous adoption of dollar-pegged assets by hundreds of millions who previously lacked access to the dollar. Where Iran is leveraging crypto to extract rents at a strategic chokepoint, people across the world are adopting stablecoins voluntarily because they solve real problems the legacy system has not. Washington should support that adoption through diplomatic engagement, infrastructure investment, and intelligence-sharing.
+
+Second, address the illicit-finance problem with precision. My company s reporting points in a consistent direction: Illicit activity is highly concentrated in 
+a small number of identifiable intermediaries, exchanges, and offshore issuers
+ operating outside the U.S. regulatory perimeter. The U.S. government should expand its capacity to identify and designate the wallets and exchanges that facilitate evasion. This kind of precision enforcement, when sustained, can produce remarkable results: Secretary Bessent 
+announced on May 29, 2026
+ that the United States has seized approximately $1 billion in Iranian-linked cryptocurrency assets under Operation Economic Fury. Yet the Persian Gulf Strait Authority case illustrates a gap: Despite its designation, the intermediary administering toll collection on Qeshm Island 
+remains publicly unidentified
+, so issuers cannot blocklist its addresses and downstream compliance teams have no signature to screen against. Identifying the human and corporate nodes in such networks before funds disperse is the kind of blockchain intelligence work that the Office of Foreign Assets Control, its international partners, and private industry must accelerate. The Department of the Treasury recently submitted to Congress a 
+set of recommendations
+ designed to enhance its blockchain monitoring and analytic capabilities: Those recommendations are vendor-neutral and should be promptly implemented.
+
+Third, be clear-eyed about the parallel-infrastructure risk. The Hormuz toll system is a proof of concept, with payments routed either in yuan through Kunlun Bank or directly to crypto wallets in Bitcoin and stablecoins linked to the Islamic Revolutionary Guard Corps. In each scenario, the fees bypass Western financial infrastructure entirely. The toll system, with its associated infrastructure, represents simply the latest example of a 
+considered
+, 
+multi-year project
+ to build financial architecture 
+outside Western oversight
+. The United States must offer better alternatives, including accessible, low-cost dollar stablecoins that are competitive in the corridors where China is building influence, paired with 
+continued modernization
+ of existing mechanisms like FedNow.
+
+Finally, recognize the de-dollarization paradox. The Hormuz case shows that alternative financial structures are being deliberately built outside the reach of U.S. financial coercion. Yet the voluntary, market-driven growth of stablecoins a technology dominated by dollar-pegged instruments paradoxically extends the reach of U.S. jurisdiction and the coercive power it underwrites. The policy challenge lies in navigating this duality: Dollar dominance will be sustained most durably by protecting the voluntary adoption that gives the dollar its reach, while preserving the coercive tools that adoption makes possible.
+
+Conclusion
+
+Stablecoins are not a fad. They are an infrastructure layer that has grown from nothing to a multi-trillion-dollar system in a decade. The people adopting them most enthusiastically are ordinary citizens in Nigeria and Argentina, businesses in Southeast Asia, and, yes, sanctioned regimes in Caracas and Tehran all discovering that this technology solves real problems the legacy system has failed to address.
+
+Nevertheless, the Persian Gulf Strait Authority is a warning signal. Iran no longer uses crypto merely to evade sanctions: It is leveraging crypto to construct a coercive instrument of state power 
+a toll booth at the throat of world trade
+ administered completely outside the U.S. financial system. That Tehran appears to accept both bitcoin and dollar-pegged stablecoins, picking each for what its design enables, shows how seriously adversaries now treat the architecture of digital money. If the model proves durable, others will study it carefully. For example, the Iran-backed Houthi regime, which already uses crypto 
+to trade oil
+, has raised the prospect of 
+a chokepoint
+ in the Red Sea. 
+Other critical waterways
+ may be similarly vulnerable.
+
+Every era of global commerce has been shaped by the financial infrastructure that supported it: the Italian bankers of the Renaissance, the gold standard of the nineteenth century, and the Bretton Woods institutions of the 20th century. The infrastructure of the twenty-first century is being built now, on blockchain systems, through stablecoins. Strikingly, America s adversaries are among the most aggressive users of these instruments. Iran collects Hormuz tolls in dollar-pegged tokens: Like other sanctioned regimes, it reaches instinctively for the dollar even as it builds escape routes from it. Hormuz is not the end of that story. It is one of the opening chapters.
+
+BECOME A MEMBER
+
+Sujit Raman is chief legal officer at TRM Labs, the blockchain intelligence firm, and a senior fellow in the Tech, Law Society Program at American University. Previously, he served as U.S. associate deputy attorney general for cyber and emerging technologies.
+
+Image: Gage Skidmore via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

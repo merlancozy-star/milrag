@@ -1,0 +1,184 @@
+How America Lost Its Most Important Defense Tech Habit
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+Cogs of War
+
+ How America Lost Its Most Important Defense Tech Habit 
+
+Jack Barry
+
+May 29, 2026
+
+Cogs of War
+
+Cogs of War
+
+ How America Lost Its Most Important Defense Tech Habit 
+
+ #Artificial Intelligence 
+
+ #Export Controls 
+
+ #U.S.-Chinese Competition 
+
+Jack Barry
+
+May 29, 2026
+
+On April 15, technology podcaster 
+Dwarkesh Patel published a two-hour interview
+ with Nvidia CEO Jensen Huang. For roughly forty minutes, Patel asked one question six different ways. The question was this: If American-made compute trains AI models with the serious cyber-offensive capabilities Anthropic s Mythos Preview demonstrated and that compute is sold to a strategic adversary what responsibility does the seller bear?
+Huang s answers hovered a safe distance away from the question. AI is a five-layer cake, he told Patel, and ceding any layer to China would be industrial suicide. The Chinese, he argued, already have enough compute to do whatever they intend to do, so marginal sales do not change the strategic balance. By the end, Patel was visibly worn down. Huang accused him of arguing from extremes and of thinking in absolutes.
+
+The interview reveals that Huang has stopped performing an unspoken function that the American system of technology governance depends on. This function does not have a formal name, but every effective American export control regime of the last half-century has relied on industry executives performing it. And this function is failing now, in public, at the hardware layer of the most consequential technology of our lifetime. What is needed is a formal mechanism that structures public dialogue between industry and government one that once existed in the 
+Defense Science Board task forces
+ of the Cold War, but no longer does.
+
+Sign Up for Our Newsletter
+
+An American Habit
+
+Private-sector executives who build strategically consequential technology should level with the government about what their products can do, and what downstream applications concern them. I call it the transmission function : the mechanism that turns what industry knows into something government can act on.
+
+The function has an unmistakably American pedigree. In 1976, J. Fred Bucy, then president and chief operating officer of Texas Instruments, chaired a Defense Science Board task force whose 
+thirty-nine-page report
+ reframed American export controls around what it called militarily critical technologies rather than end-products. The Bucy report was substantially enacted into the 
+Export Administration Act of 1979
+, and the principles it established controlling technologies rather than products and pulling industry into the process are recognizable in the structure of the 
+current China chip-control regime
+. The Bucy report was possible because a senior industry executive was willing to tell the Pentagon, in public and on the record, what his industry s products could do in adversary hands.
+
+A decade later, the cost of transmission failure became visible. The 
+Coordinating Committee for Multilateral Export Controls
+, the Cold War regime the Bucy framework helped underwrite, depended on executives in allied countries performing the same function Bucy had performed for the Pentagon. Between 1982 and 1984, 
+Toshiba Machine Co. of Japan and Kongsberg V penfabrikk of Norway
+ sold the Soviet Union eight multi-axis milling machines capable of producing far quieter submarine propellers than the Soviets had previously been able to manufacture. When the scandal broke in 1987, 
+congressional estimates ran as high as thirty billion dollars
+ in cost for the U.S. Navy to restore its acoustic advantage against the Soviet submarine fleet.
+
+Neither Bucy s contribution nor the Toshiba failure was legally compelled. Both were choices. The Cold War export control regime worked, where it worked, because enough executives on the American side understood that they owed an unspoken debt to the country that made their ascent possible. The Toshiba case sits inside the same logic from the allied side: the Coordinating Committee was an American-led system that depended on executives in Tokyo, London, and The Hague performing the equivalent function on their own national champions. It did not work where executives treated that debt as optional.
+
+Three Companies, Three Approaches
+
+The choice that confronted Texas Instruments in 1976 is the one confronting American AI companies today, and three of the most important firms are making it in visibly different ways.
+
+Anthropic has spent most of the last year in an escalating dispute with the Pentagon 
+over the terms of its $200 million contract
+. The sticking points are narrow. Anthropic will not grant unrestricted authority to use Claude for fully autonomous weapons or mass domestic surveillance. On Feb. 27, Defense Secretary Pete Hegseth 
+designated Anthropic a supply chain risk
+, a label previously reserved for foreign adversaries such as Huawei. Anthropic filed suit in the Northern District of California. In late March, 
+Judge Rita Lin blocked the designation
+. The appeal is pending.
+
+The same posture cuts the other way against Beijing. Anthropic has 
+forgone several hundred million dollars in revenue
+ to cut off Chinese firms linked to the Chinese Communist Party and shut down state-sponsored Chinese operations that attempted to abuse Claude. The generous reading is that Anthropic is taking a financial hit to serve its stated principles. A less-generous interpretation is that the company has correctly priced the brand and enterprise-market value of refusing in both instances, and that the litigation posture doubles as positioning. Both readings can be accurate at the same time.
+
+In late February, within hours of the Anthropic designation, OpenAI 
+announced its own classified-deployment agreement
+ with the Pentagon. CEO Sam Altman 
+wrote in a memo to staff that the Anthropic-Pentagon dispute
+ had become an issue for the whole industry, and committed OpenAI to the same red lines: no mass domestic surveillance, no autonomous lethal weapons, and humans in the loop for high-stakes automated decisions. What distinguishes OpenAI s position from Anthropic s is that OpenAI negotiated the red lines into contract architecture rather than insisting on them unilaterally. The contract baseline OpenAI accepted is 
+any lawful purpose
+, the same language Anthropic refused, with the red lines layered on top through contract amendments that, in OpenAI s words, bind the system consistent with applicable laws, including the Fourth Amendment, the National Security Act of 1947, and the FISA Act of 1978 . 
+Critics, including civil society organizations and departing OpenAI staff
+, have argued that the resulting protections are softer than they appear. The company had to revise the original deal within days, following the 
+resignation of robotics lead
+ Caitlin Kalinowski, 
+an open letter
+ signed by hundreds of OpenAI and Google employees in support of Anthropic, and Sam Altman s public characterization of the original deal as 
+ sloppy and opportunistic 
+. Whether those critics are right about the adequacy of the safeguards is a separate question from whether OpenAI s negotiation represents a transmission-function event.
+
+Skeptics would note that the two postures are closer than they appear. United States law already prohibits fully autonomous lethal weapons, and the 
+Fourth Amendment constrains mass domestic surveillance
+. In substance, any lawful purpose and Anthropic s unilateral red lines arrive at a similar place, and the distinction is procedural. The 
+January 2026 AI acceleration strategy
+ makes any lawful use the default contracting language for AI procurement, which makes the contracting floor the policy floor. Anthropic forces the disagreement into court, where the public can see it. OpenAI forces the disagreement into contract architecture, where Congress can review it.
+
+Anthropic and OpenAI disagree with each other about the mechanism one insists on unilateral discretion, the other on negotiated constraint but they share the disposition to acknowledge that their products carry downstream risks serious enough to warrant naming. That disposition is the transmission function working. Huang, asked on camera about the company whose hardware underpins both of them, declined to engage the question of what the seller owes the country altogether.
+
+Huang s case for establishing U.S. technology as the global leader deserves legitimate engagement. American technology leadership is a stack of interconnected markets, and conceding any layer forfeits not only that layer s revenue but the gravitational pull and standard-setting power that ripple through the others. Huang cites American telecommunications, dominant in the 1990s and hollowed out by the mid-2000s through a series of small concessions that seemed rational at each step.
+
+If export controls restrict Nvidia from selling into China, the developers who would otherwise build on the American stack will go elsewhere, and Chinese models, trained on the Huawei stack and released as open weights, will diffuse out to the global south as the default frontier substrate. The American stack would become the incumbent in the rich world, and the second choice everywhere else. That represents a real cost to both Nvidia and American AI competitiveness overall, and it is not answered by asserting that export controls protect national security. The strongest version of the 
+permissive case for chip exports
+ has been engaged at length in these pages.
+
+Huang s position is thus defensible, but it s still an evasion of the question Dwarkesh Patel kept asking: What does the seller of strategic compute owe the country whose security his product shapes?
+
+Mythos and the Hardware Layer
+
+On April 7, Anthropic disclosed a new model called 
+Claude Mythos Preview
+. Over roughly a month of testing, Mythos found 
+thousands of previously unknown security flaws
+ across every major operating system and web browser. Anthropic declined to release Mythos publicly and launched 
+Project Glasswing
+, a defensive coalition convened to patch critical systems before comparable capabilities proliferate. Anthropic estimates that other frontier labs will reach similar capability within six to eighteen months. This timeline makes the transmission function at the hardware layer more urgent, not less.
+
+Huang didn t mention to Patel that Nvidia is among the Project Glasswing launch partners. At the corporate level, Nvidia has acknowledged that Mythos-class capability warrants coordinated defensive action across the industry. But the firm s CEO, asked on camera what the downstream risks of frontier compute look like, told Patel his premise was a loser premise and that arguments like his were childish .
+
+Huang s response to Patel was that China already has compute. He noted that Chinese labs have plenty of logic, 
+and they have plenty of HBM2 memory
+. HBM2, a generation of high-bandwidth memory used in AI accelerators, is multiple generations behind the current state of the art. Huang is acknowledging the capability gap while insisting it does not matter: In his view, the marginal cost to American AI leadership of restricting frontier hardware outweighs the marginal benefit of denying it to China. Using the broader economic case to avoid Patel s question is the kind of evasion that leads to haphazard policymaking on a technology capable of restructuring global order. Pressed specifically on whether a Mythos-class model trained on the Huawei stack would threaten American security, Huang said Mythos was trained on fairly mundane capacity, and that capacity is abundantly available in China. 
+
+Consider the strongest version of Huang s argument: If China already has the compute it needs, and if its domestic chip industry will close the remaining gap within a few years, then restricting today s exports buys little. Advanced Semiconductor Materials Lithography s longtime CEO Peter Wennink made 
+a parallel argument for years against the Dutch government s chip-tool restrictions
+: cut China off, and the Chinese will build the machines themselves. Neither argument is wrong on its face. Both are also beside the point Patel was driving at. Export controls today are not the whole policy. The whole policy is a sequence of decisions about future generations of hardware, about which other countries get access as it spreads, and about whether allied governments coordinate where China still cannot substitute. American leadership at the frontier buys time. What the country does with that time is a question for the transmission function to surface, not for the seller to foreclose.
+
+In two hours, the closest Huang comes to acknowledging that the compute his company sells might train models that endanger the United States and its allies is a brief exchange in which Patel describes the scenario, and Huang says, 
+three times, it s not good. So let s not let it happen. 
+
+The Mechanism
+
+Consider the three postures alongside one another. The Anthropic lawsuit is the transmission function working under stress, with the disagreement on the record and legible to the courts and the public. OpenAI s negotiated pathway is the function working at the political level, a compromise that preserves the principle while enabling deployment. The Huang interview is something else. The CEO of the most important chipmaker in the world, asked on camera about the downstream uses of its product, told the interviewer the question rested on a premise he could not acknowledge.
+
+The transmission function exists because the government cannot see powerful technology as clearly as the people who build it. The alternative to executive transparency is a regulatory regime that governs what it does not understand.
+
+The natural mechanism to codify a modern transmission function is the one that produced the original framework. In January 2026, the 
+Department of Defense merged
+ the Defense Science Board and the Defense Innovation Board into the Science, Technology, and Innovation Board, placing the country s primary technical advisory function under a single charter reporting to the under secretary of defense for research and engineering. The new board inherits the convening authority and the institutional credibility that made Bucy possible. It is the right vehicle. On May 21, the White House 
+postponed an executive order
+ that would have established federal pre-deployment review of frontier models, with the president citing concerns that the order could have been a blocker to American AI leadership a near-verbatim echo of Huang s argument. The administration has yet to develop a coherent 
+unified narrative on chip exports and AI oversight
+. The technology is changing so fast, and there s no standard way for industry to communicate with the White House. A task force along Bucy lines would help policymakers and industry resolve the trade-offs between competitiveness and national security that this debate reflects.
+
+A task force on AI export controls, structured on the 1976 Bucy model, with frontier hardware and frontier model executives sitting publicly across the table from defense and intelligence officials, would do the work the current system is failing to do. The Bucy task force succeeded because it forced industry to commit, on the record, to specific judgments about which technologies enabled which adversary capabilities, and because those judgments became the technical foundation for the Export Administration Act of 1979 and for two decades of Coordinating Committee doctrine. The task force is not the transmission function, and it is not the policy. It compels the first, and it builds the foundation for the second. Such a task force would feed the same downstream machinery: CHIPS Act implementation, Export Administration Regulations revisions at Commerce, end-use rules at the Bureau of Industry and Security, and Defense Production Act Title III authorities for industrial base shaping.
+
+Any such mechanism must also be multilateral. The Coordinating Committee worked because allied executives in the United Kingdom, Japan, and the Netherlands were performing the equivalent function in their own jurisdictions. The same applies today to Advanced Semiconductor Materials Lithography, Taiwan Semiconductor Manufacturing Company Limited, and SK Hynix. Each hosts a single point of failure in the global semiconductor stack and depends on the United States for the security guarantees that make those national champions viable. The carrot is preferential access to American compute and capital markets, and a seat at the rule-writing table. The stick is the Foreign Direct Product Rule and the unilateral end-use controls Washington deployed in the 2022 and 2023 chip controls. A standing mechanism anchored in the new board would give allies a reason to coordinate up front rather than absorb the costs of American action after the fact.
+
+Until something like that exists, the assessment will continue to be made informally. A formal mechanism is overdue.
+
+To be clear, this is not an argument for heavier regulation of Nvidia. The system depends on its most consequential private-sector leaders performing an unspoken civic duty: the commitment to publicly name what one s product can do, and what downstream uses should concern the country, even when commercially inconvenient. This is what the country has every right to expect from any executive whose product will shape the security environment of this era.
+
+Write for Cogs of War
+
+Jack Barry is co-founder and managing partner of Blackbird, a venture firm investing in defense and dual-use technology, and a former Army aviator who flew with the 160th Special Operations Aviation Regiment. He also serves as the president of the Special Operations Association of America.
+
+**Please note, as a matter of house style, 
+War on the Rocks
+ will not use a different name for the U.S. Department of Defense until and unless the name is changed by statute by the U.S. Congress.
+
+Image: Midjourney
+
+Get the Brief
+
+Subscribe to our free Cogs of War newsletter for sharp analysis and grounded insights from technologists, builders, and policymakers.
+
+SIGN UP

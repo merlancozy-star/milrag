@@ -1,0 +1,202 @@
+From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design 
+
+Olivia Vassalotti
+
+June 9, 2026
+
+Commentary
+
+ From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design 
+
+ #Maritime Security 
+
+ #Russo-Ukrainian War 
+
+ #Sanctions 
+
+Olivia Vassalotti
+
+June 9, 2026
+
+Rarely a week passes without a new story about Russia s shadow fleet. 
+Tankers catch fire in the Mediterranean
+, are 
+added to sanctions lists
+, or are 
+boarded while passing through European waters
+. But the bigger story is not the vessels that are caught, but those that aren t ships moving between registries, ports, shell companies, and service providers that obscure their ties to Russia while keeping a sanctioned state afloat. The vessels that do get sanctioned are the visible tip of a larger scheme that North Korea spent years running, and Russia has refined at scale.
+Shadow fleets are typically studied in isolation, rather than as a reusable system. North Korea s maritime evasion has been documented primarily through the U.N. Panel of Experts reporting on violations and enforcement gaps, while 
+Russia s shadow fleet
+ is typically analyzed in industry and policy reporting by organizations such as 
+Windward
+ and the 
+Kyiv School of Economics.
+ These reports have illuminated common evasive tactics, but they rarely ask why the same mechanisms remain available across time and space, allowing Russia to reuse and scale up North Korean tactics.
+
+A comparison shows how Russia and North Korea have independently exploited the same gaps in the international maritime sector, including name and flag laundering, flags of convenience, and fraudulent registries. Here, I focus on why those tactics remain viable, tracing how permissive registry systems enable their reuse and rapid scaling.
+
+Shadow fleets persist in part because sanctions regimes often fail to impose meaningful costs on the institutions that enable them. Where registry operators face stronger incentives to register vessels than to scrutinize them, evasion networks remain viable. A combination of incentives for due diligence and penalties for continued registration of known shadow vessels would help close this gap. Revenue incentives are not the only driver, but they help explain persistent tolerance for high-risk registrations.
+
+BECOME A MEMBER
+
+Fleets, Flags, and Fraud
+
+The term shadow fleet is often used to describe oil tankers moving Russian crude. I apply it more broadly here to describe vessels of any type engaged in systematic sanctions evasion activity. These fleets use a variety of deceptive practices to bypass regulations and conceal illicit activities.
+
+Name and flag laundering (often called 
+flag hopping
+) occurs when a vessel repeatedly changes its name or flag to distance itself from prior misconduct, obscure ownership or operating history, or create the appearance of legitimacy by later registering under a more reputable flag.
+
+Flags of convenience
+ are open registries that allow vessels to register with little or no connection to the flag state. These registries can serve legitimate commercial purposes including tax and administrative efficiency but fast registration processes, high vessel volumes, and uneven due diligence make them attractive to illicit actors as well. A lack of required connection to the country also lends itself to opaque ownership structures often used in sanctions evasion.
+
+Fraudulent registries
+ are registries that lack legal authorization from the governments they claim to represent. Because global maritime trade is fragmented across states, private companies, international organizations, and service providers, these registries may go unnoticed until a vessel faces closer scrutiny.
+
+Combined with the sheer volume of maritime trade, these practices make shadow fleet vessels difficult to identify at scale. Looking into the histories of individual vessels or clusters associated with the same addresses or companies can sometimes identify additional vessels within a shadow fleet, but comprehensive enforcement remains a challenge.
+
+The North Korean Model
+
+Before Russia assembled a large-scale shadow fleet, North Korea demonstrated how a sanctioned state could use permissive registries, front companies, and deceptive shipping practices like sailing under false names and multiple flags, to preserve access to international trade. More than a decade of 
+UN Panel of Experts
+ reporting made North Korea one of the most thoroughly documented maritime sanctions evasion programs of the late 2010s.
+
+Data compiled from the Royal United Services Institute s North Korea reports 
+database
+ shows that North Korea s shadow fleet consistently relied on several permissive flag registries, such as from Sierra Leone, Panama, and Cambodia. Both Sierra Leone and Panama are considered 
+flags of convenience
+ by the International Transport Workers Federation, a consortium of trade unions.
+
+North Korea also used fraudulent registries, claiming registration with a country that did not have an international registry. In 2017, more than 90 vessels claimed registration with Fiji, 20 of which were ultimately linked to 
+North Korea
+. The scale and simultaneity of these registrations suggest not opportunism, but a deliberate effort to manipulate registry systems. The Fiji example marked what appeared to be a coordinated use of a fraudulent registry at scale, demonstrating that sanctioned actors can exploit the decentralized management of flag registries and differing document formats.
+
+Pyongyang s deceptive shipping practices have been well-documented. The 
+Pu Zhou
+ is but one example: The vessel was sold in 2019 to a Chinese front buyer, was quickly renamed twice, cycled through three flags in less than six months, manipulated its 
+Automatic Identification System
+ transmissions, and was ultimately used to export sanctioned coal via ship-to-ship transfers.
+
+North Korea also exploited loopholes in maritime law alongside an ecosystem of intermediaries and privately run registries. For example, Singapore-based 
+Sovereign Ventures
+ operated multiple shipping registries including Cambodia, Mongolia, Tuvalu, Kiribati, and Niue and maintained longstanding ties to North Korea via its parent company, 
+Korasia
+. North Korea-linked vessels like the 
+Theresa Begonia
+, 
+Pong Su
+, and the 
+Jie Shun
+ are just a few Sovereign Ventures-linked flags used by vessels involved in illicit trade. Sovereign Ventures illustrates how North Korea relied on foreign intermediaries and privately managed registries with limited oversight, rather than state-controlled shipping infrastructure. Both Cambodia and Mongolia are among North Korea s most frequently used flag states, according to the North Korea reports database.
+
+North Korea s shadow fleet was relatively small compared to Russia s, with fewer than 600 distinct vessels identified by the Royal United Services Institute over more than a decade of reporting. The country repeatedly relied on flags of convenience, foreign-managed registries with limited oversight, and ultimately, fraudulent registrations. From 2010 to 2024, North Korea s evasive practices evolved but remained focused on preserving access to international shipping, as documented across successive UN Panel of Experts reports. This case is significant as it exposed which parts of the international maritime system were vulnerable to sustained manipulation.
+
+Russia later demonstrated how a well-funded state could leverage those weaknesses to sustain a parallel maritime trading network. Despite public exposure of North Korea s methods, those access points remained open for Moscow to exploit years later.
+
+Russia Refines the Framework
+
+Russia started this endeavor from a very different place than North Korea. While North Korea faced increasingly 
+restrictive sanctions
+ after its 
+first nuclear test in 2006
+, Russia enjoyed broad access to global trade until facing Western countries sanctions after the full-scale invasion of Ukraine. Besides having more capital and resources than Pyongyang, Moscow benefited from decades of global commercial integration. Access to 
+corporate and maritime service networks
+ across multiple jurisdictions helped Russia scale operations quickly. Russia was therefore able to build on existing commercial pathways rather than create an illicit network from scratch.
+
+The motivations behind the two countries shadow fleets are likewise distinct. Where North Korea s illicit procurement networks focused on securing critical imports and exporting commodities to generate foreign currency, Russia has used its shadow fleet to preserve petroleum export revenues, buoy the Russian economy, and finance the Russo-Ukrainian War.
+
+By February 2023, just one year after the full-scale invasion, 
+Russia had assembled a shadow fleet
+ of roughly 600 tankers, including 400 crude carriers and 200 product tankers, representing about 20 percent and 7 percent of the global fleet, respectively. In December 2023, Vortexa, an energy and shipping analytics firm, estimated that 
+1,089 tankers
+ were operating in the Russian oil market despite Western sanctions. Together, these estimates indicate that within two years of the invasion, Russia had more than 1,000 vessels trading on its behalf.
+
+The speed of Russia s shadow fleet growth suggests that it was not building a playbook from scratch after sanctions were imposed but rapidly scaling known methods within a maritime trade governance system that had failed to adapt. Windward, a maritime data and risk analytics firm, has documented 
+Russia s use of registries
+ in Gabon, the Cook Islands, Barbados, Palau, Gambia, Sierra Leone, San Marino, and Guinea-Bissau all operated by private companies contracted by the governments of those flag states. The Kyiv School of Economics also noted an 
+increased reliance on Cameroon and Oman as flag states
+. These registries share features that make them attractive for shadow fleets: private management, open registration, and commercial pressure to prioritize revenue over prolonged due diligence processes.
+
+As Western enforcement expanded and registry scrutiny increased, some high-risk vessels, pushed out of weaker or fraudulent registries, 
+reflagged to Russia
+. In 2025, French authorities detained a 
+suspicious vessel
+ identifying as the Boracay after they could not confirm its registration. Subsequent reporting indicated the vessel claimed registration with Djibouti despite removal from the registry, before 
+reflagging to Russia
+ and changing its name to Phoenix. This mirrors the tactics of many North Korean vessels, including the 
+New Regent
+. Once exposed by the UN Panel of Experts or investigative journalists, a vessel often became difficult to flag outside its sanctioned home state.
+
+Russian-linked vessels have also used fraudulent registries, following the example of North Korea s use of Fiji s registry. In January 2026, Windward found that of the 18 fraudulent registries identified by the International Maritime Organization, 91 percent of the 
+vessels claiming registration with those registries were already sanctioned
+. In both cases, sanctioned vessels were disproportionately concentrated in fraudulent registries. This suggests these registries are a fallback for vessels excluded from recognized flagging systems. In practice, the fragmented nature of the global registry system makes it difficult to verify registrations consistently, creating opportunities for sanctioned actors to maintain access even after their removal from legitimate registries.
+
+Sizing Up the Two Fleets
+
+Despite differences in scale and geographic reach, both North Korea and Russia have exploited common structural weaknesses in international shipping registries, including flags of convenience, outsourced registry management, and feeble due diligence. Those gaps made document falsification viable and difficult to detect. Despite extensive documentation by the UN Panel of Experts and 
+academic research
+ on maritime sanctions evasion, many of 
+these evasive practices persisted for years
+. From 2022 onwards, Russia found these same institutional gaps intact and exploitable. The core incentive structure never changed.
+
+From the early 2000s through the late 2010s, North Korea pivoted from flags of convenience to flag hopping, and eventually to outright fraudulent registries. Russia compressed that timeline and appeared to employ all three mechanisms simultaneously. North Korea adapted from a position of isolation and scarcity, whereas Russia adapted from a position of pre-existing global integration, commercial reach, and capital. These factors help explain the speed and scale at which Russia built its shadow fleet.
+
+North Korea s shadow fleet relied in part on foreign intermediaries and front companies to access registries and maritime services. Russia, by contrast, industrialized shadow fleet operations, backed by an estimated 
+$10 billion
+ in investment. While some foreign actors may have facilitated these transactions, Russia s global footprint meant that much of the necessary infrastructure was already in place. This allowed Moscow to preserve access to the revenue lifeline provided by oil and gas exports.
+
+The two countries geographic preferences also appeared to differ. While North Korea tended toward Pacific Island and Asian registries, Russia increasingly used African registries. Both countries also leveraged larger flags of convenience, including Panama, and both exploited the flags of Palau and Sierra Leone as well.
+
+Despite their similar tactics, the difference in scale between North Korea and Russia is stark. According to the UN Trade and Development Data Hub, North Korea had 
+an estimated 1,277 vessels
+ in its national fleet in 2024. Already by October 2023, 
+Russia had amassed an estimated 400 650 shadow fleet vessels
+ nearly half the size of North Korea s entire commercial fleet. This contrast underscores how a well-funded state can exploit structural weaknesses to sustain exports, despite heavy sanctions.
+
+What Can Be Done? 
+
+The international sanctions regime punishes designated actors, but it rarely penalizes the institutions that enable them. This is the gap that continues to allow shadow fleets to thrive. Sanctioning vessels and registered owners alone is reactive and insufficient. Raising the costs for registries and service providers who enable these networks would be more effective in combating current and future shadow fleets.
+
+Besides falling prey to shadow fleets, open shipping registries also generate legitimate revenue. Liberia, for example, 
+earns substantial income
+ from registration fees, tonnage charges, and compliance costs. Across thousands of vessels, those fees can become a huge revenue stream for participating states. These incentives help explain why the same registries appear repeatedly in sanctions evasion cases. Because vessels can shift between registries, operators imposing slower registration processes or stricter controls risk losing to more lenient competitors.
+
+One option for closing this enforcement gap is to expand Western sanctions to target those registries that continue to flag shadow vessels even after designation. This would impose both financial and reputational risks, potentially triggering an exodus of vessels from that registry, decreased registrations, and increased inspection scrutiny at ports.
+
+Many registries conduct transactions in U.S. dollars, rely on U.S.-linked service providers or, in the case of Liberia, are run by U.S.-based companies. This exposes them to U.S. jurisdiction as an 
+enforcement mechanism
+. If a registry depends on dollar payments, U.S.-linked providers, or U.S.-based contractors, sanctions would restrict access to payment channels, insurers, banks, and counterparties. Sanctioning these registries would make continued registration of shadow fleet vessels more expensive for the registry and riskier for legitimate customers. Coupled with incentives for stronger due diligence and removal of sanctioned or shadow fleet vessels, this could make evasive practices harder to sustain.
+
+Russia did not create the shadow fleet playbook. Instead, it scaled one whose effectiveness North Korea previously demonstrated. Without structural changes to registry incentives and enforcement, shadow fleets will continue to grow in scale and sophistication, while the effectiveness of sanctions remains limited.
+
+BECOME A MEMBER
+
+Olivia Vassalotti is director of risk and compliance intelligence at Exiger, where she builds data sets to support supply chain risk analysis. She previously served at the CIA, supporting executive-level offices and intelligence collection. Her work centers on nonproliferation, Russia, and sanctions evasion.
+
+Image: kees torn via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

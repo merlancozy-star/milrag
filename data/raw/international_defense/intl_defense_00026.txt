@@ -1,0 +1,218 @@
+Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+Cogs of War
+
+ Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure 
+
+Jason McMahon
+
+June 10, 2026
+
+Cogs of War
+
+Cogs of War
+
+ Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure 
+
+Jason McMahon
+
+June 10, 2026
+
+Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures 
+froze pipes, which then burst and caused flooding
+ in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, and frozen heating, ventilation, and air conditioning coils affected over 30 barracks,
+ forcing soldiers to relocate
+ and causing nearly $50 million in damage.
+According to the Department of Defense s reporting, the United States 
+owns and operates more than 700,000 facilities
+ across nearly 5,000 sites at home and abroad. Much of this infrastructure is aging. Nearly 80 percent of military installations were established before 1970, and one-third of the department s buildings are more than 50 years old. Less than 5 percent of the department s budget is allocated towards managing this immense infrastructure portfolio and investing in its maintenance and modernization. As a result, according to the Pentagon s fiscal year 2025 audit, the deferred maintenance backlog reached over $278 billion, 85 percent of which are buildings and structures that 
+are enduring and required to support an ongoing mission
+. Within the past decade, Defense Department officials have testified that 
+nearly one-third of military facilities are in poor or failing condition
+ and that 
+one-quarter of Army barracks are in the same state
+.
+
+Where the department is ferociously bucking the status quo to eliminate bureaucracy and rapidly fielding emergent technologies for battlefield missions, it should do the same for the infrastructure that supports the execution of those missions. Rather than cyclically funding the creation of new facilities as older ones crumble, the American government and the private sector should meaningfully invest in technologies that aid the management, maintenance, and sustainment of military infrastructure.
+
+These technologies include predictive maintenance software, smart sensors, and data modernization platforms. Fully integrating these systems throughout the Defense Department s infrastructure management ecosystem will ensure budget officials can direct limited resources and funds towards meaningful modernization efforts, rather than costly emergency work orders. Compliance, cost, and caution have all limited the broad adoption of these solutions in the military. But in this environment, 
+the private sector is willing
+ to build for government, invest its capital, and fail forward to bring new innovation to the field.
+
+As a Congressional staffer on the Appropriations Committee covering military construction, and as a policy staffer in House and Senate member offices, I spent more than a decade visiting military installations, working with military engineers, advocating for legislative reform, and writing funding levels into law. In my current capacity with Valinor Enterprises, I am involved in our efforts related to innovation around facility management and have a professional stake in the broader adoption of new technology to advance how the United States modernizes military public works. However, this article does not advocate for any specific platform or vendor. Instead, it seeks to elevate the discussion around solutions for a well-known and underserved sector.
+
+Sign Up for Our Newsletter
+
+A Tale of Two Priorities
+
+Military infrastructure is not just the runways from which B-2s take off or the piers from which aircraft carriers go to sea. It is the fuel depots that supply U.S. military equipment, the microgrid that powers an installation, the National Guard readiness centers in communities around the country, the maintenance shops where specialists ensure vehicles can operate, the centers that provide child care for military families without off-post options, and the housing for American service members.
+
+The failing infrastructure problem lives in plain sight: 
+moldy
+ and 
+substandard
+ housing, 
+flooding
+ from aging plumbing systems, 
+unreliable heating and cooling
+ in barracks and workspaces. The Government Accountability Office has thoroughly documented the 
+Defense Department s insufficient data management and oversight
+ and made dozens of recommendations that the Pentagon has worked to address, but these issues continue to be felt by service members and their families on a daily basis.
+
+These environmental and systemic vulnerabilities affect the health, morale, and readiness of American forces. A leaking hangar roof can ground aircraft maintenance operations and reduce sortie generation, while creating safety hazards for maintainers. A moldy barracks displaces soldiers, reducing morale, posing health threats, and disrupting training activities. Aging dry docks and failing industrial facilities delay nuclear submarine and aircraft carrier maintenance, reducing fleet readiness and deployment availability. Partially as a result of these vulnerabilities, public works departments are task-saturated, facing cognitive overload, and limited in their ability to address proactive and preventative maintenance needs.
+
+Aging infrastructure, when combined with funding shortfalls, creates a dangerous storm. The Government Accountability Office has found that 
+investment rates for facility sustainment are historically below requirement levels
+ and that other programs, such as weapons system acquisitions, are consistently prioritized higher. These accounts have also been a bill payer for other operational demands. While some of the more than $5 billion in funding tagged for facility sustainment through reconciliation last year flowed to urgent needs, such as those identified 
+through the Barracks Task Force
+, other money has been 
+diverted to border operations
+ and 
+the war with Iran
+.
+
+AI, advanced sensors, and integrated machine learning tools are already making it possible to monitor infrastructure and equipment in real time, predict failures before they occur, and reduce downtime. Yet these tools have not been adopted with the necessary urgency. In addition to procuring shiny new ships, aircraft, or vehicles or funding state-of-the-art buildings, the government should be investing in the platforms that sustain them and help reframe the approach from reactive to proactive.
+
+Josh Wolfe and Lux Capital coined the term fixware to refer to these critical maintenance and sustainment technologies, suggesting that it 
+defines a category of technologies and approaches
+ predictive maintenance platforms, autonomous inspection drones, advanced sensors, and machine learning models that anticipate breakdowns and schedule repairs before chaos strikes. When budgets are tight, but innovation is compounding, optimizing existing infrastructure is a much more efficient and effective use of funds than just buying new. This means investing in how we maintain the capital investments, not just the final products themselves.
+
+Progress on Policy and Processes
+
+To be clear, deferred maintenance investment is a recurring topic in decision-making circles, and both the executive and legislative branches have worked hard to address policy limitations and funding shortfalls in this area.
+
+In Congress, recent authorization bills have sought to remove bureaucratic barriers and 
+give the services more flexibility
+ to 
+pursue creative acquisition pathways
+ for repairs and new construction. In last year s annual defense authorization bill, Congress initiated a pilot to test and evaluate emerging technologies for moisture control and mitigation. Appropriations bills have complemented those efforts by 
+providing funding to buy down maintenance backlogs
+, 
+jump-starting design work for neglected facilities
+ such as unaccompanied housing and child development centers, and 
+empowering the services to evaluate
+ nontraditional construction materials and methods.
+
+The Pentagon is taking steps to use the tools provided by Congress, and the groundswell of attention in recent years has also led to larger budget requests for military construction and facilities maintenance accounts, 
+including historic levels this year
+. Rather than relying on traditional, linear construction processes, the services are 
+looking to use existing and new account flexibilities
+ to deliver new builds and repairs more efficiently, including through third-party financing.
+
+However, the United States cannot afford to simply build its way out of the maintenance backlog. Nor will that address the structural and systemic failures that led to the current environment. This is not a problem with one cause, nor a silver bullet to fix, and many of the challenges tied to funding prioritization and 
+cultural relegation of the infrastructure field
+ will take years to improve. These include shortcomings such as misaligned command authority and bureaucratic challenges plaguing the military construction process, leading to outdated funding estimates, 
+construction cost premiums
+, and lengthy execution timelines.
+
+The services and Congress are working to address this. For example, the Navy s Shore Command and Control restructuring initiative is 
+transferring installation-level maintenance functions from Naval Facilities Command to Commander, Navy Installations Command
+ in order to streamline ownership and responsibility for public works. Last year, Congress provided 
+other transaction authority for repair and construction and permitted the services to use alternative construction agents
+ in addition to traditional Army and Navy entities.
+
+Continuing resolutions and unpredictable funding create challenges for the military to plan, prioritize, and execute infrastructure projects. As a long-time appropriations staffer, I empathize with and join the chorus lamenting those concerns. But while these intractable realities exist, they need not distract from opportunities to effect operational-level change.
+
+An additional acknowledgement is that much of the public scrutiny around failing infrastructure has focused on privatized military housing. The conditions have been 
+well-documented
+, and 
+Congress 
+and the Pentagon 
+responded
+. However, that housing is privately owned and not incorporated in the real property figures previously cited. While the topic of how the Pentagon can strengthen its oversight of the privatized housing program is well 
+underway
+, and there should be greater discussion about how privatized partners are leveraging new technology to monitor and maintain privatized unaccompanied and family housing, it is not the focus of this piece.
+
+Technology to Maintain and Sustain
+
+In addition to sustained funding and policy reforms, the military needs to rethink how it integrates new technology into its processes. In many cases, the Department of Defense and Congress are still making billion-dollar infrastructure decisions with 
+incomplete or inconsistent information about facility condition and utilization
+. Systems remain 
+fragmented across the services
+, leading to misaligned priorities.
+
+In practice, a Public Works Officer tasked with reporting on facility condition data, recent work orders, sustainment costs, and prioritization should manually open multiple different real property and sustainment management systems, pulling data into a separate spreadsheet. One Air Force engineer I spoke with told me it takes 15 minutes for their customer service controllers to look up the status of a single work task. The Government Accountability Office has repeatedly noted that installation real property data is often incomplete and issued recommendations to improve it, including that the department 
+develop a strategy
+ to address risks with data quality and information accessibility. 
+
+In the above Winter Storm Uri scenario, a technician who had been previously tasked with conducting routine maintenance on the plumbing system may have noticed the pipe corrosion and made a hand-written note to log that in the distinct and disconnected building controls and work order systems. This is a clunky, fragile process that relies on an overworked technician, who may have other urgent priorities, making multiple inputs into multiple systems to communicate a potential vulnerability. If that tech were able to upload an image, or the public works team were able to receive real-time system monitoring and alerting, the multi-million-dollar flood and the displacement of service members could have been avoided.
+
+It should be acknowledged that cybersecurity is a real vulnerability and limiting factor in the employment of smart sensors and the integration of disparate, sensitive systems. For example, facility-related (or industrial) 
+control systems represent a point of attack for adversaries
+, and the military understandably 
+takes a zero-trust approach
+ to the integration of connected technology, at least that which is not designed and built for government and military use.
+
+The result has been at times overly cumbersome 
+risk management frameworks
+, 
+building facility criteria, and guide specifications
+. At the same time, the commercial sector is building against these vulnerabilities already, using AI-enabled anomaly detection to bolster operational technology defenses, whitelist-only access control, and encryption for device identity and data-in-transit. The salient problem then becomes that of adaptation, not adoption. Industry is already building for government, incorporating secure, zero-trust architecture at the design core for building automation systems. And the military should incentivize and demand this by aggressively signaling willingness and openness to lab-test and deploy new smart sensing technology.
+
+From Reactive to Ready
+
+To their credit, the services are taking action to modernize how they capture, analyze, and manage relevant data. For example, the Army is lifting up a 
+soldier-built solution
+ to introduce low-cost mold sensors into barracks rooms, providing real-time monitoring of indoor air quality to enable proactive responses to unhealthy environmental conditions. The Navy is testing new delivery methods, such as 
+industrialized construction
+, and 
+integrating AI
+ into facility support functions. The Marine Corps has been 
+installing QR codes
+ tied to barracks management platforms to streamline work order processes. And the Air Force, through its 
+Streamlining Procurement for Effective Execution and Delivery pathway
+, has solicited technical advancements across more than a half-dozen areas of digital transformation for installation management.
+
+Through innovation pilots, flexible authorities, and dedicated funding, Congress has a role to play in enabling efforts that imagine a new paradigm, such as the service s 
+Installations of the Future
+ initiatives. More efforts like these will bring the process of facility management into the 21st century, breaking the cycle of failing infrastructure. Of course, sustained and predictable funding (which is not siphoned off throughout the programming, budgeting, and execution cycle) will be a cornerstone of this endeavor, but the Pentagon needs to advance technological solutions as well. It needs to normalize and encourage the incorporation of low-cost, compliant, smart sensing technology into the Defense Department s construction and maintenance programs. It needs to create 
+open-architecture information technology systems
+ that share data with and enable each other s functionality. Most of all, it needs to approach military infrastructure management with the same level of investment and initiative that it does for the application of robotics, autonomy, and artificial intelligence to the United States national security.
+
+Of course, these investments in fixware are not insignificant. But they pale in comparison to the cost of continuing to cyclically invest in large-scale infrastructure projects without advanced maintenance or sustainment methodologies, or misallocating funding because of a lack of visibility across the infrastructure portfolio. The Pentagon has an opportunity here it should scale and share the efforts underway across the services. Low-cost deployable sensors should not be an Army-only experiment, nor should they be constrained to mold detection. The Pentagon should utilize remaining reconciliation money to buy off-the-shelf solutions, leverage research and development funds to ensure new facility sustainment technology meets cybersecurity and military specification testing, and tap into well-resourced strategic capital offices to invest in our facility industrial base.
+
+The critical work of America s military engineers, technicians, and craftsmen cannot be overstated. They deserve the tools, funding, and the opportunity to prevent building failures before they hit headlines. The United States needs to empower these men and women with the tools to collect and analyze data, streamline workflows, reduce cognitive load, prioritize properly, and automate tasks.
+
+Doing so will pave the path forward. Otherwise, the United States is stuck dusting a dirt road.
+
+Write for Cogs of War
+
+Jason McMahon
+
+is the head of Federal Strategy at 
+
+Valinor Enterprises
+
+. Prior to Valinor, Jason served on Capitol Hill for 13 years, including 8 years on the Senate Appropriations Committee.
+
+**Please note, as a matter of house style, 
+War on the Rocks
+ will not use a different name for the U.S. Department of Defense until and unless the name is changed by statute by the U.S. Congress.
+
+Image: Staff Sgt. Andrew Carroll via 
+DVIDS.
+
+Correction: A previous version of this article stated an incorrect number for the Defense Department s deferred maintenance backlog.
+
+Get the Brief
+
+Subscribe to our free Cogs of War newsletter for sharp analysis and grounded insights from technologists, builders, and policymakers.
+
+SIGN UP

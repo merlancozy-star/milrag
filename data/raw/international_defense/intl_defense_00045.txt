@@ -1,0 +1,266 @@
+Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement 
+
+David B. Roberts
+
+June 1, 2026
+
+Commentary
+
+ Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement 
+
+ #Acquisition 
+
+ #Airpower 
+
+ #Drones 
+
+David B. Roberts
+
+June 1, 2026
+
+One of the most effective counter-drone systems in the largest drone war in history between Ukraine and Russia is 
+a German anti-aircraft gun designed during the Cold War
+. The Gepard a self-propelled 35 mm cannon that first entered service in 1976 has earned recognition from Ukrainian military experts as the most effective weapon against Shahed-type drones, at a cost of a few thousand dollars per engagement. Meanwhile, one of the more novel counter-drone technologies amounts to a sharpened prong 
+mounted
+ on another drone that lances its target mid-flight a 12th-century solution to a 21st-century problem.
+Then there is the 2026 Iran war, where the wealthiest states in the Middle East have spent tens of billions of dollars on 
+layered
+ Patriot, Terminal High Altitude Area Defense (THAAD), and related architectures over the past decade but are running out of ammunition for those systems, fast. 
+Iran s missiles and drones have struck Gulf hotels, energy facilities, and billion-dollar military radars
+ with frequency and persistence. Even though most Iranian missiles are intercepted, 
+each successful interception burns through guided missiles at a rate the Western defense-industrial base cannot sustain
+ indefinitely. The Center for International and Strategic Studies concluded that, while the picture of replenishment is challenging and often has long lead times, it is 
+manageable
+ for the United States, at least in this war. For the Gulf states, however, the picture is much more 
+troubling
+, not least as the U.S. and Israel will still need to first re-stock their own inventories. 
+
+These air defense systems are technical miracles they are literally shooting a bullet in the air with another bullet. But technical performance and strategic sustainability are not the same thing, and the Iran war is exposing this critical difference with brutal clarity. To answer these issues, the Gulf states need neither more F-15s, nor do they need to badger the United States for access to 
+the F-35 the latest high-tech export that promises to be all things to all people
+. Rather, they need a change of procurement mindset across the board, which would rest on three elements.
+
+The first is local relevance: an architecture built around the threats Gulf states actually face, rather than those that animate American (and other supplier) force planning assumptions and that Gulf militaries have inherited largely 
+intact
+. The second is logistical realism: a sober assessment of whether the collective Gulf force can host, maintain, and operate a given system at the tempo combat demands, with the trained crews, depot infrastructure, and institutional routines that exquisite platforms silently assume. The third is industrial sustainability: a recognition that the relevant unit of capability is not the platform but the production rate behind it, and that a weapon expended in days and replenished in years is, in any extended conflict, a one-shot system regardless of its sophistication.
+
+As this pertains to air and missile defense specifically, it means forging a genuinely layered architecture in which exquisite interceptors sit at the apex of a structure whose lower tiers physical barriers, electronic warfare, helicopter and gun-based engagement, and interceptor drones do the bulk of the attritional work. The current posture is layered in name only, with most focus and investment concentrated in the most expensive and least replenishable tier: guided missiles. A serious layered architecture inverts that distribution, and its foundation which may be awkward for the prestige economy of regional defense may turn out to be a fence.
+
+BECOME A MEMBER
+
+The Depletion Crisis
+
+In the opening days of the Iran war, 
+Gulf coalition air defenses fired thoughtlessly, according to Ukrainian military advisors deployed to the region
+, using multiples of the highest-quality, most sophisticated missiles against drones without classifying threats or rationing interceptors. 
+Over 1,000 Patriot interceptors were consumed in the first 10 days
+, against regional stockpiles estimated at 1,800 to 2,300 missiles. THAAD interceptors costing $12-13 million each were expended at a rate that consumed a significant share of annual production just 96 
+missiles
+ per year within the first fortnight. 
+The United States had to redeploy interceptors from South Korea to maintain supplies
+.
+
+In early March 2026, Kelly Grieco of the Stimson Center warned that at the rate of consumption observed in the opening days 
+extrapolated
+ from the June 2025 12-Day War, during which America expended an estimated 100 to 150 THAAD interceptors supporting Israel the United States would burn through half its entire interceptor stockpile in four to five weeks. The depletion curve has since materialized in roughly that form. By April, one 
+analysis
+ found that the U.S. military had expended nearly half of its Patriot stockpile and more than half of its THAAD interceptors in the war with Iran.
+
+Iran s inexpensive Shahed 
+drones
+, which come in multiple varieties, are central to this depletion dynamic. Each drone or missile 
+intercepted
+ by a high-end guided missile Patriot Advanced Capability 3, Standard Missile 6, or THAAD burns through inventory the defense-industrial base cannot replace at anything close to the rate of consumption. Open-source estimates of the cost-exchange ratio vary by Shahed variant and engagement doctrine but cluster between roughly 100:1 and 230:1 in the attacker s favor: a $35,000 
+Shahed
+-136 against a $4 million Patriot Advanced Capability Missile Segment Enhancer at the two-shot 
+doctrine
+ for high-value asset defense.
+
+The arithmetic for Iran s ballistic missile salvos is different but no more sustainable: a $12.7 million THAAD interceptor against an Iranian ballistic missile manufactured at a fraction of that cost. Such ratios are not ideal, but it makes sense to defend high-value targets even at this high expense. The far bigger problem, however, is that the 
+production-exchange ratio
+ is even more 
+asymmetric
+ and unsustainable. Patriot Advanced Capability 3 annual production is 
+approximately
+ 600 missiles. 
+Iran can produce hundreds of Shaheds in a week.
+
+The Gulf states missile defense forces improved, not least by learning under pressure with 
+help from Ukrainian experts
+, evolving their tactics away from using more expensive and less available missiles. Importantly, some Gulf forces, such as the United Arab Emirates, also used novel 
+approaches
+ like employing helicopters to shoot down Shaheds. However, as the conflict ebbs along in a painful stalemate and the Gulf monarchies seek to replenish their arsenals, if past is prologue, they will seek to procure their way out of this wicked problem with expensive, cutting-edge solutions such as 
+directed-energy weapons
+ or 
+AI-enabled counter-drone systems
+. This is necessity as the mother of invention, and it is the wrong way to frame the problem.
+
+From Overwhelm to Outlast
+
+Iran s operational pattern over the first month of the war reveals a shift whose causes remain contested, but whose consequences are clear. Opening salvos of over 500 ballistic missiles and more than 2,000 drones were mostly 
+intercepted
+, but the interceptor cost was catastrophic. From the second week onward, as noted, threat libraries evolved and rationing began. Then, Iranian launch rates fell by more than 90 percent while hit rates 
+climbed
+.
+
+How much of this shift was deliberate adaptation, how much was forced by U.S. and Israeli strikes on launchers, stockpiles, and command and control, and how much reflected a separate decision to retarget less defended sites, is not yet possible to disentangle. The attrition story credits 
+coalition
+ counter-battery and deep-strike campaigns with degrading Iran s ability to generate large salvos; on this reading, the smaller follow-on attacks are what Iran could still launch, not what it chose to launch. The retargeting story observes that Iran s later strikes shifted away from heavily defended military nodes toward 
+softer civilian and industrial targets
+
+energy infrastructure
+, hotels, port facilities where lower defensive density mechanically raised hit rates without requiring any particular strategic sophistication on the attacker s side. The adaptation story reads 
+Iran s smaller and more deliberate salvos as a death by a thousand cuts approach
+ in which cheap drones are drawn against expensive interceptors as a calculated inventory-depletion tactic.
+
+Iran also targeted critical sensor layers. Drones and missiles 
+struck
+ a billion-dollar early warning radar in 
+Qatar
+, 
+Jordan
+, and the 
+United Arab Emirates
+, which are functionally irreplaceable in any kind of medium-term time frame. As radar coverage thinned, consumption per incoming missile climbed: Fewer sensors meant less efficient cueing, more interceptors fired per threat, faster depletion. Related losses compounded the picture an E-3 Sentry Airborne Warning and Control System (AWACS) and 
+five KC-135 tankers damaged at Prince Sultan Air Base
+, and, by Grieco s 
+estimate
+, roughly 850 Tomahawk cruise missiles expended in four weeks against an annual production capacity of around 600.
+
+Whether Iran chose the depletion dynamic, was driven into it by coalition pressure, or stumbled into it by retargeting toward softer sites, the dynamic itself is what Gulf air defense has had to absorb and the absorption problem is structural, not motivational. A defense architecture concentrated in exquisite interceptors is equally vulnerable to a strategy that intends to deplete it and to a pattern of attacks that happens to deplete it. The procurement implications do not turn on Iranian intent.
+
+The Copycat Trap
+
+Three reinforcing dynamics produced the current Gulf defense posture. The first is what I have elsewhere termed the 
+protection curse
+: access to an (apparent) external security guarantor distorts the seriousness of local military affairs, creates a moral hazard analogous to the resource curse, and permits whimsical procurement. U.S. regional hegemony gave the Gulf monarchies an implicit security guarantee that reduced the incentive to develop self-sufficient capabilities. Defense spending was high in absolute terms but channeled through the patron-client relationship rather than toward strict capacity building. The archetypal example here is an inexplicable lack of 
+indigenous Gulf counter-mine capability
+, when states like Kuwait, Bahrain, and Qatar but also the United Arab Emirates and Saudi Arabia, albeit to a lesser degree are almost entirely dependent on waterborne trade that has been threatened by Iranian mining capabilities for decades.
+
+The second is 
+institutional isomorphism
+ the propensity of militaries to copy what apparently successful militaries do. The Gulf forces are, to a striking degree, structurally modeled on their American patron and the wider NATO mold. They often seek to buy what America sells, in the configurations America recommends, thus optimized for threat assumptions animating American not Gulf force planning. The result is a defense posture designed for peer-state ballistic threats, transplanted into a theatre whose primary threat is a swarm of expendable drones assembled on what resembles a car assembly line. This is not to disregard the importance of Gulf ballistic missile interception from Iran; rather, it is pointing out the lack of a rounded grasp of Gulf operational environment requirements.
+
+The third is a demand-side preference for 
+prestige
+ platforms. Gulf procurement has historically served a status-signaling function partly independent of operational effectiveness. Owning a THAAD battery signals 
+strategic
+ alignment with Washington and membership in an 
+exclusive
+ club; a chain-link canopy over a desalination plant signals neither.
+
+The ensuing depletion crisis is less an accident of war than a comparatively predictable consequence of an architecture that funneled decades of investment primarily into a single, exhaustible layer. To understand what a corrective might look like, one must abandon the assumption that better defense inevitably requires newer technology. The most useful framework belongs not to a defense analyst but to a historian.
+
+The Edgertonian Corrective
+
+David Edgerton argued in 
+The Shock of the Old: Technology and Global History Since 1900 
+that 
+societies systematically overvalue invention and undervalue use
+ the technologies that matter most are not the newest but the most widely deployed, the best maintained, and the most sustainably produced. The history of technology, properly understood, is as much a story of mundane things used at scale (corrugated iron, the sewing machine, the horse which saw more military service in World War II than in any previous conflict), as a story of breakthroughs.
+
+The Russo-Ukrainian War now the largest empirical dataset on drone warfare in history vindicates Edgerton s thesis. The most effective counter-drone system in the Ukrainian theatre is an old German self-propelled anti-aircraft gun. 
+Russia s Molniya drone
+ aluminum tubing and plywood, using commercial off-the-shelf components exemplifies the Edgertonian mode on the offensive side.
+
+The Layered Architecture: From Chain Link to Patriot
+
+Edgerton s method demands that we begin not with what the defense industry offers but with what already exists, in what quantities, and at what cost. Applied rigorously, this produces a layered architecture that inverts the conventional procurement hierarchy.
+
+Layer 1: Physical Barriers 
+
+A Shahed-136 is a 200-kilogram composite airframe with a 50-kilogram warhead, cruising on a shallow, horizontal terminal approach dictated by its delta-wing aerodynamics. It has an exposed rear propeller and impact fusing calibrated for the target. It has no sensor capable of detecting a cable or mesh in its path, nor for obstacles 15 meters above the target. Any physical barrier in its flight path tensioned cables, chain-link mesh, industrial netting will damage the airframe, foul the propeller, or detonate the warhead before it reaches the protected asset. A Shahed that strikes a cable does not need to be destroyed to be defeated; it needs only to lose a propeller blade, suffer a wing failure, or have its warhead fuse triggered prematurely. Any of these converts a precision strike into an uncontrolled crash short of the target.
+
+In January 2026, the 
+Pentagon s Joint Interagency Task Force 401 released guidance explicitly recommending such barriers for critical infrastructure
+. A Saudi fencing company is already 
+marketing
+ high-tensile mesh rated to stop drones at speeds of 250 km per hour. The concept has historical precedent: 
+British barrage balloons trailing steel cables intercepted over 200 V-1 cruise missiles during World War II
+ a weapon that was, in its essential characteristics, the Shahed of 1944.
+
+Physical barriers are no panacea. One cannot mesh an entire industrial complex. But the logic does not require comprehensive coverage. It requires selective hardening of nodes whose failure would trigger cascading consequences such as the reverse osmosis trains and intake pumps in a desalination plant, or the liquefaction trains and cryogenic storage systems in a liquefied natural gas (LNG) facility. Moreover, while such barriers may be highly effective against smaller drones, a 50-kilogram warhead detonating above a protected asset is not problem-free: dangerous fragmentation and blast will propagate. But the relevant comparison is not between a barrier interception and an ideal missile interception; at this last moment, it is between a barrier interception and no interception at all. A warhead detonating against a cable array 15 meters above delicate critical national infrastructure is vastly preferable to a direct strike.
+
+Lastly, while encasing sensitive critical national infrastructure in a souped-up chain-link fence does not scream exquisite technology, the attacks on the Gulf may have surely blunted the eternal preference for prestige items. Adding basic passive defenses as a foundational layer can bolster the more sophisticated defenses described below.
+
+Layer 2: Electronic Warfare 
+
+GPS jamming and spoofing can deflect a significant fraction of Shaheds, after initial investments, at near-zero marginal cost per engagement. 
+Ukrainian experience suggests roughly 40 percent deflection in large attacks
+. But this is a depreciating asset. 
+The International Institute for Strategic Studies strategic dossier on uninhabited aerial vehicles documents
+ Russia s progressive hardening of Shahed-type drones against electronic warfare through fiber-optic control links and visual navigation systems that provide Global Navigation Satellite System-independent terminal guidance. Iran is almost certainly absorbing these innovations via Moscow.
+
+Layer 3: Armed Helicopters and Slow Aircraft, Radar-cued 
+
+A Shahed-136 is a non-maneuvering target flying in a straight line at approximately 180 km per hour; it can neither evade nor shoot back, and its radar cross-section, while small, is detectable at ranges that provide adequate warning for scramble and intercept. For a cued helicopter crew, this engagement is closer to aerial gunnery practice than to air combat, and the cost is a few hundred dollars in ammunition plus flight-hour expenses. Ukraine has already demonstrated the viability of this approach at scale, using both dedicated attack helicopters and transport helicopters fitted with door-mounted machine guns to destroy, 
+by its military s account, over 3,000 Shaheds
+.
+
+The Gulf s geography is favorable: drones approaching the Arabian Peninsula must traverse hundreds of kilometers of open water, providing detection and warning times continental theatres rarely afford. The harder challenge is institutional sustained alert postures, night and adverse-weather training, and the radar-to-cockpit cueing chain. This is precisely the kind of indigenous operational capacity the protection curse has undermined, and the kind combat now compels the Gulf to develop.
+
+Layer 4: AI-enhanced Fire Control on Existing Weapons 
+
+Gulf militaries possess vehicle-mounted heavy machine guns and 20 25 mm autocannons configured for ground combat. Commercially available AI-enabled fire control sights the SmartShooter SMASH system at $10,000 15,000 per unit transform these weapons into counter-drone platforms by tracking small airborne targets and computing firing solutions. Cost per engagement falls to a few dollars in ammunition that already sits in national stockpiles by the millions. Modified mounts for high-angle elevation and integration with radar warning networks are non-trivial in cost, but the arithmetic is compelling: the weapon and vehicle already exist, the ammunition is abundant, and the sight is the only new procurement. This is the Edgertonian move in its purest form converting sunk costs into operational capability.
+
+Layer 5: Interceptor Drones
+
+Ukraine s STING interceptor
+, developed by Wild Hornets, 
+costs
+ $2,000 4,000 per unit a 3D-printed quadcopter with thermal imaging and a 1.8-kilogram proximity warhead, capable of speeds exceeding 340 km per hour. Production has scaled to nearly 1,000 units per day across a dozen Ukrainian manufacturers. 
+The U.S.-developed Merops has demonstrated hit rates as high as 95 percent in testing at around $15,000 per unit
+. At these prices, interceptor drones approach cost parity with the Shahed itself. The main limitation is that radio frequency-controlled interceptors inhabit the same electromagnetic environment as their targets: the jamming that degrades a Shahed s GPS may equally disrupt the command links of the drone sent to kill it. Still, the production economics are transformative in a way no missile-based system can match.
+
+Layer 6: Gun-based Air Defense Systems 
+
+The Rheinmetall Skynex and Skyranger, descendants of the Gepard, fire 35 mm programmable ammunition that detonates ahead of the target, creating a cloud of tungsten sub-projectiles. Cost per engagement is 
+approximately
+ 4,000 euros three orders of magnitude below a Patriot intercept. The Gepard s Ukrainian record is the single strongest empirical data point in the counter-drone literature. The constraint is industrial rather than conceptual: the global Gepard inventory has been effectively exhausted by transfers to Ukraine, the Skynex successor is barely in production, and the bespoke ammunition supply chain is narrow. These systems are the correct solution for the highest-value defended sites LNG trains, desalination complexes, remaining early-warning radars but cannot, at present production rates, cover the full breadth of Gulf critical infrastructure.
+
+Layer 7: Guided Missiles 
+
+Patriot Advanced Capability 3, THAAD, and their equivalents offer an irreplaceable component of a layered system. But they are expensive and relatively rare: A Patriot Advanced Capability 3 takes months to produce and costs millions of dollars; a THAAD interceptor costs $12-13 million and emerges from a production line that yields hundreds a year. The arithmetic of the current war is that these weapons are being expended in days and replenished in years. No upgrade to these interceptors can fix that ratio, which is why they need to be carefully layered, with considerable efforts expended on discerning which targets require these exquisite answers.
+
+The Sustainability Thesis
+
+The Gulf states built an air defense architecture consisting mostly of the seventh layer the most expensive and most supply-chain-constrained. As for layers one through four, the helicopters are in the hangars, the heavy machine guns are in the armories, and the fencing contractors are a phone call away. What is missing is not technology but doctrine and a little ingenuity.
+
+Iran, constrained by sanctions and limited resources, was forced into the Edgertonian mode: The Shahed is not sophisticated technology, but it is buildable at scale from available materials and skills, and effective when deployed. The result is a conflict in which the poorer actor s cheapest weapon is systematically draining the wealthier actors most expensive defenses.
+
+Fences alone cannot defeat drones and missiles. On occasion, certainly, they can be hugely effective, especially against cheaper drones and missiles that proliferate as conflicts extend in length and stretch defense budgets. Yet the more important point is this: The form of defense should be calibrated to the specific threat it faces not to externally derived logics like alliance signaling, supplier preference, and prestige that so often shape Gulf force planning. The corrective is sustainability and investing not in the most impressive system but in the system that can be sustained, replenished, and operated at the scale the threat demands. The conceptual leap required is small but, within the political economy of Gulf states collective defense, genuinely difficult: to recognize that a fence can be an air defense system, and that the measure of a defense architecture is not its sophistication but its endurance.
+
+BECOME A MEMBER
+
+David B. Roberts, Ph.D., is a reader in international security and Middle East studies at King s College London, where he serves as head of professional education and enterprise in the School of Security Studies and leads the King s Institute for Applied Security Studies. He is the founder and commissioning editor of Cambridge University Press s Elements in Middle East Politics book series. Prior to joining King s, he directed the Gulf office of the Royal United Services Institute for Defence and Security Studies. His 2023 monograph, 
+Security Politics in the Gulf Monarchies
+, was published by Columbia University Press. 
+
+The author wishes to thank the external reviewer, the editors, and Professor David Des Roches for diligently advising on improvements to this article.
+
+Image: Army Inform via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

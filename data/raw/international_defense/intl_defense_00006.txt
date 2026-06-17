@@ -1,0 +1,44 @@
+Against the backdrop of the Earth, Firefly Aerospace’s Alpha FLTA003 successfully deployed the Victus Nox satellite into orbit after launching Sept. 14 at 7:28 p.m. PDT from Space Launch Complex 2 West (SLC-2W) at Vandenberg Space Force Base, Calif. (Courtesy photo: Firefly Aerospace)
+
+WASHINGTON &#8213; The 
+Defense Advanced Research Projects Agency (DARPA)
+ is turning to industry for help in identifying technologies and operational concepts to allow the reconstitution of space assets damaged or destroyed by adversaries, or on-orbit accidents.
+
+ The end goal is to develop and deploy effective response mechanisms to rapidly restore critical services to minimum levels or higher, on tactical timelines of hours to weeks, in response to demand surge needs, lost assets resulting from potential adversaries 
+ASAT 
+[anti-satellite weapons] engagements, or orbital debris collisions, the Pentagon s far-future agency said in a June 12 
+request for information
+ (RFI).
+
+DARPA s RFI notes that the Space Force has been working on developing the ability to rapidly deploy and operate space-based assets in response to immediate, urgent, and often unforeseen tactical needs &#8213; including through the Tactically Responsive Space program and the 
+Victus series
+ of demonstrations aimed at minimizing the time between a launch order and actual launch. 
+
+Nonetheless, the agency asserts, rapid space capability reconstitution is a complex task requiring a multi-faceted approach and presents numerous technical, logistical, contractual, and regulatory challenges, many of which are still ripe for novel solutions and methodologies. 
+
+The RFI explains that DARPA is looking for industry ideas in four general areas: space vehicles, including both satellite busses and payloads; launch vehicles; the integration of space and launch vehicles; and novel concepts of operations. 
+
+The RFI also lists 20 topics of specific agency interest, including;
+
+Rapid satellite manufacturing and assembly, both ground-based and on-orbit
+
+Reconfigurable / software-defined satellites / virtualization
+
+Multifunctional/multirole satellites
+
+Technologies for operation in very low Earth orbit
+
+Spacecraft survivability and resiliency
+
+			presented by		
+
+					Sponsored Post,				
+
+					Networks Digital Warfare				
+
+					How defensive cyber responds to hockey-stick growth of AI-driven threats				
+
+					Artificial intelligence is reshaping adversarial cyber operations at machine speed, requiring defenders to increase operational tempo while imposing pain and cost.				
+
+				By 
+Breaking Defense

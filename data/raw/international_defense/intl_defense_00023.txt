@@ -1,0 +1,231 @@
+Wargaming for Improved Acquisition: What Does It Take?
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+Cogs of War
+
+ Wargaming for Improved Acquisition: What Does It Take? 
+
+C. Travis Reese
+
+June 11, 2026
+
+Cogs of War
+
+Cogs of War
+
+ Wargaming for Improved Acquisition: What Does It Take? 
+
+ #Acquisition 
+
+ #Industrial Policy 
+
+ #Wargaming 
+
+C. Travis Reese
+
+June 11, 2026
+
+A few months ago, I attended a panel discussion for a wargame simulating rapid industrial mobilization for armed conflict. Conducted by a 
+leading university
+, with teams composed of former senior defense officials, the game probed how government and industry collaboration would play out given minimal coordination before the onset of a crisis. On the panel, the defense leaders confessed how infrequently they engaged with industry in real life to plan for a national emergency. This declared lack of public-private planning for large-scale conflict matches what I ve experienced as a defense planner and wargame developer: Outside of rhetorical claims 
+at
+
+annual
+
+expositions
+, or the efforts of 
+formal
+ and 
+informal
+ defense advisory organizations, there is no persistent effort to put the Pentagon and industry on the same page about mobilization for national emergency.
+Wargaming can be used by the Department of Defense to deliver 
+evidence-based
+ acquisition policy reforms focused on mobilizing 
+industrial base
+ capacity and capability in a crisis. Yet resolving this coordination deficit will require a concerted effort to link policy, law, and budgets to operational outcomes.
+
+A recent article in these 
+in these pages
+ argued for the Department of Defense and Congress to conduct wargaming 
+for
+
+acquisition
+
+reform
+. The author recommended a strategic game series to quantify and predict how particular acquisition decisions might influence military effectiveness across a variety of metrics. The article called for legislation directing a partnership between a private think tank and a federally funded research and development center to merge their analytic expertise and lead these wargames.
+
+While that article suggested the right institutional trajectory for using wargames in acquisition policy, the author s solution is too modest. It would be a mistake to vest this important work in only one private think tank and one federally funded research center executing a lone joint wargame series. A strategic game would help senior leaders 
+rank broad priorities
+, but a monolithic effort executed by a merger of two analytic houses is bound to miss key details that can only emerge from a distributed effort across the services, 
+agencies
+, and departments. Balanced investment choices emerge when services capture the details for which they are responsible and 
+are subjected to a joint game
+ that evaluates complementary capabilities and trade-offs between forces.
+
+Last year, my team 
+collaborated with a research partner
+ to execute two first-of-a-kind prototype wargames combined with AI-enabled modeling and simulation tools to evaluate industrial base and supply chain challenges for a single service. One game focused on 
+acquisition response
+ planning for armed conflict, and one focused on 
+operational logistics
+ to support a critical region. These games were conducted in support of two separate commands: one is a service acquisition command, and the other is responsible for the service s organic industrial base and operational logistics. The respective games showed that each organization has load-bearing responsibilities as they relate to the service s capacity to sustain protracted conflict and support the joint force findings that had never been captured before. Larger institutional games would likely have overlooked such findings, as they operate at a higher level of abstraction.
+
+The services and departments should conduct wargames under a structured annual framework, apply a standardized analytic methodology, assess identified operational concerns, and merge those results into a larger institutional game series. Bottom-up wargaming to align acquisition reforms to operational outcomes will produce the right breadth of data needed for a strategic wargame series to serve as a 
+benchmarking tool
+ for the Department of Defense and Congress. Without running their own foundational games first, the services will have little to offer in terms of defensible insights for a Department of Defense-level acquisition wargame.
+
+As the director of a wargaming division in a small company, I have a commercial interest in this topic. This article does not advocate for a specific platform or vendor but reflects lessons from my perspective based on years of practice in and out of uniform, as well as collaboration with other wargamers and analysts.
+
+Sign Up for Our Newsletter
+
+More Wargames for Better Acquisition Outcomes
+
+Public or congressional discussion on wargames is usually limited to 
+combat-focused
+ games or studies with enough fidelity to 
+capture expenditures and attrition
+. Games focused on fires and maneuver highlight operational choices and generate data essential to inform demand from the industrial base and procurement systems. Yet, in general, they offer 
+familiar and limited conclusions
+: buy more, stock more, secure more.
+
+Not all strategic and operational-level acquisition reforms are 
+baselined from armed conflict scenarios
+. They also 
+encompass normal operations
+, training, life-cycle management, war reserve materiel, and the impacts of national mobilization as a part of an interconnected acquisition, infrastructure, and sustainment system.
+
+My team s experience designing the Marine Corps Logistics Command s 
+Operational Logistics Wargame
+ in September 2025 provides an illustrative example. The game was conducted in three turns: set the theater, transition to crisis, and support protracted armed conflict. We found that the most consequential influences on conflict sustainment were revealed in the first turn of the game, which focused on preparing the theater with prepositioned supplies and depot maintenance capability, establishing of a 
+regional sustainment framework
+, and posturing war reserve materiel in key locations. For example, the service s war reserve materiel was misaligned to armed conflict requirements and would require significant acquisition investments to correct. War reserve materiel 
+management and reporting
+ runs through the Office of the Secretary of Defense, so this service-level discovery has clear ramifications for acquisition recommendations.
+
+The Marine Corps game coincidentally reiterated the history of imperfect 
+reporting on prepositioning programs
+ and the lack of shared visibility on war reserve materiel issues within the Department of Defense. This highlights the responsibility of service-level gaming and analysis to put those issues into an operational context before being instantiated into joint games.
+
+Games for acquisition and supply chain challenges should consist of three approaches to generate data that feeds into a strategic game. One set of games should examine 
+force sustainment
+: what a campaign, crisis response, or mobilization scenario would actually require in fuel, munitions, repair parts, transportation, labor, and infrastructure. A second set should examine 
+system sustainment
+: whether specific capabilities can be produced, repaired, and regenerated across the competition and conflict continuum. A third set should examine 
+supply chains
+: where critical materials, components, and processing capacity sit, and how they could fail under pressure. Each builds upon the other and improves the quality and detail of joint analytic wargames.
+
+Deepening Layers of Analysis Through Modeling and Simulation
+
+Modeling and simulation support the quantitative analysis and capture the systemic interactions needed to make proper acquisition reforms. Wargaming results used to inform the modeling of industrial base capabilities 
+can then be mapped
+ and used to inform the timing of legislation or capture the acquisition activities that need to be activated during a crisis or conflict.
+
+Last summer, my team conducted the acquisition command wargame using a scenario for large-scale conventional armed conflict. The game was executed using a novel 
+wargaming platform
+ with physics-based performance. Data from combat engagements was introduced into a prototype modeling and simulation tool that incorporated both agentic and large language model AI tools acquired from the 
+government marketplace
+. The tool examined the capacity to sustain protracted conflict and employed an AI agent that identified likely adversary responses to player actions. To reduce hallucinatory responses, the model was trained to only offer insights from the available data or to identify the type of data it would need to address a query if the dataset was insufficient.
+
+Although we gained insights into munitions requirements, the more interesting finding was that the model identified a greater demand for sensors and related systems than previously supposed. It was assessed that they had the potential to be attrited due to combat and non-combat factors earlier in the conflict, before the campaign s goals could be achieved. From an acquisition perspective, this could completely reorder production prioritization, especially for a service-unique system critical to a joint campaign. This type of service-generated and defensible data would enhance the outcomes of a joint game.
+
+Solutions From Many Sources
+
+While a broad series of service-level games will introduce higher fidelity acquisition policy and budgeting options, such an effort is not without challenges. Games dispersed across dozens of organizations risk generating a fragmented understanding of acquisition challenges, applying inconsistent analytic methods, and producing incomparable results. An annual analytic framework to bring together service-level games and larger joint analysis requires governance, data management, and standardization to ensure data is appropriately collated and exploited.
+
+An effort of this scope has 
+never been tried
+, and it is hard to tell if this may devolve into incoherence or actionable insight. Conversely, there is sufficient history to show that large institutional games 
+succumb to various pathologies
+ that reduce their value and 
+generate oversimplified results
+.
+
+The governance for such games requires leadership from agencies with the greatest stake in the outcomes, the authority to collaborate with industry, and the mandate to synchronize acquisition and supply chain activities for wartime policy. Based on those criteria, the undersecretaries of defense for acquisition and sustainment and research and engineering, along with the assistant secretary of defense for industrial base policy, should lead the conduct of annual acquisition wargames. These organizations have the structure to develop an annual wargaming and analysis agenda, define the terms of reference for these efforts, and manage the process. They have the expertise to harmonize this effort with the budget and analysis activities conducted by the Office of Cost Assessment and Program Evaluation and 
+the reinstated Office of Net Assessment
+, and coordinate effectively with Congress.
+
+Data across the acquisition and 
+sustainment enterprise
+ is needed for this effort. The 
+data that exists
+ between 
+industry and government
+ is fragmented across different locations and databases. The Department of Defense chief information officer and Chief Digital and Artificial Intelligence Office can coordinate with the various services and agencies to develop a 
+common data structure
+ and 
+governance
+ to map and assess the status of all defense suppliers and supply chain architecture for both software and capital goods. This also applies to the adversary information needed for wargame-derived recommendations to be threat-informed.
+
+The Department of Defense needs to adopt a standardized approach to acquisition wargaming to allow comparative analysis and data integration. The Office of the Secretary of Defense for Policy can 
+coordinate with the Office of Industrial Base Policy
+ for the 
+development of common scenarios
+. Wargame designs should be available to other organizations to align their models and ensure compliance with defense priorities. An organization like the Requirements and Resourcing Alignment Board in the 
+Joint Requirements Oversight Council
+ can facilitate that demand. Wargaming education 
+for the acquisition workforce
+ will also 
+facilitate standardization and professionalization
+ of the wargaming practice that currently does not exist.
+
+Accomplishing the number of wargames called for in this effort will require an increase in wargame providers and analysts supporting the Department of Defense. The 
+Wargaming Incentive Fund
+ and the 
+Warfighting Lab Incentive Fund
+ could be tasked to search for and document capable providers in a database available to potential wargame sponsors.
+
+Conclusion
+
+In my professional experience, I have found that leaders need an enterprise view of where industrial risk is rising, where acquisition responses are weak, and where further analysis is required to effectively link acquisition and sustainment plans to operational demands. A comprehensive annual wargaming and analysis process can produce that view if it is aligned to a standardized framework with clear governance, structured process, and accessible data and tools. It should be led by the acquisition and sustainment enterprise and include industry partners and congressional stakeholders. The results should clearly show how acquisition options support and generate operational effectiveness.
+
+Now is the time to re-heed former Deputy Secretary of Defense Robert Work and Vice Chairman of the Joint Chiefs of Staff Paul Selva s 2015 
+call for more analytic wargaming
+, which they reinforced in 
+
+War on the Rocks
+
+. The approach outlined here reaffirms Secretary Work and General Selvas vision to build a wargaming enterprise capable of synchronizing service and joint analysis for resource prioritization and investment. Acquisition and 
+sustainment
+
+organizations
+ are already 
+implementing
+ the 
+type of wargaming
+ needed by leaders to collaborate effectively with 
+Congress
+ and industry. Bringing these disparate efforts into 
+a comprehensive wargaming approach
+ will enable the Department of Defense, Congress, and industry to manage the risks of national mobilization before crisis.
+
+Write for Cogs of War
+
+Travis Reese retired from the Marine Corps in 2016 and is now the director of Wargaming and Net Assessment for Troika Solutions in Fredericksburg, VA. Throughout his career, he has supported institutional strategy development, operational planning, capability development, wargaming, and force design efforts.
+
+**Please note, as a matter of house style, 
+War on the Rocks
+ will not use a different name for the U.S. Department of Defense until and unless the name is changed by statute by the U.S. Congress.
+
+Image: Midjourney
+
+Get the Brief
+
+Subscribe to our free Cogs of War newsletter for sharp analysis and grounded insights from technologists, builders, and policymakers.
+
+SIGN UP

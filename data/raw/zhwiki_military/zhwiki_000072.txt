@@ -1,0 +1,209 @@
+{{NoteTA
+  |G1=地名
+}}
+[[File:Latin Monetary Union Treaty.jpg|thumb|300x300px|拉丁貨幣同盟條約]]
+'''拉丁货币同盟'''（{{Langx|fr|Union monétaire latine}}, 1865年-1880年），是一个成立于19世纪的欧洲单一货币组织。
+
+== 早期的欧洲货币同盟 ==
+19世纪初，欧洲各国的货币五花八门，为统一各国间流通的货币，1806年，[[拿破仑]]在写给他的兄弟[[荷兰国王]][[路易·波拿巴]]——未来[[拿破仑三世]]的父亲写信的时候说：“四弟，如果铸钱的时候，我建议您使用与法国一样的单位，您的钱币一面印您的像，另一面印您的军队的徽标。这样整个欧洲的货币就统一，这样对贸易有很大的好处”。随着法国对欧洲的军事占领，法国货币体系被推行到[[荷兰]]、[[比利时]]、[[瑞士]]、[[意大利]]等地。可是[[滑铁卢战役|滑铁卢]]一役，使这个计划暂时被搁置起来。
+
+1838年，北德意志的一些邦国采用[[普鲁士]]的14[[塔勒]]本位制和21[[盾 (貨幣)|盾]]本位制。1853年，南德意志的邦国采用[[奥地利]]提出的货币体系，其基础是500克的“磅”，一磅纯银等于45奥地利[[弗洛林]]或52.5南德意志盾。此外[[瑞士]]联邦的法语各州和德语各州也放弃加入法国货币区或德国货币区的提议，接受统一的货币。
+
+== 拉丁货币同盟的成立 ==
+[[File:LatinMonetaryUnion 1866-1914.svg|thumb|253x253px|'''拉丁貨幣聯盟的國家成員：'''<font color="#C00"><br>{{color box|#C00}}</font> – 貨幣聯盟的成員國：[[法國]]，[[比利時]]，[[瑞士]]，[[義大利]]，[[希臘]]<font color="#C70"><br>{{color box|#C70}}</font> – 簽署雙邊協議：[[芬蘭大公國|芬蘭]]，[[羅馬尼亞聯合公國|羅馬尼亞]]，[[西班牙]]，[[奧匈帝國]]，[[摩納哥]]，[[俄罗斯帝国]]，[[聖馬利諾]]<br><font color="#09F">{{color box|#09F}}</font> – 單方面協議：[[塞爾維亞公國|塞爾維亞]]，[[保加利亞親王國|保加利亞]]<br><font color="#2A2">{{color box|#2A2}}</font> – 殖民地：[[法屬突尼西亞]]]]
+1865年，在法国皇帝[[拿破仑三世]]的倡议下，[[比利时]]、[[法国]]、[[意大利]]和[[瑞士]]四国在[[巴黎]]召开会议，其目的是在欧洲采取统一的、普遍通行的铸币。四国签订了实行统一货币的协议，标志着拉丁货币同盟成立。根据协议，各国的基本货币保持原来的名称（除意大利外都称为[[法郎]]），以法国的货币体系为基础，主币的含金量都定为0.2903225克[[黄金]]或者4.5克[[银|白银]]，可以在各国间等值流通。主币为面值100、50、20、10、5法郎的金币，同时发行5、2、1法郎和50、20生丁的银币。小于20生丁的[[货币|辅币]]不能在各国间流通。由于有关国家此前基本上都在实行相同的货币体系，因此对经济的影响不大。
+
+拉丁货币同盟于1866年8月1日开始生效，到1880年1月1日终止。如果在1879年1月1日以前没有成员国提出解散要求，那么该条约将继续生效15年。
+
+== 同盟的終結 ==
+拉丁货币同盟为成员国之间的资本流通、金融往来和商业、旅游带来了很大的便利，同时还圆满地解决了因法国严格规定金银兑换比例而导致的白银价值上升的问题。欧洲各国都想把自己的货币与这种稳定的货币挂钩，以稳定[[币值]]。1866年[[教皇国]]加入拉丁货币同盟，[[西班牙]]和[[希臘王國|希腊]]于1868年加入。[[羅馬尼亞王國|罗马尼亚]]、[[塞爾維亞王國 (近代)|塞尔维亚]]、[[黑山公國|黑山]]、[[保加利亞親王國|保加利亚]]、[[圣马力诺]]和[[委内瑞拉]]于1889年加入。
+
+为了扩大拉丁货币同盟的影响力，拿破仑三世在1867年再度召开会议，讨论建立单一的全球货币体系问题。[[美国]]在[[南北战争]]之后发行了5[[美元]]鹰徽金币（合25.85法郎），而[[英国]]则发行了沙弗林金币（Sovereign，合30先令或1.5英镑，约等于25.20法郎）。两者价值均接近25法郎，因此两国提出以法国发行25法郎金币的方式同拉丁货币同盟建立联系，但这一建议被担心货币重铸成本和失去主导地位的法国拒绝。[[俾斯麦]]的[[普鲁士]]则明确拒绝考虑加入拉丁货币同盟的可能性。
+
+1870年[[普法战争]]之后，法国向德国支付了50亿法郎赔款，德国借此建立了单独的[[金本位]]货币——[[德国马克|马克]]。金银比价在19世纪后半叶不断跳动，导致拉丁货币同盟的基础——金银复本位制度的崩溃。在法国，金银比价从1807年至1870年的1:15变为1874年的1:16.17，黄金大量流出，法国不得不于1876年实行金本位制度，废止5法郎银币的流通，并且取消自由铸造银币的法令。拉丁货币同盟成员国限制每人只能持有6法郎的银币。拉丁货币同盟在这时就已出现了危机。此后虽有许多国家加入该同盟，但是其货币制度已经不再基于法国的货币制度，而是建立在等值的黄金含量基础上。
+
+1878年之后，由于受到实行金本位的英镑和马克的冲击，拉丁货币同盟其他成员国也纷纷改为金本位制度。随后在国际金融市场上出现了建立在金本位基础上的国际货币兑换体系，英国、美国、德国、拉丁货币同盟成员国和[[斯堪的纳维亚货币联盟]]成员国的货币都确定了自己的含金量，各个货币区之间的货币以固定的汇率互相兑换、自由流通。至1914年[[第一次世界大战]]爆发时，拉丁货币同盟已经名存實亡。1927年法国终止金本位，并于次年颁布新货币法，拉丁货币同盟正式消亡。
+
+== 拉丁貨幣同盟的結果 ==
+
+=== 迅速但不完全的成功 ===
+拉丁貨幣同盟的成功可從採用該體系的國家數量來衡量——總計共32個國家加入，為國際貨幣體系奠定了基礎。然而，仍有兩個主要國家（英國與德意志帝國）缺席。此外，1867 年國際貨幣會議的失敗導致拉丁貨幣聯盟僅限於貨幣區的地位，而未能成為全球性的貨幣標準。
+
+==== 拉丁貨幣聯盟的成員國 ====
+{| class="wikitable"
+!類別
+!國家
+|-
+|簽約國
+|{{BEL}}（1865）、{{FRA}}（1865）、{{ITA}}（1865）、{{瑞士}}（1865）、{{GRE}}（1868）
+|-
+|協約國（透過雙邊協議加入）
+|{{Flag|奧匈帝國}}、[[克里特岛|克里特]]、 {{西班牙}}、{{FIN}}、{{LIE}}、{{MON}}、{{RUS}}、{{Flag|聖馬力諾}}、{{SWE}}、{{ROM}}、{{Flag|梵蒂岡}}
+|-
+|使用國（僅單方面採用同盟標準）
+|{{阿根廷}}、{{保加利亞}}、{{智利}}、{{Flag|海地}}、{{Flag|丹麥|name=丹屬西印度群島|link=丹屬西印度群島}}、{{盧森堡}}、{{PER}}、{{多明尼加}}、{{SER}}、{{委內瑞拉}}
+|-
+|殖民地
+|{{COM}}、{{Flag|比屬剛果}}、{{Flag|厄利垂亞}}、{{波多黎各}}、{{Flag|突尼西亞}}
+|}
+此外，[[摩洛哥王国|摩洛哥王國]]於1882 年透過創立哈桑里亞爾（Rial Hassani）的貨幣單位，並實質上加入了拉丁貨幣聯盟。<ref>{{Lien web|url=https://www.bkam.ma/musee/Parcours-histoire-de-la-monnaie/Les-empires-cherifiens|titre=Modernisation de la monnaie marocaine|auteur institutionnel=Bank Al-Mahgrib|consulté le=2022-11-28}}</ref>
+
+== 造幣規格 ==
+每個加入該同盟的成員國都會發行寫有各自貨幣單位名稱的硬幣，並依照該條約的規格鑄造。而這些跨國際的貨幣單位之間的兌換比率為1:1，其中包括法國和比利時的'''法郎（Franc）'''（1 [[法郎]] = 100 [[生丁]] Centimes）、瑞士的'''[[瑞士法郎|法郎]]（Franken）'''（1 法郎 = 100 拉彭 Rappen）、義大利的'''[[義大利里拉|里拉]]（Lira）'''（1 里拉 = 100 分 Centesimi），以及希臘的'''[[希腊德拉克马|德拉克馬]]（Drachme）'''（1 德拉克馬 = 100 勒普塔 Lepta）。
+
+根據條約規定，允許簽約國以這些規格來發行以下面額的硬幣：
+{| class="wikitable"
+!面額
+!重量
+!直徑
+!材質
+|-
+|100 法郎
+|32.25 g
+|35 mm
+|90% 純金（900/1000）
+|-
+|50 法郎
+|16.13 g
+|28 mm
+|90% 純金（900/1000）
+|-
+|20 法郎
+|6.45 g
+|21 mm
+|90% 純金（900/1000）
+|-
+|10 法郎
+|3.23 g
+|19 mm
+|90% 純金（900/1000）
+|-
+|5 法郎（金幣）
+|1.61 g
+|17 mm
+|90% 純金（900/1000）
+|-
+|5 法郎（銀幣）
+|25.00 g
+|37 mm
+|90% 純銀（900/1000）
+|-
+|2 法郎
+|10.00 g
+|27 mm
+|83.5% 純銀（835/1000）
+|-
+|1 法郎
+|5.00 g
+|23 mm
+|83.5% 純銀（835/1000）
+|-
+|0.50 法郎
+|2.50 g
+|18 mm
+|83.5% 純銀（835/1000）
+|-
+|0.20 法郎
+|1.00 g
+|16 mm
+|83.5% 純銀（835/1000）
+|}
+在條約標準正式施行前，此貨幣體系還曾發行過 40 法郎和 80 法郎面額的金幣，以及 0.25 法郎的銀幣。然而，這些硬幣在條約簽署後不久即被回收。此外，一些符合條約重量標準但未達到規定純度或直徑的舊幣也被回收。同時，並非所有成員國都發行了所有規定面額的硬幣。
+
+面額為 2 法郎及以下的銀幣含銀量較低，這意味著它們的面值並未完全由金屬價值支撐，因此被視為'''[[輔幣]]'''。而由非貴金屬製成的輔幣並不在條約規範範圍內，各成員國可根據自身標準發行此類硬幣。
+
+根據條約，成員國的公家機關必須接受'''所有金幣'''及'''5法郎的銀幣'''（相當於5里拉、5瑞士法郎或5德拉克馬）。對於較小面額的銀幣，則限制在'''最多100法郎'''的範圍內。此外，各國對本國紙幣及外國貨幣的流通擁有自主決定權。
+
+== 無簽署使用國 ==
+[[File:Latin Monetary Union map of 1914.jpg|thumb|400x400px|1914年，拉丁貨幣單位使用國：<br><font color="#0000FF">{{color box|BLUE}}</font> – 貨幣同盟成員國<br><font color="#FF0000">{{color box|RED}}</font> – 雙邊協議參與國<br><font color="00B927">{{color box|GREEN}}</font> – 單邊協議參與國<br><font color="yellow">{{color box|YELLOW}}</font> – 殖民地或保護國]]
+在下列國家中，雖然沒有簽屬該協議加入同盟，但依舊使用了該協議中所制定的條約來鑄造該國貨幣
+
+* {{Flag|芬蘭}} 1860–1918
+* {{Flag|教宗國}} 1866–1870
+* {{Flag|羅馬尼亞}} 1867–1944
+* {{Flag|西班牙}} 1869–1934
+* {{Flag|塞爾維亞}} 1873–1915
+* {{Flag|委內瑞拉}} 1879–1965
+* {{Flag|保加利亞}} 1880–1916
+* {{Flag|阿根廷}} 1881–1893
+* {{Flag|突尼西亞}} 1891–1928
+* {{Flag|丹麥|name=丹屬西印度群島|link=丹屬西印度群島}} 1904–1905
+* {{Flag|波蘭}} 1924–1925
+* {{Flag|阿爾巴尼亞}} 1925–1938
+* {{Flag|奧匈帝國}}
+* {{Flag|蒙特內哥羅}}
+* {{Flag|摩納哥}}
+
+== 拉丁货币同盟的意义 ==
+拉丁货币同盟的时代是欧洲人感情上最团结的时候之一，此前这样的情况发生在[[文艺复兴]]时期建立在共同信仰的基础上的团结，此后就是今天的[[欧盟]]。这些措施在客观上也为欧洲带来了繁荣。
+==貨幣樣式==
+以下為部分不同國家依照拉丁貨幣同盟所制定的規格所發行的5貨幣單位銀幣樣式
+{| class="wikitable"
+|+5貨幣單位硬幣
+! colspan="4" |貨幣同盟成員國
+! colspan="4" |非貨幣同盟成員國
+|-
+! colspan="2" |圖案
+! rowspan="2" |發行國家
+! rowspan="2" |貨幣名稱
+! colspan="2" |圖案
+! rowspan="2" |發行國家
+! rowspan="2" |貨幣名稱
+|-
+!反面
+!正面
+!反面
+!正面
+|-
+|[[File:5francnapoleoniii1868back.jpg|frameless|109x109px]]
+|[[File:5francnapoleoniii1868front.jpg|frameless|109x109px]]
+|{{FRA-1852}}
+| rowspan="3" |[[法郎]]
+|[[File:5 pesetas 1880 anv.jpg|frameless|108x108px]]
+|[[File:5 pesetas 1880 rev.jpg|frameless|108x108px]]
+|{{Flag|祕魯|variant=1884}}
+| rowspan="2" |[[比塞塔]]
+|-
+|[[File:5francleopoldii1868back.jpg|frameless|109x109px]]
+|[[File:5francleopoldii1868front.jpg|frameless|109x109px]]
+|{{BEL}}
+|[[File:Reverso5pts.PNG|frameless|109x109px]]
+|[[File:Anverso5pts.PNG|frameless|109x109px]]
+|{{Flag|SPA|variant=1785|name=西班牙王國|link=西班牙王國 (1813年—1873年)}}
+|-
+| colspan="2" |[[File:5chf1889.png|frameless|235x235px]]
+|{{瑞士}}
+|[[File:Reverso5b.PNG|frameless|109x109px]]
+|[[File:Anverso5b.PNG|frameless|109x109px]]
+|{{Flag|Venezuela|variant=1905|name=委內瑞拉合眾國|link=委內瑞拉合眾國}}
+|[[委內瑞拉玻利瓦爾|玻利瓦]]
+|-
+|[[File:5dracme1874back.jpg|frameless|109x109px]]
+|[[File:5dracme1874front.jpg|frameless|109x109px]]
+|{{Flagicon image|State_Flag_of_Greece_(1863-1924_and_1935-1973).svg}} [[希臘王國]]
+|[[德拉克馬]]
+| colspan="2" |[[File:5-LEI 1883.jpg|frameless|235x235px]]
+|{{Flag|Kingdom of Romania}}
+|[[罗马尼亚列伊|列伊]]
+|-
+|[[File:5lirevittorioemanueleii1874back.jpg|frameless|109x109px]]
+|[[File:5lirevittorioemanueleii1874front.jpg|frameless|109x109px]]
+|{{ITA-1861}}
+|[[里拉 (貨幣)|里拉]]
+|[[File:1870 5 Lire.png|frameless|109x109px]]
+|[[File:1870 5 Lire Revers.png|frameless|109x109px]]
+|{{Flag|教宗國}}
+|[[里拉 (貨幣)|里拉]]
+|}
+==延伸阅读==
+*{{cite journal |first=Kee-Hong |last=Bae |first2=Warren |last2=Bailey |title=The Latin Monetary Union: Some Evidence on Europe's Failed Common Currency |journal=Review of Development Finance |volume=1 |issue=2 |year=2011 |pages=131–149 |doi=10.1016/j.rdf.2011.03.001 }}
+*{{cite journal |last=Flandreau |first=Marc |title=The Economics and Politics of Monetary Unions: A Reassessment of the Latin Monetary Union, 1865–71 |journal=[[Financial History Review]] |volume=7 |issue=1 |year=2000 |pages=25–44 |doi=10.1017/s0968565000000020 |url=http://journals.cambridge.org/action/displayAbstract?aid=60245 |access-date=2020-03-19 |archive-date=2015-11-17 |archive-url=https://web.archive.org/web/20151117052951/http://journals.cambridge.org/action/displayAbstract?aid=60245 |dead-url=no }}
+*{{cite book |last=Redish |first=Angela |chapter=The Latin Monetary Union and the Emergence of the International Gold Standard |pages=[https://archive.org/details/monetaryregimesi0000unse/page/68 68]–85 |editor-first=Michael D. |editor-last=Bordo |editor2-first=Forrest |editor2-last=Capie |title=Monetary Regimes in Transition |url=https://archive.org/details/monetaryregimesi0000unse |publisher=Cambridge University Press |location=New York |year=1993 |isbn=978-0-521-41906-2 }}
+
+== 參考網站 ==
+<references />{{Authority control}}
+[[Category:货币]]
+[[Category:已解散的国际组织]]
+[[Category:欧洲经济史]]
+[[Category:19世纪经济史]]
+[[Category:天主教会和金融]]

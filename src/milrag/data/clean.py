@@ -132,3 +132,29 @@ def extract_references(text: str) -> tuple[str, list[str]]:
     refs = _FOOTNOTE_RE.findall(text)
     body = _FOOTNOTE_RE.sub("", text)
     return body.strip(), refs
+
+
+def clean_document_with_meta(text: str, meta: dict | None = None) -> str:
+    """根据 .meta.json 的 language 字段自动配置清洗参数。
+
+    中文文本：全半角转换 + 繁简转换 + 标点规范
+    英文文本：仅 HTML 清洗 + 控制字符去除，跳过中文专用转换
+
+    Args:
+        text: 原始文本。
+        meta: .meta.json 内容（含 language 字段）。
+
+    Returns:
+        清洗后的文本。
+    """
+    is_chinese = True
+    if meta and meta.get("language") == "en":
+        is_chinese = False
+
+    return clean_document(
+        text,
+        strip_html=True,
+        fullwidth_to_halfwidth=is_chinese,
+        traditional_to_simplified=is_chinese,
+        normalize_punct=is_chinese,
+    )

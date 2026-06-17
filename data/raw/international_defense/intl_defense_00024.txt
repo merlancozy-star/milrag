@@ -1,0 +1,239 @@
+The Chain of Peace: Do Supply Chain Chokepoints Deter War?
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ The Chain of Peace: Do Supply Chain Chokepoints Deter War? 
+
+Phuong Pham
+
+and
+
+Melle Scholten
+
+June 11, 2026
+
+Commentary
+
+ The Chain of Peace: Do Supply Chain Chokepoints Deter War? 
+
+ #Economic Statecraft 
+
+ #Taiwan Strait Tensions 
+
+ #U.S.-Chinese Competition 
+
+Phuong Pham
+
+and
+
+Melle Scholten
+
+June 11, 2026
+
+The next war over Taiwan may be deterred not by aircraft carriers or nuclear arsenals, but by a Dutch lithography machine. 
+ASML
+, headquartered in Veldhoven, the Netherlands, is the sole manufacturer of the extreme ultraviolet lithography systems required to produce the world s most advanced semiconductors. Without its machines, the most sophisticated foundries on earth including those of the Taiwan Semiconductor Manufacturing Company (TSMC) cannot operate. This fact should be at the center of how the United States thinks about deterrence in the Indo-Pacific. Currently, it is not.
+The conventional wisdom holds that Taiwan s semiconductor industry acts as a 
+silicon shield
+, protecting the island because both China and the United States have too much to lose from disrupting 
+TSMC s foundries
+. In our 
+recent study
+, we argue that this framing gets the mechanism wrong, as we find that under globalized production, trade interdependence still deters militarized conflict, but not the way it used to. What matters is not how much states trade, but 
+what
+ they trade, and whether those goods sit at non-substitutable chokepoints in global value chains. It is the global production network behind TSMC, not just the foundry itself, that works as the deterrent. This mechanism operates much like how 
+economic integration more generally can act as a deterrent and thus has some of the same weaknesses
+, but the complexity of modern value chains makes bypassing it completely highly unlikely.
+
+Given the inconclusiveness of the 
+May 2026 Trump-Xi summit
+ and absence of any concrete framework for tariffs or export controls, the most reliable deterrence remains the Western-led critical supply chains that bind China to chokepoints it cannot control.
+
+BECOME A MEMBER
+
+The Chokepoint Mechanism
+
+The traditional commercial-peace thesis holds that high trade volumes raise the costs of war. 
+As Stephen Brooks has argued, globalization and the internationalization of production networks should disincentivize territorial conquest
+. That logic has merit, but it is incomplete. Russia redirected its energy exports after 2022 with manageable disruption. Trade volumes alone did not stop the invasion of Ukraine. The 
+resources Moscow targeted
+: oil, gas, agricultural land, neon, were of the old-fashioned, extractable kind. Conquer the territory, capture the resource. The same calculus held for Imperial Japan s seizure of Indonesia s oil fields in World War II, as well as European conquest during the colonial and imperial periods.
+
+Dale Copeland s 
+trade-expectation theory
+ offers a counter-argument: interdependence is pacifying only when leaders expect future access to markets and resources to remain secure; and when the exit costs are too high for a state given their high trade dependence, they are likely to initiate war. Therefore, interdependence of this simple kind is a weak deterrent. Under interdependent global supply chains, not all types of interdependence would have the same deterrent effect. 
+Securing critical supply chains
+, or more broadly, economic security, as Francis Gavin 
+points out
+, is thus a priority for all countries. As such, the tendency to start war crucially depends on the outside options available to states: for many simple forms of trade, conquest is a viable outside option.
+
+The semiconductor supply chain is qualitatively different, as no single country can internalize the entire chip-making process. Raw materials come from China and Ukraine. Design software and intellectual property come from the United States, South Korea, and Europe. Lithography machines come from the Netherlands and Japan. Specialty chemicals and photoresists come from Japan. All these inputs converge at foundries like TSMC, but the foundry cannot function without the upstream nodes. If anyone is removed, the chain breaks. This means that the deterrent effect of trade is concentrated at chokepoints: nodes where a single firm or country holds a (near-)monopoly over an essential, non-substitutable input. A country that exports $10 billion in commodity steel is far more strategically vulnerable than one that exports $1 billion in irreplaceable lithography optics.
+
+The Silicon Testudo, Not the Silicon Shield
+
+If TSMC were a fully self-contained operation able to fabricate leading-edge chips using only Taiwanese inputs then the incentive structure would actually favor a Chinese invasion. China could seize the foundries, operate them, and leapfrog to the technological frontier in one stroke. Bilateral traditional trade itself is therefore not necessarily conflict-deterrent, especially if it is in strategically relevant goods. What makes invasion self-defeating is not only TSMC, although Taiwan itself has certainly engaged in 
+similar export controls
+ alongside its allies, but also its dependencies.
+
+TSMC s most advanced lines require 
+ASML s extreme ultraviolet machines, whose technological roadmap
+ continues to extend a monopoly that no competitor has been able to replicate. ASML s machines depend on TRUMPF light sources and Zeiss optics both German. Electronic design automation software comes from Synopsys, Cadence, and Siemens overwhelmingly American. Specialty chemicals come from Japan. Each of these actors occupies a chokepoint. None including TSMC itself is individually sufficient. All are collectively necessary.
+
+We call this the 
+silicon testudo
+. In the Roman military formation, individual soldiers interlocked their shields to create a collective defense that no single shield could provide. The semiconductor value chain works the same way TSMC is one shield that can be leveraged by Taipei. ASML is another tool for the Netherlands. The American EDA firms, Japanese chemical suppliers, German optics makers each is a component of an interlocking structure. The formation holds because every participant depends on each other.
+
+TSMC Chairman Mark Liu made this logic explicit in his statement that nobody can control TSMC by force. 
+ He was not talking about physical resistance, but about the supply network. ASML and TSMC reportedly developed a 
+kill switch system
+ capable of remotely disabling advanced lithography equipment in the event of a hostile takeover. The message to China: even a successful invasion yields factories that produce nothing. The European Semicon Coalition and strategic efforts in the Netherlands to invest in semiconductors to succeed in the 
+strategic fight for control, production, and supply of semiconductors
+ underscore Chairman Liu s point: global economic integration has given certain states a powerful tool of economic statecraft and they are not afraid to use it.
+
+The West Still Has the Advantage, For Now
+
+China is acutely aware of this constraint and is working to break free. It has pursued strategies some have labeled 
+corporate theft of chip-related technologies
+; most notoriously, the case of state-owned Fujian Jinhua adopting designs from Micron. Although 
+Fujian Jinhua was acquitted in February 2024
+, and 
+the United Microelectronics Corporation had earlier pleaded guilty in 2020 and paid a $60 million fine
+, this case is still illustrative of the broader pattern of Chinese state-backed technology transfer efforts.
+
+In parallel, 
+China has poured significant resources into domestic semiconductor development
+. Self-sufficiency in advanced chips and AI was 
+a central plank of the 15th Five-Year Plan
+, framed explicitly as a matter of strategic independence. In the meantime, 
+China has leveraged its own export controls on rare earth minerals
+ for both its general relations with the United States and 
+its main foreign policy goal in the East Asia region: reunification
+. While the Ministry of Commerce of China has generally done so in a reactive fashion, as these examples illustrate, it has escalated from its earlier leverage of its comparative advantage by 
+imposing extraterritorial jurisdiction in 2025
+. The logic of global supply chains is evidently part of this decision.
+
+The results of China s efforts have been uneven. Producing leading-edge chips requires decades of accumulated know-how and supplier ecosystems that cannot be replicated by fiat, no matter how much capital Beijing throws at the problem. 
+China still accounts for only about 15 percent of global high-end AI computing power
+, while the United States holds a staggering 74 percent. While the 
+Federal Reserve has described this data as uncertain
+ due to geopolitical tensions and export restraints, the entirety of this gap is unlikely to be due to measurement error. These statistics and features represent a snapshot that may already be shifting.
+
+Huawei s AI chip revenue has grown rapidly
+, and China s deployment strategy under the 
+15th Five-Year Plan
+ prioritizes scaling domestic technological capacity regardless of its less advanced hardware. Nevertheless, Chinese extreme ultraviolet development still faces serious challenges in yield, reliability, and scaling. For now, the West retains real, present advantages at the chokepoints that matter most. These advantages are structural, not merely quantitative: they reflect multiple years of institutional learning and cumulative research and development investment without shortcuts. China, therefore, should think twice before moving on Taiwan, given its continued dependence on Western high-tech inputs.
+
+But the trajectory is clear. The gap is narrowing in certain segments. Each step China takes toward self-sufficiency weakens the interdependence on which deterrence rests.
+
+The United States Is Eroding Its Own Deterrent
+
+Here is the paradox: The policies the United States has adopted to counter China from export controls to tariffs to reshoring subsidies 
+are accelerating the self-sufficiency drive
+ that undermines the testudo. Each instrument makes strategic sense in isolation. Taken together, they amount to a systematic dismantling of the interdependence that currently constrains China s options. When global value chains and related activities were intact, the threat of their dismantlement and the costs of replacing all components of the supply network kept the peace. But export restrictions have forced China to replace these components regardless, diminishing the opportunity costs of escalation in the Taiwan Strait.
+
+The export controls imposed during the Biden administration, which were built on earlier restrictions under the first Trump presidency, represent the 
+broadest deployment of supply chain leverage
+ in a decade. The Netherlands and Japan were pressured into imposing parallel restrictions on semiconductor manufacturing equipment, transforming chokepoints into instruments of coordinated economic statecraft.
+
+The short-term logic is defensible: advanced chips underpin autonomous weapons, AI-enabled command and control, and mass surveillance. Denying China access to frontier tools buys time, which enables the West to attain immediate gains. Yet these short-term gains hide long-term costs in value chain positioning and interdependence. Should one be valued above the other? We believe the self-sufficiency incentive dominates: broad and inconsistent controls tend to accelerate China s escape from the supply chain, while still failing to fully deliver the sustained, coherent denial needed to successfully buy time. Targeted restrictions with clear conditions for removal would thus be more effective, preserving the time advantage without triggering the structural erosion of interdependence.
+
+Every time the United States demonstrates that the supply chain will be weaponized, it hands China the strongest possible incentive to escape the chain altogether
+. Weaponization contains the seeds of its own obsolescence, 
+as previously argued by McKinney and Harris
+. Simultaneously, the United States is hedging through reshoring. The CHIPS and Science Act allocated over $50 billion to build advanced fabrication on American soil. TSMC, Samsung, and Intel are all constructing new facilities in the United States. The strategic aim is to ensure that if the Taiwan Strait becomes a conflict zone, America retains access to advanced manufacturing.
+
+From America s perspective, this is understandable. Indeed, short-term gains from sweeping export controls could partially offset the loss of interdependent systems in the long run, with 
+credible assessments placing a working Chinese domestic extreme ultraviolet tool no earlier than 2030
+. However, this strategy discounts future gains too much for an immediate advantage that is too transient: behavioral science has long ago demonstrated that 
+human beings exhibit temporal discounting that goes above and beyond rationality
+, and foreign policymakers are no exception to this rule. Admittedly, our argument hinges on the assumption that the risk of cross-strait conflict is relatively spread out over the short- to long-term. Under this assumption, the expected utility of keeping in place a system that incentivizes peace in the long run outweighs the immediate benefits of technological preponderance.
+
+Analysts who judge the immediate threat of conflict to be high and future risks low might prefer a technological edge in the short term. We acknowledge that making such forecasts is inherently difficult, and by no means do we claim there is no near-term threat, though we note that the incentive for reunification by force 
+popular among the mainland Chinese public
+ is likely to last beyond the current moment in global politics. Moreover, the durability of export controls is currently uncertain, as argued earlier: 
+the Trump administration lifted restrictions on chip design software exports in July 2025
+, eased H200 licensing to case-by-case review in January 2026, and imposed revenue-extracting surcharges on chip sales to China rather than blocking them outright. Such an oscillation undermines the time advantage that controls are supposed to buy, as that advantage holds only if enforcement remains consistent, and it is currently not.
+
+Following the 
+recent summit, which produced no breakthrough deals about technological restrictions
+, and 
+the clearance of NVIDIA s H200 sale to around 10 Chinese companies
+, including major ones like Tencent or ByteDance, the durability of export controls is even more uncertain. As such, from the perspective of deterrence, both immediate and long-term, fully decoupling from global value chains would be dangerous.
+
+If the United States internalizes enough semiconductor production to insulate itself from a cross-strait conflict, its willingness to bear the costs, economic or military, of defending Taiwan s foundries diminishes. The export controls and attempts to reshore could also hurt major American high-tech companies, and the cost is not just commercial. These firms have 
+deep integration into the Chinese market and industrial base
+, and they are also 
+integral to the American economy
+.
+
+As China 
+has intensified its retaliation against the United States
+, it would 
+lose revenue
+ that funds its research and development activities, sustaining its commercial edge and its role as innovation engines, causing long-term collateral damage to the economy. Besides, if China achieves enough self-sufficiency to operate without Western inputs, the opportunity costs of invasion decline on China s side, too. Both sides are retreating behind their own walls. The testudo only works when every soldier keeps their shield up. This is the security dilemma applied not to arms buildups but to supply-chain architecture: a collective-action problem in which each state s individually rational pursuit of self-sufficiency makes the system as a whole less stable.
+
+Granted, 
+China could also rely on alternatives to a full-scale invasion to seize Taiwan
+, including blockades, diplomatic paralysis, and other gray zone measures. However, our argument should not be read as applicable only to deterring full-scale conflict, though the deterrent effect of the global value chain is the most effective for such kind of incidents. The value-chain interdependence we note could feasibly apply to other policy measures as well, so long as policymakers can credibly signal what foreign policy decisions in China will trigger retaliation and which reversals will be rewarded.
+
+For example, if China paralyzes Taiwan with non-military measures, all actors have strong incentives to preemptively curb China s chip ambition, as any disruption in Taiwan would propagate to other nodes in the chip supply chain due to its centrality in the semiconductor supply chain, which incentivizes these actors to act against China. Additionally, while export controls impose substantial costs on China, they do not eliminate China s dependence on Western chokepoints. 
+The true weakness of China lies in its lack of control over several technological chokepoints
+, not about market access or supply constraints. As long as China still needs ASML s machines and American design software to produce leading-edge chips or other critical technologies that it is lacking, the testudo is still effective.
+
+Friendshore, Don t Reshore
+
+The logic of our argument yields a prescription that cuts against the bipartisan consensus in the United States: reshoring critical supply chains does not strengthen deterrence it dismantles the very interdependencies that make aggression costly.
+
+Smart friendshoring is different. Building a TSMC fab in Arizona diversifies risk while maintaining interdependence: the United States gains a hedge, but the broader network of chokepoints remains dispersed across allied nations. Attempting to replicate the entire value chain within American borders, by contrast, unravels the testudo from the inside. Policymakers need to understand this distinction because the current trajectory blurs it.
+
+Two concrete steps would help. First, export controls should be targeted and proportionate, focused narrowly on technologies with direct military applications, and grounded in 
+strong coordination with multinational corporations
+ whose expertise and resources are essential for technological advancement and 
+national power projection
+. The broader the controls, the stronger the incentive for China to achieve self-sufficiency, and the faster the deterrent erodes. Controls should include sunset clauses and clear conditions for removal, signaling restraint rather than permanent containment. Following the argument of 
+McKinney and Harris
+ and our paper s finding, overreliance on peacetime trade restrictions limits the opportunity costs of escalation when push comes to shove.
+
+Second, the transatlantic dimension demands urgent attention. The second Trump administration has strained ties with European partners through tariff threats and transactional alliance management. European governments now face a question they had long deferred: whether to follow America s lead on chip export policy or chart a more independent course. 
+Chinese Foreign Minister Wang Yi s overtures to European leaders at the March 2026 Two Sessions
+ suggest China is keenly aware of this vulnerability. If the transatlantic coalition fractures, the testudo fractures with it.
+
+The Chain of Peace Is Real, But Not Unbreakable
+
+Global value chains are not just economic plumbing to be optimized or strategic vulnerabilities to be patched. They are effectively geopolitical institutions emergent structures that shape the incentives and constraints facing the world s most powerful states. They arose from the pursuit of profit and efficiency, not the pursuit of peace. But they have created, unintentionally, one of the most robust deterrents against great-power war that the international system has produced in decades.
+
+The Japanese admirals who planned the seizure of Southeast Asia s oil fields understood that conquering resource-rich territory could solve a strategic problem. Their 21st-century counterparts confront a fundamentally different reality. The most critical strategic goods of our era cannot be appropriated by seizing a single territory, because they do not reside in any single place they live in networks of dependency that span the globe.
+
+Those networks are now under threat, not from any one aggressor, but from the collective choices of the very states they protect. Reshoring, sweeping export controls, and drives toward self-sufficiency are each individually rational. Collectively, they erode the structure that has kept the peace. This does not mean that conflict over Taiwan will definitely not happen when value chains are maintained, or vice versa. Nevertheless, the logic is clear: global value chains incentivize cordial relations that normal trade relations cannot.
+
+Policymakers in the United States, China, and allied capitals need to recognize what they have before they dismantle it. The chain of peace is real. Every export control that pushes China toward self-sufficiency, every reshoring subsidy that reduces America s stake in the global network, every tariff that strains the alliances holding the testudo together each loosens the chain. It would be the height of strategic folly to break it in the name of security.
+
+BECOME A MEMBER
+
+Phuong Pham is a Ph.D. student at the University of Rochester s Department of Political Science. His research focuses on the politics of global production and global value chains. 
+
+Melle Scholten, Ph.D., is a lecturer at the Department of Technology, Human and Institutional Behavior at the University of Twente in the Netherlands. He received his Ph.D. from the University of Virginia.
+
+Image: 4300streetcar via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP

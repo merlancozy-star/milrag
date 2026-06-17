@@ -1,0 +1,249 @@
+The Road to Space Runs through the Poles
+
+ -->
+
+ -->
+
+ When the world's at stake,
+ go beyond the headlines.
+
+ National security. For insiders. By insiders.
+
+ National security. For insiders. By insiders.
+
+ Join War on the Rocks and gain access to content trusted by policymakers, military leaders, and strategic thinkers worldwide.
+
+ BECOME A MEMBER
+
+ BECOME A MEMBER
+
+ The Road to Space Runs through the Poles 
+
+Rebecca Pincus
+
+and
+
+David Marsh
+
+May 27, 2026
+
+Commentary
+
+ The Road to Space Runs through the Poles 
+
+ #Arctic 
+
+ #Space 
+
+ #United States 
+
+Rebecca Pincus
+
+and
+
+David Marsh
+
+May 27, 2026
+
+Why are there more 
+antennas
+ on Svalbard than anywhere else on Earth? Svalbard of all places, where 
+cats
+ and 
+childbirth
+ are banned and there are more 
+polar bears
+ than people? This cluster of islands in the Arctic, one thousand kilometers from Norway, is key to everything from your weather forecast to your car s navigation. At 78 degrees north, Svalbard is the highest-latitude satellite ground station on Earth and is a crucial point in humanity s growing dependence on space. In fact, the polar regions the Arctic and Antarctic are both crucial to space access.
+The polar regions are the only place on Earth where American security, Russian survival, and Chinese ambition unambiguously overlap. They are also places at the bleeding edge of space exploration, development, and militarization. China, and to a lesser extent Russia, recognize the importance of the space-polar nexus and are building capabilities and presence in high latitudes. While polar allies are key to U.S. interests in space, U.S. strategy appears to neglect the poles at an especially important time.
+
+Space development is creating a new set of global problems for which the 
+Outer Space Treaty
+ is inadequate, but polar treaties and governance models may provide templates for building international norms in space. The United States should reengage with its polar allies to shore up both American security and the future of space for all.
+
+BECOME A MEMBER
+
+High Latitudes, Highly Important
+
+Although it s not widely recognized, the polar regions are vital to space access and operations. This is due to the particular value of polar and near-polar orbits for a wide variety of useful satellite missions. High-latitude launch sites make it easier to put satellites into orbits with high inclination, and high-latitude ground stations are the best locations for communicating with satellites in polar orbits.
+
+Satellites in polar orbits travel around the globe from pole to pole and can provide pictures of every inch of the planet as it rotates beneath them. These orbits are useful for everything from weather forecasting to intelligence gathering. Also useful are sun-synchronous (near-polar) orbits, in which a satellite syncs up with the Earth s rotation around the Sun. These satellites will pass over the same places at the same time every day when shadows will be similar giving them obvious utility for a variety of observations.
+
+The geographic and physical realities of the poles amplify emerging challenges in the current space race: the increasingly blurred lines between private commercial and official military ways, means, and objectives. Satellite data used for navigation can be used for targeting, while weather data can support civilian activities and military planning it is inherently dual-use.
+
+For satellites in polar and near-polar orbits, polar ground stations are critical for consistent telemetry, tracking, and command. Polar ground stations have high access density, meaning they can communicate with many satellites every day, since polar orbit tracks converge around the poles. The ability of polar ground stations to support frequent contact and rapid data return makes them key to bringing down significant quantities of data and monitoring adversary satellite activity. New technologies like intersatellite optical communications may eventually reduce the burden on polar facilities, but until these technologies are widely adopted, polar ground stations will be critical.
+
+Polar Allies are Capable and Valuable
+
+Countries with high-latitude territory have the advantage. Norway maintains the world s highest- and lowest-latitude civilian ground stations, including on Svalbard (78 degrees north), Antarctica (-72 degrees south), Jan Mayen (71 degrees north), Vard (70 degrees north), and Troms (69 degrees north). 
+Norway s SvalSat station
+ on Norway s Svalbard archipelago is the highest-latitude station in the world at 78 degrees north and is perhaps the best-situated.
+
+And U.S. space interests, from defense to weather forecasting, all run through Norway, which is emerging as a key partner for the United States in space. In Jan. 2026, the U.S.-Norwegian space partnership reached a new milestone, when for the first time ever, an 
+operational
+ U.S. military payload in this case, two extremely high frequency tactical communications payloads on Norwegian satellites was launched on an international ally space vehicle. In addition, in 2025, the 
+United States and Norway signed a historic technology safeguards agreement
+ to allow American rocket technology at And ya spaceport.
+
+The U.S. government has signed a raft of technology safeguards agreements in recent years to allow American satellites and launch vehicles to be transferred to other countries. The Five Eyes group, which coincidentally all have high-latitude space infrastructure, is at the top of the list: Technology safeguards agreements were signed with Australia (2023), 
+the United Kingdom
+ (2020), and 
+New Zealand
+ (2016). A 
+U.S.-Canadian technology safeguards agreement
+ negotiated in 2024 is pending final completion. Many 
+Australian ground stations
+ have been critical to American space activities since the Cold War.
+
+In addition to observing and telemetry, tracking and command for satellites, the poles also serve as a unique jump-off point to access space. High-latitude spaceports must cancel out less of the Earth s rotation to get into a polar orbit. In addition, high-latitude locations often are surrounded by ocean or land areas without concentrated human populations, making them more useful and minimizing potential impacts from rocket debris. While the highest-latitude spaceports are in the northern hemisphere, New Zealand s Rocket Lab operates its 
+Mahia spaceport
+ at -39 degrees. Alaska Aerospace runs the Kodiak 
+Pacific Spaceport Complex
+ at 57 degrees north, and the 
+Poker Flat Research Range
+ at 65 degrees north, just shy of the Arctic Circle itself.
+
+Technology is Moving Faster than Governance 
+
+Some key questions remain unresolved. Today, the same satellite data that can be used for peacetime navigation can also be used for military targeting, creating confusion around the term dual-use and blurring the lines between what is and is not a military activity. This is particularly important in the poles, since treaties governing both the continent of Antarctica and the Svalbard archipelago contain demilitarization clauses banning military activity. Increasing space-related activity in each place has raised accusations of treaty violations by both the United States against China (in Antarctica) and by Russia against Norway (in Svalbard).
+
+The 2024 
+U.S. Department of Defense China Military Power report
+ noted that Chinese research satellite stations in Antarctica, although ostensibly used for legitimate scientific research, could provide surveillance and intelligence capabilities. The Russian Ministry of Foreign Affairs relies on a similar construction when regularly accusing Norway of violating the Svalbard Treaty; for example, in 2025, it 
+accused
+ Norway of showing blatant disregard for the demilitarization clause and described dual-purpose facilities, including the SvalSat station.
+
+Space assets and infrastructure are increasingly vital to modern war, while simultaneously creating governance challenges in the polar regions. While the United States remains the leading space power, that leadership increasingly depends on private commercial actors, with different interests, risk tolerances, and timelines.
+
+China and Russia are Moving Forward 
+
+The polar regions both the Arctic and Antarctica are emerging areas of competition in the current space race between the United States, China, and Russia. Although the United States has 
+tremendous advantages
+ in space, American military capabilities are significantly more 
+dependent
+ on space assets than peer competitors. Both China and Russia recognize U.S. military dependence on space and are rapidly 
+building
+ capabilities that seek to exploit this. The 
+2023 Comprehensive Strategy for the Space Force
+ notes bluntly that, The entire Joint Force is designed and postured around the assumption that space capabilities will always be readily available and calls Chinese and Russian efforts to target that vulnerability concerning.
+
+China s rapidly advancing space-based capabilities support long-range precision strikes, and it is developing a variety of counterspace assets, including antisatellite weapons for low and geosynchronous orbits. 
+According to the U.S. Space Force, Chinese military exercises regularly incorporate jammers against space-based communications, radars, and navigation systems
+. Caverley has even 
+argued
+ that China s wartime space capabilities are a greater military threat to U.S. forces than its potential control of Taiwan. While Russia s space program has been impacted because of its ongoing war against Ukraine, it continues to develop counterspace weapons and 
+plan
+ for war in space in response to U.S. military dependence on space.
+
+China, located in the midlatitudes, appears to have made 
+efforts
+ to secure high-latitude satellite ground stations in recent years these include leasing antennas in Kiruna and Esrange, Sweden, as well as in Chile and Australia. 
+The Swedish Space Corporation said China s arrangement with the company will not be renewed when it expires
+.
+
+China s space operations and infrastructure in South America have received 
+extensive
+ scrutiny due to security concerns they raise. The primary focus has been on 
+China s deep space station in Neuqu n, Argentina
+. However, in recent years, China has quietly built 
+a satellite ground station in R o Gallegos, Argentina
+ at 51 degrees south near the southern tip of the country to control and communicate with polar-orbiting satellites. Farther south, China recently completed its fifth Antarctic research station and just announced plans for a 
+sixth
+, anticipated to be completed by 2027. Its recently completed 
+Qinling Station
+, near the Ross Sea, 
+includes
+ a satellite ground station.
+
+Russia also maintains networks of high-latitude satellite ground stations. 
+The Russian General Staff Main Intelligence Directorate s highest-latitude ground station is in Tavaivaam, Chukotka
+, at 64 degrees north. There are 
+reports
+ that the Russian space agency Roscosmos constructed a satellite ground station at the 
+Progress research base in Antarctica
+ as part of its global remote sensing
+ program
+. This program also relies on Arctic stations in Murmansk, Dudinka, and Anadyr.
+
+China and Russia also appear to be deepening their 
+cooperation
+ in space, paralleling their 
+partnership
+ in the Arctic region and cooperative efforts to 
+undermine
+ Antarctic protections.
+
+The United States Isn t Doing Enough
+
+President Trump s Dec. 2025 executive order on space
+ highlighted the importance of allies and partners to American security and called for increased operational cooperation and basing agreements. The executive order also called for increasing launch and reentry cadence through new and upgraded facilities, pointing the way towards more spaceports.
+
+While high-level statements suggest an interest in speeding up space development including through ground-based infrastructure U.S. government actions haven t caught up and may indeed be pouring sand in the gears. 
+The private space industry is full of companies that find the Pentagon very hard to work with
+.
+
+The United States also needs to be a 
+better partner
+ to its space-capable allies, including those with polar geography. In the Arctic, this means recognizing the value of allies like Norway and others, as well as the strategic importance of the region as a whole to America s interests. The 
+National Defense Strategy
+ and 
+National Security Strategy
+ indicate a pivot away from Europe in favor of focusing on the Western Hemisphere. In fact, the Arctic is not included in the 
+National Security Strategy
+ at all and is only mentioned in the 
+National Defense Strategy
+ in relation to Greenland. Couple this with the reorganization of Pentagon policymaking that eliminated the Deputy Assistant Secretary of Defense for Arctic and Global Resilience 
+office
+ (presumably; the 
+deputy assistant secretaries no longer include this position
+), and the absence of a nominee for the State Department s Arctic
+ ambassador
+ position, and a pattern of Arctic disengagement emerges.
+
+While this may be the Trump administration s strategic preference, it leaves important allies like Norway bereft of the policy guidance and leadership that supports close engagement. The United States cannot build the future of space activities single-handedly, and its Arctic allies are among the most aligned and capable partners available. The Arctic region is critical to space and Arctic allies are crucial allies. High-level policy guidance and representation would help connect the president s strategic space vision with practical steps forward.
+
+Finally, it s widely recognized that international space law is badly in need of development to meet technological advancements. The Outer Space Treaty is 
+inadequate
+. Issues like autonomy, space debris and crowding, and others are not addressed, and the treaty s broad language especially around militarization provides no definitive guidance and far too much room for competing interpretations. Many 
+experts
+ have 
+called
+ for better governance and 
+various
+
+proposals
+ to build rules of the road in space. Ely Sandler has 
+offered
+ an intriguing and pragmatic approach: adding a conference of parties to the Outer Space Treaty.
+
+Here, there may be lessons to learn from polar agreements and practices, for example, the 
+Arctic Council
+, a formal governance institution whose members include the eight Arctic states: Canada, Denmark, Finland, Iceland, Norway, Russia, Sweden, and the United States. While it does not issue binding law itself, the Arctic Council has used the data-gathering and reporting process of its various working groups to facilitate the negotiation of multiple binding 
+treaties
+, including on search and rescue, scientific cooperation, and oil spill response.
+
+The Arctic Council also offers an interesting means for nonstate actors to 
+participate
+ in formal discussions via its Permanent Participant category, which is open to organizations that represent Arctic indigenous peoples. The Permanent Participants sit at the table and participate as equals, although they do not have voting rights. There are also Observers to the Arctic Council who can share expertise in working groups. This may be an interesting model for space governance, for which it may be more useful to have major commercial actors able to speak for themselves instead of being represented by their country of registration. Another useful example is found in the Antarctic Treaty, which contains an 
+inspections
+ regime designed to enforce its bans on military and economic activity and strict environmental protocols.
+
+America will be critical to building whatever the future of space governance looks like. Without active U.S. participation, the risks grow. In some ways, the current situation is reminiscent of the early days of Antarctic exploration, when the 
+scramble
+ to claim territory nearly set off another world war. America was key then to building the Antarctic Treaty and averting war. That episode is instructive today.
+
+American leadership will be vital to ensuring the world can reap the benefits of space, while warding off grave potential dangers. The polar regions are, in many ways, humanity s stepping stones to space. As both commercial enterprise and modern war increasingly ascend into the heavens, it s time for the United States to recognize that the road to space runs through the poles.
+
+BECOME A MEMBER
+
+Rebecca Pincus, Ph.D., is a senior fellow at the German Marshall Fund of the United States in the Transatlantic Security Program, a senior fellow at the Foreign Policy Research Institute, and a visiting scholar at the Wilson Center. From 2022 2025, she led the Polar Institute at the Wilson Center, and she previously served on the faculty at the U.S. Naval War College and U.S. Coast Guard Academy. She served as Arctic and climate strategy advisor in the Office of the Secretary of Defense (policy) from 2020 to 2022. 
+
+David Marsh is currently skiing across the Greenland ice cap, testing satellite communications and writing about the connection between space and extreme environments. He is a fellow of the Explorers Club and a fellow at the Foreign Policy Research Institute. He is a space industry professional who previously served as director of strategy for Voyager Technologies. Read more @space.for.earth.
+
+Image: U.S. National Oceanic and Atmospheric Administration via 
+Wikimedia Commons
+
+Get the Briefing from Those Who've Been There
+
+Subscribe for sharp analysis and grounded insights from warriors, diplomats, and scholars.
+
+SIGN UP
