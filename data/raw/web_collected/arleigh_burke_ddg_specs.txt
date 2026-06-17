@@ -1,0 +1,10 @@
+Arleigh Burke-class Guided-Missile Destroyer (DDG-51) Specifications
+
+Flight I (DDG-51 to 71): Full-Load Displacement ~8,300-8,400 tons. Length 505 ft (154 m). Beam 66 ft (20.1 m). Draft 31 ft (9.4 m). Crew ~303 total. Range 4,400 nmi at 20 knots. Speed in excess of 30 knots. Armament: 1x5-inch/54 cal Mk 45, 2x20mm Phalanx CIWS, 90-cell Mk 41 VLS (29 fwd + 61 aft), 2xMk 141 Harpoon launchers, 2xMk 32 triple torpedo tubes.
+
+Flight IIA (DDG-79 onward): Full-Load Displacement ~9,500-9,700 tons. Length 509.5 ft (155.3 m). Crew ~323 total. 96-cell Mk 41 VLS (32 fwd + 64 aft). 1x5-inch/62 cal Mk 45 Mod 4. Up to 2x MH-60R Seahawk helicopters (hangar + flight deck). No Harpoon launchers.
+
+Flight III (DDG-125 onward): Full-Load Displacement ~9,700-10,000 tons. Crew ~329 total. AN/SPY-6(V)1 Air and Missile Defense Radar (AMDR). Enhanced power generation and cooling.
+
+Primary Armament: RIM-66M Standard SM-2MR, RIM-161 Standard SM-3 (BMD), RIM-162 Evolved Sea Sparrow (ESSM), RIM-174A Standard ERAM (SM-6), BGM-109 Tomahawk Land Attack Missile, RUM-139 Vertical Launch ASROC.
+Propulsion: 4x General Electric LM2500 gas turbines, 2 shafts, 100,000 shp total.

@@ -1,0 +1,25 @@
+Fighter Jet Specifications Comparison (Public Domain Data)
+
+5th Generation Fighters:
+- F-22 Raptor (USA): Mach 2.25 (~2,414 km/h), Combat Range ~1,100 nmi, Service Ceiling ~65,000 ft (19,800 m), Introduced 2005, Unit Cost ~$360M
+- F-35 Lightning II (USA): Mach 1.6 (~1,931 km/h), Combat Range >1,000 km, Service Ceiling ~50,000 ft (15,240 m), Introduced 2015, Unit Cost ~$80-110M
+- Su-57 Felon (Russia): Mach 2.0 (~2,136 km/h), Combat Range ~1,900 km, Service Ceiling ~65,600 ft (20,000 m), Introduced 2020
+- Chengdu J-20 (China): Mach 2.0 (~2,470 km/h), Combat Range ~2,000 km, Service Ceiling ~65,000 ft (20,000 m), Introduced 2017
+
+4th/4.5 Generation Fighters (US):
+- F-15 Eagle/EX: Mach 2.5 (~2,655 km/h), Combat Radius ~1,770 km, Ferry Range ~5,550 km, MTOW 36,741 kg (81,000 lb), Payload ~13,400 kg
+- F-16 Fighting Falcon: Mach 2.0 (~2,120 km/h), Combat Radius ~550 km, Ferry Range ~4,220 km, MTOW 19,200 kg, Payload ~7,700 kg
+- F/A-18E/F Super Hornet: Mach 1.6 (~1,915 km/h), Combat Radius ~1,160 km, MTOW 29,937 kg (66,000 lb), Payload ~8,050 kg
+
+4th/4.5 Generation Fighters (European):
+- Eurofighter Typhoon: Mach 2.35 (~2,495 km/h), Combat Radius ~1,389 km, Ferry Range ~2,900 km, MTOW 23,500 kg, Payload ~9,000 kg
+- Dassault Rafale: Mach 1.8 (~1,915 km/h), Combat Radius ~1,850 km, Ferry Range ~3,700 km, MTOW 24,500 kg, Payload ~9,500 kg
+- Saab JAS 39 Gripen E: Mach 2.0 (~2,100 km/h), Combat Radius ~800 km, MTOW 14,000 kg, Payload ~5,300 kg
+
+Russian Fighters:
+- MiG-25 Foxbat: Mach 2.83 (~3,000 km/h) — Fastest operational fighter
+- Su-27 Flanker: Mach 2.35 (~2,500 km/h), Combat Radius ~1,340 km
+- MiG-29 Fulcrum: Mach 2.3 (~2,450 km/h), Combat Radius ~650 km
+
+Supercruise Capable: F-22 Raptor, Su-57 Felon, Dassault Rafale, Eurofighter Typhoon
+All figures from publicly available defense publications and manufacturer specifications.

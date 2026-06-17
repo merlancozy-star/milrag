@@ -1,0 +1,10 @@
+US Air Force Doctrine Documents (AFDD) Public Directory
+All approved for public release by LeMay Center/CC
+
+FOUNDATIONAL: AFDD 1 Air Force Basic Doctrine / AFDD 1-1 Leadership and Force Development
+
+OPERATIONS: AFDD 3-01 Counterair / AFDD 3-12 Cyberspace / AFDD 3-13 Information Operations / AFDD 3-13.1 Electronic Warfare / AFDD 3-14 Space Operations / AFDD 3-14.1 Counterspace / AFDD 3-17 Air Mobility / AFDD 3-27 Homeland Operations / AFDD 3-40 Counter-CBRN / AFDD 3-60 Targeting / AFDD 3-70 Strategic Attack / AFDD 3-72 Nuclear Operations
+
+COMMAND AND SUPPORT: AFDD 6-0 Command and Control / AFDD 4-0 Combat Support
+
+Standard release: There are no releasability restrictions on this publication.

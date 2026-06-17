@@ -1,0 +1,10 @@
+Six Warfighting Functions — US Army Doctrine (FM 3-0)
+
+1. MISSION COMMAND: Develops and integrates activities enabling commanders to balance the art of command and the science of control.
+2. MOVEMENT AND MANEUVER: Moves forces to achieve positions of advantage relative to the enemy.
+3. INTELLIGENCE: Synchronizes collection, processing, analysis, and dissemination of information.
+4. FIRES: Creates effects to support operations through targeting and fire support.
+5. SUSTAINMENT: Provides logistics, personnel services, and health service support.
+6. PROTECTION: Preserves the force through air defense, CBRN defense, security, and information protection.
+
+Combined arms and mutual support represent the payoff of integration across all functions. These six functions, bound by leadership, replace the older Battlefield Operating Systems (BOS).

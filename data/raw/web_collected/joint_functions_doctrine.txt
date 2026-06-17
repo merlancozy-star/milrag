@@ -1,0 +1,27 @@
+The Joint Functions: Theory, Doctrine, and Practice — JFQ 115, 4th Quarter 2024
+Author: Matthew J. Tackett, Professor, Joint Military Operations, US Naval War College
+
+The Seven Joint Functions (JP 3-0):
+1. Command and Control (C2) — Authority and direction over forces
+2. Information — Added as seventh function in 2017, reflecting information environment importance
+3. Intelligence — Collection, processing, analysis, dissemination
+4. Fires — Lethal and non-lethal effects creation
+5. Movement and Maneuver — Gaining positional advantage
+6. Protection — Force preservation
+7. Sustainment — Logistics, personnel, health services
+
+HISTORICAL EVOLUTION:
+- Clausewitz Principles of War (1812): Foundation for modern operational thinking
+- French staff system under Thiebault: First systematic operational planning
+- Goldwater-Nichols Act (1986): Mandated joint operations, forced Service integration
+- JP 3-0 (2001): No listed joint functions
+- JP 3-0 (2006): Six joint functions
+- JP 3-0 (2017): Seven joint functions (Information added)
+
+THEORY VS DOCTRINE TENSION:
+Milan Vego (Joint Operational Warfare) proposes theoretical operational functions that differ from current US joint doctrine. The article examines whether joint doctrine represents satisficing (Herbert Simon concept of good enough) rather than optimization. Service parochialism still affects joint operations despite decades of joint doctrine development.
+
+MODERN VIGNETTES:
+- USS Carney TLAM strikes (February 2024): Operational fires in practice
+- Army field artillery exercises in Iraq (May 2024): Joint fires coordination
+- Marine Corps training at Twentynine Palms (June 2024): Maneuver and fires integration

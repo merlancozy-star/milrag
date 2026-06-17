@@ -1,0 +1,21 @@
+Fighter Jet Specifications Comparison (Public Domain Data)
+
+5th Generation:
+- F-22 Raptor (USA): Mach 2.25, Combat Range ~1100 nmi, Service Ceiling 65,000 ft, Introduced 2005
+- F-35 Lightning II (USA): Mach 1.6, Combat Range >1000 km, Service Ceiling 50,000 ft, Introduced 2015
+- Su-57 Felon (Russia): Mach 2.0, Combat Range ~1900 km, Service Ceiling 65,600 ft, Introduced 2020
+- Chengdu J-20 (China): Mach 2.0, Combat Range ~2000 km, Service Ceiling 65,000 ft, Introduced 2017
+
+4th/4.5 Generation:
+- F-15 Eagle/EX (USA): Mach 2.5, Combat Radius ~1770 km, MTOW 36,741 kg, Payload ~13,400 kg
+- F-16 Fighting Falcon (USA): Mach 2.0, Combat Radius ~550 km, MTOW 19,200 kg, Payload ~7,700 kg
+- F/A-18E/F Super Hornet (USA): Mach 1.6, Combat Radius ~1160 km, MTOW 29,937 kg
+- Eurofighter Typhoon (EU): Mach 2.35, Combat Radius ~1389 km, MTOW 23,500 kg, Payload ~9,000 kg
+- Dassault Rafale (France): Mach 1.8, Combat Radius ~1850 km, MTOW 24,500 kg
+- Saab JAS 39 Gripen E (Sweden): Mach 2.0, Combat Radius ~800 km, MTOW 14,000 kg
+
+Fastest: MiG-25 Foxbat at Mach 2.83 (~3,000 km/h)
+Longest Ferry Range (4th Gen): F-15 Eagle at ~5,550 km
+Supercruise Capable: F-22, Su-57, Rafale, Eurofighter Typhoon
+
+Note: All figures from publicly available defense publications and manufacturer spec sheets. Exact performance varies with configuration.
