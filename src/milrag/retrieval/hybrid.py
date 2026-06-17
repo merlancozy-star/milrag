@@ -83,28 +83,31 @@ def hybrid_retrieve(
     embedder,
     faiss_index,
     chunk_ids: list[str],
-    es_client,
+    es_client=None,
     *,
     dense_topk: int = 20,
     sparse_topk: int = 20,
     rrf_k: int = 60,
     es_index: str = "mil_kb",
 ) -> list[tuple[str, float]]:
-    """完整的混合检索流水线：稠密 + 稀疏 → RRF 融合。
+    """混合检索：稠密 + 稀疏 → RRF 融合。
+    es_client=None 或 ES 异常时自动降级为纯稠密检索。
 
     Returns:
-        [(chunk_id, rrf_score), ...] 按 RRF 分数降序。
+        [(chunk_id, score), ...] 按分数降序。
     """
     # 稠密检索
     dense_results = dense_retrieve(query, embedder, faiss_index, chunk_ids, topk=dense_topk)
-    dense_ids = [did for did, _ in dense_results]
 
-    # 稀疏检索
-    sparse_ids = sparse_retrieve(query, es_client, index_name=es_index, topk=sparse_topk)
+    # ES 不可用时降级为纯稠密
+    if es_client is None:
+        return dense_results
 
-    # RRF 融合
-    fused_ids = rrf_fuse(dense_ids, sparse_ids, k=rrf_k)
-
-    # 附加分数（从稠密结果复原）
-    dense_score_map = dict(dense_results)
-    return [(did, dense_score_map.get(did, 0.0)) for did in fused_ids]
+    try:
+        dense_ids = [did for did, _ in dense_results]
+        sparse_ids = sparse_retrieve(query, es_client, index_name=es_index, topk=sparse_topk)
+        fused_ids = rrf_fuse(dense_ids, sparse_ids, k=rrf_k)
+        dense_score_map = dict(dense_results)
+        return [(did, dense_score_map.get(did, 0.0)) for did in fused_ids]
+    except Exception:
+        return dense_results

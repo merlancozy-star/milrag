@@ -97,6 +97,7 @@ def build_es(
     """
     try:
         from elasticsearch import Elasticsearch
+        from elasticsearch.helpers import bulk
     except ImportError:
         raise ImportError("请安装 elasticsearch: pip install elasticsearch>=8.13")
 
@@ -128,7 +129,6 @@ def build_es(
     es.indices.create(index=index_name, body=mapping)
 
     # 批量索引
-    from elasticsearch.helpers import bulk
     actions = [
         {
             "_index": index_name,
@@ -164,7 +164,7 @@ def init_metadata_db(
     try:
         import psycopg2
     except ImportError:
-        raise ImportError("请安装 psycopg2: pip install psycopg2-binary")
+        raise RuntimeError("psycopg2 未安装，跳过 PG 元信息（不影响检索）")
 
     conn = psycopg2.connect(db_url)
     cur = conn.cursor()
