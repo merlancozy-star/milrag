@@ -253,3 +253,47 @@ def _find_attention_modules(model) -> list[str]:
         # 回退到常见模式
         candidates = ["q_proj", "k_proj", "v_proj"]
     return candidates[:10]  # 限制数量
+
+
+# ═══════════════════════════════════════════════════════════════
+# CLI 入口 — python -m milrag.retrieval.lora_finetune
+# ═══════════════════════════════════════════════════════════════
+if __name__ == "__main__":
+    import argparse
+    import json
+    import yaml
+
+    parser = argparse.ArgumentParser(description="LoRA 微调嵌入模型")
+    parser.add_argument("--model", required=True, help="嵌入模型路径")
+    parser.add_argument("--train", required=True, help="训练集 JSON 路径")
+    parser.add_argument("--val", default=None, help="验证集 JSON 路径（可选）")
+    parser.add_argument("--output", default="experiments/ckpts/lora", help="输出目录")
+    parser.add_argument("--device", default="cuda", help="设备")
+    args = parser.parse_args()
+
+    # 加载数据
+    train_data = json.loads(Path(args.train).read_text(encoding="utf-8"))
+    val_data = json.loads(Path(args.val).read_text(encoding="utf-8")) if args.val else None
+
+    # 加载配置
+    try:
+        cfg = yaml.safe_load(Path("config/retrieval.yaml").read_text())
+        efg = cfg.get("retrieval", cfg).get("embedding_finetune", cfg)
+    except Exception:
+        # 默认配置（对齐论文）
+        efg = {
+            "lora": {"rank": 16, "alpha": 32, "dropout": 0.05,
+                      "target": ["q_proj", "k_proj", "v_proj"]},
+            "optim": {"lr": 1e-4, "warmup_ratio": 0.05},
+            "loss": {"temperature": 0.05},
+            "negatives": {"bm25_hard": True, "ratio": 0.5},
+            "epochs": 10, "batch_size": 128,
+        }
+
+    # 加载嵌入模型
+    from milrag.retrieval.embedding import Embedder
+    embedder = Embedder(args.model, device=args.device)
+
+    # 执行微调
+    output_path = train_lora(efg, embedder, train_data, val_data, args.output)
+    print(f"✅ LoRA 微调完成 → {output_path}")

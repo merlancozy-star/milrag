@@ -2,12 +2,15 @@
 """一站式索引构建流水线。
 读取 data/kb/chunks.json，构建 FAISS HNSW + ES 倒排 + PG 元信息。
 
-AutoDL 注意: ES 和 PG 可能不可用，失败不阻断、自动降级为纯 FAISS。
+支持两种模式：
+  - 本地模式: python scripts/run_index.py
+  - API 模式:  python scripts/run_index.py --api-base http://localhost:8001/v1
 
-用法: python scripts/run_index.py
+AutoDL 注意: ES 和 PG 可能不可用，失败不阻断、自动降级为纯 FAISS。
 """
 from __future__ import annotations
 
+import argparse
 import json
 import sys
 from pathlib import Path
@@ -16,6 +19,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 
 def main():
+    parser = argparse.ArgumentParser(description="一站式索引构建")
+    parser.add_argument("--api-base", default=None,
+                        help="Embedding API 地址 (如 http://localhost:8001/v1)，用于远程编码")
+    parser.add_argument("--batch-size", type=int, default=32,
+                        help="API 编码批大小 (默认 32)")
+    args = parser.parse_args()
+
     chunks_path = Path("data/kb/chunks.json")
     if not chunks_path.exists():
         print(f"错误: {chunks_path} 不存在，请先运行 scripts/run_chunk.py")
@@ -30,15 +40,25 @@ def main():
         from milrag.retrieval.embedding import Embedder
         from milrag.data.index_build import build_faiss
 
-        # 尝试加载 YAML 配置，失败则用默认路径
-        try:
-            import yaml
-            cfg = yaml.safe_load(Path("config/base.yaml").read_text())
-            emb_path = cfg.get("models", {}).get("embedding", "/models/Qwen3-Embedding-4B")
-        except Exception:
-            emb_path = "/root/autodl-tmp/models/Qwen3-Embedding-4B"
+        if args.api_base:
+            print(f"  使用 API 模式: {args.api_base}")
+            embedder = Embedder(
+                "qwen3-embedding-4b",
+                backend="api",
+                api_base=args.api_base,
+                normalize=True,
+            )
+        else:
+            # 本地模式
+            try:
+                import yaml
+                cfg = yaml.safe_load(Path("config/base.yaml").read_text())
+                emb_path = cfg.get("models", {}).get("embedding", "/models/Qwen3-Embedding-4B")
+            except Exception:
+                emb_path = "/root/autodl-tmp/models/Qwen3-Embedding-4B"
+            print(f"  使用本地模型: {emb_path}")
+            embedder = Embedder(emb_path, device="cuda", max_seq_len=512, normalize=True)
 
-        embedder = Embedder(emb_path, device="cuda", max_seq_len=512, normalize=True)
         index, chunk_ids, embeddings = build_faiss(
             chunks, embedder, save_dir="data/kb"
         )
