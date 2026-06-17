@@ -17,28 +17,41 @@ class Embedder:
       - sentence-transformers 模型
       - HuggingFace 原生模型 + mean pooling
       - LoRA 适配器注入（通过 PEFT / sentence-transformers adapter）
+      - API 远程模式（OpenAI 兼容 /v1/embeddings 端点）
     """
 
     def __init__(self, model_path: str, lora_path: str | None = None,
                  device: str = "cuda", max_seq_len: int = 512,
-                 normalize: bool = True):
+                 normalize: bool = True,
+                 backend: str = "local",
+                 api_base: str = "http://localhost:8001/v1",
+                 api_key: str = "not-needed"):
         """
         Args:
-            model_path: 模型本地路径。
+            model_path: 模型本地路径 或 API 模型名。
             lora_path: LoRA 适配器路径（可选）。
             device: 推理设备。
             max_seq_len: 最大序列长度。
             normalize: 是否 L2 归一化输出嵌入。
+            backend: "local" | "api"。
+            api_base: API 后端地址（backend="api" 时使用）。
+            api_key: API 密钥。
         """
         self.model_path = model_path
         self.lora_path = lora_path
         self.device = device
         self.max_seq_len = max_seq_len
         self.normalize_output = normalize
+        self.backend = backend
+        self.api_base = api_base
+        self.api_key = api_key
         self._model = None
 
     def _ensure_loaded(self):
         if self._model is not None:
+            return
+        if self.backend == "api":
+            self._model = "api"
             return
         try:
             from sentence_transformers import SentenceTransformer
@@ -92,7 +105,9 @@ class Embedder:
         if instruction and texts:
             texts = [f"{instruction}{t}" for t in texts]
 
-        if self._model == "hf":
+        if self.backend == "api":
+            return self._api_encode(texts)
+        elif self._model == "hf":
             return self._hf_encode(texts, batch_size)
         else:
             emb = self._model.encode(
@@ -127,10 +142,30 @@ class Embedder:
             all_embs.append(pooled.cpu().numpy())
         return np.concatenate(all_embs, axis=0).astype(np.float32)
 
+    def _api_encode(self, texts: list[str]) -> np.ndarray:
+        """通过 OpenAI 兼容 API 获取嵌入。"""
+        try:
+            from openai import OpenAI
+        except ImportError:
+            raise ImportError("请安装 openai: pip install openai")
+
+        client = OpenAI(base_url=self.api_base, api_key=self.api_key)
+        resp = client.embeddings.create(
+            model=self.model_path if "/" in str(self.model_path) else "default",
+            input=texts,
+        )
+        embs = np.array([d.embedding for d in resp.data], dtype=np.float32)
+        if self.normalize_output:
+            norms = np.linalg.norm(embs, axis=1, keepdims=True)
+            embs = embs / (norms + 1e-12)
+        return embs
+
     @property
     def dim(self) -> int:
         """嵌入维度。"""
         self._ensure_loaded()
+        if self.backend == "api":
+            return 1024  # Qwen3-Embedding-4B dim
         if self._model == "hf":
             return self._hf_model.config.hidden_size
         return self._model.get_sentence_embedding_dimension() or 1024

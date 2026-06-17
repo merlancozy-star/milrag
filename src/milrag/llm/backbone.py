@@ -1,12 +1,12 @@
-"""llm/backbone.py — LLM 推理封装（双后端，统一接口）。
+"""llm/backbone.py — LLM 推理封装（三后端，统一接口）。
 
 ★关键架构（CLAUDE.md §5）：
   - 白盒信号路径（第4章逐 token logits/attention）：HF generate + LogitsProcessor + forward hook，
     必须 attn_implementation="eager"。
   - 吞吐/部署路径（基线、第6章）：vLLM。
-两条路径抽象成同一 Backbone 类，内部按 need_internal_signals 分流。
+  - 远程API路径（AutoDL部署）：OpenAI兼容API调用。
 
-generate()       — 标准文本生成（vLLM 或 HF 均可）
+generate()       — 标准文本生成（三后端均可）
 stream_with_signals() — 逐 Δt token 产出信号数据（仅 HF eager 后端）
 """
 from __future__ import annotations
@@ -17,19 +17,22 @@ from typing import Iterator
 class Backbone:
     """LLM 推理后端统一封装。
 
-    两种后端：
+    三种后端：
       - "hf_eager": HuggingFace generate + eager attention，支持白盒信号。
       - "vllm":     vLLM 推理引擎，高吞吐但不暴露内部信号。
+      - "api":      OpenAI 兼容远程 API（AutoDL 部署 vLLM 服务）。
     """
 
     def __init__(self, model_path: str, backend: str = "hf_eager",
                  device: str = "cuda", **kwargs):
         """
         Args:
-            model_path: 模型本地路径。
-            backend: "hf_eager" | "vllm".
-            device: 推理设备。
-            **kwargs: 传递给底层 load 的额外参数。
+            model_path: 模型本地路径 或 API endpoint URL。
+            backend: "hf_eager" | "vllm" | "api".
+            device: 推理设备（api 模式忽略）。
+            **kwargs:
+              api_base:  API 后端地址（backend="api" 时使用）
+              api_key:   API 密钥（可选，默认 "not-needed"）
         """
         self.model_path = model_path
         self.backend = backend
@@ -37,6 +40,9 @@ class Backbone:
         self.kwargs = kwargs
         self._model = None
         self._tokenizer = None
+        # API 模式配置
+        self._api_base = kwargs.get("api_base", "http://localhost:8000/v1")
+        self._api_key = kwargs.get("api_key", "not-needed")
 
     def _ensure_loaded(self):
         if self._model is not None:
@@ -44,6 +50,8 @@ class Backbone:
 
         if self.backend == "vllm":
             self._load_vllm()
+        elif self.backend == "api":
+            self._load_api()
         else:
             self._load_hf_eager()
 
@@ -88,6 +96,11 @@ class Backbone:
         except ImportError:
             raise ImportError("vLLM 未安装或不可用，请使用 'hf_eager' 后端")
 
+    def _load_api(self):
+        """API 模式：验证连接，不加载模型。"""
+        self._model = "api"
+        print(f"[backbone] API 模式: {self._api_base}")
+
     def generate(
         self,
         prompt: str,
@@ -112,6 +125,8 @@ class Backbone:
 
         if self.backend == "vllm":
             return self._vllm_generate(prompt, temperature, max_new_tokens, top_p)
+        elif self.backend == "api":
+            return self._api_generate(prompt, temperature, max_new_tokens, top_p)
         else:
             return self._hf_generate(prompt, temperature, max_new_tokens, top_p, **kwargs)
 
@@ -149,6 +164,36 @@ class Backbone:
         )
         outputs = self._vllm.generate([prompt], params)
         return outputs[0].outputs[0].text if outputs[0].outputs else ""
+
+    def _api_generate(
+        self, prompt: str, temperature: float, max_new_tokens: int, top_p: float
+    ) -> str:
+        """OpenAI 兼容 API 调用（远程 vLLM / llama.cpp server）。"""
+        try:
+            from openai import OpenAI
+        except ImportError:
+            raise ImportError("请安装 openai: pip install openai")
+
+        client = OpenAI(base_url=self._api_base, api_key=self._api_key)
+        try:
+            resp = client.completions.create(
+                model=self.model_path if "/" in str(self.model_path) else "default",
+                prompt=prompt,
+                max_tokens=max_new_tokens,
+                temperature=temperature,
+                top_p=top_p,
+            )
+            return resp.choices[0].text if resp.choices else ""
+        except Exception:
+            # Fallback: try chat completions endpoint
+            resp = client.chat.completions.create(
+                model=self.model_path if "/" in str(self.model_path) else "default",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=max_new_tokens,
+                temperature=temperature,
+                top_p=top_p,
+            )
+            return resp.choices[0].message.content if resp.choices else ""
 
     def stream_with_signals(
         self,
