@@ -1,0 +1,12 @@
+{
+  "id": "joint_publications_database",
+  "title": "US Joint Publications (JP) Complete Reference",
+  "source_category": "doctrine",
+  "content_category": "doctrine",
+  "authority": "official_bulletin",
+  "lang": "en",
+  "source_url": "https://www.jcs.mil/Doctrine/Joint-Doctine-Pubs/",
+  "desensitized": true,
+  "collected_at": "2026-06-17T12:12:27.498723+00:00",
+  "document_id": "joint_publications_database"
+}

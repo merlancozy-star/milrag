@@ -1,0 +1,25 @@
+FM 3-24: Insurgencies and Countering Insurgencies (May 2014)
+
+FM 3-24 is the US Army/Marine Corps counterinsurgency field manual. Originally published December 2006 under General David Petraeus and General James Mattis. Updated May 2014. It is widely considered one of the most influential doctrinal publications of the post-9/11 era.
+
+CORE PRINCIPLES:
+1. Population-centric approach: The population is the center of gravity. Protect the population, separate insurgents from their support base.
+2. Political primacy: Military actions must support political objectives. COIN is 80% political and 20% military.
+3. Unity of effort: All actors (military, diplomatic, economic, informational) must work toward common objectives under unified command or coordination.
+4. Legitimacy: The host nation government must be perceived as legitimate. Building host nation capacity is essential.
+5. Intelligence-driven operations: Understanding the human terrain, social networks, and local dynamics is more important than kinetic operations.
+6. Measured force: Minimum necessary force. Excessive force alienates the population and creates more insurgents.
+
+FRAMEWORK:
+Clear-Hold-Build: Clear areas of insurgent presence, Hold them with persistent security, Build governance and economic capacity. Transition to host nation forces.
+Logical Lines of Operation (LLOs): Combat operations, Host nation security forces, Essential services, Governance, Economic development. Information operations cut across all LLOs.
+
+PARADOXES OF COIN:
+- The more you protect your force, the less secure you may be
+- The more force is used, the less effective it is
+- The more successful COIN is, the less force can be used
+- Sometimes doing nothing is the best reaction
+- Some of the best weapons do not shoot
+- The host nation doing something poorly is better than US forces doing it well
+
+IMPACT: FM 3-24 changed US military doctrine from enemy-centric attrition warfare to population-centric counterinsurgency. It was cited as instrumental in the 2007 Iraq Surge strategy. The manual has been studied globally and influenced NATO and allied COIN doctrine.

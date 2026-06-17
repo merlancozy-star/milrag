@@ -1,0 +1,63 @@
+US Joint Publications (JP) — Complete Reference
+Joint doctrine presents fundamental principles that guide the employment of US military forces in coordinated action toward a common objective. JP 1 is the capstone.
+
+CAPSTONE:
+JP 1, Doctrine for the Armed Forces of the United States: Highest-level joint doctrine.
+JP 1-0, Joint Personnel Support.
+
+JOINT OPERATIONS (JP 3 Series):
+JP 3-0, Joint Operations: Foundation for all joint operations. Seven joint functions.
+JP 3-01, Countering Air and Missile Threats: IADS, air defense, missile defense.
+JP 3-02, Amphibious Operations: Ship-to-shore movement, landing force operations.
+JP 3-03, Joint Interdiction: Disrupting enemy capabilities before they can be used.
+JP 3-05, Special Operations: SOF employment across the range of military operations.
+JP 3-06, Joint Urban Operations: Operations in urban environments.
+JP 3-07, Stability: Post-conflict stability operations framework.
+JP 3-08, Interorganizational Coordination: Whole-of-government approach.
+JP 3-09, Joint Fire Support: Integration of joint fires.
+JP 3-10, Joint Security Operations: Force protection and security.
+JP 3-11, CBRN Environment Operations: Chemical, biological, radiological, nuclear.
+JP 3-12, Cyberspace Operations: Offensive and defensive cyber.
+JP 3-13, Information Operations: Influence, deception, EW, OPSEC.
+JP 3-14, Space Operations: Space as a warfighting domain.
+JP 3-15, Barriers and Obstacle Planning: Countermobility and breaching.
+JP 3-16, Multinational Operations: Coalition and alliance operations.
+JP 3-17, Air Mobility Operations: Strategic and tactical airlift.
+JP 3-18, Joint Forcible Entry: Airborne, air assault, amphibious entry.
+JP 3-22, Foreign Internal Defense: Supporting allied internal security.
+JP 3-24, Counterinsurgency: Population-centric COIN doctrine.
+JP 3-25, Countering Threat Networks: Network analysis and disruption.
+JP 3-26, Counterterrorism: CT policy and operational framework.
+JP 3-27, Homeland Defense: Defense of US territory and population.
+JP 3-28, Defense Support of Civil Authorities: Military aid to civil power.
+JP 3-29, Foreign Humanitarian Assistance: HA/DR operations.
+JP 3-30, Joint Air Operations: Air component command and control.
+JP 3-31, Joint Land Operations: Ground component operations.
+JP 3-32, Joint Maritime Operations: Naval component operations.
+JP 3-33, Joint Task Force Headquarters: JTF organization and command.
+JP 3-34, Joint Engineer Operations: Engineer support to joint operations.
+JP 3-35, Deployment and Redeployment Operations: Force projection.
+JP 3-40, Joint Countering Weapons of Mass Destruction: CWMD framework.
+JP 3-52, Joint Airspace Control: Airspace coordination and deconfliction.
+JP 3-57, Civil-Military Operations: CIMIC and civil affairs.
+JP 3-59, Meteorological and Oceanographic Operations: Weather and environment.
+JP 3-60, Joint Targeting: Target development, engagement, assessment.
+JP 3-61, Public Affairs: Media operations and strategic communication.
+JP 3-63, Detainee Operations: EPW and detainee handling.
+JP 3-68, Noncombatant Evacuation Operations: NEO planning and execution.
+JP 3-72, Nuclear Operations: Nuclear employment and deterrence.
+JP 3-80, Resource Management: Financial and resource planning.
+JP 3-84, Legal Support: Law of war, ROE, legal advice.
+JP 3-85, Joint Electromagnetic Spectrum Operations: EMS superiority.
+
+INTELLIGENCE (JP 2 Series):
+JP 2-0, Joint Intelligence / JP 2-01, Joint Intelligence Preparation of the Operational Environment / JP 2-03, Geospatial Intelligence.
+
+LOGISTICS (JP 4 Series):
+JP 4-0, Joint Logistics / JP 4-01, Joint Mobility Operations / JP 4-02, Joint Health Services / JP 4-05, Joint Mobilization Planning.
+
+PLANS (JP 5 Series):
+JP 5-0, Joint Planning: The joint planning process (JPP), operational design, operational art. Seven-step JPP: initiation, mission analysis, COA development, COA analysis and wargaming, COA comparison, COA approval, plan or order development.
+
+COMMUNICATIONS (JP 6 Series):
+JP 6-0, Joint Communications System: C4I systems and networks.

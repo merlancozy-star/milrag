@@ -1,0 +1,31 @@
+US Air Force Doctrine Documents (AFDD) — Complete Reference
+All documents approved for public release by Commander, LeMay Center for Doctrine Development and Education, Maxwell AFB, Alabama.
+Renumbered circa 2010 from AFDD 2-series to AFDD 3-series to mirror joint doctrine (JP 3-xx).
+
+FOUNDATIONAL DOCTRINE:
+AFDD 1, Air Force Basic Doctrine (17 Nov 2003, updated 14 Oct 2011): Capstone publication describing fundamental beliefs about air, space, and cyberspace power. Organizes doctrine into basic (fundamental beliefs), operational (how to organize/employ), and tactical (how to execute specific missions).
+AFDD 1-1, Leadership and Force Development (18 Feb 2006): Core values (Integrity First, Service Before Self, Excellence in All We Do), force development framework, education and training continuum.
+
+OPERATIONAL DOCTRINE — AIR AND SPACE:
+AFDD 3-01, Counterair Operations (1 Oct 2008, IC2 1 Nov 2011): Offensive counterair (OCA) and defensive counterair (DCA). OCA: surface attack, fighter sweep, escort, SEAD. DCA: active air defense, passive defense measures.
+AFDD 3-14, Space Operations (IC1 28 Jul 2011): Space superiority, space force enhancement (ISR, missile warning, environmental monitoring, SATCOM, PNT), space control, space support.
+AFDD 3-14.1, Counterspace Operations (2 Aug 2004, Change 1, 28 Jul 2011): Offensive counterspace (deception, disruption, denial, degradation, destruction) and defensive counterspace. Lessons from GPS jamming during Operation Iraqi Freedom.
+
+OPERATIONAL DOCTRINE — INFORMATION AND CYBER:
+AFDD 3-12, Cyberspace Operations (IC1 30 Nov 2011): Cyberspace superiority, cyberspace attack, cyberspace defense, cyberspace ISR.
+AFDD 3-13, Information Operations (IC1 28 Jul 2011): Influence operations, electronic warfare, network warfare operations. Integration of IRCs (Information Related Capabilities).
+AFDD 3-13.1, Electronic Warfare (IC1 28 Jul 2011): Electronic attack (EA), electronic protection (EP), electronic warfare support (ES).
+
+OPERATIONAL DOCTRINE — EFFECTS AND SUPPORT:
+AFDD 3-17, Air Mobility Operations (IC1 28 Jul 2011): Airlift, air refueling, aeromedical evacuation. Global reach and rapid global mobility.
+AFDD 3-27, Homeland Operations (23 Apr 2013): Defense Support of Civil Authorities (DSCA), homeland air defense, emergency preparedness.
+AFDD 3-40, Counter-CBRN Operations (26 Jan 2007, IC2 1 Nov 2011): Countering chemical, biological, radiological, and nuclear threats.
+AFDD 3-60, Targeting (8 Jun 2006, Change 1, 28 Jul 2011): Complements JP 3-60. Six-phase targeting cycle: Commander's objectives, target development, weaponeering, force application, execution planning, combat assessment.
+AFDD 3-70, Strategic Attack (IC2 1 Nov 2011): Direct attack on enemy centers of gravity at the strategic level.
+AFDD 3-72, Nuclear Operations (Change 2, 14 Dec 2011): Nuclear deterrence, nuclear employment, nuclear surety (safety, security, control).
+
+COMMAND AND SUPPORT DOCTRINE:
+AFDD 6-0, Command and Control (IC1 28 Jul 2011): C2 principles, command relationships, air and space operations center (AOC) organization.
+AFDD 4-0, Combat Support (IC2 28 Jul 2011): Agile combat support, logistics, force protection, expeditionary operations support.
+
+STANDARD RELEASE STATEMENT: There are no releasability restrictions on this publication.

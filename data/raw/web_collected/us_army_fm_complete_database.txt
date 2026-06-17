@@ -1,0 +1,42 @@
+US Army Field Manuals — Complete Database
+As of July 2007, 542 field manuals were in use. Under Doctrine 2015 (started 2010), the most important doctrinal publications were reorganized into ADP (Army Doctrine Publications), ADRP (Doctrine Reference Publications), ATP (Techniques Publications), TC (Training Circulars), and TM (Technical Manuals). 50 select FMs continue to be published.
+
+=== CAPSTONE MANUALS ===
+FM 1, The Army (14 June 2005): Establishes fundamental principles for employing landpower. Together with FM 3-0, one of two capstone doctrinal manuals.
+FM 3-0, Operations (14 June 2001, updated 2011): Lays out fundamentals of war fighting. Covers Full Spectrum Operations, Mission Command, Six Warfighting Functions.
+FM 5-0, The Operations Process (26 Mar 2010): Plan, Prepare, Execute, Assess cycle. Design methodology for complex problems.
+FM 6-0, Mission Command (2011): Six principles — Build cohesive teams, Create shared understanding, Provide clear commander's intent, Exercise disciplined initiative, Use mission orders, Accept prudent risk.
+FM 7-0, Training the Force: Battle focused training, full spectrum operations training.
+
+=== FM SERIES OVERVIEW ===
+FM 1 Series (The Army): FM 1, FM 1-02 Operational Terms, FM 1-04 Legal Support, FM 1-05 Religious Support, FM 1-20 Military History Operations, FM 1-100 Army Aviation, FM 1-108 Special Operations Aviation, FM 1-111 Aviation Brigades, FM 1-112 Attack Helicopter, FM 1-113 Utility Helicopter.
+
+FM 2 Series (Intelligence): FM 2-0 Intelligence, FM 2-22.3 Human Intelligence Collector Operations (replaced FM 34-52 after Abu Ghraib).
+
+FM 3 Series (Operations): Most extensive series covering all operational domains.
+FM 3-01 Air Defense Artillery / FM 3-04 Army Aviation / FM 3-05 Special Operations / FM 3-06 Urban Operations / FM 3-07 Stability Operations / FM 3-09 Fire Support / FM 3-11 CBRN Defense / FM 3-12 Cyberspace and EW / FM 3-13 Information Operations / FM 3-14 Space Operations / FM 3-16 Multinational Operations / FM 3-18 SOF / FM 3-21.8 Infantry Rifle Platoon and Squad / FM 3-21.10 Infantry Rifle Company / FM 3-21.20 Infantry Battalion / FM 3-22 Army Support to Security Cooperation / FM 3-23.30 Grenades and Pyrotechnic Signals / FM 3-24 Counterinsurgency / FM 3-25.150 Combatives / FM 3-25.26 Map Reading / FM 3-34 Engineer Operations / FM 3-34.2 Combined-Arms Breaching / FM 3-37 Protection / FM 3-39 Military Police / FM 3-52 Airspace Control / FM 3-55 Information Collection / FM 3-57 Civil Affairs / FM 3-60 The Targeting Process / FM 3-90 Tactics / FM 3-96 Brigade Combat Team / FM 3-97.6 Mountain Operations / FM 3-98 Reconnaissance and Security / FM 3-99 Airborne and Air Assault Operations.
+
+FM 4 Series (Sustainment): FM 4-0 Sustainment, FM 4-01 Transportation, FM 4-02 Army Health System, FM 4-30 Ordnance Operations, FM 4-40 Quartermaster.
+
+FM 5 Series (Engineer): FM 5-0 Operations Process, FM 5-19 Composite Risk Management, FM 5-33 Terrain Analysis, FM 5-34 Engineer Field Data.
+
+FM 6 Series (Mission Command/Signals): FM 6-0 Mission Command, FM 6-02 Signal Support, FM 6-22 Leader Development, FM 6-22.5 Combat Stress.
+
+FM 7 Series (Training): FM 7-0 Training, FM 7-8 Infantry Platoon, FM 7-15 Army Universal Task List, FM 7-21.13 Soldier's Guide, FM 7-22 Physical Readiness Training, FM 7-100 Opposing Force Doctrinal Framework.
+
+=== NOTABLE MANUALS ===
+FM 3-05.70 (Survival Manual, formerly FM 21-76): Comprehensive wilderness survival guide.
+FM 3-24 (Counterinsurgency, 2014): Petraeus/Mattis counterinsurgency doctrine. Landmark publication that changed US military approach to COIN operations in Iraq and Afghanistan. Emphasizes population-centric approach, unity of effort, and political primacy.
+FM 5-31 (Boobytraps, 1965): No longer active but still frequently referenced in EOD training.
+FM 27-10 (Rules of War, 1956, last modified 1976): Cornerstone of Law of War for US military. Incorporates Geneva Conventions and customary international law.
+FM 34-52 (Intelligence Interrogation, 2005): Used to train CIA interrogators. Replaced by FM 2-22.3 in Sept 2006 after Abu Ghraib scandal with revised interrogation standards.
+FM 3-25.150 (Combatives): Hand-to-hand combat system based on Brazilian Jiu-Jitsu and wrestling.
+FM 3-19.15 (Civil Disturbance Operations): Riot control and crowd management doctrine.
+FM 3-97.61 (Military Mountaineering): Mountain and cold weather operations.
+FM 3-11 series (CBRN): NBC Defense, Decontamination, Protection, Chemical/Biological agents reference.
+FM 31-27 (Pack Animals in SOF): Use of mules and pack animals in special operations.
+
+=== DOCTRINE 2015 TRANSITION ===
+Old FM numbering (e.g., FM 100-5 Operations) replaced by FM 3-0 series to align with joint doctrine numbering (JP 3-0). Key ADP/ADRP publications:
+ADP 1: The Army / ADP 2-0: Intelligence / ADP 3-0: Operations / ADP 4-0: Sustainment / ADP 5-0: The Operations Process / ADP 6-0: Mission Command / ADP 7-0: Training
+Each ADP has a corresponding ADRP providing detailed implementation guidance.
