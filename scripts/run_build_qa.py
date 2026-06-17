@@ -66,14 +66,17 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="QA 数据集构建")
     parser.add_argument("--model", default=None,
-                        help="标注模型路径 (如 /root/autodl-tmp/models/Qwen3-32B-Instruct)")
+                        help="标注模型路径 或 API 模型名")
+    parser.add_argument("--api-base", default=None,
+                        help="API 地址 (OpenAI 兼容)")
+    parser.add_argument("--api-key", default=None,
+                        help="API 密钥")
     parser.add_argument("--output", default="data/qa",
                         help="输出目录")
     args = parser.parse_args()
 
     chunks_path = Path("data/kb/chunks.json")
     if not chunks_path.exists():
-        # 尝试从原始数据构造
         raw_chunks = []
         for txt_file in Path("data/raw").glob("**/*.txt"):
             if "sensitive" in str(txt_file):
@@ -95,8 +98,18 @@ def main():
     if args.model:
         try:
             from milrag.llm.backbone import Backbone
-            print(f"加载标注模型: {args.model}")
-            annotator = Backbone(args.model, backend="hf_eager", load_in_4bit=True)
+
+            if args.api_key:
+                print(f"使用 API: {args.api_base or '默认'}, model={args.model}")
+                annotator = Backbone(
+                    args.model,
+                    backend="api",
+                    api_base=args.api_base or "https://dashscope.aliyuncs.com/compatible-mode/v1",
+                    api_key=args.api_key,
+                )
+            else:
+                print(f"加载本地模型: {args.model}")
+                annotator = Backbone(args.model, backend="hf_eager", load_in_4bit=True)
             from milrag.data.build_qa import build_dataset
             split = build_dataset(chunks, annotator, str(output_dir))
             print(f"✅ QA 构造完成: train={len(split['train'])}, val={len(split['val'])}, test={len(split['test'])}")
