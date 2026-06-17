@@ -168,32 +168,35 @@ class Backbone:
     def _api_generate(
         self, prompt: str, temperature: float, max_new_tokens: int, top_p: float
     ) -> str:
-        """OpenAI 兼容 API 调用（远程 vLLM / llama.cpp server）。"""
+        """OpenAI 兼容 API 调用。百炼优先用 chat 端点。"""
         try:
             from openai import OpenAI
         except ImportError:
             raise ImportError("请安装 openai: pip install openai")
 
         client = OpenAI(base_url=self._api_base, api_key=self._api_key)
+        model = self.model_path if "/" in str(self.model_path) else "default"
+
+        # 百炼/DashScope 优先用 chat 端点（qwen 是 chat 模型）
         try:
-            resp = client.completions.create(
-                model=self.model_path if "/" in str(self.model_path) else "default",
-                prompt=prompt,
-                max_tokens=max_new_tokens,
-                temperature=temperature,
-                top_p=top_p,
-            )
-            return resp.choices[0].text if resp.choices else ""
-        except Exception:
-            # Fallback: try chat completions endpoint
             resp = client.chat.completions.create(
-                model=self.model_path if "/" in str(self.model_path) else "default",
+                model=model,
                 messages=[{"role": "user", "content": prompt}],
                 max_tokens=max_new_tokens,
                 temperature=temperature,
                 top_p=top_p,
             )
             return resp.choices[0].message.content if resp.choices else ""
+        except Exception:
+            # 回退 completions 端点（vLLM 等自部署场景）
+            resp = client.completions.create(
+                model=model,
+                prompt=prompt,
+                max_tokens=max_new_tokens,
+                temperature=temperature,
+                top_p=top_p,
+            )
+            return resp.choices[0].text if resp.choices else ""
 
     def stream_with_signals(
         self,

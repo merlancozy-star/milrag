@@ -79,8 +79,16 @@ def generate_candidates(
     sel_chunks = rng.sample(chunks, min(samples_per_type, len(chunks)))
     print(f"  [{sample_type}] 采样 {len(sel_chunks)} chunks, 开始生成...")
 
+    try:
+        from tqdm import tqdm
+        iterator = tqdm(enumerate(sel_chunks), total=len(sel_chunks), desc=f"  [{sample_type}]", unit="qa")
+    except ImportError:
+        iterator = enumerate(sel_chunks)
+        if len(sel_chunks) > 0:
+            print(f"  [{sample_type}] 生成 {len(sel_chunks)} 条...")
+
     candidates = []
-    for i, c in enumerate(sel_chunks):
+    for i, c in iterator:
         context = c["text"][:2048]  # 截断防超上下文
         prompt = prompt_template.format(context=context)
         try:
@@ -124,8 +132,6 @@ def generate_candidates(
                 candidates.append(qa)
         except Exception:
             continue
-        if (i + 1) % 50 == 0:
-            print(f"    [{sample_type}] {i+1}/{len(sel_chunks)}, 已产出 {len(candidates)} 条")
 
     return candidates
 
