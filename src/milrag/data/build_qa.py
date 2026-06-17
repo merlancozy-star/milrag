@@ -77,15 +77,15 @@ def generate_candidates(
     # 随机采样分块（不加回）
     rng = random.Random(_DATA_SEED)
     sel_chunks = rng.sample(chunks, min(samples_per_type, len(chunks)))
+    print(f"  [{sample_type}] 采样 {len(sel_chunks)} chunks, 开始生成...")
 
     candidates = []
-    for c in sel_chunks:
+    for i, c in enumerate(sel_chunks):
         context = c["text"][:2048]  # 截断防超上下文
         prompt = prompt_template.format(context=context)
         try:
             raw = annotator.generate(prompt, max_new_tokens=512)
             # 提取 JSON
-            # 查找 JSON 块
             import re
             json_match = re.search(r"\{[^{}]*\}", raw, re.DOTALL)
             if json_match:
@@ -96,6 +96,8 @@ def generate_candidates(
                 candidates.append(qa)
         except Exception:
             continue
+        if (i + 1) % 50 == 0:
+            print(f"    [{sample_type}] {i+1}/{len(sel_chunks)}, 已产出 {len(candidates)} 条")
 
     return candidates
 
